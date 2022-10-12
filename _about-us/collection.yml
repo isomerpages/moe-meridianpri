@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - School Information.md
       - Principal's Message.md
