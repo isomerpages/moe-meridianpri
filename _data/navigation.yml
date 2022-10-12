@@ -4,7 +4,7 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
   - title: Test
     url: /permalink
