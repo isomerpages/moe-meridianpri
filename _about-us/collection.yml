@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Welcome.md
       - Principal's Message.md
       - MPS Virtual Tour.md
       - Meridian In the News.md
