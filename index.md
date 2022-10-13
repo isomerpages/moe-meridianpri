@@ -19,4 +19,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+        - title: Page B
+          description: Page B
+          url: ""
 ---
