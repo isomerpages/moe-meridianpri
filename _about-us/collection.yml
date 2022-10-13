@@ -2,9 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - MPS Virtual Tour/.keep
-      - MPS Virtual Tour/MPS Video.md
-      - MPS Virtual Tour/Our Facilities.md
       - Principal's Message.md
       - School Information/.keep
       - School Information/Welcome.md
@@ -14,4 +11,7 @@ collections:
       - School Information/School History.md
       - School Information/School Song.md
       - School Information/Frequently Asked Questions.md
+      - MPS Virtual Tour/.keep
+      - MPS Virtual Tour/MPS Video.md
+      - MPS Virtual Tour/Our Facilities.md
       - Meridian In the News.md
