@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - MPS Virtual Tour/MPS Video.md
       - MPS Virtual Tour/.keep
       - Principal's Message.md
       - School Information/.keep
