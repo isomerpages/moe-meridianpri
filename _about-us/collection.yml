@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Information/.keep
-      - Welcome.md
       - Principal's Message.md
       - MPS Virtual Tour.md
       - Meridian In the News.md
