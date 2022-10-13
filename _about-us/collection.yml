@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - School Information/School Vision & Mission.md
-      - School Information/Welcome.md
       - School Information/.keep
+      - School Information/Welcome.md
+      - School Information/School Vision & Mission.md
       - Principal's Message.md
       - MPS Virtual Tour.md
       - Meridian In the News.md
