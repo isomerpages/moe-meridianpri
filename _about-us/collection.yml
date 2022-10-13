@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Information/School Vision & Mission.md
       - School Information/Welcome.md
       - School Information/.keep
       - Principal's Message.md
