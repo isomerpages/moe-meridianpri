@@ -23,4 +23,9 @@ sections:
       title: test1
       subtitle: Test
       button: click
+  - infobar:
+      title: Infobar Title
+      subtitle: test2
+      description: Infobar description
+      button: Button Text
 ---
