@@ -19,14 +19,4 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - resources:
-      title: test1
-      subtitle: Test
-      button: click
-  - infobar:
-      title: Infobar Title
-      subtitle: test2
-      description: Infobar description
-      button: Button Text
 ---
-
