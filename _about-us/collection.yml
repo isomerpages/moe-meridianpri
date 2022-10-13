@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Test/School Information.md
-      - Test/.keep
       - Principal's Message.md
       - MPS Virtual Tour.md
       - Meridian In the News.md
