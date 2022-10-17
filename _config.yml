@@ -1,8 +1,8 @@
 title: Meridian Primary School
 url: https://www.meridianpri.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/Meridian logo_2.png
 colors:
-  primary-color: "#4a90e2"
+  primary-color: "#4497f8"
   secondary-color: "#96beed"
   media-colors:
     - title: media-color-one
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dwna1etcg5x8g.amplifyapp.com
 prod: https://master.dwna1etcg5x8g.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Meridian logo_2.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
