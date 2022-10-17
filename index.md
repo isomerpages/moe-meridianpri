@@ -2,7 +2,7 @@
 layout: homepage
 title: Meridian Primary School
 description: An Isomer site of the Singapore Government
-image: /images/Meridian-logo_2.ico
+image: /images/Meridian-logo_2.svg
 permalink: /
 notification: ""
 sections:
@@ -23,6 +23,7 @@ sections:
           description: Page B
           url: ""
 ---
+
 
 
 
