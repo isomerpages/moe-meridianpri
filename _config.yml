@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dwna1etcg5x8g.amplifyapp.com
 prod: https://master.dwna1etcg5x8g.amplifyapp.com
-shareicon: /images/Meridian logo_2.png
+shareicon: /images/Meridian-logo_2.ico
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
