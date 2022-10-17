@@ -11,16 +11,16 @@ sections:
       background: /images/hero-banner.png
       key_highlights:
         - title: Announcement
-          description: Important highlight A is important
+          description: ""
           url: https://google.com
         - title: Resources for Parents and Guardians
-          description: Important highlight B is equally important
+          description: ""
           url: https://gmail.com
         - title: Recent Letters to Parents & Guardians
-          description: Page A is important too
+          description: ""
           url: /privacy/
         - title: Sexuality Education in School
-          description: Page B
+          description: ""
           url: ""
   - infopic:
       title: Infopic Title
