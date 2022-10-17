@@ -6,9 +6,7 @@ third_nav_title: School Information
 ---
 School Vision & Mission
 =======================
-
-Our Vision
-----------
+###  Our Vision
 Future Learners, Future Citizens, Future Leaders  
 
 Meridian Primary is committed to providing a quality education that is well poised beyond the six years of primary education for the future of our students. Our school’s vision ‘Future Learners, Future Citizens, Future Leaders’ reflects the evolving educational landscape vis-à-vis a fast-changing VUCA world towards the 21st century.
