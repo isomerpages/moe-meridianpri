@@ -14,19 +14,13 @@ description: ""
   <tr>
   </tr>
   <tr>
-    <td>Ms Liza</td>
-    <td>Tobias</td>
+    <td><a href="mailto:liza_rahmat@moe.edu.sg">Ms Liza Rahmat</a></td>
+    <td>Principal</td>
     
   </tr>
   <tr>
-    <td>16</td>
-    <td>14</td>
+    <td><a href="mailto:LIM_Kim_Min@schools.gov.sg">Mr Lim Kim Min</a></td>
+    <td>Vice Principal</td>
     
   </tr>
 </table>
-
-
-
-
-
-
