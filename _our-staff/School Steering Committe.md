@@ -38,11 +38,26 @@ description: ""
   <tr>
     <td><a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a></td>
     <td>Year Head P1 and P4</td>
-    
+   
+  </tr>
+  <tr>
+    <td>
+			<a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg">Mdm Tan Hugue Hwan Stefane</a></td>
+    <td>Year Head P2 and P5</td>
   </tr>
 	<tr>
-    <td><a href="mailto:chou_shin_chieh@moe.edu.sg"></a>Mdm Chou Shin Chieh</td>
+    <td><a href="mailto:chou_shin_chieh@moe.edu.sg">Mdm Chou Shin Chieh</a></td>
     <td>Year Head P3 and P6</td>
+		
+  </tr>
+	<tr>
+    <td><a href="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg">Miss Kirenjit Kaur</a></td>
+    <td>Assistant Year Head P5</td>
+		
+  </tr>
+	<tr>
+    <td><a href="mailto:david_wang@moe.edu.sg">Mdm Tang Tsin Ray</a></td>
+    <td>Assistant Year Head P6</td>
 		
   </tr>
 	
