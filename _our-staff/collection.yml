@@ -2,6 +2,6 @@ collections:
   our-staff:
     output: true
     order:
-      - Non Teaching Staff.md
-      - Teaching Staff.md
       - School Steering Committe.md
+      - Teaching Staff.md
+      - Non Teaching Staff.md
