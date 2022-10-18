@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Wonders Work of Team Meridian/.keep
       - School Steering Committe.md
       - Teaching Staff.md
       - Non Teaching Staff.md
