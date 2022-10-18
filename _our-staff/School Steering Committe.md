@@ -56,7 +56,7 @@ description: ""
 		
   </tr>
 	<tr>
-    <td><a href="mailto:david_wang@moe.edu.sg">Mdm Tang Tsin Ray</a></td>
+    <td><a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Tang Tsin Ray</a></td>
     <td>Assistant Year Head P6</td>
 		
   </tr>
