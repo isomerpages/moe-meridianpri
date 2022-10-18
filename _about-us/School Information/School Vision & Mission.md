@@ -19,7 +19,7 @@ Our vision is future-oriented and it underpins the holistic education that the s
 
 Our Mission
 -----------
-<p>To provide a quality educational experience that maximises the potential of all pupils<br>
+<p style = "text-align:center;">To provide a quality educational experience that maximises the potential of all pupils<br>
 through the delivery of a holistic student-centric curriculum<br>
 anchored in values, safety, health, continuous improvement<br>
 and collaborative partnership with all stakeholders.</p>
