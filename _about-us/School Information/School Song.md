@@ -33,8 +33,3 @@ Mrs Carmee Lim (Former Principal of Raffles Girls’ School)
 
 Lyricists:
 Mrs Carmee Lim & Mr Eric Lim (Former Principal of Meridian Primary School)
-
-```
-```
-undefined
-
