@@ -19,8 +19,13 @@ description: ""
     
   </tr>
   <tr>
-    <td><a href="mailto:LIM_Kim_Min@schools.gov.sg">Mr Lim Kim Min</a></td>
+    <td><a href="mailto:LIM_Kim_Min@moe.edu.sg">Mr Lim Kim Min</a></td>
     <td>Vice Principal</td>
-    
   </tr>
+	<tr>
+    <td><a href="mailto:david_wang@moe.edu.sg">Mr David Wang</a></td>
+    <td>Vice Principal (Admin)</td>
+		
+  </tr>
+	
 </table>
