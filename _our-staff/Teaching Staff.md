@@ -78,7 +78,6 @@ description: ""
     <td>Mdm Salina Bte Mohd Hassan<br>
 		Mdm Lim Seow Wei
   </tr>
-	
 </table>
 
 ####  Primary 3
