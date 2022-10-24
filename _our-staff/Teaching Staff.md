@@ -180,3 +180,38 @@ description: ""
 		Mdm Low Hwee Miang</td>
   </tr>
 </table>
+
+####  Primary 6
+<table style="width:100%">
+  <tr>
+    <th>Class</th>
+    <th></th>
+    <th>Staff</th>
+  </tr>
+  <tr>
+    <td>6 Responsiblility</td>
+    <td>Form Teacher</td>
+    <td>Miss Juliana Bte Jalil <br>
+		Mr Jeyamohan Ramsami</td>
+  </tr>
+  <tr>
+    <td>6 Resilience</td>
+    <td>Form Teacher</td>
+    <td>Mdm Mastura Bte Yaacob <br>
+		Mdm Noorhafidzah Bte Shaffi <br>
+		Mdm Tang Tsin Ray</td>
+  </tr>
+	<tr>
+    <td>6 Respect</td>
+    <td>Form Teacher</td>
+    <td>Mdm Jane Chen Chai Ying<br>
+		Mr Muhammad Raziz Bin Abdul Razak <br>
+  </tr>
+	<tr>
+    <td>6 Teamwork</td>
+    <td>Form Teacher</td>
+    <td>Mdm Nurizan Binte Abd Wahab <br>
+		Mdm Tang Li Hwa <br>
+		Mr Zulkarnai Bin Zulkifi</td>
+  </tr>
+</table>
