@@ -147,3 +147,36 @@ description: ""
   </tr>
 	
 </table>
+
+####  Primary 5
+<table style="width:100%">
+  <tr>
+    <th>Class</th>
+    <th></th>
+    <th>Staff</th>
+  </tr>
+  <tr>
+    <td>5 Care</td>
+    <td>Form Teacher</td>
+    <td>Miss Kirenjit Kaur <br>
+		Mdm Nor Fardilah Bte Md Nasir</td>
+  </tr>
+  <tr>
+    <td>5 Responsibility</td>
+    <td>Form Teacher</td>
+    <td>Mdm Noor Heryanti Bte Abdul Karim <br>
+		Mr Ng Yin Hung</td>
+  </tr>
+	<tr>
+    <td>5 Resilience</td>
+    <td>Form Teacher</td>
+    <td>Mdm Tay Wan Boon Stephanie<br>
+		Miss Norhaida Bte Kamaludin <br>
+  </tr>
+	<tr>
+    <td>5 Respect</td>
+    <td>Form Teacher</td>
+    <td>Mr Nur Shahid Bin Ahmad <br>
+		Mdm Low Hwee Miang</td>
+  </tr>
+</table>
