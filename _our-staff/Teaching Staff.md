@@ -91,21 +91,20 @@ description: ""
   <tr>
     <td>3 Care </td>
     <td>Form Teacher</td>
-    <td>Mdm Norsheleen Binte Mohd Atan <br>
-		Mdm Angel Huang Meiyun</td>
+    <td>Miss Debbie Lim Yong <br>
+		Mdm Roslinah Bte Jem</td>
   </tr>
   <tr>
     <td>3 Responsibility</td>
     <td>Form Teacher</td>
-    <td>Mdm Vasanhti d/o Mahalinggam <br>
-		Mdm Lim Chia Chia</td>
+    <td>Mdm Jaime Hoi Hui Yee <br>
+		Mdm Syedama d/o Syeed Ibrahim</td>
   </tr>
 	<tr>
     <td>3 Resilience</td>
     <td>Form Teacher</td>
-    <td>Mr David Yeo Han Leng <br>
-		Miss Tracy Foo Si Min <br>
-		Mdm Yamuna d/o Jathananthan</td>
+    <td>Mdm Sharifah Lubna <br>
+		Mr Chen Chuangan Mark <br>
   </tr>
 	
 
