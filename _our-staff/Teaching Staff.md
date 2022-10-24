@@ -79,29 +79,3 @@ description: ""
   </tr>
 </table>
 
-####  Primary 3
-<table style="width:100%">
-  <tr>
-    <th>Class</th>
-    <th></th>
-    <th>Staff</th>
-  </tr>
-  <tr>
-    <td>3 Care </td>
-    <td>Form Teacher</td>
-    <td>Miss Debbie Lim Yong <br>
-		Mdm Roslinah Bte Jem</td>
-  </tr>
-  <tr>
-    <td>3 Responsibility</td>
-    <td>Form Teacher</td>
-    <td>Mdm Jaime Hoi Hui Yee <br>
-		Mdm Syedama d/o Syeed Ibrahim</td>
-  </tr>
-	<tr>
-    <td>3 Resilience</td>
-    <td>Form Teacher</td>
-    <td>Mdm Sharifah Lubna <br>
-		Mr Chen Chuangan Mark <br>
-  </tr>
-</table>
