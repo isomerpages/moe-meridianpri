@@ -79,3 +79,42 @@ description: ""
   </tr>
 </table>
 
+####  Primary 3
+<table style="width:100%">
+  <tr>
+    <th>Class</th>
+    <th></th>
+    <th>Staff</th>
+  </tr>
+  <tr>
+    <td>2 Care</td>
+    <td>Form Teacher</td>
+    <td>Mdm Norsheleen Binte Mohd Atan <br>
+		Mdm Angel Huang Meiyun</td>
+  </tr>
+  <tr>
+    <td>2 Integrity</td>
+    <td>Form Teacher</td>
+    <td>Mdm Vasanhti d/o Mahalinggam <br>
+		Mdm Lim Chia Chia</td>
+  </tr>
+	<tr>
+    <td>2 Resilience</td>
+    <td>Form Teacher</td>
+    <td>Mr David Yeo Han Leng <br>
+		Miss Tracy Foo Si Min <br>
+		Mdm Yamuna d/o Jathananthan</td>
+  </tr>
+	<tr>
+    <td>2 Respect</td>
+    <td>Form Teacher</td>
+    <td>Mdm Maslinda Bte Ahmad <br>
+		Mdm Lee Song Sang</td>
+  </tr>
+	<tr>
+    <td>2 Teamwork</td>
+    <td>Form Teacher</td>
+    <td>Mdm Salina Bte Mohd Hassan<br>
+		Mdm Lim Seow Wei
+  </tr>
+</table>
