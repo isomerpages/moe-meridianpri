@@ -23,12 +23,7 @@ With a collective experience of more than 35 years in their roles, our Allied Ed
 
 For these three ladies, work does not stop when the children graduate from Meridian Primary. They continue to support their transition into secondary schools with fellow AEDs there. We are proud of their dedication, heart work and the key role they play in Team Meridian. #MPSUnited
 
-  
-
 Note:  
-
 ‘Wonders Work with Team Meridian’ is a series of FB posts where we share the wonderful work and education philosophy of the different groups of people supporting to raise the children.  
-
-  
 
 Facebook Link:[](https://www.facebook.com/meridianpri/posts/171132324421380) [The Guidance Angels](https://www.facebook.com/meridianpri/posts/171132324421380)</p>
