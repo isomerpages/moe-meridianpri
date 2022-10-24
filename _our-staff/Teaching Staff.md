@@ -37,7 +37,6 @@ description: ""
 		Mr Tee Shou Fei<br>
 		Mdm Siti Saleha Bte Salleh</td>
   </tr>
-	
 </table>
 
 ####  Primary 2
@@ -78,7 +77,6 @@ description: ""
     <td>Mdm Salina Bte Mohd Hassan<br>
 		Mdm Lim Seow Wei
   </tr>
-	
 </table>
 
 ####  Primary 3
@@ -106,7 +104,4 @@ description: ""
     <td>Mdm Sharifah Lubna <br>
 		Mr Chen Chuangan Mark <br>
   </tr>
-	
-
-	
 </table>
