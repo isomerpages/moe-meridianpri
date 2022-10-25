@@ -2,13 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - NASCANS Student Care Centre.md
-      - School Dental Clinic.md
-      - Vendors/.keep
-      - Vendors/Bookshop.md
-      - Vendors/Book List.md
-      - Vendors/Uniform.md
-      - Vendors/School Bus.md
       - Learning Portals/.keep
       - Learning Portals/Singapore Student Learning Space.md
       - Parents Gateway (PG)/.keep
@@ -18,3 +11,10 @@ collections:
       - Websites/.keep
       - Websites/Singapore Examinations & Assessment Board.md
       - Websites/Group Personal Accident Insurance for Student.md
+      - Vendors/.keep
+      - Vendors/Bookshop.md
+      - Vendors/Book List.md
+      - Vendors/Uniform.md
+      - Vendors/School Bus.md
+      - School Dental Clinic.md
+      - NASCANS Student Care Centre.md
