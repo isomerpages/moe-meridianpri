@@ -2,6 +2,7 @@ collections:
   mk-at-meridian:
     output: true
     order:
+      - 2022 Calendar of Events.md
       - Forms.md
       - MK Uniform Information.md
       - Announcements.md
