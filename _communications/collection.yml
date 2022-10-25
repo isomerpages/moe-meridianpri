@@ -2,6 +2,7 @@ collections:
   communications:
     output: true
     order:
+      - Assessment Matters/School Policy & Practice On Assessment Matters.md
       - Assessment Matters/.keep
       - Resources For Parents/.keep
       - Resources For Parents/Resources For Parents.md
