@@ -2,7 +2,6 @@ collections:
   the-meridian-experience:
     output: true
     order:
-      - Achievements.md
       - 20th Anniversary.md
       - Signature Programmes/.keep
       - Signature Programmes/Applied Learning Programme(ALP).md
@@ -33,3 +32,4 @@ collections:
       - Co Curricular Activities/Performing Arts.md
       - Co Curricular Activities/Clubs & Societies.md
       - Co Curricular Activities/Uniformed Group.md
+      - Achievements.md
