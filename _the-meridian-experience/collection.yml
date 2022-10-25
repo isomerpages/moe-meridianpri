@@ -2,13 +2,13 @@ collections:
   the-meridian-experience:
     output: true
     order:
-      - Co Curriculum/P4 Adventure Camp 2018.md
-      - Co Curriculum/P5 Overseas Immersion Programme.md
       - Co Curriculum/.keep
       - Co Curriculum/Physical Education.md
       - Co Curriculum/Aesthetics.md
       - Co Curriculum/Programme For Active Learning (PAL).md
       - Co Curriculum/Information & Communications Technology.md
+      - Co Curriculum/P5 Overseas Immersion Programme.md
+      - Co Curriculum/P4 Adventure Camp 2018.md
       - 20th Anniversary.md
       - Signature Programmes/.keep
       - Signature Programmes/Applied Learning Programme(ALP).md
