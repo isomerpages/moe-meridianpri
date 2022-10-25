@@ -2,9 +2,9 @@ collections:
   useful-links:
     output: true
     order:
-      - Websites/Group Personal Accident Insurance for Student.md
-      - Websites/Singapore Examinations & Assessment Board.md
       - Websites/.keep
+      - Websites/Singapore Examinations & Assessment Board.md
+      - Websites/Group Personal Accident Insurance for Student.md
       - Learning Portals/.keep
       - Learning Portals/Singapore Student Learning Space.md
       - Parents Gateway (PG)/.keep
