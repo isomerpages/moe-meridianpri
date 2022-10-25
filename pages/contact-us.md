@@ -21,10 +21,7 @@ locations:
       - 109 North Bridge Road
       - Singapore 179097
       - ""
-    operating_hours:
-      - days: Monday - Friday
-        time: 7.00 a.m. to 5.00 p.m.
-        description: ""
+    operating_hours: []
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
     title: Branch Office
 contacts:
