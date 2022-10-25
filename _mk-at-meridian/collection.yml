@@ -2,9 +2,9 @@ collections:
   mk-at-meridian:
     output: true
     order:
-      - 2022 Calendar of Events.md
-      - Forms.md
-      - MK Uniform Information.md
-      - Announcements.md
-      - MK@Meridian Staff.md
       - About Us.md
+      - MK@Meridian Staff.md
+      - Announcements.md
+      - MK Uniform Information.md
+      - Forms.md
+      - 2022 Calendar of Events.md
