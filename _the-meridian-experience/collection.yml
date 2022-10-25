@@ -2,6 +2,7 @@ collections:
   the-meridian-experience:
     output: true
     order:
+      - Co Curriculum/Information & Communications Technology.md
       - Co Curriculum/Programme For Active Learning (PAL).md
       - Co Curriculum/.keep
       - Co Curriculum/Physical Education.md
