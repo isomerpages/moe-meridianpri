@@ -2,6 +2,8 @@ collections:
   communications:
     output: true
     order:
+      - Resources For Parents/Building Resilience In Children And Support Them
+        Through Transistions.md
       - Resources For Parents/Resources For Parents.md
       - Resources For Parents/.keep
       - Letter to All Parents 2022/.keep
