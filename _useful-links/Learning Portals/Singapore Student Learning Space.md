@@ -4,12 +4,12 @@ permalink: /useful-links/learning-portals/singapore-student-learning-space/
 description: ""
 third_nav_title: Learning Portals
 ---
-Singapore Student Learning Space 
-=================================
+## Singapore Student Learning Space
 
-#### SLS Website: [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)
 
-#### **What is Singapore Learning Space**
+SLS Website: [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)
+
+##### What is Singapore Learning Space
 
 As part of its commitment to nurturing future-ready learners, the Ministry of Education had announced that all students in Singapore schools will be supported in their learning by the Singapore Student Learning Space (SLS), an online learning platform that contains curriculum-aligned resources and learning tools.
 
