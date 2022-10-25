@@ -2,8 +2,6 @@ collections:
   the-meridian-experience:
     output: true
     order:
-      - Academic/English Department.md
-      - Academic/.keep
       - 20th Anniversary.md
       - Signature Programmes/.keep
       - Signature Programmes/Applied Learning Programme(ALP).md
@@ -15,3 +13,5 @@ collections:
       - Student Development/Student Leadership.md
       - Student Development/Discipline in Meridian.md
       - Student Development/Student Well Being.md
+      - Academic/.keep
+      - Academic/English Department.md
