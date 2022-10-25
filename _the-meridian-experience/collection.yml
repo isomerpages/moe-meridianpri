@@ -2,7 +2,6 @@ collections:
   the-meridian-experience:
     output: true
     order:
-      - Meridian Primary Gratitude Wall.md
       - 20th Anniversary.md
       - Signature Programmes/.keep
       - Signature Programmes/Applied Learning Programme(ALP).md
@@ -46,3 +45,4 @@ collections:
       - Home Based Learning/HBL Technical Support.md
       - Home Based Learning/HBL Daily Learning Plans.md
       - Home Based Learning/Home Based Learning.md
+      - Meridian Primary Gratitude Wall.md
