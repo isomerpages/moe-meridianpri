@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Parents Gateway (PG)/.keep
-      - Parents Gateway(PG).md
       - Learning Portals/Singapore Student Learning Space.md
       - Learning Portals/.keep
