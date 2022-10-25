@@ -2,9 +2,9 @@ collections:
   useful-links:
     output: true
     order:
+      - Learning Portals/.keep
+      - Learning Portals/Singapore Student Learning Space.md
+      - Parents Gateway (PG)/.keep
       - Parents Gateway (PG)/Guide on Travel Declaration Using PG.md
       - Parents Gateway (PG)/PG Meeting Feature User Guide For Parents.md
       - Parents Gateway (PG)/Parents Gateway(PG).md
-      - Parents Gateway (PG)/.keep
-      - Learning Portals/Singapore Student Learning Space.md
-      - Learning Portals/.keep
