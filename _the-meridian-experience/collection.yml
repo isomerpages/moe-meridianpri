@@ -2,6 +2,7 @@ collections:
   the-meridian-experience:
     output: true
     order:
+      - Prize Giving Day 2021/.keep
       - 20th Anniversary.md
       - Signature Programmes/.keep
       - Signature Programmes/Applied Learning Programme(ALP).md
