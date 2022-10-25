@@ -2,6 +2,7 @@ collections:
   communications:
     output: true
     order:
+      - Newsletters   Meridian Times/2017 Semester 2.md
       - Newsletters   Meridian Times/2017 Semester 1.md
       - Newsletters   Meridian Times/.keep
       - Letter to All Parents 2022/.keep
