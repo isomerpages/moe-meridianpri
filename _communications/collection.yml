@@ -2,7 +2,6 @@ collections:
   communications:
     output: true
     order:
-      - School Calendar.md
       - Letter to All Parents 2022/.keep
       - Letter to All Parents 2022/All Level.md
       - Letter to All Parents 2022/Primary 1.md
@@ -32,3 +31,4 @@ collections:
       - Assessment Matters/School Policy & Practice On Assessment Matters.md
       - Assessment Matters/Assessment Plan 2022.md
       - Curriculum Forum Day 2022.md
+      - School Calendar.md
