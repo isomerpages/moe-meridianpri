@@ -2,6 +2,7 @@ collections:
   communications:
     output: true
     order:
+      - Resources For Parents/User Guide for STEPS.md
       - Resources For Parents/SchoolBag.md
       - Resources For Parents/P5 Subject Based Banding Briefing.md
       - Resources For Parents/P4 Subject Based Banding Briefing.md
