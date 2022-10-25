@@ -5,11 +5,11 @@ description: ""
 ---
 # Principal's Message
 
-2020 is a special year for us at Meridian Primary. Twenty years ago, we started as a school with humble beginnings at the former Coral Primary under the leadership of the first Principal, Mr Eric Lim. On 4 December 2000, the school moved to our present location and since, have grown from strength to strength to where we are today. 
+2020 is a special year for us at Meridian Primary. Twenty years ago, we started as a school with humble beginnings at the former Coral Primary under the leadership of the first Principal, Mr Eric Lim.  On 4 December 2000, the school moved to our present location and since, have grown from strength to strength to where we are today. 
 
 Though the school been under the leadership of three other Principals, our core belief has not changed since we started. In Meridian Primary, we strive to provide a holistic all-rounded development of character, body and mind for every Meridian and we are guided by our school motto ‘To Learn, To Love and To Lead’.
 
-| To commemorate this special year, our HOD Student Management, Ms Han Zi Rui, designed a 20th Anniversary logo that adapts the iconic globe from the school crest into a tree to mark the school’s steady growth over the past two decades. We celebrate the many children that have passed through our hands and this year, we hope to capture their unique Meridian Stories that encapsulate their experiences, memories and friendship through the years.
+To commemorate this special year, our HOD Student Management, Ms Han Zi Rui, designed a 20th Anniversary logo that adapts the iconic globe from the school crest into a tree to mark the school’s steady growth over the past two decades. We celebrate the many children that have passed through our hands and this year, we hope to capture their unique Meridian Stories that encapsulate their experiences, memories and friendship through the years.
 
 We have planned a variety of exciting activities which include our very own in-house musical and a sports carnival for Meridian Games Day. The school is also setting up its Heritage Gallery with the intent to capture our past history and achievement for the future generation of Meridians.
 
@@ -19,7 +19,6 @@ As a school, we will continue to provide a safe and conducive environment where 
 
 Let’s look forward to an exciting 2020 as we continue to nurture Future Learners, Future Citizens and Future Leaders in Meridian Primary!
 
-  
 
 Ms Liza Rahmat
 Principal
