@@ -2,18 +2,18 @@ collections:
   communications:
     output: true
     order:
-      - Resources For Parents/User Guide for STEPS.md
-      - Resources For Parents/SchoolBag.md
-      - Resources For Parents/P5 Subject Based Banding Briefing.md
-      - Resources For Parents/P4 Subject Based Banding Briefing.md
-      - Resources For Parents/2021 P1 Orientation Booklet.md
-      - Resources For Parents/2021 P1 eOrientation Briefing.md
-      - Resources For Parents/Cyber Wellness.md
-      - Resources For Parents/A Collection of Tips and Resources.md
+      - Resources For Parents/.keep
+      - Resources For Parents/Resources For Parents.md
       - Resources For Parents/Building Resilience In Children And Support Them
         Through Transistions.md
-      - Resources For Parents/Resources For Parents.md
-      - Resources For Parents/.keep
+      - Resources For Parents/A Collection of Tips and Resources.md
+      - Resources For Parents/Cyber Wellness.md
+      - Resources For Parents/2021 P1 eOrientation Briefing.md
+      - Resources For Parents/2021 P1 Orientation Booklet.md
+      - Resources For Parents/P4 Subject Based Banding Briefing.md
+      - Resources For Parents/P5 Subject Based Banding Briefing.md
+      - Resources For Parents/SchoolBag.md
+      - Resources For Parents/User Guide for STEPS.md
       - Letter to All Parents 2022/.keep
       - Letter to All Parents 2022/All Level.md
       - Letter to All Parents 2022/Primary 1.md
