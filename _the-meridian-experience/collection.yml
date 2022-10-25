@@ -2,5 +2,6 @@ collections:
   the-meridian-experience:
     output: true
     order:
+      - Signature Programmes/Applied Learning Programme(ALP).md
       - Signature Programmes/.keep
       - 20th Anniversary.md
