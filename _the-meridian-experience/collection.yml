@@ -2,12 +2,12 @@ collections:
   the-meridian-experience:
     output: true
     order:
-      - Co Curricular Activities/Uniformed Group.md
-      - Co Curricular Activities/Clubs & Societies.md
-      - Co Curricular Activities/Performing Arts.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/General Information.md
       - Co Curricular Activities/Sports & Games.md
+      - Co Curricular Activities/Performing Arts.md
+      - Co Curricular Activities/Clubs & Societies.md
+      - Co Curricular Activities/Uniformed Group.md
       - Co Curriculum/.keep
       - Co Curriculum/Physical Education.md
       - Co Curriculum/Aesthetics.md
