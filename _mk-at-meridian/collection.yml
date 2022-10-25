@@ -2,4 +2,5 @@ collections:
   mk-at-meridian:
     output: true
     order:
+      - MK@Meridian Staff.md
       - About Us.md
