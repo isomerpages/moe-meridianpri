@@ -2,5 +2,4 @@ collections:
   the-meridian-experience:
     output: true
     order:
-      - Signature Programmes.md
       - 20th Anniversary.md
