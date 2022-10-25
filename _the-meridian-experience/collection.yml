@@ -2,13 +2,13 @@ collections:
   the-meridian-experience:
     output: true
     order:
-      - Student Development/Student Well Being.md
-      - Student Development/Discipline in Meridian.md
-      - Student Development/Student Leadership.md
-      - Student Development/Sexuality Education.md
-      - Student Development/National Education.md
-      - Student Development/Character & Citizenship Education.md
       - Student Development/.keep
+      - Student Development/Character & Citizenship Education.md
+      - Student Development/National Education.md
+      - Student Development/Sexuality Education.md
+      - Student Development/Student Leadership.md
+      - Student Development/Discipline in Meridian.md
+      - Student Development/Student Well Being.md
       - 20th Anniversary.md
       - Signature Programmes/.keep
       - Signature Programmes/Applied Learning Programme(ALP).md
