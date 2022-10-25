@@ -2,6 +2,7 @@ collections:
   communications:
     output: true
     order:
+      - Resources For Parents/Resources For Parents.md
       - Resources For Parents/.keep
       - Letter to All Parents 2022/.keep
       - Letter to All Parents 2022/All Level.md
