@@ -2,11 +2,11 @@ collections:
   useful-links:
     output: true
     order:
-      - Vendors/School Bus.md
-      - Vendors/Uniform.md
-      - Vendors/Book List.md
-      - Vendors/Bookshop.md
       - Vendors/.keep
+      - Vendors/Bookshop.md
+      - Vendors/Book List.md
+      - Vendors/Uniform.md
+      - Vendors/School Bus.md
       - Learning Portals/.keep
       - Learning Portals/Singapore Student Learning Space.md
       - Parents Gateway (PG)/.keep
