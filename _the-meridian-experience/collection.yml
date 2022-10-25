@@ -2,9 +2,9 @@ collections:
   the-meridian-experience:
     output: true
     order:
-      - Prize Giving Day 2020/P3 to P6 Prize Giving Day 2020.md
-      - Prize Giving Day 2020/P1 & P2 Prize Giving Day 2020.md
       - Prize Giving Day 2020/.keep
+      - Prize Giving Day 2020/P1 & P2 Prize Giving Day 2020.md
+      - Prize Giving Day 2020/P3 to P6 Prize Giving Day 2020.md
       - 20th Anniversary.md
       - Signature Programmes/.keep
       - Signature Programmes/Applied Learning Programme(ALP).md
