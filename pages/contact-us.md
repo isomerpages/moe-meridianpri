@@ -13,7 +13,7 @@ locations:
         time: 7.00 a.m. - 5.30 p.m.
         description: Closed on Public Holidays
     maps_link: ""
-    title: Main Office
+    title: Address
 contacts:
   - content:
       - phone: +65 6583 2125
