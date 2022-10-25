@@ -2,5 +2,6 @@ collections:
   mk-at-meridian:
     output: true
     order:
+      - Announcements.md
       - MK@Meridian Staff.md
       - About Us.md
