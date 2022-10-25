@@ -2,5 +2,6 @@ collections:
   communications:
     output: true
     order:
+      - Letter to All Parents 2022/Primary 1.md
       - Letter to All Parents 2022/All Level.md
       - Letter to All Parents 2022/.keep
