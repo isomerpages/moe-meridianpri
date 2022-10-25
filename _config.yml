@@ -3,7 +3,7 @@ url: https://www.meridianpri.moe.edu.sg
 favicon: /images/Meridian logo_2.png
 colors:
   primary-color: "#4497f8"
-  secondary-color: "#96beed"
+  secondary-color: "#000080"
   media-colors:
     - title: media-color-one
       color: "#49759a"
