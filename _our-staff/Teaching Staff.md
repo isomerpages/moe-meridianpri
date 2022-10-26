@@ -107,3 +107,44 @@ description: ""
 		</td>
   </tr>
 </table>
+
+####  Primary 4
+<table style="width:100%">
+  <tr>
+    <th>Class</th>
+    <th></th>
+    <th>Staff</th>
+  </tr>
+  <tr>
+    <td>4 Care</td>
+    <td>Form Teacher</td>
+    <td>Mr Clement Tham Jian Wen <br>
+		Mdm Jamaliah Bte Jamal</td>
+  </tr>
+  <tr>
+    <td>4 Integrity</td>
+    <td>Form Teacher</td>
+    <td>Mdm Wong Mau Tan Peony <br>
+		Mr Peh Kai Jay</td>
+  </tr>
+	<tr>
+    <td>4 Responsibility</td>
+    <td>Form Teacher</td>
+    <td>Mdm Nur Aisyah Binte Ali<br>
+		Mr Jeremy Ho Kwai Ming <br>
+  </tr>
+	<tr>
+    <td>4 Resilience</td>
+    <td>Form Teacher</td>
+    <td>Mr Zahrul Bin Zaiden <br>
+		Mdm LiLi</td>
+  </tr>
+	<tr>
+    <td>4 Respect </td>
+    <td>Form Teacher</td>
+    <td>Mdm Masayu Bte Mohamed<br>
+		Miss Chua Ee Lyn
+			</td>
+  </tr>
+	
+</table>
