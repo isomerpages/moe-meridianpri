@@ -4,7 +4,6 @@ permalink: /our-staff/wonders-work-of-team-meridian/the-guidance-angels/
 description: ""
 third_nav_title: Team Meridian's Wonder Works
 ---
-
 ![](/images/Wonder%20Work/The%20Guidance%20Angels/Guidance%20Angels%201.jpg)
 
 ![](/images/Wonder%20Work/The%20Guidance%20Angels/Guidance%20Angels%202.jpg)
@@ -27,4 +26,4 @@ For these three ladies, work does not stop when the children graduate from Merid
 Note:  
 ‘Wonders Work with Team Meridian’ is a series of FB posts where we share the wonderful work and education philosophy of the different groups of people supporting to raise the children.  
 
-Facebook Link:[](https://www.facebook.com/meridianpri/posts/171132324421380) [The Guidance Angels](https://www.facebook.com/meridianpri/posts/171132324421380)</p>
+<p>Facebook Links: <a href="https://www.facebook.com/meridianpri/posts/171132324421380">The Guidance Angels</a></p>
