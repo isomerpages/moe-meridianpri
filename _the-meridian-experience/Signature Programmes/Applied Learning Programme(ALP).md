@@ -87,7 +87,3 @@ third_nav_title: Signature Programmes
 
   <a href="mailto:tay_koon_guan@moe.edu.sg"><ul><li>Mr Tay Koon Guan (APL Advisor)</ul></li></a>
   <a href="mailto:Low_Boon_Khim@moe.edu.sg"><ul><li>Mr Clarence Low (Head of Department)</ul></li></a>
- 
-	
-
-
