@@ -132,6 +132,7 @@ description: ""
     <td>Form Teacher</td>
     <td>Mdm Nur Aisyah Binte Ali<br>
 		Mr Jeremy Ho Kwai Ming <br>
+			</td>
   </tr>
 	<tr>
     <td>4 Resilience</td>
@@ -171,7 +172,7 @@ description: ""
     <td>5 Resilience</td>
     <td>Form Teacher</td>
     <td>Mdm Tay Wan Boon Stephanie<br>
-		Miss Norhaida Bte Kamaludin <br>
+		Miss Norhaida Bte Kamaludin <br></td>
   </tr>
 	<tr>
     <td>5 Respect</td>
@@ -205,7 +206,7 @@ description: ""
     <td>6 Respect</td>
     <td>Form Teacher</td>
     <td>Mdm Jane Chen Chai Ying<br>
-		Mr Muhammad Raziz Bin Abdul Razak <br>
+		Mr Muhammad Raziz Bin Abdul Razak <br></td>
   </tr>
 	<tr>
     <td>6 Teamwork</td>
