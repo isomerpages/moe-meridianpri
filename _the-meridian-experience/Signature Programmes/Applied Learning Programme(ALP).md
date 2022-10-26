@@ -26,7 +26,15 @@ third_nav_title: Signature Programmes
   <li>To inculcate and reinforce the Meridian values through eco-environment efforts across the IP and Co-IP curriculum</li>
   <li>To instil in pupils an appreciation of the flora and fauna  </li>
   <li>To raise pupils’ awareness on physical environment and to groom them into eco-environment champions</li>
-</ul>  
+</ul>
 
+#### Overview
 
+![](/images/Signature%20Programme/APL/ALP-1.jpg)
 
+#### Highlights
+![](/images/Signature%20Programme/APL/ALP-2.jpg)
+<p>Our Hanging Bottled Garden Project featured in the <a href="http://www.tnp.sg/news/singapore/primary-schools-win-5000-gardening-project-prize">Media</a></p>
+
+![](/images/Signature%20Programme/APL/ALP-3.jpg)
+<p>Meridian Primary School Eco-Environment Education featured on <a href="https://www.youtube.com/watch?v=uxeYX9dAbUk">Mediacorp Channel 8</a></p>
