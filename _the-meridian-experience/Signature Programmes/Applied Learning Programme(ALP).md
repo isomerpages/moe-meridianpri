@@ -84,4 +84,3 @@ third_nav_title: Signature Programmes
 
 
 <p>For enquiries on the school’s Applied Learning Programme, please email:</p>
-<p>Mr Tay</p>
