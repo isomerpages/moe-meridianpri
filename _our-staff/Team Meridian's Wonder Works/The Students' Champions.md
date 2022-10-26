@@ -4,7 +4,6 @@ permalink: /our-staff/Wonders-Work-of-Team-Meridian/the-students-champions/
 description: ""
 third_nav_title: Team Meridian's Wonder Works
 ---
-
 ![](/images/Wonder%20Work/The%20Students'%20Champions/The%20Students'%20Champions%201.jpg)
 ![](/images/Wonder%20Work/The%20Students'%20Champions/The%20Students'%20Champions%202.jpg)
 
@@ -32,5 +31,7 @@ Over the years, this team of 6 from the Student Development Team stays steadfast
 Note:  
 ‘Wonders Work with Team Meridian’ is a series of FB posts where we share the wonderful work and education philosophy of the different groups of people supporting to raise the children.
 
-  
-Facebook Link: [](http://facebook.com/meridianpri/posts/178537727014173) [The Students' Champions](http://facebook.com/meridianpri/posts/178537727014173)</p>
+
+<p>Facebook Links: <a href="http://facebook.com/meridianpri/posts/178537727014173">The Students' Champions</a></p>	
+	
+	
