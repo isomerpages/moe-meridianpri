@@ -51,6 +51,9 @@ third_nav_title: Student Development
 <li>Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
 	
 <li>Parents who wish to opt their children out of the Sexuality Education lesson need to complete an opt-out form. This form will be distributed to parents at the start of the year and also downloadable <a href="https://form.gov.sg/61e91d296c89fd0012e045f0">here</a> or scan the QR Code to complete the opt-out form. The completed opt-out form is to be submitted by 07/02/2022</li>
+	
+<li>Parents can contact the school at Tel: 6583 2125 or email <a href = "mailto: tay_wan_boon@moe.edu.sg">Mdm Tay Wan Boon Stephanie</a> or <a href = "mailto: nor_fardilah_md_nasir@moe.edu.sg">Mdm Fardilah bte Mohd Nasir </a>for discussion or to seek clarification about the school’s sexuality education programme.</li>
 
+<li>Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</li>
 
 </ol>
