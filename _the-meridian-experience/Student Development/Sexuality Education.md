@@ -29,6 +29,10 @@ third_nav_title: Student Development
 <li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li>
 
 <li> The subjects that incorporate topics on sexuality include:</li>
+	<dd>1.  Science</dd>
+	<dd>2.  Form Teacher Guidance Period (FTGP)</dd>
+	<dd>3. Character and Citizenship Education (CCE)</dd>
 	
+<p><u><b>Sexuality Education:</b></u> “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package</p>
 
 </ol>
