@@ -20,4 +20,8 @@ third_nav_title: Student Development
 	<li>National Day</li>
 </ul>
 
+![](/images/CCE/NE/NE-1-720x481.jpg)
+<p align ="center">Celebrating NDP in Meridian</p>
 
+![](/images/CCE/NE/NE-2-720x476.jpg)
+<p align ="center">Taking the pledge on National Day</p>
