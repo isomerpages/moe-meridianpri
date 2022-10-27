@@ -34,4 +34,15 @@ Meridian Values Matrix self-reflection<br>
 Mystery Lesson<br>
 VIA partnership with CPAS and Pasir Ris West CC
 
+![](/images/CCE/CCE-1.jpg)
+<p align = "center">Going through the Meridian Values with students</p>
+
+![](/images/CCE/CCE-2.jpg)
+<p align = "center">Reflections are done creatively with pictures and colour</p>
+
+![](/images/CCE/CCE-3.jpg)
+<p align = "center">Students display their values through activities like the CNY food delivery</p>
+
+![](/images/CCE/CCE-4.jpg)
+<p align = "center">Learning to care for others</p>
 
