@@ -37,4 +37,10 @@ Festive Learning Journeys, where Student Leaders serve as guides for their fello
     
 *   Deepavali
 
+![](/images/CCE/NE/SL-1-720x540.jpg)
+<p align = "center">Student leaders guide their school mates in making traditional cakes during Hari Raya</p>
+
+![](/images/CCE/NE/SL-2-720x481.jpg)
+<p align = "center">Students leaders guide their schoolmates in how to brew tea during the CNY Learning Journey</p>
+
 
