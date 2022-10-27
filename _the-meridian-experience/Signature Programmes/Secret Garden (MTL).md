@@ -56,6 +56,6 @@ Our MTL teachers enjoyed activities like these as well.
 “We teachers find it satisfying when our children embrace the use of MTL,” shared Mdm Lim. “The Secret Garden is our promise to our children of the adventures and possibilities that learning of the languages can bring.”</p>
 
 
+![](/images/Our%20Staff/Mother%20Tongue%20Language%20Department.jpg)
 
-
-****Our dedicated and committed MTL teachers.****
+<p align = "center">Our dedicated and committed MTL teachers.</p>
