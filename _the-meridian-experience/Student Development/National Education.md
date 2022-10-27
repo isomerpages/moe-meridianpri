@@ -26,4 +26,5 @@ third_nav_title: Student Development
 ![](/images/CCE/NE/NE-2-720x476.jpg)
 <p align ="center">Taking the pledge on National Day</p>
 
-<p>For enquiries on the school’s Applied Learning Programme, please email:</p><a href="mailto:Wan_Boon_Tay@moe.edu.sg"><ul><li>Mrs Stephanie Lim (Subject Head)</ul></li></a>
+<p>For enquiries on the school’s Applied Learning Programme, please email:</p>
+<a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
