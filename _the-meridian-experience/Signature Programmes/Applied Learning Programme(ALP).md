@@ -84,6 +84,5 @@ third_nav_title: Signature Programmes
 
 
 <p>For enquiries on the school’s Applied Learning Programme, please email:</p>
-
-  <a href="mailto:tay_koon_guan@moe.edu.sg"><ul><li>Mr Tay Koon Guan (APL Advisor)</ul></li></a>
-  <a href="mailto:Low_Boon_Khim@moe.edu.sg"><ul><li>Mr Clarence Low (Head of Department)</ul></li></a>
+<a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
+<a href="mailto:Low_Boon_Khim@moe.edu.sg">Mr Clarence Low (Head of Department)</a>
