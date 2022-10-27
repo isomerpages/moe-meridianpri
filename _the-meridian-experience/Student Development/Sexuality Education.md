@@ -34,5 +34,13 @@ third_nav_title: Student Development
 	<dd>3. Character and Citizenship Education (CCE)</dd>
 	
 <p><u><b>Sexuality Education:</b></u> “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package</p>
+	
+<li> The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.</li>
+	
+<li>The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.</li>
+
+**At Meridian, the following lessons from the Growing Years Programme will be taught in <u>2022</u>:**
+	
+	
 
 </ol>
