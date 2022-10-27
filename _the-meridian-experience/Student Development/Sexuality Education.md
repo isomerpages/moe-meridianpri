@@ -41,6 +41,16 @@ third_nav_title: Student Development
 
 **At Meridian, the following lessons from the Growing Years Programme will be taught in <u>2022</u>:**
 	
+![](/images/CCE/Sexuality%20Education/Sexuality%20Education%201.png)
+![](/images/CCE/Sexuality%20Education/Sexuality%20Education%202.png)
+![](/images/CCE/Sexuality%20Education/Sexuality%20Education%203.png)
+![](/images/CCE/Sexuality%20Education/Sexuality%20Education%204.png)
 	
+#### Important Information for Parents
+	
+<li>Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
+	
+<li>Parents who wish to opt their children out of the Sexuality Education lesson need to complete an opt-out form. This form will be distributed to parents at the start of the year and also downloadable <a href="https://form.gov.sg/61e91d296c89fd0012e045f0">here</a> or scan the QR Code to complete the opt-out form. The completed opt-out form is to be submitted by 07/02/2022</li>
+
 
 </ol>
