@@ -25,4 +25,52 @@ third_nav_title: Academic
 
 <p align = "jusify">The central focus of our Mathematics learning is problem solving. This is as reflected in the Mathematics framework, which comprises of five interrelated components: concepts, skills, processes, attitudes and metacognition.</p>
 
+![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-maths-720x486.png)
 
+<p align = "justify">Excellence in mathematics anchors in problem solving, and through problem solving, students are developed into thinkers and problem solvers, who are independent, engaged, creative and critical.</p>
+
+#### Key Programmes
+*   PLAYMath Programme  
+    
+*   P3, 4, 5 and 6 Math Olympiad Programme  
+    
+*   Math Learning Festival  
+    
+*   Key External Competitions:  
+   
+	*   Temasek Primary Co-Space Math Robotics Challenge  
+    
+	*   Raffles World Math Contest  
+    
+	*   Chinese High Math Olympiad Competition  
+    
+	*   MOE Upper Pri Math Challenge  
+    
+	*   KooBits Portal Contest
+
+
+#### Highlights
+![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-Co-Space-Challenge_10-Feb-2017-720x540.jpg)
+
+![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-Maths-CoSpace-2017.jpg)
+<p align = "center">2nd Runner-up in the Temasek Primary Co-Space Challenge 2017</p>
+
+![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-1-720x405.jpg)
+
+![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-3-720x405.jpg)
+
+![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-6-720x684.jpg)
+
+![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-4-720x679.jpg)
+
+![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-2-720x540.jpg)
+
+![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-5-720x480.jpg)
+<p align = "center">Maths Play Programme in Term 1 (2017)</p>
+
+![](/images/The%20Meridian%20Experience/Math%20Dept/MD-P4_T2-2017Gif.gif)
+
+<p align = "center">Maths Play Programme in Term 2 (2017)</p>
+
+<p>For enquiries on the school’s Applied Learning Programme, please email:</p>
+<a href="mailto:wong_hoe_shyan@moe.edu.sg">Mr Frankie Wong (Head of Department)</a>
