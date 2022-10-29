@@ -30,3 +30,5 @@ These 3 rules are guided by the <b>Code of Conduct</b> below which states clea
 
 ![](/images/CCE/Discipline%20in%20Meridian/Code%20of%20Conduct%202.jpg)
 
+![](/images/CCE/Discipline%20in%20Meridian/Quote.png)
+
