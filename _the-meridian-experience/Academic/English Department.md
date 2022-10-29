@@ -18,3 +18,8 @@ Provide a rich learning environment to:
 
 #### Appreciation
 The department adopts the STELLAR (<b>S</b>trategies for <b>E</b>nglish <b>L</b>anguage <b>L</b>earning <b>A</b>nd <b>R</b>eading) Framework in the teaching and learning of English.
+
+![](/images/The%20Meridian%20Experience/English%20Dept/english-department-Stellar-1.jpg)
+
+![](/images/The%20Meridian%20Experience/English%20Dept/english-department-Stellar-2.jpg)
+
