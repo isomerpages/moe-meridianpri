@@ -58,21 +58,20 @@ The department adopts the STELLAR (<b>S</b>trategies for <b>E</b>nglish <b>L</
 
 #### Useful Website Links
 
-*   Online Dictionary: [https://dictionary.cambridge.org/](https://dictionary.cambridge.org/)  
+*   Online Dictionary: <a href="https://dictionary.cambridge.org/">https://dictionary.cambridge.org/</a>
     
-*   Discovery: [https://discovermagazine.com/](https://discovermagazine.com/)  
+*   Discovery: <a href="https://discovermagazine.com/">https://discovermagazine.com/</a>
     
-*   National Geographic: [https://www.nationalgeographic.com/](https://www.nationalgeographic.com/)  
-    
-*   National Library Board: [https://www.nlb.gov.sg/](https://www.nlb.gov.sg/)  
-    
-*   Online Story: [https://www.magickeys.com/books/](https://www.magickeys.com/books/)  
-    
-*   Online Story: [https://www.storylineonline.net/](https://www.storylineonline.net/)  
-    
-*   Learn Phonics: [https://www.oxfordowl.co.uk/for-home/reading-owl/expert-help/phonics-made-easy/](https://www.oxfordowl.co.uk/for-home/reading-owl/expert-help/phonics-made-easy/)  
-    
-*   Learn to Read: https://www.starfall.com/  
-    
-*   What’s Up: [https://www.whatsup.sg/](https://www.whatsup.sg/)
+*   National Geographic: <a href="https://www.nationalgeographic.com/">https://www.nationalgeographic.com/</a>
 
+*   National Library Board: <a href="https://www.nlb.gov.sg/">https://www.nlb.gov.sg/</a>
+    
+*   Online Story: <a href="https://www.magickeys.com/books/">https://www.magickeys.com/books/</a>
+    
+*   Online Story: <a href="https://www.storylineonline.net/">https://www.storylineonline.net/</a>
+    
+*   Learn Phonics: <a href="https://www.oxfordowl.co.uk/for-home/reading-owl/expert-help/phonics-made-easy/">https://www.oxfordowl.co.uk/for-home/reading-owl/expert-help/phonics-made-easy/</a>
+    
+*   Learn to Read: <a href="https://www.starfall.com/">https://www.starfall.com/</a>
+    
+*   What’s Up: <a href="https://www.whatsup.sg/">https://www.whatsup.sg/</a>
