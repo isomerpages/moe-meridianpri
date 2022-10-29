@@ -24,4 +24,6 @@ We engage parents to partners us in developing your child positively in all area
   <li>LEAD and take care of your surrounding</li>
 </b></ol>
 
-These 3 rules are guided by the **Code of Conduct** below which states clearly the boundaries of acceptable conduct in school and in society.
+These 3 rules are guided by the <b>Code of Conduct</b> below which states clearly the boundaries of acceptable conduct in school and in society.
+
+![](/images/CCE/Discipline%20in%20Meridian/Code%20of%20Conduct%20(1).jpg)
