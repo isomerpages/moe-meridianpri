@@ -51,3 +51,16 @@ third_nav_title: Co Curriculum
 ![](/images/The%20Meridian%20Experience/Aesthetics/aesthetics-SG-Rhapsodies-Closing-Concert-1-720x588.jpg)
 
 ![](/images/The%20Meridian%20Experience/Aesthetics/aesthetics-EZ-Music-Warrior-Competition-2017-720x540.jpg)
+
+![](/images/The%20Meridian%20Experience/Aesthetics/aesthetics-4PA_Class.jpg)
+
+![](/images/The%20Meridian%20Experience/Aesthetics/aesthetics-4CAJPG.jpg)
+
+![](/images/The%20Meridian%20Experience/Aesthetics/aesthetics-3CAJPG.jpg)
+
+![](/images/The%20Meridian%20Experience/Aesthetics/aesthetics-4IN-Alffian-Close-UpJPG.jpg)
+
+![](/images/The%20Meridian%20Experience/Aesthetics/aesthetics-4PA_b.jpg)
+
+![](/images/The%20Meridian%20Experience/Aesthetics/aesthetics-4PA.jpg)
+
