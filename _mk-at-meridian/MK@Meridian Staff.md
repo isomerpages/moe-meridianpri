@@ -45,19 +45,19 @@ description: ""
     <td>English Language Teacher</td>
   </tr>
 	<tr>
-    <td><a href="mailto:khairun_atika_kamsan@moe.edu.sg">Mdm Sharon Ng Ye Chin</a></td>
+    <td><a href="mailto:khairun_atika_kamsan@moe.edu.sg">Mr Khairun Atika Bte Kamsan</a></td>
     <td>English Language Teacher</td>
   </tr>
 	<tr>
-    <td><a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Stephanie Tay Wan Boon</a></td>
+    <td><a href="mailto:ling_min@moe.edu.sg">Mdm Ling Min</a></td>
     <td>Chinese Language Teacher</td>
   </tr>
 	<tr>
-    <td><a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Vasanthi d/o Mahalinggam</a></td>
+    <td><a href="mailto:chen_li_hua@moe.edu.sg">Mdm Chen Li Hua</a></td>
     <td>Chinese Language Teacher</td>
   </tr>
 	<tr>
-    <td><a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi</a></td>
+    <td><a href="mailto:rachael_lee_yu_kee@moe.edu.sg">Ms Rachael Lee Yu Kee</a></td>
     <td>Chinese Language Teacher</td>
   </tr>
 	<tr>
