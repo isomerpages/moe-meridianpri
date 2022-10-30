@@ -116,3 +116,42 @@ Theme: People in the street by Neo Yue Xuan (5 RT)
 Our soccer boys participated in this year Temasek Cup.  With grit and determination, both the U10 and U12 teams emerged runners-up in their respective category.  Goal!
 
 ![](/images/The%20Meridian%20Experience/Achievements/Achievements-27.jpg)
+Meridian U10 Soccer Player
+
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-28.jpg)
+Our U12 Boys
+
+<hr>
+
+#### CCA - Uniform Group
+
+##### Akela Award
+<p align = "justify">We are pleased to share another good news! 4 students from the Meridian Cub Scouts were presented with the Akela Award, the top recognition for outstanding Cub Scouts.  We are really proud of you!</p>
+
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-29.jpg)
+
+##### Frank Cooper Sands Awards – Gold
+
+<p align =" justify">We are pleased to announce that the Meridian Cub Scouts has been accorded the Gold Award in the Frank Cooper Sands Award. </p>
+
+<p align = "justify">Created in 1995 in honour of the father of Scouting in Singapore, the Frank Cooper Sands Award is awarded annually to sectional scout units for unit excellence.  The award is also known as the Best Unit Competition under the Co-Curricular Activities Branch of the Ministry of Education.</p>
+
+<p align = "justify">The assessment for the award centres on Unit administration, Unit participation, Training and Development, International participation, Unit finances and Unit Initiatives.</p>
+
+Well done, team!
+
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-30.jpg)
+
+##### Cub Scouts Gang Show 2017
+
+<p align = "justify">10 cub scouts participated in the National Cub Scout Gang Show on the 12th August 2017. The Gang Show is a concert where cub scout groups from all over Singapore showcase talent performances such as songs, dances, skits etc. Our cub scouts are pleased to attain the silver award for our dance performance – the Meridian Roar.</p>
+
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-31.jpg)
+
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-32.jpg)
+
+Front row (from left: P3-PA Fitrilyana Quistina Binte Sadruddin,
+P3-CA Hiong Kai Sing, P3-PA Chow Wei Ming,
+P4-RB Zayed Sameer Fo’ad Altway)
+Back row (from left: P5-RB Shermaine Tan Li Ying, P5-RT Goh Tze Hian, Sherry, P4-PA Vijayasekar Hemasree, P4-PA Woo Jie Rui Ambrose, P4-CA Wong Yu Heng Rayan,   P5-CA Tew Wei Hong)
+
