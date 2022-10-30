@@ -46,28 +46,27 @@ description: ""
   </tr>
 	<tr>
     <td><a href="mailto:khairun_atika_kamsan@moe.edu.sg">Mdm Sharon Ng Ye Chin</a></td>
-    <td>HOD/PE, CCA Aesthetics</td>
+    <td>English Language Teacher</td>
   </tr>
 	<tr>
     <td><a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Stephanie Tay Wan Boon</a></td>
-    <td>Subject Head/ Character and Citizenship Education</td>
+    <td>Chinese Language Teacher</td>
   </tr>
 	<tr>
     <td><a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Vasanthi d/o Mahalinggam</a></td>
-    <td>Level Head English</td>
+    <td>Chinese Language Teacher</td>
   </tr>
 	<tr>
     <td><a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi</a></td>
-    <td>Level Head Science</td>
+    <td>Chinese Language Teacher</td>
   </tr>
 	<tr>
     <td><a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Nor Fardilah Bte Md Nasir</a></td>
-    <td>Level Head Mother Tongue</td>
+    <td>Chinese Language Teacher</td>
   </tr>
 	<tr>
     <td><a href="mailto:tang_tsin_ray@moe.edu.sg">Mr Benjamin Yeo Kin Chiau</a></td>
-    <td>School Staff Developer</td>
+    <td>Chinese Language Teacher</td>
   </tr>
 	
 </table>
-
