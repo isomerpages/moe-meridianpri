@@ -70,3 +70,8 @@ PAL lessons are conducted on Fridays for 2 hours.  The schedule is as follow:
   </tr>
 </table>
 
+#### Reflection
+<p align = "justify">Students will be engaged in reflection by completing a worksheet after each PAL lesson.  This allows them to see their growth, strength, proud moments, and areas to improve on.</p>
+
+#### PAL in Action
+![](/images/The%20Meridian%20Experience/PAL/pal-P1_PA-720x540.jpg)
