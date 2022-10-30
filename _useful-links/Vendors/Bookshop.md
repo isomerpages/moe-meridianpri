@@ -4,3 +4,13 @@ permalink: /useful-links/vendors/bookshop/
 description: ""
 third_nav_title: Vendors
 ---
+<h5><u>Important Note to All Parents</u></h5>
+
+<p align = "justify">In view of safe management measures, all purchases of books and school uniforms will be made via online. You may purchase directly from the vendors' website (links provided below). Please note that there will be delivery charges.</p>
+
+<p align = "justify">For the safety of all our students, parents are only allowed to go to the bookshop after <b>2 pm</b>. We are not able to allow parents to visit the bookshop at other times as we need to ensure the security of the school campus. Please call the bookshop to enquire before making your trip. The school dismissal time is 1.40 pm hence we would like parents to avoid this peak period. We would only allow parents to come into the campus after majority of the students have been dismissed.</p>
+
+<p align = "justify">We thank you for your kind understanding that this arrangement is best for the security of all the students in the school.</p>
+
+<hr>
+
