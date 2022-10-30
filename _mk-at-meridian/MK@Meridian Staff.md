@@ -66,7 +66,11 @@ description: ""
   </tr>
 	<tr>
     <td><a href="mailto:tan_chew_yu@moe.edu.sg">Ms Tan Chew Yu</a></td>
-    <td>Chinese Language Teacher</td>
+    <td>Chinese Language Teacher (FAJT)</td>
+  </tr>
+		<tr>
+    <td><a href="mailto:nurul_hani_effandi@moe.edu.sg">Ms Nurul Hani Bte Effandi</a></td>
+    <td>Malay Language Teacher</td>
   </tr>
 	
 </table>
