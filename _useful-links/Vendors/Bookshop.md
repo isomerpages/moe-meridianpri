@@ -14,3 +14,10 @@ third_nav_title: Vendors
 
 <hr>
 
+**School Bookshop Contact**<br>
+**The Continental Book Centre**<br>
+Mr James Low<br>
+Blk 1013 Geylang East Ave 3 #02-154 Singapore 389728<br>
+Tel: 6247 8482 
+Email:  [admin@the-continental.com.sg](mailto:admin@the-continental.com.sg)  
+Website: [www.thecontinental.sg/meridian/](http://www.thecontinental.sg/meridian/)
