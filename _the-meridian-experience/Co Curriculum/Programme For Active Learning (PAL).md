@@ -75,3 +75,22 @@ PAL lessons are conducted on Fridays for 2 hours.  The schedule is as follow:
 
 #### PAL in Action
 ![](/images/The%20Meridian%20Experience/PAL/pal-P1_PA-720x540.jpg)
+<p align ="center">P1 Performing Arts</p>
+
+![](/images/The%20Meridian%20Experience/PAL/pal-Eco-Garden-720x960.jpg)
+
+![](/images/The%20Meridian%20Experience/PAL/pal-P2_VA1-720x960.jpg)
+
+![](/images/The%20Meridian%20Experience/PAL/pal-P2_VA3-720x540.jpg)
+
+![](/images/The%20Meridian%20Experience/PAL/pal-P2_VA2-720x540.jpg)
+
+<p align = "center">Visit to Eco-Gardens, P2 Visual Arts Making</p>
+
+![](/images/The%20Meridian%20Experience/PAL/pal-TB1-720x540.jpg)
+
+![](/images/The%20Meridian%20Experience/PAL/pal-TB2-720x540.jpg)
+<p align = "center">Team Building</p>
+
+![](/images/The%20Meridian%20Experience/PAL/pal-Reflection-1-720x960.jpg)
+<p align = "center">Reflection</p>
