@@ -35,4 +35,3 @@ In 2017, a group of students accompanied by teachers and a School Leader travell
 “The trip provided us a good opportunity to learn to take good care of each other.  We also worked as a team throughout the trip!” – _Jack Kent_
 
 “Despite that many of us have different habits, we learned to to adapt to each other.” – _Charlotte_
-
