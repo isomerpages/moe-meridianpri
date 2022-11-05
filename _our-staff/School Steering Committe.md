@@ -102,23 +102,23 @@ description: ""
     <td>HOD/PE, CCA Aesthetics</td>
   </tr>
 	<tr>
-    <td><a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Stephanie Tay Wan Boon</a></td>
+    <td><a href="mailto:tay_wan_boon@moe.edu.sg">Mdm Stephanie Tay Wan Boon</a></td>
     <td>Subject Head/ Character and Citizenship Education</td>
   </tr>
 	<tr>
-    <td><a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Vasanthi d/o Mahalinggam</a></td>
+    <td><a href="mailto:vasanthi_mahalinggam@moe.edu.sg">Mdm Vasanthi d/o Mahalinggam</a></td>
     <td>Level Head English</td>
   </tr>
 	<tr>
-    <td><a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi</a></td>
+    <td><a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi</a></td>
     <td>Level Head Science</td>
   </tr>
 	<tr>
-    <td><a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Nor Fardilah Bte Md Nasir</a></td>
+    <td><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah Bte Md Nasir</a></td>
     <td>Level Head Mother Tongue</td>
   </tr>
 	<tr>
-    <td><a href="mailto:tang_tsin_ray@moe.edu.sg">Mr Benjamin Yeo Kin Chiau</a></td>
+    <td><a href="mailto:yeo_kim_chiau_benjamin@moe.edu.sg">Mr Benjamin Yeo Kin Chiau</a></td>
     <td>School Staff Developer</td>
   </tr>
 	
