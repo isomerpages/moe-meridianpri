@@ -8,4 +8,3 @@ description: ""
 </div>
 <div><img style="width: 490px; height: 207px;" class="ive_eobj_center" alt="dental.JPG" width="100%" src="/images/Useful%20Links/Dental.tif"><br>
 </div>
-
