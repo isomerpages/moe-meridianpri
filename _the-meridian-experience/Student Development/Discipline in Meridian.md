@@ -16,7 +16,7 @@ third_nav_title: Student Development
 	
 #### Our School Rules
 
-<p align = "center">Our School Rules is designed to help every child understand their purpose in this Meridian family that they live in. Strongly guided by our Motto on _To Learn, To Love, To Lead_, it sets out to define their role to take the best care they possibly can, of themselves, others and what’s around them–</p>
+<p align = "center">Our School Rules is designed to help every child understand their purpose in this Meridian family that they live in. Strongly guided by our Motto on  To Learn, To Love, To Lead, it sets out to define their role to take the best care they possibly can, of themselves, others and what’s around them–</p>
 
 <ol style = "font-size: 14px"><b>
   <li>LEARN to take care of yourself</li>
