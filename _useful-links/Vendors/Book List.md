@@ -27,5 +27,3 @@ Please click on the level to view on the book list details: 
 <b><u>Primary 6</u></b><br>
 * <a href="/files/Useful%20Link/Book%20List/pri%206%20.pdf">Primary 6 (Standard)</a>
 *  <a href="/files/Useful%20Link/Book%20List/pri%206%20foundation.pdf">Primary 6 (Foundation)</a>
-
-
