@@ -77,7 +77,7 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 
 ![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Tech%20(Media%20Production)/clubs-and-societies-Photo-and-video-2-300x200.jpg)
 
-For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
+For enquiries on the school’s Photography and Videography CCA, please email:<br>
 * <a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung</a>
 * <a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah</a>
 *  <a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho</a>
