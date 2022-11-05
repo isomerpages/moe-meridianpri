@@ -15,8 +15,8 @@ description: ""
   <tr>
     <td>1 Care</td>
     <td>Form Teacher</td>
-    <td>Miss Nazurah bte Norizan <br>
-		Mdm Li Cheng</td>
+    <td><a href="mailto:nazurah_norizan@moe.edu.sg">Miss Nazurah bte Norizan </a><br>
+		<a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a></td>
   </tr>
   <tr>
     <td>1 Integrity</td>
