@@ -151,3 +151,7 @@ Choir performance during 2019 Meridian Arts Festival@Pasir Ris Public Library.
 Choir performance during Prize Giving Day 2019.
 
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%207.jpeg" style="float:center;">
+
+For enquiries on the school’s Malay Dance CCA, please email:<br>
+* <a href="mailto:angel_huang@moe.edu.sg">Ms Angel Huang</a>
+* <a href="mailto:syedama_syeed_ibrahim@moe.edu.sg">Mdm Syedama</a>
