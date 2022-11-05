@@ -142,3 +142,76 @@ For enquiries on the school’s Taekwondo CCA, please email:<br>
 * <a href="mailto:nurrashidah_norman@moe.edu.sg">Ms Shidah</a>
 * <a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah</a>
 * <a href="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a>
+<hr>
+
+#### Sports Club
+**Sport Club** _(Boys and Girls Only)_
+
+<p align = "justify">The sports club is a modular CCA. It aims to expose students to a variety of sports including mini-tennis, modified basketball, badminton, and other recreational activities. There are many sports activities to keep the students motivated in staying physically active. From time to time, selected students will also be given the platform to showcase their skills and abilities through learn-to-play workshops and inter-school competitions.</p>
+
+Some activities done during CCA:<br>
+\- Inline-skating<br>
+\- Tag Rugby<br>
+\- Tchoukball<br>
+\- Hockey<br>
+\- Basketball<br>
+\- Frisbee<br>
+\- Captain Ball<br>
+\- Kickboxing<br>
+\- Running HIIT<br>
+\- Kids Athletics<br>
+\- Fitness HIIT<br>
+\- and many more!<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%201.jpg" style="width:240px;height:350px;float:left;margin: 5px 0px 0px 0px;">
+
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%202.jpg" style="width:240px;height:350px;float:right;margin: 5px 0px 0px 0px;">
+<br>
+<br>
+
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%203.jpg" style="width:250px;height:220px;float:left;margin: 5px 0px 0px 0px;">
+<br>
+<br>
+<br>
+
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%204.jpg" style="width:250px;height:220px;float:right;margin: 5px 0px 0px 0px;">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%205.jpg" style="width:250px;height:220px;float:left;margin: 5px 0px 0px 0px;">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%206.jpg" style="width:250px;height:220px;float:right;margin: 5px 0px 0px 0px;">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+For enquiries on the school’s Sport Club CCA, please email:<br>
+* <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a>
+* <a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Heryanti</a>
+
