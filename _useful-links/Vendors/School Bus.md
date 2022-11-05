@@ -20,3 +20,5 @@ Click [here](https://meridianpri-moe-edu-sg-admin.cwp.sg/qql/slot/u143/USEFUL-L
 
 For school bus application, parents can access to this link [https://forms.office.com/r/ZD182PZWpt](https://forms.office.com/r/ZD182PZWpt) or scan the below QR Code and submit to us by 27 Nov 2022
 
+<img src="/images/Useful%20Links/School%20Bus%20QR%20Code.png" style="width:150px;height:150px;float:left">
+
