@@ -226,67 +226,67 @@ description: ""
 ####  Non-Form Teachers
 <table style="width:100%">
   <tr>
-    <td>Mdm Anna Lim Lin Lin</td>
+    <td><a href ="mailto:anna_lim_lin_lin@moe.edu.sg">Mdm Anna Lim Lin Lin</a></td>
   </tr>
 	<tr>
-    <td>Miss Charlotte Neo Jia Hwee</td>
+    <td><a href ="mailto:neo_jia_hwee@moe.edu.sg">Miss Charlotte Neo Jia Hwee</a></td>
   </tr>
 	<tr>
-    <td>Mrs Doris Lee Ai Peng</td>
+    <td><a href ="mailto:lee_ai_peng@moe.edu.sg">Mrs Doris Lee Ai Peng</a></td>
   </tr>
   <tr>
-    <td>Mdm Fadzlina Bte Abdullah</td>
+    <td><a href ="mailto:fadzlina_abdullah@moe.edu.sg">Mdm Fadzlina Bte Abdullah</a></td>
   </tr>
 	<tr>
-    <td>Mdm Kamsiah Binte Musleh</td>
+    <td><a href ="mailto:kamsiah_musleh@moe.edu.sg">Mdm Kamsiah Binte Musleh</a></td>
   </tr>
 	<tr>
-    <td>Mr Lee Huan Leng</td>
+    <td><a href ="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng</a></td>
   </tr>
 	<tr>
-    <td>Mr Lim Chee Ming</td>
+    <td><a href ="mailto:lim_chee_ming@moe.edu.sg">Mr Lim Chee Ming</a></td>
   </tr>
 	<tr>
-    <td>Mr Low Boon Khim Clarence</td>
+    <td><a href ="mailto:low_boon_khim@moe.edu.sg">Mr Low Boon Khim Clarence</a></td>
   </tr>
 	<tr>
-    <td>Mdm Norsiah Bte Idris</td>
+    <td><a href ="mailto:norsiah_idris@moe.edu.sg">Mdm Norsiah Bte Idris</a></td>
   </tr>
 	<tr>
-    <td>Mdm Sharon Ng Ye Chin</td>
+    <td><a href ="mailto:ng_ye_chin_sharon@moe.edu.sg">Mdm Sharon Ng Ye Chin</a></td>
   </tr>
 	<tr>
-    <td>Mdm Tan Hugue Hwan Stefane</td>
+    <td><a href ="mailto:tan_hugue_hwan_stefane@moe.edu.sg">Mdm Tan Hugue Hwan Stefane</a></td>
   </tr>
 	<tr>
-    <td>Mdm Tan Soo Choon Sharon</td>
+    <td><a href ="mailto:tan_soon_choon@moe.edu.sg">Mdm Tan Soo Choon Sharon</a></td>
   </tr>
 	<tr>
-    <td>Mr Tay Koon Guan</td>
+    <td><a href ="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a></td>
   </tr>
 	<tr>
-    <td>Miss Tiffany Loh Ying Xuan</td>
+    <td><a href ="mailto:Loh_Ying_Xuan_Tiffany@moe.edu.sg">Miss Tiffany Loh Ying Xuan</a></td>
   </tr>
 	<tr>
-    <td>Mdm Wong Hwee Kim</td>
+    <td><a href ="mailto:wong_hwee_kim@moe.edu.sg">Mdm Wong Hwee Kim</a></td>
   </tr>
 </table>
 
-####  Non-Form Teachers
+####  Allied Educators
 <table style="width:100%">
   <tr>
-    <td>Mdm Abdul Latheef Nareeman</td>
+    <td><a href ="mailto:abdul_latheef_nareeman@moe.edu.sg">Mdm Abdul Latheef Nareeman</a></td>
   </tr>
 	<tr>
-    <td>Miss Jalilah Bte Jalihan</td>
+    <td><a href ="mailto:zulkarnai_zulkifli@moe.edu.sg">Miss Jalilah Bte Jalihan</a></td>
   </tr>
 	<tr>
-    <td>Mdm Janine Ng Jinning</td>
+    <td><a href ="mailto:jalilah_jalihan@moe.edu.sg">Mdm Janine Ng Jinning</a></td>
   </tr>
   <tr>
-    <td>Mdm Kong Marn Moy</td>
+    <td><a href ="mailto:kong_marn_moy@moe.edu.sg">Mdm Kong Marn Moy</a></td>
   </tr>
 	<tr>
-    <td>Mdm Sharifah Samihah</td>
+    <td><a href ="mailto:sharifah_samihah@moe.edu.sg">Mdm Sharifah Samihah</a></td>
   </tr>
 </table>
