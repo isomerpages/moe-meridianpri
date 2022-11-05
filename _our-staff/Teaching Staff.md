@@ -33,9 +33,9 @@ description: ""
 	<tr>
     <td>1 Teamwork</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:nurrashidah_norman@moe.edu.sg">Mdm Zahirah Lyana Binte Mohd Khir</a><br>
-		<a href ="mailto:nurrashidah_norman@moe.edu.sg">Mr Tee Shou Fei</a><br>
-		<a href ="mailto:nurrashidah_norman@moe.edu.sg">Mdm Siti Saleha Bte Salleh</a></td>
+    <td><a href ="mailto:zahirah_lyana_mohd_khir@moe.edu.sg">Mdm Zahirah Lyana Binte Mohd Khir</a><br>
+		<a href ="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
+		<a href ="mailto:siti_saleha_salleh_a@moe.edu.sg">Mdm Siti Saleha Bte Salleh</a></td>
   </tr>
 </table>
 
