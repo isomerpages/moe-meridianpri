@@ -158,53 +158,27 @@ Some activities done during CCA:<br>
 \- Fitness HIIT<br>
 \- and many more!<br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%201.jpg" style="width:240px;height:350px;float:left;margin: 5px 0px 0px 0px;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%201.jpg" style="float:center;">
 
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%202.jpg" style="width:240px;height:350px;float:right;margin: 5px 0px 0px 0px;">
-<br>
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%202.jpg" style="float:center;">
 <br>
 
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%203.jpg" style="width:250px;height:220px;float:left;margin: 5px 0px 0px 0px;">
-<br>
-<br>
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%203.jpg" style="float:center;">
 <br>
 
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%204.jpg" style="width:250px;height:220px;float:right;margin: 5px 0px 0px 0px;">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%204.jpg" style="float:center;">
 <br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%205.jpg" style="width:250px;height:220px;float:left;margin: 5px 0px 0px 0px;">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%205.jpg" style="float:center;">
 <br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%206.jpg" style="width:250px;height:220px;float:right;margin: 5px 0px 0px 0px;">
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%206.jpg" style="float:center;">
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 For enquiries on the school’s Sport Club CCA, please email:<br>
 * <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a>
