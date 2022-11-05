@@ -60,3 +60,47 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 * <a href="mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiaolu</a>
 * <a href="mailto:lim_lee_yong@moe.edu.sg">Ms Debbie Lim</a>
 <hr>
+
+#### Malay Dance
+**Malay Dance** _(For Boys and Girls)_
+
+<p align = "justify">Malay Dance CCA is a unique form of exercise because it provides the heart-healthy benefits of an aerobic exercise while also allowing you to have FUN! Dancing helps to reduce stress, increase energy, improve strength and increase muscle tone and coordination.</p>
+
+<p align = "justify">In the Malay Dance CCA, students learn and explore the traditional Malay performing arts. The CCA instils passion and appreciation of the performing arts in the students. It also helps the students to enhance their cultural awareness.</p>
+
+<p align = "justify">Malay Dance exposes students to a healthy and fun lifestyle by keeping fit with the dance moves and building friendship. Through the CCA, the students get to understand each other better and work with each other together to achieve the desired goals.</p>
+
+<a align = "justify">During the course of practice, students build their self-confidence through stage performances, develop team spirit and encourage multi-racial participation. Most importantly, students learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
+
+**Highlights**  
+
+In school performances
+* Hari Raya celebrations
+* Racial Harmony
+* Prize-giving ceremonies
+
+Public performances
+* Pasir Ris Library during Meridian Performing Arts Festival
+* Singapore Youth Festival (SYF)
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%201.png" style="float:center;">
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%202.png" style="float:center;">
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%203.png" style="float:center;">
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%204.png" style="float:center;">
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%205.png" style="float:center;">
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%206.png" style="float:center;">
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%207.jpg" style="float:center;">
+<br>
+
