@@ -49,14 +49,14 @@ description: ""
   <tr>
     <td>2 Care</td>
     <td>Form Teacher</td>
-    <td>Mdm Norsheleen Binte Mohd Atan <br>
-		Mdm Angel Huang Meiyun</td>
+    <td><a href="mailto:norsheleen_mohamed_atan@moe.edu.sg">Mdm Norsheleen Binte Mohd Atan</a> <br>
+		<a href ="mailto:angel_huang@moe.edu.sg">Mdm Angel Huang Meiyun</a></td>
   </tr>
   <tr>
     <td>2 Integrity</td>
     <td>Form Teacher</td>
-    <td>Mdm Vasanhti d/o Mahalinggam <br>
-		Mdm Lim Chia Chia</td>
+    <td><a href ="mailto:vasanthi_mahalinggam@moe.edu.sg">Mdm Vasanhti d/o Mahalinggam</a> <br>
+		<a href ="mailto:abdul_wahid_abdul_wahab@moe.edu.sg">Mr Abdul Wahid bin Abd Wahab</a></td>
   </tr>
 	<tr>
     <td>2 Resilience</td>
