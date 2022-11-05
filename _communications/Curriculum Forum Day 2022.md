@@ -24,46 +24,49 @@ description: ""
  </tr>
  <tr>
   	 <td colspan="3" align = "center">Year Heads' Sharing   
-on Level Matters</td>
+on Level Matters<br>
+	 (Primary 1 & Primary 2)<br>
+	 (Primary 3 & Primary 4)<br>
+	 (Primary 5 & Primary 6)</td>
  </tr>
  <tr>
-  <td>Curriculum Sharing  
+  <td>Mother Tongue Languages* Curriculum Sharing  
 (0915-0955) - 40min;</td>
-  <td>Curriculum Sharing  
+  <td>English Language Curriculum Sharing  
 (0915-0955) - 40min</td>
-  <td>(Briefing on subject-based banding, DSA and PSLE matters)   
+  <td>Schools Leaders' Segment (Briefing on subject-based banding, DSA and PSLE matters)   
 (0915-1015) - 60mins</td>
  </tr>
 	 <tr>
   	 <td colspan="3" align = "center">Break (15min)</td>
  </tr>
 	 <tr>
-  <td>Curriculum Sharing  
+  <td>English Language Curriculum Sharing  
 (1010-1050) - 40min</td>
-  <td>(1010-1100) - 50mins</td>
-  <td>Curriculum Sharing  
+  <td>School Leaders' Segment (Briefing on subject-ases banding)<br>(1010-1100) - 50mins</td>
+  <td>Mother Tongue Languages* Curriculum Sharing  
 (1030-1110) - 40min</td>
  </tr>
 	<tr>
   	 <td colspan="3" align = "center">Break (15min)</td>
  </tr>
 	<tr>
-  <td>Curriculum Sharing   
+  <td>Mathematics Curriculum Sharing   
 (1105-1145) - 40mins</td>
-  <td>Curriculum Sharing  
+  <td>Mother tongue Languages*  Curriculum Sharing  
 (1115-1155) - 40min</td>
-  <td>Curriculum Sharing  
+  <td>English Language Curriculum Sharing  
 (1125-1205) - 40min</td>
  </tr>
 	<tr>
   	 <td colspan="3" align = "center">Break (15min)</td>
  </tr>
 	<tr>
-  <td>(with PSG sharing)   
+  <td>School Leaders' Segment (with PSG sharing)<br>
 (1200-1230) - 30mins</td>
-  <td>Curriculum Sharing   
+  <td>Mathematics & Science <br>Curriculum Sharing   
 (1210-1310) - 60mins</td>
-  <td>Curriculum Sharing   
+  <td>Mathematics & Science <br>Curriculum Sharing   
 (1220-1320) - 60mins</td>
  </tr>
 </table>
