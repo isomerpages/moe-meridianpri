@@ -11,48 +11,47 @@ description: ""
 <table style="width:100%">
   
   <tr>
-    <td>Mr Khairilanuar Bin Junid</td>
+    <td><a href="mailto:khairilanuar_junid@moe.edu.sg">Mr Khairilanuar Bin Junid</a></td>
     <td>Operations Manager (OM)</td>
   </tr>
   <tr>
-    <td>Miss Azzilawaty Binte Abdullah</td>
+    <td><a href="mailto:azzilawaty_abdullah@moe.edu.sg">Miss Azzilawaty Binte Abdullah</a></td>
     <td>ICT Associate</td>
   </tr>
 	<tr>
-    <td>Mdm Aishah Bte Sarian</td>
+    <td><a href="mailto:aishah_sarian@moe.edu.sg">Mdm Aishah Bte Sarian</a></td>
     <td>Corporate Support Officer (CSO)</td>
   </tr>
 	<tr>
-    <td>Mdm Chua Ai Im Angela</td>
+    <td><a href="mailto:angela_chua_ai_im@moe.edu.sg">Mdm Chua Ai Im Angela</a></td>
     <td>Corporate Support Officer (CSO)</td>
   </tr>
 	<tr>
-    <td>Mdm Noorini Bte Nordin</td>
+    <td><a href="mailto:noorini_nordin@moe.edu.sg">Mdm Noorini Bte Nordin</a></td>
     <td>Corporate Support Officer (CSO)</td>
   </tr>
 	<tr>
-    <td>Mdm Sharifah Fadhlon Syed Omar</td>
+    <td><a href="mailto:sharifah_fadhlon_syed_omar@moe.edu.sg">Mdm Sharifah Fadhlon Syed Omar</a></td>
     <td>Corporate Support Officer (CSO)</td>
   </tr>
 	<tr>
-    <td>Mdm Jamilah Bte Sa'ad</td>
+    <td><a href="">Mdm Jamilah Bte Sa'ad</a></td>
     <td>Operations Support Officer (OSO)</td>
   </tr>
 	<tr>
-    <td>Mdm Peozisyah Bte Rashid</td>
+    <td><a href="">Mdm Peozisyah Bte Rashid</a></td>
     <td>Operations Support Officer (OSO)</td>
   </tr>
 	<tr>
-    <td>Mr Aman Bin Ebrahim</td>
+    <td><a href="">Mr Aman Bin Ebrahim</a></td>
     <td>Operations Support Officer (OSO)</td>
   </tr>
 	<tr>
-    <td>Mr Lee Tai Meng</td>
+    <td><a href="">Mr Lee Tai Meng</a></td>
     <td>Operations Support Officer (OSO)</td>
   </tr>
 	<tr>
-    <td>Mr Mohamed Ali Mohamed Salleh</td>
+    <td><a href="">Mr Mohamed Ali Mohamed Salleh</a></td>
     <td>Operations Support Officer (OSO)</td>
   </tr>
 </table>
-
