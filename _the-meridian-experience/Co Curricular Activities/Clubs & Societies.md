@@ -27,3 +27,9 @@ Pupils in action doing Science experiments
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%202.jpg" style="float:center;">
 <br>
 Pupils in action doing Science experiments
+
+For enquiries on the school’s Chinese Dance CCA, please email:<br>
+* <a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a>
+* <a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan</a>
+* * <a href="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Peony Wong</a>
+<hr>
