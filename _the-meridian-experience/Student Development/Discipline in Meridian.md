@@ -10,9 +10,9 @@ third_nav_title: Student Development
 
 ![](/images/CCE/Discipline%20in%20Meridian/Discipline%20in%20Meridian%201.png)
 
-<p>We support our teachers in managing a positive classroom environment conducive for learning and establishing strong meaningful relationships.
+<p>We support our teachers in managing a positive classroom environment conducive for learning and establishing strong meaningful relationships.</p>
 
-We engage parents to partners us in developing your child positively in all areas of his/her life.<p>
+<p>We engage parents to partners us in developing your child positively in all areas of his/her life.<p>
 	
 #### Our School Rules
 
@@ -31,4 +31,3 @@ These 3 rules are guided by the <b>Code of Conduct</b> below which states clea
 ![](/images/CCE/Discipline%20in%20Meridian/Code%20of%20Conduct%202.jpg)
 
 ![](/images/CCE/Discipline%20in%20Meridian/Quote.png)
-
