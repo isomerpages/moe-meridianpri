@@ -59,11 +59,17 @@ description: ""
 		<a href ="mailto:abdul_wahid_abdul_wahab@moe.edu.sg">Mr Abdul Wahid bin Abd Wahab</a></td>
   </tr>
 	<tr>
+    <td>2 Responsibility</td>
+    <td>Form Teacher</td>
+    <td><a href ="mailto:fadhilatun_samsudin@moe.edu.sg">Mdm Fadhilatun Bte Samsudin</a> <br>
+		<a href ="mailto:lim_chia_chia@moe.edu.sg">Mdm Lim Chia Chia</a></td>
+  </tr>
+	<tr>
     <td>2 Resilience</td>
     <td>Form Teacher</td>
-    <td>Mr David Yeo Han Leng <br>
-		Miss Tracy Foo Si Min <br>
-		Mdm Yamuna d/o Jathananthan</td>
+    <td><a href ="mailto:yeo_han_leng_david@moe.edu.sg">Mr David Yeo Han Leng </a><br>
+		<a href ="mailto:foo_si_min@moe.edu.sg">Miss Tracy Foo Si Min </a><br>
+		<a href ="mailto:yamuna_jathananthan@moe.edu.sg">Mdm Yamuna d/o Jathananthan</a></td>
   </tr>
 	<tr>
     <td>2 Respect</td>
