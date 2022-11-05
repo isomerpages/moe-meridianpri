@@ -59,3 +59,9 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 * <a href="mailto:norhaida_kamaludin@moe.edu.sg">Mdm Norhaida Kamaludin</a>
 *  <a href="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah</a>
 <hr>
+
+#### Infocomm Technology (Media Production) 
+
+**Infocomm Technology (Media Production)** _(For Boys and Girls)_
+
+<p align = "justify">At the Photography & Videography Production CCA, students get to learn photography, videography and editing skills. Students are taught to use basic point & shoot cameras and DSLR cameras. Students also get to learn use software such as Corel Video Editor and Windows Movie Maker.</p>
