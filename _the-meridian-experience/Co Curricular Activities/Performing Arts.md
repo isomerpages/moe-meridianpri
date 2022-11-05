@@ -31,3 +31,27 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 * <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a>
 * <a href="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen</a>
 <hr>
+
+#### Guzheng 
+
+**Guzheng** _(For Boys and Girls)_
+
+<p align = "justify">Guzheng (古筝), is a Chinese musical instrument that has a history dating back to 500 B.C.  Playing the Guzheng is an excellent way to broaden pupils’ knowledge in the Chinese culture and history.</p>
+
+<p align = "justify">Guzheng CCA has performed in numerous school as well as external events. Through participation in the CCA, students pick up the technique of playing the instrument expressively.  At the same time, our school values on teamwork and passion are being inculcated in them.</p>
+
+**Highlights**  
+
+Accomplishment Award in the 2014 & 2016 SYF
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-1.jpg" style="float:center;">
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-2.jpg" style="float:center;">
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-3.jpg" style="float:center;">
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-4.jpg" style="float:center;">
+<br>
