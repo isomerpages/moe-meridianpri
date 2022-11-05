@@ -86,31 +86,26 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 
 <p align = "justify">Other than learning the technical skill of Taekwondo’s self-defense, students will more importantly learn life values such as respect and discipline through our training. Our training focuses on developing the character of a student in a fun and encouraging way as we strongly believe that good attitude and character will aid a child in his/her learning.</p>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%201.png" style="width:190px;height:250px;float:left;margin: 5px 0px 0px 0px;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%201.png" style="float:center;">
 
-
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%202.png" style="width:310px;height:250px;float:right; margin: 5px 5px 5px 5px;">
-<br>
 <br>
 
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%202.png" style="float:center;">
+
+<br>
 
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%203.png" style="width:250px;height:220px;float:left; margin: 5px 5px 5px 5px;">
-<br>
-<br>
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%203.png" style="float:center;">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%204.png" style="width:250px;height:225px;float:right; margin: 1px 1px 1px 1px;">
 <br>
-<br>
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%204.png" style="float:center;">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%205.jpeg" style="width:250px;height:220px;float:left; margin: 5px 5px 5px 5px;">
 <br>
-<br>
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%205.jpeg" style="float:center;">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%206.jpeg" style="width:250px;height:225px;float:right; margin: 1px 1px 1px 1px;">
 <br>
-<br>
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%206.jpeg" style="float:center;">
+
 
 ![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%207.jpeg)
 
@@ -214,4 +209,3 @@ Some activities done during CCA:<br>
 For enquiries on the school’s Sport Club CCA, please email:<br>
 * <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a>
 * <a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Heryanti</a>
-
