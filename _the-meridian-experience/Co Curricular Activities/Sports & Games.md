@@ -27,7 +27,7 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 
 #### Football
 
-**Football** _(For Boys Only)_  
+**Football** (For Boys Only)_  
 **Vision**<p align = "justify"> Role Models, on and off the pitch Our Football CCA inculcates strong values and character through different activities.  Team games create bonds and build lasting friendships.  When the tide is against us, we will move on and never give up.  Values are not just caught in Football CCA.  We make a conscientious effort to teach them in meaningful ways. Resilience. Teamwork. Respect. Responsibility. Perseverance.</p>
 
 **Highlights**
@@ -73,4 +73,68 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 * <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a>
 * <a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu</a>
 * <a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Mohan</a>
+
+<hr>
+
+#### Taekwondo 
+
+**Taekwondo** (For Boys and Girls)
+
+<p align = "justify">Taekwondo is an effective weaponless art of self-defense that originated from Korea and is one of the Asian martial arts included in the Olympic programme.<p>
+
+<p align = "justify">The Taekwondo CCA at Meridian Primary School aims to build students’ physical fitness and students’ foundation in both Taekwondo Pattern (Poomsae) and Sparring (Kyorugi). Taekwondo members will get a chance to participate in the annual competition such as the National Primary Schools Taekwondo Championship or perform during the Year End Prize Presentation ceremony to gain experience and confidence.  </p>
+
+<p align = "justify">Other than learning the technical skill of Taekwondo’s self-defense, students will more importantly learn life values such as respect and discipline through our training. Our training focuses on developing the character of a student in a fun and encouraging way as we strongly believe that good attitude and character will aid a child in his/her learning.</p>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%201.png" style="width:190px;height:250px;float:left;margin: 5px 0px 0px 0px;">
+
+
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%202.png" style="width:310px;height:250px;float:right; margin: 5px 5px 5px 5px;">
+<br>
+<br>
+
+
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%203.png" style="width:250px;height:220px;float:left; margin: 5px 5px 5px 5px;">
+<br>
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%204.png" style="width:250px;height:225px;float:right; margin: 1px 1px 1px 1px;">
+<br>
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%205.jpeg" style="width:250px;height:220px;float:left; margin: 5px 5px 5px 5px;">
+<br>
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%206.jpeg" style="width:250px;height:225px;float:right; margin: 1px 1px 1px 1px;">
+<br>
+<br>
+
+![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%207.jpeg)
+
+**Highlights**
+
+National Primary Schools Taekwondo Championships 2019
+
+* Poomsae Category
+	* Senior Division Blue Belt (Individual) – 4th position (Ai Bo Xuan)
+	* Junior Division Green Tip Belt (Individual) – 8th position (Li Shaorong)
+	* Junior Division Red Belt (Individual) – 8th position (Wee Zun Ya, Delfina)
+
+
+<u>2022</u>
+
+Poomsae Category (Senior Division)
+
+1. Y8 individual girl: 3rd position (Naila Khalisya)
+2. Y8 team girl: 3rd position (Naila Khalisya, Sakpal Tanishka & Jeevana Nandakumar)
+3. Y7 individual boy: 7th position (Rehan Iqbal Khan)
+
+Poomsae Category (Junior Division)
+
+1.  Y7 individual boy: 5th position (Drake Ryder Lee)
+2.  W9 individual girl: 6th position (Keira Lim)
+3.  W9 individual boy: 8th position (Thaddeus Tay)
 
