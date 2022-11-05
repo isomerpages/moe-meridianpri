@@ -21,21 +21,21 @@ description: ""
   <tr>
     <td>1 Integrity</td>
     <td>Form Teacher</td>
-    <td>Mdm Tan Pei Ling <br>
-		Mdm Duan Xiaolu</td>
+    <td><a href ="mailto:tan_pei_ling_a@moe.edu.sg">Mdm Tan Pei Ling</a> <br>
+		<a href = "mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiaolu</a></td>
   </tr>
 	<tr>
     <td>1 Resilience</td>
     <td>Form Teacher</td>
-    <td>Mdm Jessi Qiu Jie Zhi <br>
-		Miss Nurrashidah Bte Norman</td>
+    <td><a href ="mailto:qiu_jie_zhi@moe.edu.sg">Mdm Jessi Qiu Jie Zhi </a><br>
+		<a href ="mailto:nurrashidah_norman@moe.edu.sg">Miss Nurrashidah Bte Norman</a></td>
   </tr>
 	<tr>
     <td>1 Teamwork</td>
     <td>Form Teacher</td>
-    <td>Mdm Zahirah Lyana Binte Mohd Khir<br>
-		Mr Tee Shou Fei<br>
-		Mdm Siti Saleha Bte Salleh</td>
+    <td><a href ="mailto:nurrashidah_norman@moe.edu.sg">Mdm Zahirah Lyana Binte Mohd Khir</a><br>
+		<a href ="mailto:nurrashidah_norman@moe.edu.sg">Mr Tee Shou Fei</a><br>
+		<a href ="mailto:nurrashidah_norman@moe.edu.sg">Mdm Siti Saleha Bte Salleh</a></td>
   </tr>
 </table>
 
