@@ -104,3 +104,7 @@ Public performances
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%207.jpg" style="float:center;">
 <br>
 
+For enquiries on the school’s Malay Dance CCA, please email:<br>
+* <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a>
+* <a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a>
+<hr>
