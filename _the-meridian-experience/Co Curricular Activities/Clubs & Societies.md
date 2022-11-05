@@ -20,3 +20,10 @@ third_nav_title: Co Curricular Activities
 *   Hydroponics planting (hi-tech farming)  
 *   Field-based bird monitoring and research
 
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%201.jpg" style="float:center;">
+<br>
+Pupils in action doing Science experiments
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%202.jpg" style="float:center;">
+<br>
+Pupils in action doing Science experiments
