@@ -108,3 +108,46 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 * <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a>
 * <a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a>
 <hr>
+
+#### Show Choir
+
+**Choir** _(For Boys and Girls)_
+
+<p align = "justify">The Choir CCA is about integrating coordinated modern dance choreography with strong vocal singing skills. Regardless of musical background, we welcome all students who are interested in the CCA, and we provide a platform for them to discover and display their talents in Music, song, dance and leadership. We strive to nurture the passion and confidence for performing in our students by providing them with multiple opportunities both in and out of school.</p>
+
+**Highlights**  
+
+In school performances
+* Chinese New Year celebrations
+* P3-P6 Prize-giving Day
+
+Public performances
+
+*   Meridian Performing Arts Festival@Pasir Ris Public Library
+*   Cerebral Palsy Alliance Singapore as part of Values-In-Action
+*   National Gallery as part of Sing50 event
+*   The Young Talent Showcase @ Tampines Hub
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%201.jpg" style="float:center;">
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%202.jpg" style="float:center;">
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%203.jpg" style="float:center;">
+<p>Choir members practising the dance steps during the CCA sessions.</p>
+
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%204.jpg" style="float:center;">
+<br>
+Choir performance during 2019 Chinese New Year celebrations@Pasir Ris Elias CC.
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%205.jpg" style="float:center;">
+<br>
+Choir performance during 2019 Meridian Arts Festival@Pasir Ris Public Library.
+<br>
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%206.jpg" style="float:center;">
+
+Choir performance during Prize Giving Day 2019.
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%207.jpeg" style="float:center;">
