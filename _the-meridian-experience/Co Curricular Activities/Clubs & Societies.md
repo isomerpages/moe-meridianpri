@@ -65,3 +65,20 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 **Infocomm Technology (Media Production)** _(For Boys and Girls)_
 
 <p align = "justify">At the Photography & Videography Production CCA, students get to learn photography, videography and editing skills. Students are taught to use basic point & shoot cameras and DSLR cameras. Students also get to learn use software such as Corel Video Editor and Windows Movie Maker.</p>
+
+**Highlights**
+
+1.      SMDA (Singapore Media Digital Awards)
+2.      National Primary Schools Photography Competition
+3.      National Photography Festival (Primary Schools)
+
+**Junior Photographer Accreditation**
+![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Tech%20(Media%20Production)/clubs-and-societies-Photo-and-video-1-300x200.jpg)
+
+![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Tech%20(Media%20Production)/clubs-and-societies-Photo-and-video-2-300x200.jpg)
+
+For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
+* <a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung</a>
+* <a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah</a>
+*  <a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho</a>
+<hr>
