@@ -26,8 +26,11 @@ third_nav_title: Student Development
 
 These 3 rules are guided by the <b>Code of Conduct</b> below which states clearly the boundaries of acceptable conduct in school and in society.
 
+
 ![](/images/CCE/Discipline%20in%20Meridian/Code%20of%20Conduct%20(1).jpg)
 
+
 ![](/images/CCE/Discipline%20in%20Meridian/Code%20of%20Conduct%202.jpg)
+
 
 ![](/images/CCE/Discipline%20in%20Meridian/Quote.png)
