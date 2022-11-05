@@ -18,11 +18,9 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
 
 ![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-1.jpg)
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-2-.jpg" style="width:250px;height:200px;float:left;margin: 5px 0px 0px 0px;">
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-2-.jpg" style="width:250px;height:200px;float:right;margin: 5px 0px 0px 0px;">
-
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-2-.jpg" style="float:center;">
 <br>
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-2-.jpg" style="float:center;">
 <br>
 
 ![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-4.jpg)
@@ -33,8 +31,3 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 * <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a>
 * <a href="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen</a>
 <hr>
-
-
-
-
-
