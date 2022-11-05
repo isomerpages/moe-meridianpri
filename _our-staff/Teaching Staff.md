@@ -165,26 +165,26 @@ description: ""
   <tr>
     <td>5 Care</td>
     <td>Form Teacher</td>
-    <td>Miss Kirenjit Kaur <br>
-		Mdm Nor Fardilah Bte Md Nasir</td>
+    <td><a href ="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg">Miss Kirenjit Kaur </a><br>
+		<a href ="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah Bte Md Nasir</a></td>
   </tr>
   <tr>
     <td>5 Responsibility</td>
     <td>Form Teacher</td>
-    <td>Mdm Noor Heryanti Bte Abdul Karim <br>
-		Mr Ng Yin Hung</td>
+    <td><a href ="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Noor Heryanti Bte Abdul Karim </a><br>
+		<a href ="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung</a></td>
   </tr>
 	<tr>
     <td>5 Resilience</td>
     <td>Form Teacher</td>
-    <td>Mdm Tay Wan Boon Stephanie<br>
-		Miss Norhaida Bte Kamaludin <br></td>
+    <td><a href ="mailto:tay_wan_boon@moe.edu.sg">Mdm Tay Wan Boon Stephanie</a><br>
+		<a href ="mailto:norhaida_kamaludin@moe.edu.sg">Miss Norhaida Bte Kamaludin </a><br></td>
   </tr>
 	<tr>
     <td>5 Respect</td>
     <td>Form Teacher</td>
-    <td>Mr Nur Shahid Bin Ahmad <br>
-		Mdm Low Hwee Miang</td>
+    <td><a href ="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Nur Shahid Bin Ahmad </a><br>
+		<a href ="mailto:low_hwee_miang_a@moe.edu.sg">Mdm Low Hwee Miang</a></td>
   </tr>
 </table>
 
@@ -198,28 +198,28 @@ description: ""
   <tr>
     <td>6 Responsiblility</td>
     <td>Form Teacher</td>
-    <td>Miss Juliana Bte Jalil <br>
-		Mr Jeyamohan Ramsami</td>
+    <td><a href ="mailto:juliana_jalil@moe.edu.sg">Miss Juliana Bte Jalil </a><br>
+		<a href ="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Jeyamohan Ramsami</a></td>
   </tr>
   <tr>
     <td>6 Resilience</td>
     <td>Form Teacher</td>
-    <td>Mdm Mastura Bte Yaacob <br>
-		Mdm Noorhafidzah Bte Shaffi <br>
-		Mdm Tang Tsin Ray</td>
+    <td><a href ="mailto:mastura_yaacob@moe.edu.sg">Mdm Mastura Bte Yaacob </a><br>
+		<a href ="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi </a><br>
+		<a href ="mailto:tang_tsin_ray@moe.edu.sg">Mdm Tang Tsin Ray</a></td>
   </tr>
 	<tr>
     <td>6 Respect</td>
     <td>Form Teacher</td>
-    <td>Mdm Jane Chen Chai Ying<br>
-		Mr Muhammad Raziz Bin Abdul Razak <br></td>
+    <td><a href ="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen Chai Ying</a><br>
+		<a href ="mailto:Muhammad_Raziz_Abdul_Razak@moe.edu.sg">Mr Muhammad Raziz Bin Abdul Razak</a> <br></td>
   </tr>
 	<tr>
     <td>6 Teamwork</td>
     <td>Form Teacher</td>
-    <td>Mdm Nurizan Binte Abd Wahab <br>
-		Mdm Tang Li Hwa <br>
-		Mr Zulkarnai Bin Zulkifi</td>
+    <td><a href ="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan Binte Abd Wahab</a> <br>
+		<a href ="mailto:tang_li_hwa@moe.edu.sg">Mdm Tang Li Hwa </a><br>
+		<a href ="mailto:zulkarnai_zulkifli@moe.edu.sg">Mr Zulkarnai Bin Zulkifi</a></td>
   </tr>
 </table>
 
