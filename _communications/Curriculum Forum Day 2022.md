@@ -12,22 +12,61 @@ description: ""
 <p align = "justify">We look forward to meeting and engaging our parent participants.</p>
 
 #### Programme Outline
-
+<hr>
 <table>
+	<tr>
+    <th>Primary 1 & Primary 2</th>
+    <th>Primary 3 & Primary 4</th>
+    <th>Primary 5 & Primary 6</th>
+  </tr>
  <tr>
-  <td colspan="3">&nbsp;</td>
-  <td>&nbsp;</td>
+  <td colspan="3" align = "center">Zoom Session Registration<br>(0800 - 0830)</td>
  </tr>
  <tr>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-	 <td>&nbsp;</td>
+  	 <td colspan="3" align = "center">Year Heads' Sharing   
+on Level Matters</td>
  </tr>
  <tr>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-	 <td>&nbsp;</td>
+  <td>Curriculum Sharing  
+(0915-0955) - 40min;</td>
+  <td>Curriculum Sharing  
+(0915-0955) - 40min</td>
+  <td>(Briefing on subject-based banding, DSA and PSLE matters)   
+(0915-1015) - 60mins</td>
+ </tr>
+	 <tr>
+  	 <td colspan="3" align = "center">Break (15min)</td>
+ </tr>
+	 <tr>
+  <td>Curriculum Sharing  
+(1010-1050) - 40min</td>
+  <td>(1010-1100) - 50mins</td>
+  <td>Curriculum Sharing  
+(1030-1110) - 40min</td>
+ </tr>
+	<tr>
+  	 <td colspan="3" align = "center">Break (15min)</td>
+ </tr>
+	<tr>
+  <td>Curriculum Sharing   
+(1105-1145) - 40mins</td>
+  <td>Curriculum Sharing  
+(1115-1155) - 40min</td>
+  <td>Curriculum Sharing  
+(1125-1205) - 40min</td>
+ </tr>
+	<tr>
+  	 <td colspan="3" align = "center">Break (15min)</td>
+ </tr>
+	<tr>
+  <td>(with PSG sharing)   
+(1200-1230) - 30mins</td>
+  <td>Curriculum Sharing   
+(1210-1310) - 60mins</td>
+  <td>Curriculum Sharing   
+(1220-1320) - 60mins</td>
  </tr>
 </table>
+<hr>
+
+\***Note:** Coverage of curriculum matters on Chinese Language, Malay Language and Tamil Language will be presented in English.
