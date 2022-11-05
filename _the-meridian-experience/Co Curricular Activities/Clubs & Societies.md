@@ -28,8 +28,8 @@ Pupils in action doing Science experiments
 <br>
 Pupils in action doing Science experiments
 
-For enquiries on the school’s Chinese Dance CCA, please email:<br>
+For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 * <a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a>
 * <a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan</a>
-* * <a href="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Peony Wong</a>
+*  <a href="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Peony Wong</a>
 <hr>
