@@ -20,10 +20,10 @@ description: ""
     <th>Primary 5 & Primary 6</th>
   </tr>
  <tr>
-  <td colspan="3" align = "center">Zoom Session Registration<br>(0800 - 0830)</td>
+  <td colspan="3" style="text-align:center">Zoom Session Registration<br>(0800 - 0830)</td>
  </tr>
  <tr>
-  	 <td colspan="3" align = "center">Year Heads' Sharing   
+  	 <td colspan="3" style="text-align:center">Year Heads' Sharing   
 on Level Matters<br>
 	 (Primary 1 & Primary 2)<br>
 	 (Primary 3 & Primary 4)<br>
@@ -38,7 +38,7 @@ on Level Matters<br>
 (0915-1015) - 60mins</td>
  </tr>
 	 <tr>
-  	 <td colspan="3" align = "center">Break (15min)</td>
+  	 <td colspan="3" style="text-align:center">Break (15min)</td>
  </tr>
 	 <tr>
   <td>English Language Curriculum Sharing  
@@ -48,7 +48,7 @@ on Level Matters<br>
 (1030-1110) - 40min</td>
  </tr>
 	<tr>
-  	 <td colspan="3" align = "center">Break (15min)</td>
+  	 <td colspan="3" style="text-align:center">Break (15min)</td>
  </tr>
 	<tr>
   <td>Mathematics Curriculum Sharing   
@@ -59,7 +59,7 @@ on Level Matters<br>
 (1125-1205) - 40min</td>
  </tr>
 	<tr>
-  	 <td colspan="3" align = "center">Break (15min)</td>
+  	 <td colspan="3" style="text-align:center">Break (15min)</td>
  </tr>
 	<tr>
   <td>School Leaders' Segment (with PSG sharing)<br>
