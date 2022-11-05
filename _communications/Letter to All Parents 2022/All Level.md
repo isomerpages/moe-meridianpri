@@ -18,4 +18,4 @@ third_nav_title: Letter to All Parents 2022
 * <a href="/files/Communications/Letters%20to%20All%20Parents%202022/January%202022/P2%20-%20P6%20ICT%20Matters.pdf">Use of ICT Learning (Primary 2 to 6)</a> (11 January 2022)
 * <a href ="/files/Communications/Letters%20to%20All%20Parents%202022/January%202022/P1%20to%20P5%20Assessment%20Letter.pdf"> P1 to P5 Assessment Plan</a> (26 January 2022)
 * <a href ="/files/Communications/Letters%20to%20All%20Parents%202022/January%202022/P6%20Assessment%20Letter.pdf">P6 Assessment Plan</a> (26 January 2022)
-
+* <a href ="/files/Communications/Letters%20to%20All%20Parents%202022/January%202022/MOE%20Sexuality%20Education%20In%20school.pdf">MOE Sexuality Education In School</a> (26 January 2022)
