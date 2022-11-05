@@ -74,14 +74,14 @@ description: ""
 	<tr>
     <td>2 Respect</td>
     <td>Form Teacher</td>
-    <td>Mdm Maslinda Bte Ahmad <br>
-		Mdm Lee Song Sang</td>
+    <td><a href ="mailto:maslinda_ahmad@moe.edu.sg">Mdm Maslinda Bte Ahmad </a><br>
+		<a href ="mailto:lee_song_sang@moe.edu.sg">Mdm Lee Song Sang</a></td>
   </tr>
 	<tr>
     <td>2 Teamwork</td>
     <td>Form Teacher</td>
-    <td>Mdm Salina Bte Mohd Hassan<br>
-		Mdm Lim Seow Wei</td>
+    <td><a href ="mailto:salina_a@moe.edu.sg">Mdm Salina Bte Mohd Hassan</a><br>
+		<a href ="mailto:lim_seow_wei@moe.edu.sg">Mdm Lim Seow Wei</a></td>
   </tr>
 </table>
 
@@ -96,20 +96,20 @@ description: ""
   <tr>
     <td>3 Care </td>
     <td>Form Teacher</td>
-    <td>Miss Debbie Lim Yong <br>
-		Mdm Roslinah Bte Jem</td>
+    <td><a href ="mailto:lim_lee_yong@moe.edu.sg">Miss Debbie Lim Yong </a><br>
+			<a href ="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a></td>
   </tr>
   <tr>
     <td>3 Responsibility</td>
     <td>Form Teacher</td>
-    <td>Mdm Jaime Hoi Hui Yee <br>
-		Mdm Syedama d/o Syeed Ibrahim</td>
+    <td>	<a href ="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi Hui Yee </a><br>
+			<a href ="mailto:syedama_syeed_ibrahim@moe.edu.sg">Mdm Syedama d/o Syeed Ibrahim</a></td>
   </tr>
 	<tr>
     <td>3 Resilience</td>
     <td>Form Teacher</td>
-    <td>Mdm Sharifah Lubna <br>
-		Mr Chen Chuangan Mark <br>
+    <td>	<a href ="mailto:sharifah_lubna@moe.edu.sg">Mdm Sharifah Lubna </a><br>
+			<a href ="mailto:chen_chuangan_mark@moe.edu.sg">Mr Chen Chuangan Mark </a><br>
 		</td>
   </tr>
 </table>
@@ -124,33 +124,33 @@ description: ""
   <tr>
     <td>4 Care</td>
     <td>Form Teacher</td>
-    <td>Mr Clement Tham Jian Wen <br>
-		Mdm Jamaliah Bte Jamal</td>
+    <td><a href ="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham Jian Wen </a><br>
+		<a href ="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah Bte Jamal</a></td>
   </tr>
   <tr>
     <td>4 Integrity</td>
     <td>Form Teacher</td>
-    <td>Mdm Wong Mau Tan Peony <br>
-		Mr Peh Kai Jay</td>
+    <td><a href ="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Wong Mau Tan Peony </a><br>
+		<a href ="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a></td>
   </tr>
 	<tr>
     <td>4 Responsibility</td>
     <td>Form Teacher</td>
-    <td>Mdm Nur Aisyah Binte Ali<br>
-		Mr Jeremy Ho Kwai Ming <br>
+    <td><a href ="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah Binte Ali</a><br>
+		<a href ="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho Kwai Ming</a><br>
 			</td>
   </tr>
 	<tr>
     <td>4 Resilience</td>
     <td>Form Teacher</td>
-    <td>Mr Zahrul Bin Zaiden <br>
-		Mdm LiLi</td>
+    <td><a href ="mailto:zahrul_zaiden@moe.edu.sg">Mr Zahrul Bin Zaiden </a><br>
+		<a href ="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a></td>
   </tr>
 	<tr>
     <td>4 Respect </td>
     <td>Form Teacher</td>
-    <td>Mdm Masayu Bte Mohamed<br>
-		Miss Chua Ee Lyn
+    <td><a href ="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu Bte Mohamed</a><br>
+		<a href ="mailto:chua_ee_lyn@moe.edu.sg">Miss Chua Ee Lyn</a>
 			</td>
   </tr>
 </table>
