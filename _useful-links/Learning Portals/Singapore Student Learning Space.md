@@ -17,31 +17,26 @@ third_nav_title: Learning Portals
 
 
 **Frequently Asked Questions**
-<p align="justify">Q1 : I have forgotten my password. What should I do?</p>
-<p align="justify">3 Ways to reset password.</p>
-<p align="justify">a) Reset via email. Please remember the email address used during your first setup.  If you cannot see the email in your inbox, it may be in the spam or junk email folder.</p>
-
-<p align="justify">b) Reset via answering security questions</p>
-
-<p align="justify">c) Call SLS helpdesk at Tel:  6702 6513</p>
+<p align="justify">Q1 : I have forgotten my password. What should I do?
+<br>3 Ways to reset password.
+<br>a) Reset via email. Please remember the email address used during your first setup.  If you cannot see the email in your inbox, it may be in the spam or junk email folder.
+<br>b) Reset via answering security questions
+<br>c) Call SLS helpdesk at Tel:  6702 6513</p>
 
 
-<p align="justify">Q2 : I have forgotten my username. What should I do?</p>
-<p align="justify">The format of your user name is a combination of the first 5 characters of your Name, the last 4 digits and the letter of your NRIC/FIN/BC, e.g. (RACHE1234Z).</p>
+<p align="justify">Q2 : I have forgotten my username. What should I do?
+<br>The format of your user name is a combination of the first 5 characters of your Name, the last 4 digits and the letter of your NRIC/FIN/BC, e.g. (RACHE1234Z).
+<br>In rare cases, two or more students might share the same 10 characters. In such cases, their username may be affixed with a number, e.g. (RACHE1234Z\_01).
+<br>If you are still not sure of your username, please approach your teacher.</p>
 
-<p align="justify">In rare cases, two or more students might share the same 10 characters. In such cases, their username may be affixed with a number, e.g. (RACHE1234Z\_01).</p>
-
-<p align="justify">If you are still not sure of your username, please approach your teacher.</p>
-
-<p align="justify">Q3 : My account has been locked. What should I do?</p>
-<p align="justify">Your account will be locked after 6 attempts to log in with an incorrect password.  Please approach your teacher to reset your password.</p>
+<p align="justify">Q3 : My account has been locked. What should I do?
+<br>Your account will be locked after 6 attempts to log in with an incorrect password.  Please approach your teacher to reset your password.</p>
 
   
-<p align="justify">Q4 : I used the "Password Reset Link Method" but I cannot find my password reset email. What can I do?</p>
-<p align="justify">If you cannot see the email in your inbox, it may be in the spam or junk email folder. It is also possible that you have not keyed in or verified the email address in SLS. </p>
-
-<p align="justify">Note: The URL in the email will expire within 20 minutes. If the URL has expired, go to the login page and select "Forget Password" to try again.</p>
+<p align="justify">Q4 : I used the "Password Reset Link Method" but I cannot find my password reset email. What can I do?
+<br>If you cannot see the email in your inbox, it may be in the spam or junk email folder. It is also possible that you have not keyed in or verified the email address in SLS. 
+<br>Note: The URL in the email will expire within 20 minutes. If the URL has expired, go to the login page and select "Forget Password" to try again.</p>
   
 
-<p align="justify">Q5 :Can I change the security questions?</p>
-<p align="justify">Students can log in to SLS to change the answers to their security questions. However, the questions are fixed.</p>
+<p align="justify">Q5 :Can I change the security questions?
+<br>Students can log in to SLS to change the answers to their security questions. However, the questions are fixed.</p>
