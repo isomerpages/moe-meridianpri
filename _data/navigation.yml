@@ -16,3 +16,9 @@ links:
     collection: mk-at-meridian
   - title: Useful Links
     collection: useful-links
+  - title: Parents gateway
+    url: /permalink
+    sublinks:
+      - title: PG Meeting Feature User Guide
+        url: /Files/Parents_Gateway_(PG)/Guide_for_End_User_to_Locate
+          their_Data_for_House_Keeping.pdf
