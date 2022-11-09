@@ -179,6 +179,7 @@ Some activities done during CCA:<br>
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%206.jpg" style="width:350px;height:250px;float:center">
 <br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iMz5GF3sE40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For enquiries on the school’s Sport Club CCA, please email:<br>
 * <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a>
