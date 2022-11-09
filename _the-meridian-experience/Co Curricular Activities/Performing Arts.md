@@ -18,9 +18,9 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
 
 ![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-1.jpg)
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-2-.jpg" style="float:center;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-2-.jpg" style="width:350px;height:250px;float:center">
 <br>
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-2-.jpg" style="float:center;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-2-.jpg" style="width:350px;height:250px;float:center">
 <br>
 
 ![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-4.jpg)
@@ -44,10 +44,10 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 
 Accomplishment Award in the 2014 & 2016 SYF
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-1.jpg" style="float:center;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-1.jpg" style="width:350px;height:250px;float:center">
 <br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-2.jpg" style="float:center;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-2.jpg" style="width:350px;height:250px;float:center">
 <br>
 
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-3.jpg" style="float:center;">
@@ -83,19 +83,19 @@ Public performances
 * Pasir Ris Library during Meridian Performing Arts Festival
 * Singapore Youth Festival (SYF)
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%201.png" style="float:center;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%201.png" style="width:350px;height:250px;float:center">
 <br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%202.png" style="float:center;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%202.png" style="width:350px;height:250px;float:center">
 <br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%203.png" style="float:center;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%203.png" style="width:350px;height:250px;float:center">
 <br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%204.png" style="float:center;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%204.png" style="width:350px;height:250px;float:center">
 <br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%205.png" style="float:center;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%205.png" style="width:350px;height:250px;float:center">
 <br>
 
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%206.png" style="float:center;">
@@ -128,29 +128,27 @@ Public performances
 *   National Gallery as part of Sing50 event
 *   The Young Talent Showcase @ Tampines Hub
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%201.jpg" style="float:center;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%201.jpg" style="width:350px;height:250px;float:center">
 <br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%202.jpg" style="float:center;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%202.jpg" style="width:350px;height:250px;float:center">
 <br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%203.jpg" style="float:center;">
-<p>Choir members practising the dance steps during the CCA sessions.</p>
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%203.jpg" style="width:350px;height:250px;float:center">
+<p align = "center">Choir members practising the dance steps during the CCA sessions.</p>
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%204.jpg" style="width:350px;height:250px;float:center">
 
+<p align = "center">Choir performance during 2019 Chinese New Year celebrations@Pasir Ris Elias CC.</p>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%204.jpg" style="float:center;">
-<br>
-Choir performance during 2019 Chinese New Year celebrations@Pasir Ris Elias CC.
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%205.jpg" style="width:350px;height:250px;float:center">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%205.jpg" style="float:center;">
-<br>
-Choir performance during 2019 Meridian Arts Festival@Pasir Ris Public Library.
-<br>
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%206.jpg" style="float:center;">
+<p align = "center">Choir performance during 2019 Meridian Arts Festival@Pasir Ris Public Library.</p>
 
-Choir performance during Prize Giving Day 2019.
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%206.jpg" style="width:350px;height:250px;float:center">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%207.jpeg" style="float:center;">
+<p align = "center">Choir performance during Prize Giving Day 2019.</p>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%207.jpeg" style="width:350px;height:250px;float:center">
 
 For enquiries on the school’s Malay Dance CCA, please email:<br>
 * <a href="mailto:angel_huang@moe.edu.sg">Ms Angel Huang</a>
