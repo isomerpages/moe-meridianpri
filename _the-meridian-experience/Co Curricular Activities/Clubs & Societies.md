@@ -28,6 +28,8 @@ third_nav_title: Co Curricular Activities
 
 <p align = "center">Pupils in action doing Science experiments</p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2nmR69jel_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 * <a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a>
 * <a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan</a>
