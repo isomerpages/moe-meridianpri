@@ -77,5 +77,5 @@ The department adopts the STELLAR (<b>S</b>trategies for <b>E</b>nglish <b>L</
 *   What’s Up: <a href="https://www.whatsup.sg/">https://www.whatsup.sg/</a>
 
 
-<p>For enquiries on the school’s Applied Learning Programme, please email:</p>
+<p>For enquiries on the school’s English Language Department, please email:</p>
 <a href="mailto:neo_jia_hwee@moe.edu.sg">Ms Charlotte Neo Jia Hwee (Head of Department)</a>
