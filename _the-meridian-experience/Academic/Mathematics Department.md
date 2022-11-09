@@ -72,5 +72,5 @@ third_nav_title: Academic
 
 <p align = "center">Maths Play Programme in Term 2 (2017)</p>
 
-<p>For enquiries on the school’s Applied Learning Programme, please email:</p>
+<p>For enquiries on the school’s Mathematic Department, please email:</p>
 <a href="mailto:wong_hoe_shyan@moe.edu.sg">Mr Frankie Wong (Head of Department)</a>
