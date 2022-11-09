@@ -68,6 +68,5 @@ The Conversational Chinese-Malay programme (CCM) is introduced as an enrichment 
 ![](/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT_CPES-1.jpg)
 <p align = "center">Students attending “Wizard of Oz” musical at the Singapore Chinese Cultural Centre. The educational play explores key themes of friendship, courage, love and teamwork, and inspires them to pursue their dreams with perseverance</p>
 
-<p>For enquiries on the school’s Applied Learning Programme, please email:</p>
+<p>For enquiries on the school’s Mother Tongue Department, please email:</p>
 <a href="mailto:anna_lim_lin_lin@moe.edu.sg">Mdm Anna Lim (Head of Department)</a>
-
