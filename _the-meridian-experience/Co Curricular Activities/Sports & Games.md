@@ -135,7 +135,9 @@ Poomsae Category (Junior Division)
 2.  W9 individual girl: 6th position (Keira Lim)
 3.  W9 individual boy: 8th position (Thaddeus Tay)
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SaiTTpJWsqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 For enquiries on the school’s Taekwondo CCA, please email:<br>
 * <a href="mailto:nurrashidah_norman@moe.edu.sg">Ms Shidah</a>
