@@ -49,7 +49,5 @@ To provide our students with the:
     
 *   Sony Creative Toys Competition
 
-<p>For enquiries on the school’s Applied Learning Programme, please email:</p>
+<p>For enquiries on the school’s Science Department, please email:</p>
 <a href="mailto:low_boon_khim@moe.edu.sg">Mr Clarence Low (Head of Department)</a>
-
-
