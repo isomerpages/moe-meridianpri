@@ -20,13 +20,13 @@ third_nav_title: Co Curricular Activities
 *   Hydroponics planting (hi-tech farming)  
 *   Field-based bird monitoring and research
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%201.jpg" style="float:center;">
-<br>
-Pupils in action doing Science experiments
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%201.jpg" style="width:350px;height:250px;float:center">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%202.jpg" style="float:center;">
-<br>
-Pupils in action doing Science experiments
+<p align = "center">Pupils in action doing Science experiments</p>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%202.jpg" style="width:350px;height:250px;float:center">
+
+<p align = "center">Pupils in action doing Science experiments</p>
 
 For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 * <a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a>
@@ -48,10 +48,10 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 *   Drone Programming
 *   Robotics Programming (For advanced learners)
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%201.jpg" style="float:center;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%201.jpg" style="width:450px;height:350px;float:center">
 <br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%202.jpg" style="float:center;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%202.jpg" style="width:450px;height:250px;float:center">
 <br>
 
 For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
@@ -73,9 +73,12 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 3.      National Photography Festival (Primary Schools)
 
 **Junior Photographer Accreditation**
-![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Tech%20(Media%20Production)/clubs-and-societies-Photo-and-video-1-300x200.jpg)
 
-![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Tech%20(Media%20Production)/clubs-and-societies-Photo-and-video-2-300x200.jpg)
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Tech%20(Media%20Production)/clubs-and-societies-Photo-and-video-1-300x200.jpg" style="width:450px;height:250px;float:center">
+<br>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Tech%20(Media%20Production)/clubs-and-societies-Photo-and-video-2-300x200.jpg" style="width:450px;height:250px;float:center">
+
 
 For enquiries on the school’s Photography and Videography CCA, please email:<br>
 * <a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung</a>
@@ -93,11 +96,14 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
 
 <p align = "justify">Art Club collaborates with Pasir Ris NLB in a yearly event, hoping to reach out to the public to share simple Art-making activities and at the same time, helping to promote the Art books available for loan at the library. Apart from that, Art Club members also have the opportunity to take part in the bi-annual Singapore Youth Festival (SYF) Art Competition. Our school has clinched the Certificate of Recognition and a Certificate of Participation in the 2019 SYF for the two Art works we submitted.</p>
 
-![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/AC%201.jpg)
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/AC%201.jpg" style="width:450px;height:280px;float:center">
 
-![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/AC%202.jpg)
+<br>
 
-![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/AC%203.png)
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/AC%202.jpg" style="width:450px;height:280px;float:center">
+
+<br>
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/AC%203.png" style="width:250px;height:350px;float:center">
 
 ![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/AC%204.jpg)
 
