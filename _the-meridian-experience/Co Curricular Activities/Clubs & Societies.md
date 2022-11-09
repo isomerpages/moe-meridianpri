@@ -113,6 +113,8 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
 
 ![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/AC%204.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C7HWyVEl6hs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 For enquiries on the school’s  Art Club CCA, please email:<br>
 * <a href="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah</a>
 * <a href="mailto:siti_saleha_salleh_a@moe.edu.sg">Mdm Siti Saleha Bte Salleh</a>
