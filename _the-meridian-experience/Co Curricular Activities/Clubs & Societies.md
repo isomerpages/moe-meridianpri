@@ -56,6 +56,8 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%202.jpg" style="width:450px;height:250px;float:center">
 <br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AIP-mk5-sF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 * <a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi</a>
 * <a href="mailto:norhaida_kamaludin@moe.edu.sg">Mdm Norhaida Kamaludin</a>
@@ -80,7 +82,9 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 <br>
 
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Tech%20(Media%20Production)/clubs-and-societies-Photo-and-video-2-300x200.jpg" style="width:450px;height:250px;float:center">
+<br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QkFtyFj37kQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For enquiries on the school’s Photography and Videography CCA, please email:<br>
 * <a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung</a>
