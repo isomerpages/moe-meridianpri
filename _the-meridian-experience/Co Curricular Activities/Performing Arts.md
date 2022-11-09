@@ -58,6 +58,8 @@ Accomplishment Award in the 2014 & 2016 SYF
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-4.jpg" style="float:center;">
 <br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xLcDKXd4GJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 For enquiries on the school’s Chinese Dance CCA, please email:<br>
 * <a href="mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiaolu</a>
 * <a href="mailto:lim_lee_yong@moe.edu.sg">Ms Debbie Lim</a>
@@ -153,6 +155,9 @@ Public performances
 <p align = "center">Choir performance during Prize Giving Day 2019.</p>
 
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%207.jpeg" style="width:350px;height:250px;float:center">
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YQdiFHXM7Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For enquiries on the school’s Malay Dance CCA, please email:<br>
 * <a href="mailto:angel_huang@moe.edu.sg">Ms Angel Huang</a>
