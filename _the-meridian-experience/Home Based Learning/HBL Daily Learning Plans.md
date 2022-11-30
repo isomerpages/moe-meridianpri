@@ -13,7 +13,7 @@ Dear Students
 	     
 <br><span style="background-color: transparent; text-align: center; color: rgb(34, 34, 34);"><b>For&nbsp;</b></span><b style="color: rgb(34, 34, 34); text-align: center;">P1 to P5 on 12 and 13 August 2021</b><span style="text-align: center; background-color: transparent; color: rgb(34, 34, 34);"><b><br></b></span><font size="2">
 </font>
-<table style="width: 548px; height: 102px;" class="iveo_table ive_eobj_center ives_tab_1">
+<table style="width: 648px; height: 102px;" class="iveo_table ive_eobj_center ives_tab_1">
 <tbody>
 <tr>
 <td style="width: 184px;">
