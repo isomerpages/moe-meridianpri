@@ -10,8 +10,8 @@ third_nav_title: Prize Giving Day 2022
 	<tr>
         <td style="text-align:center"><a href="https://photos.google.com/u/1/share/AF1QipNfDmkUL4pRMjl8-foS1kgAKwkXqsU_De_9c-LrKZJN5jpH7hZe3KrhVN6Qs09ClA/photo/AF1QipOv3qtLSOGJYWjXEUe_jx4k7dpKhmcHFtvJ8VyI?key=cm5lamlTNGtEZlREMTVscTRSaTAxVkdxZnlnY0VB">
 					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/1CA.jpg" width="20">P1 Care</a></td>
-        <td style="text-align:center">
-	<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/1IN.jpg" width="10">P1 Integrity</td>
+        <td style="text-align:center"><a href="https://photos.google.com/u/1/share/AF1QipOaqCNssjpphIzBdwLOBXHckqAKc22N_-cNRHo8suwBq7aurQlVS5tEShXiA7JbFw/photo/AF1QipO5mTmFvahy2N4Uunpf79HWE1xny0BoN0tEKCbT?key=YmstMjYtaHJUZE1fNVZPUHFQaFQtRXFpdWF2UUVR">
+	<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/1IN.jpg" width="10">P1 Integrity</a></td>
         <td style="text-align:center">
 	<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/1RS.jpg" width="20">P1 Resilience</td>
     </tr>
