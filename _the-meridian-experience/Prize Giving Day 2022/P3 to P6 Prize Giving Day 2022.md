@@ -62,3 +62,8 @@ third_nav_title: Prize Giving Day 2022
         <td style="text-align:center"></td>
     </tr>
 </table>
+<hr>
+<h3>Video</h3>
+
+<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/Prize giving day wide format-01_8 Nov 2022_10pm.jpg"  style="max-width: 80%;">
+<center><b><a href="https://www.youtube.com/watch?v=c89kNIiloLA&feature=youtu.be">2022 P3 to P6 Prize Giving Day</a></b></center>
