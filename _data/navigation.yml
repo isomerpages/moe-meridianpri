@@ -1,12 +1,7 @@
 logo: /images/Meridian-logo_2.ico
 links:
-  - title: Parents gateway
-    url: /permalink
-    sublinks:
-      - title: PG Meeting Feature User Guide
-        url: /files/Useful%20Link/Parents%20Gateway/Guide%20for%20End%20User%20to%20Locate%20their%20Data%20for%20House%20Keeping.pdf
-  - title: Useful Links
-    collection: useful-links
+  - title: Home
+    url: https://staging.dwna1etcg5x8g.amplifyapp.com/
   - title: About Us
     collection: about-us
   - title: Our Staff
@@ -19,5 +14,10 @@ links:
     collection: communications
   - title: MK@Meridian
     collection: mk-at-meridian
-  - title: Home
-    url: https://staging.dwna1etcg5x8g.amplifyapp.com/
+  - title: Useful Links
+    collection: useful-links
+  - title: Parents gateway
+    url: /permalink
+    sublinks:
+      - title: PG Meeting Feature User Guide
+        url: /files/Useful%20Link/Parents%20Gateway/Guide%20for%20End%20User%20to%20Locate%20their%20Data%20for%20House%20Keeping.pdf
