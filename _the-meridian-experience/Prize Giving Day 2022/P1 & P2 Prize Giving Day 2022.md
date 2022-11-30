@@ -20,14 +20,14 @@ third_nav_title: Prize Giving Day 2022
 					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/1TW.jpg" width="20">P1 Teamwork</a></td>
         <td style="text-align:center"><a href="https://photos.google.com/u/1/share/AF1QipPtfGMjFeGq_VvqfFVPz_NIz8ljfYlpBoO2WXTrdy-ts_shPP22uNjxY4lCpOgEmg/photo/AF1QipNERk0sDqyYqTydNvb6lvOXu_nrjC7pT0zrVhBf?key=UzlRQS1NMUpxeThBaEVBZ2UwYXIxVXhqQU5KOVZ3">
 					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2CA.jpg" width="20">P2 Care</a></td>
-        <td style="text-align:center">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2IN.jpg" width="20">P2 Integrity</td>
+        <td style="text-align:center"><a href="https://photos.google.com/u/1/share/AF1QipP5exHe1iJmI6jtjuCTSIhQ05G1SNCUY63VRt9sumTGc1hvva6NGKlUdA01J9eJcA/photo/AF1QipNqv4AtNtivr3F0dzET5oBPStmnxJK7FSXswlUY?key=Y0N0eDVnSmgwdVZSM3RPemc5ajlTVTR5RDJjLUJ3">
+					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2IN.jpg" width="20">P2 Integrity</a></td>
     </tr>
 	<tr>
-        <td style="text-align:center">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2RB.jpg" width="20">P2 Responsibility</td>
-        <td style="text-align:center">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2RS.jpg" width="20">P2 Resilience</td>
+        <td style="text-align:center"><a href="https://photos.google.com/u/1/share/AF1QipPrGS4-wavOfMqDdbHj3Id4UP1nEc-HfcH0gHyKM9E5CJoczQhfu0xNDoPad22-IA/photo/AF1QipPe90ajBp-OVet7EiPidef7wLwsLgbl21gFDwvj?key=NVRfVF9lUmNnaUo5WDVRbF9CSGxNaE4zdXY2Y0hB">
+					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2RB.jpg" width="20">P2 Responsibility</a></td>
+        <td style="text-align:center"><a href="https://photos.google.com/u/1/share/AF1QipMGqF0ShBlWB06RAQ67xeURZpQWnJr7Gv5C9VjOIY7BztUDU5dhwwQATKfpY4UsFg/photo/AF1QipNMpSOWgy489d1PKgwxamS2C-uetpwtcLMoj5QV?key=MEpKeUJjclU3SkpHbF9Kb1NseldJVWxMWk03ZXp3">
+					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2RS.jpg" width="20">P2 Resilience</a></td>
         <td style="text-align:center">
 					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2RT.jpg" width="20">P2 Respect</td>
     </tr>
