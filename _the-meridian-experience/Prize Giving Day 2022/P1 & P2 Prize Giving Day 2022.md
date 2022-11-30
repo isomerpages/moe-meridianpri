@@ -8,8 +8,8 @@ third_nav_title: Prize Giving Day 2022
 
 <table style="width:100%">
 	<tr>
-        <td style="text-align:center">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/1CA.jpg" width="20">P1 Care</td>
+        <td style="text-align:center"><a href="default.asp">
+					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/1CA.jpg" width="20">P1 Care</a></td>
         <td style="text-align:center">
 	<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/1IN.jpg" width="10">P1 Integrity</td>
         <td style="text-align:center">
