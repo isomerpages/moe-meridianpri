@@ -19,13 +19,13 @@ third_nav_title: Prize Giving Day 2022
         <td style="text-align:center">
 					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/1TW.jpg" width="20">P1 Teamwork</td>
         <td style="text-align:center">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/1RS.jpg" width="20">P1 Resilience</td>
-        <td style="text-align:center">
 					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2CA.jpg" width="20">P2 Care</td>
+        <td style="text-align:center">
+					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2IN.jpg" width="20">P2 Integrity</td>
     </tr>
 	<tr>
         <td style="text-align:center">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2IN.jpg" width="20">P2 Integrity</td>
+					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2RB.jpg" width="20">P2 Responsibility</td>
         <td style="text-align:center">
 					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2RS.jpg" width="20">P2 Resilience</td>
         <td style="text-align:center">
