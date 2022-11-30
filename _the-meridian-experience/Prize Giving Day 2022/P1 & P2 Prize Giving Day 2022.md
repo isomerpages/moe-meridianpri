@@ -28,12 +28,12 @@ third_nav_title: Prize Giving Day 2022
 					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2RB.jpg" width="20">P2 Responsibility</a></td>
         <td style="text-align:center"><a href="https://photos.google.com/u/1/share/AF1QipMGqF0ShBlWB06RAQ67xeURZpQWnJr7Gv5C9VjOIY7BztUDU5dhwwQATKfpY4UsFg/photo/AF1QipNMpSOWgy489d1PKgwxamS2C-uetpwtcLMoj5QV?key=MEpKeUJjclU3SkpHbF9Kb1NseldJVWxMWk03ZXp3">
 					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2RS.jpg" width="20">P2 Resilience</a></td>
-        <td style="text-align:center">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2RT.jpg" width="20">P2 Respect</td>
+        <td style="text-align:center"><a href="https://photos.google.com/u/1/share/AF1QipPCl-kMTox6Ht8dQYFw3Fbbg8bZh8FzPRPkUEEJ3Qu1hUJEeC8bCmxKnQYYtYzdrA/photo/AF1QipMRbZoJP7eVbxoDOr7dk3Du9u7ha6wkISNZ9Enm?key=a0R3WFc4bzBiRjNuTkJUMnFSdEdfT1NzWGk3VXBB">
+					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2RT.jpg" width="20">P2 Respect</a></td>
     </tr>
 	<tr>
-        <td style="text-align:center">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2TW.jpg" width="20">P2 Teamwork</td>
+        <td style="text-align:center"><a href="https://photos.google.com/u/1/share/AF1QipOOCo4wFEVtPeg0AVfeWkA5pbCSe-amf6FzcAEKKJzfTWT4abi9gUrS-ixSIPUAlg/photo/AF1QipMfNnbgCRJLdCvcuCe-n2x7nhIWQkHkGNTRO_ey?key=UjB0ckVJRWFiUHRSUnVaRHM2TjN1V0xleFE3eFFB">
+					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2TW.jpg" width="20">P2 Teamwork</a></td>
         <td></td>
         <td></td>
     </tr>
