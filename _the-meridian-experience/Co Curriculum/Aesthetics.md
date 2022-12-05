@@ -178,5 +178,5 @@ Every child a ‘Performer’
 
 <p align = "center">Show Chair Performance @National Gallery Singapore 2016</p>
 
-<p>For enquiries on the school’s Applied Learning Programme, please email:</p>
+<p>For enquiries on the school’s Aesthetics, please email:</p>
 <a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mrs Sharon Tng (Head of Department)</a>
