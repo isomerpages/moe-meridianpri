@@ -53,5 +53,5 @@ third_nav_title: Co Curriculum
 
 ![](/images/The%20Meridian%20Experience/PE%20Dept/PE-swim-safer-programme.jpg)
 
-<p>For enquiries on the school’s Applied Learning Programme, please email:</p>
+<p>For enquiries on the school’s Physical Education, please email:</p>
 <a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mrs Sharon Tng (Head of Department)</a>
