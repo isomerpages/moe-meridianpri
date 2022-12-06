@@ -30,3 +30,6 @@ Schoolbag.sg  – MOE’s Education News Site – provides parents, educators a
 
 <a href = "">Read more</a>
 
+#### STEPS
+
+To register to see STEPS user guide <a href = "">click here</a>
