@@ -47,4 +47,8 @@ Parents could set a good example at home in the use of technology and play an ac
 	<li>March 2020: Be safe, be smart, be kind. <a href = "https://www.youtube.com/watch?v=gq5S77jZeIc">Watch Video</a></li>
 	<li>April 2020:  How do we act when we are on the internet.<a href = "https://www.youtube.com/watch?v=0u6-2aCea-M">Watch Video</a></li>
 	<li>Jun 2020:  Cyber wellness tips during home-based learning.<a href = "/files/Communications/Resources%20for%20Parents/Cyber%20Wellness/CW%20for%20HBL.pdf">See Tips</a></li>
+<li>July 2020:  How to spot and stop fake news.<a href = "https://www.betterinternet.sg/Resources/Resources-Listing/Fact-checking-tips">Learn how to</a></li>
+<li>August 2020:  Parental controls apps.<a href = "https://www.betterinternet.sg/Resources/Resources-Listing/Parents---Parental-control-apps">Learn how to</a></li>
+<li>Septeber 2020:  Screen time.<a href = "https://drive.google.com/file/d/1MItQ9I7PIF0s7pGMbfA8Wk2Z9EW4cwYZ/view">Watch Video</a></li>
+<li>October 2020:  Think before you share.<a href = "https://www.betterinternet.sg/-/media/Resources/PDFs/Youth-Guides/MLC-FB-MediaSmart--Think-Before-You-Share.pdf">See Guide</a></li>
 </ul> </details>
