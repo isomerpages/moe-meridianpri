@@ -10,7 +10,7 @@ MOE has developed the following resources to support parents on:
     
 *   nurture the social and emotional skills that build up the resilience in their children
 
-1) Building Resilience in Your Child
+1) <a href = "/files/Communications/Resources%20for%20Parents/Resilience.pdf">Building Resilience in Your Child</a>
 * Outline
 * Qualities of a child who shows resilience
 * Resilience-fostering interactions
@@ -26,7 +26,7 @@ MOE has developed the following resources to support parents on:
 	<dd>- building “emotional strengths”</dd>
 </dl>
 
-2) Supporting your Child’s Transition
+2) <a href = "/files/Communications/Resources%20for%20Parents/Transition.pdf">Supporting your Child’s Transition</a>
 *   Primary 1  
 *   Primary 5 or 6  
 *   Secondary school  
