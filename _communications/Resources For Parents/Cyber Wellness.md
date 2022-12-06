@@ -33,3 +33,10 @@ Parents could set a good example at home in the use of technology and play an ac
 *   [CW Resources, Guides and Tips, and Useful Links](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents)  
     
 *   [MOE’s Social Media Posts](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/social-media-posts)
+
+2.  Since March 2017, the CW team at Meridian also initiated monthly CW messages for parents in the form of useful articles and/or tips.
+
+<details> <summary>2021</summary> <ul>
+  <li>Term 1 2021:  Parental controls. See guide</li>
+  <li>Term 2 2021: What is cyber bullying?  Why does it matter? Find out</li>
+</ul>  </details>
