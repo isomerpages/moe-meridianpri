@@ -56,12 +56,12 @@ Parents could set a good example at home in the use of technology and play an ac
 
 <details> <summary>2019</summary> <ul>
   <li>January 2019:  Setting parental controls on your child's device.<a href = "https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/parental-controls">See Tips</a></li>
-  <li>February 2020:  Safer Internet Day 2020. <a href = "https://www.saferinternetday.org/">Find out</a></li>
-	<li>March 2020: Be safe, be smart, be kind. <a href = "https://www.youtube.com/watch?v=gq5S77jZeIc">Watch Video</a></li>
-	<li>April 2020:  How do we act when we are on the internet.<a href = "https://www.youtube.com/watch?v=0u6-2aCea-M">Watch Video</a></li>
-	<li>Jun 2020:  Cyber wellness tips during home-based learning.<a href = "/files/Communications/Resources%20for%20Parents/Cyber%20Wellness/CW%20for%20HBL.pdf">See Tips</a></li>
-<li>July 2020:  How to spot and stop fake news.<a href = "https://www.betterinternet.sg/Resources/Resources-Listing/Fact-checking-tips">Learn how to</a></li>
-<li>August 2020:  Parental controls apps.<a href = "https://www.betterinternet.sg/Resources/Resources-Listing/Parents---Parental-control-apps">Learn how to</a></li>
-<li>Septeber 2020:  Screen time.<a href = "https://drive.google.com/file/d/1MItQ9I7PIF0s7pGMbfA8Wk2Z9EW4cwYZ/view">Watch Video</a></li>
-<li>October 2020:  Think before you share.<a href = "https://www.betterinternet.sg/-/media/Resources/PDFs/Youth-Guides/MLC-FB-MediaSmart--Think-Before-You-Share.pdf">See Guide</a></li>
+  <li>February 2019:  Safer Internet Day 2019. <a href = "https://www.saferinternet.org.uk/blog/new-resources-3-18-year-olds-looking-consent-online-safer-internet-day">See Guide</a></li>
+	<li>March 2019: Express appropriately online. <a href = "/files/Communications/Resources%20for%20Parents/Cyber%20Wellness/2019%20Connect%20T1%20Parents%20Tipsheet.pdf">See Tips</a></li>
+	<li>April 2019:  5 Short clips on falsehoods.<a href = "https://www.youtube.com/watch?v=r3W0iInFJ6E&list=PLeJJPJHVn6KueBFn4u0QH9Q0Jlo1MEMxw">Watch Video</a></li>
+	<li>May 2019:  Going safe online.<a href = "https://www.csa.gov.sg/gosafeonline/resources/cyber-tips-4-you-flyer">See Tips</a></li>
+<li>July 2019:  How to stay safe on public WiFi.<a href = "https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/how-to-stay-safe-on-public-wi-fi">Learn how to</a></li>
+<li>August 2019:  Be internet awesome.<a href = "https://www.blog.google/technology/families/be-internet-awesome-helping-kids-make-smart-decisions-online/">Find out</a></li>
+<li>September 2019:  Copyright laws.<a href = "https://www.youtube.com/watch?v=suMza6Q8J08">Watch Video</a></li>
+<li>October 2019:  Internet Quiz.<a href = "https://www.commonsensemedia.org/blog/why-you-probably-shouldnt-take-that-facebook-quiz">See Tips</a></li>
 </ul> </details>
