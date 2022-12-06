@@ -40,3 +40,8 @@ Parents could set a good example at home in the use of technology and play an ac
   <li>Term 1 2021:  Parental controls. <a href = "/files/Communications/Resources%20for%20Parents/Cyber%20Wellness/Parental%20Control%20Resource_Term1_%202021.pdf">See guide</a></li>
   <li>Term 2 2021: What is cyber bullying?  Why does it matter? <a href = "/files/Communications/Resources%20for%20Parents/Cyber%20Wellness/CW%20Message%20-%20Term%202%202021.pdf">Find out</a></li>
 </ul> </details>
+
+<details> <summary>2020</summary> <ul>
+  <li>January 2020:  First phone <a href = "https://www.youtube.com/watch?v=2reBGK-1zC4&feature=youtu.be">Watch Video</a></li>
+  <li>February 2020:  Safer Internet Day 2020. <a href = "https://www.saferinternetday.org/">Find out</a></li>
+</ul> </details>
