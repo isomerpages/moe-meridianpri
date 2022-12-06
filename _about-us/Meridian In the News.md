@@ -28,3 +28,14 @@ Aditya Harihar from 5RB was featured in National Chinese Daily, Lian He Zao Bao 
 ![](/images/About%20As/Meridian%20in%20the%20News/Meridian-in-the-news-ST_20160808_NSACTIVE0877Y3_2499630-300x200.jpg)
 
 Meridian Primary School celebrated our nation 51st birthday  by going sporty. <a href = "http://www.straitstimes.com/singapore/education/sports-fun-for-national-day">Read More</a>
+
+<hr>
+
+### Minister Enjoys Visit to Meridian Primary School!
+
+<center>11 June 2016</center>
+
+![](/images/About%20As/Meridian%20in%20the%20News/Meridian-in-the-news-minister.png)
+
+Minister Ng Chee Meng visited Meridian Primary School for a heart-to-heart chat about things that matter to them. It was an enjoyable and fruitful day as they talked to him candidly about their joys,fears and challenges. His visit was created into a <a href = "https://www.facebook.com/NgCheeMengforSG/videos/1116601255027273"> video</a> called ‘Kids Talk’. Enjoy !
+
