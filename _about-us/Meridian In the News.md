@@ -38,4 +38,3 @@ Meridian Primary School celebrated our nation 51st birthday  by going sporty. <
 ![](/images/About%20As/Meridian%20in%20the%20News/Meridian-in-the-news-minister.png)
 
 Minister Ng Chee Meng visited Meridian Primary School for a heart-to-heart chat about things that matter to them. It was an enjoyable and fruitful day as they talked to him candidly about their joys,fears and challenges. His visit was created into a <a href = "https://www.facebook.com/NgCheeMengforSG/videos/1116601255027273"> video</a> called ‘Kids Talk’. Enjoy !
-
