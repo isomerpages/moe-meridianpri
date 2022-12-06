@@ -25,3 +25,12 @@ MOE has developed the following resources to support parents on:
 	<dd>- building positive social skills</dd>
 	<dd>- building “emotional strengths”</dd>
 </dl>
+
+2) Supporting your Child’s Transition
+*   Primary 1  
+    
+*   Primary 5 or 6  
+    
+*   Secondary school  
+    
+*   Upper secondary
