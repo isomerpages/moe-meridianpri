@@ -25,4 +25,6 @@ Aditya Harihar from 5RB was featured in National Chinese Daily, Lian He Zao Bao 
 ### Sports Fun for National Day at Meridian
 <center>8 August 2016</center>
 
+![](/images/About%20As/Meridian%20in%20the%20News/Meridian-in-the-news-ST_20160808_NSACTIVE0877Y3_2499630-300x200.jpg)
 
+Meridian Primary School celebrated our nation 51st birthday  by going sporty. <a href = "http://www.straitstimes.com/singapore/education/sports-fun-for-national-day">Read More</a>
