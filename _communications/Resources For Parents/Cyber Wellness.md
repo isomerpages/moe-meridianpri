@@ -55,7 +55,7 @@ Parents could set a good example at home in the use of technology and play an ac
 
 
 <details> <summary>2019</summary> <ul>
-  <li>January 2020:  First phone <a href = "https://www.youtube.com/watch?v=2reBGK-1zC4&feature=youtu.be">Watch Video</a></li>
+  <li>January 2019:  Setting parental controls on your child's device.<a href = "https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/parental-controls">See Tips</a></li>
   <li>February 2020:  Safer Internet Day 2020. <a href = "https://www.saferinternetday.org/">Find out</a></li>
 	<li>March 2020: Be safe, be smart, be kind. <a href = "https://www.youtube.com/watch?v=gq5S77jZeIc">Watch Video</a></li>
 	<li>April 2020:  How do we act when we are on the internet.<a href = "https://www.youtube.com/watch?v=0u6-2aCea-M">Watch Video</a></li>
