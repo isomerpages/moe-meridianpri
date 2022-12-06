@@ -64,4 +64,5 @@ Parents could set a good example at home in the use of technology and play an ac
 <li>August 2019:  Be internet awesome.<a href = "https://www.blog.google/technology/families/be-internet-awesome-helping-kids-make-smart-decisions-online/">Find out</a></li>
 <li>September 2019:  Copyright laws.<a href = "https://www.youtube.com/watch?v=suMza6Q8J08">Watch Video</a></li>
 <li>October 2019:  Internet Quiz.<a href = "https://www.commonsensemedia.org/blog/why-you-probably-shouldnt-take-that-facebook-quiz">See Tips</a></li>
+<li>November 2019:  Video games addictions:<a href = "https://www.webmd.com/mental-health/addiction/video-game-addiction#1">Read article</a></li>
 </ul> </details>
