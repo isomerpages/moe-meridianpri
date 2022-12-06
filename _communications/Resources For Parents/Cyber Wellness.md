@@ -37,6 +37,6 @@ Parents could set a good example at home in the use of technology and play an ac
 2.  Since March 2017, the CW team at Meridian also initiated monthly CW messages for parents in the form of useful articles and/or tips.
 
 <details> <summary>2021</summary> <ul>
-  <li>Term 1 2021:  Parental controls. See guide</li>
-  <li>Term 2 2021: What is cyber bullying?  Why does it matter? Find out</li>
-</ul>  </details>
+  <li>Term 1 2021:  Parental controls. <a href = "/files/Communications/Resources%20for%20Parents/Cyber%20Wellness/Parental%20Control%20Resource_Term1_%202021.pdf">See guide</a></li>
+  <li>Term 2 2021: What is cyber bullying?  Why does it matter? <a href = "/files/Communications/Resources%20for%20Parents/Cyber%20Wellness/CW%20Message%20-%20Term%202%202021.pdf">Find out</a></li>
+</ul> </details>
