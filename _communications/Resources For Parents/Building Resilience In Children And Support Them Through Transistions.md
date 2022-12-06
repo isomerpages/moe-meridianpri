@@ -28,9 +28,6 @@ MOE has developed the following resources to support parents on:
 
 2) Supporting your Child’s Transition
 *   Primary 1  
-    
 *   Primary 5 or 6  
-    
 *   Secondary school  
-    
 *   Upper secondary
