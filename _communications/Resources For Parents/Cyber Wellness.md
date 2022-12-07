@@ -82,11 +82,11 @@ Parents could set a good example at home in the use of technology and play an ac
 <details> <summary>2017</summary> <ul>
   <li>March 2017:  Helping students managing cyber bullying.<a href = "https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/helping-your-child-manage-cyber-bullying">See tip sheet</a></li>
   <li>April 2017:  8 Digital skills we must teach our children. <a href = "https://www.weforum.org/agenda/2016/06/8-digital-skills-we-must-teach-our-children/">Read article</a></li>
-	<li>May 2017:  Suicide Games and Online Media:  What Should Parents Do? <a href = "https://www.schoolbag.sg/story/suicide-games-and-online-media-what-should-parents-do">See Pointers</a></li>
+	<li>May 2017:  Suicide Games and Online Media:  What Should Parents Do? <a href = "https://www.schoolbag.edu.sg/story/suicide-games-and-online-media-what-should-parents-do">See Pointers</a></li>
 	<li>July 2017: Five Ways to Transform Your Kids’ Screen Time<a href = "http://motto.time.com/4734839/five-ways-to-transform-your-kids-screen-time/?xid=time_socialflow_twitter&utm_source=tr.im&utm_medium=plus.google.com&utm_campaign=tr.im%2F1UbjT&utm_content=link_click">See advice</a></li>
 	<li>August 2017:  The disturbing YouTube videos that are tricking children.<a href = "http://www.bbc.com/news/blogs-trending-39381889">Read article</a></li>
 <li>September 2017:  A parent’s guide to Snapchat.<a href = "http://www.connectsafely.org/a-parents-guide-to-snapchat/">See Guide</a></li>
-<li>October 2017: Fake or Real?<a href = "https://www.schoolbag.sg/story/fake-or-real">Let's find out</a></li>
+<li>October 2017: Fake or Real?<a href = "https://www.schoolbag.edu.sg/story/fake-or-real">Let's find out</a></li>
 <li>November 2017:  TV and Video Games in Bedroom: What are the<a href = "https://www.sciencedaily.com/releases/2017/09/170926091550.htm"> effects </a>on school, health and behaviour?</li>
 </ul> </details>
 
