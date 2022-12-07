@@ -99,6 +99,6 @@ We hope that you can help to reinforce these CW messages at home.
 
 For enquiries on the school’s Cyber Wellness programme, please email:
 <ul>
-  <li>Mr Lee Huan Leng (Head of Department)</li>
-  <li>Mdm Low Hwee Miang & Mdm Li Cheng (CW Co-ordinators)</li>
-</ul> 
+  <li><a href="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng (Head of Department)</a></li>
+  <li><a href="mailto:low_hwee_miang_a@moe.edu.sg">Mdm Low Hwee Miang</a> & <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng (CW Co-ordinators)</a></li>
+</ul>
