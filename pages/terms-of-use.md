@@ -29,3 +29,19 @@ The Contents of this Web Site are provided on an "as is" basis without warrantie
 (b) that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.
 
 The school shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.
+
+**Links to other Web Sites<br>**
+This Web Site contains hyperlinks to web sites which are not maintained the school. The school is not responsible for the availability or contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk. 
+
+Hyperlinks to other web sites are provided as a convenience. In no circumstances shall the school be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked. 
+
+The school reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
+
+**Links to this Web Site<br>**
+In no circumstances shall the school be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Web Site or any of the Contents. 
+
+The school reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.
+
+  
+**Governing Law<br>**
+These Terms shall be governed and construed in accordance with laws of the Republic of Singapore.
