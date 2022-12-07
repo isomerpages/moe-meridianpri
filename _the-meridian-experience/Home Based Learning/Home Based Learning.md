@@ -13,3 +13,5 @@ third_nav_title: Home Based Learning
 <p align = "justify">3. Our teachers will continue to monitor the learning progress of your child and be in regular contact with you and your child to provide support during this transition.  You may contact your child’s / ward’s subject teachers should you need any clarifications pertaining to the respective HBL assignments. Please click <a href = ""> here</a> to locate your child's / ward's class HBL plan from 29 Sep 2022.</p>
 
 <p align = "justify">4.  During school operating hours (8 a.m. to 4 p.m.), students should contact the school-based helpline at 6583 2125 for all SLS matters such as password reset, unlocking of accounts, as well as queries about lesson assignments.</p>
+
+*If you have any issue with using zoom please click <a href = "/files/The%20Meridian%20Experience/SLS/Zoom%20User%20Guide%20for%20Students.pdf">here</a> to view the user guide
