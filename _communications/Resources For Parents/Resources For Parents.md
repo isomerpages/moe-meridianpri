@@ -33,3 +33,11 @@ Schoolbag.sg  – MOE’s Education News Site – provides parents, educators a
 #### STEPS
 
 To register to see STEPS user guide <a href = "">click here</a>
+
+#### P4 Subject-Based Banding Briefing
+
+To view P4 subject-based banding briefing user guide <a href = "/files/Communications/Resources%20for%20Parents/P4%20Subject-Based%20Banding%20Briefing%202020_for%20parents%20(002).pdf">click here</a>
+
+#### P5 Subject-Based Banding Briefing
+
+To view P5 subject-based banding briefing user guide <a href = "/files/Communications/Resources%20for%20Parents/P5%20SBB%20PSLE%20Scoring%20DSA%20Briefing%202020_for%20parents.pdf">click here</a>
