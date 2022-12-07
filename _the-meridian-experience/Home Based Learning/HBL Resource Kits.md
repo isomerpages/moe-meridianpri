@@ -13,3 +13,6 @@ For most of us, Full HBL is something we have experienced and learnt from last 
 You’ve got this!
 
 Click on the image below or <a href = "/files/The%20Meridian%20Experience/SLS/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf">here </a>to read more.
+
+![](/images/The%20Meridian%20Experience/SLS/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL_Page_01.jpg)
+<hr>
