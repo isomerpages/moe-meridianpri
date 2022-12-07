@@ -32,10 +32,10 @@ Missed our last issue? Click on the images below for our previous Parent Kits
 
 <table style="width:100%">
 	<tr>
-        <td>
-					<img src="/images/The%20Meridian%20Experience/SLS/hbl-part-4_Page_01.jpg" style="width: 70%; height: 50%"/></td>
-        <td>
-	<img src="/images/The%20Meridian%20Experience/SLS/stay-home-stay-safe-stay-curious-school-holiday-edition_Page_01.jpg" style="width: 70%; height: 50%"/></td>
+        <td><a href = "/files/The%20Meridian%20Experience/SLS/hbl-part-4.pdf">
+					<img src="/images/The%20Meridian%20Experience/SLS/hbl-part-4_Page_01.jpg" style="width: 70%; height: 50%"/></a></td>
+        <td><a href = "/files/The%20Meridian%20Experience/SLS/stay-home-stay-safe-stay-curious-school-holiday-edition.pdf">
+	<img src="/images/The%20Meridian%20Experience/SLS/stay-home-stay-safe-stay-curious-school-holiday-edition_Page_01.jpg" style="width: 70%; height: 50%"/></a></td>
     </tr>
 
 </table>
