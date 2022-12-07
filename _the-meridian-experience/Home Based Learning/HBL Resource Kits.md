@@ -16,3 +16,25 @@ Click on the image below or <a href = "/files/The%20Meridian%20Experience/SLS/P
 
 ![](/images/The%20Meridian%20Experience/SLS/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL_Page_01.jpg)
 <hr>
+
+Missed our last issue? Click on the images below for our previous Parent Kits
+
+<table style="width:100%">
+	<tr>
+        <td style="text-align:center">
+					<img src="/images/The%20Meridian%20Experience/SLS/HBL%20Part%201.png" style="width: 80%; height: 50%"/></td>
+        <td style="text-align:center">
+	<img src="" style="width: 80%; height: 50%"/></td>
+		<td style="text-align:center">
+	<img src="" style="width: 80%; height: 50%"/></td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+					<img src="" style="width: 80%; height: 50%"/></td>
+        <td style="text-align:center">
+					<img src="" style="width: 80%; height: 50%"/></a></td>
+    </tr>
+
+</table>
+
+
