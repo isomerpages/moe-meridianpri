@@ -21,20 +21,25 @@ Missed our last issue? Click on the images below for our previous Parent Kits
 
 <table style="width:100%">
 	<tr>
-        <td style="text-align:center">
+        <td>
 					<img src="/images/The%20Meridian%20Experience/SLS/HBL%20Part%201.png" style="width: 80%; height: 50%"/></td>
-        <td style="text-align:center">
-	<img src="" style="width: 80%; height: 50%"/></td>
-		<td style="text-align:center">
-	<img src="" style="width: 80%; height: 50%"/></td>
-    </tr>
-    <tr>
-        <td style="text-align:center">
-					<img src="" style="width: 80%; height: 50%"/></td>
-        <td style="text-align:center">
-					<img src="" style="width: 80%; height: 50%"/></a></td>
+        <td>
+	<img src="/images/The%20Meridian%20Experience/SLS/HBL%20Part%202.png" style="width: 80%; height: 50%"/></td>
+		<td>
+	<img src="/images/The%20Meridian%20Experience/SLS/HBL%20Kit%203.png" style="width: 80%; height: 50%"/></td>
     </tr>
 
 </table>
+
+<table style="width:100%">
+	<tr>
+        <td>
+					<img src="/images/The%20Meridian%20Experience/SLS/hbl-part-4_Page_01.jpg" style="width: 80%; height: 50%"/></td>
+        <td>
+	<img src="/images/The%20Meridian%20Experience/SLS/stay-home-stay-safe-stay-curious-school-holiday-edition_Page_01.jpg" style="width: 80%; height: 50%"/></td>
+    </tr>
+
+</table>
+
 
 
