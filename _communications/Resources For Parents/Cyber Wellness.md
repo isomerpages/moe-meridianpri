@@ -85,8 +85,7 @@ Parents could set a good example at home in the use of technology and play an ac
 	<li>May 2017:  Suicide Games and Online Media:  What Should Parents Do? <a href = "https://www.schoolbag.sg/story/suicide-games-and-online-media-what-should-parents-do">See Pointers</a></li>
 	<li>July 2017: Five Ways to Transform Your Kids’ Screen Time<a href = "http://motto.time.com/4734839/five-ways-to-transform-your-kids-screen-time/?xid=time_socialflow_twitter&utm_source=tr.im&utm_medium=plus.google.com&utm_campaign=tr.im%2F1UbjT&utm_content=link_click">See advice</a></li>
 	<li>August 2017:  The disturbing YouTube videos that are tricking children.<a href = "http://www.bbc.com/news/blogs-trending-39381889">Read article</a></li>
-<li>August 2018:  Teaching kids about copyrights<a href = "https://www.commonsense.org/education/blog/the-right-stuff-teaching-kids-about-copyright?utm_source=tr.im&utm_medium=plus.url.google.com&utm_campaign=tr.im%2F21ZRK&utm_content=link_click">See Link</a></li>
-<li>September 2018: The ABC model to build resilience against cyber bullying.<a href = "https://cyberbullying.org/the-abc-model-to-build-resilience-against-cyberbullying?utm_source=tr.im&utm_medium=plus.url.google.com&utm_campaign=tr.im%252F1hqU0&utm_content=link_click">See Model</a></li>
-<li>October 2018: Teaching internet safety to children using a fun way.<a href = "https://beinternetawesome.withgoogle.com/en/interland">See Guide</a></li>
-<li>November 2018: Keep your child safe on mobile devices.<a href = "https://www.csa.gov.sg/gosafeonline/go-safe-for-me/for-parents/keep-your-child-safe-on-mobile-devices">See Tips</a></li>
+<li>September 2017:  A parent’s guide to Snapchat.<a href = "http://www.connectsafely.org/a-parents-guide-to-snapchat/">See Guide</a></li>
+<li>October 2017: Fake or Real?<a href = "https://www.schoolbag.sg/story/fake-or-real">Let's find out</a></li>
+<li>November 2017:  TV and Video Games in Bedroom: What are the<a href = "https://www.sciencedaily.com/releases/2017/09/170926091550.htm"> effects </a>on school, health and behaviour?</li>
 </ul> </details>
