@@ -78,3 +78,15 @@ Parents could set a good example at home in the use of technology and play an ac
 <li>October 2018: Teaching internet safety to children using a fun way.<a href = "https://beinternetawesome.withgoogle.com/en/interland">See Guide</a></li>
 <li>November 2018: Keep your child safe on mobile devices.<a href = "https://www.csa.gov.sg/gosafeonline/go-safe-for-me/for-parents/keep-your-child-safe-on-mobile-devices">See Tips</a></li>
 </ul> </details>
+
+<details> <summary>2017</summary> <ul>
+  <li>March 2017:  Helping students managing cyber bullying.<a href = "https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/helping-your-child-manage-cyber-bullying">See tip sheet</a></li>
+  <li>April 2017:  8 Digital skills we must teach our children. <a href = "https://www.weforum.org/agenda/2016/06/8-digital-skills-we-must-teach-our-children/">Read article</a></li>
+	<li>May 2017:  Suicide Games and Online Media:  What Should Parents Do? <a href = "https://www.schoolbag.sg/story/suicide-games-and-online-media-what-should-parents-do">See Pointers</a></li>
+	<li>July 2017: Five Ways to Transform Your Kids’ Screen Time<a href = "http://motto.time.com/4734839/five-ways-to-transform-your-kids-screen-time/?xid=time_socialflow_twitter&utm_source=tr.im&utm_medium=plus.google.com&utm_campaign=tr.im%2F1UbjT&utm_content=link_click">See advice</a></li>
+	<li>August 2017:  The disturbing YouTube videos that are tricking children.<a href = "http://www.bbc.com/news/blogs-trending-39381889">Read article</a></li>
+<li>August 2018:  Teaching kids about copyrights<a href = "https://www.commonsense.org/education/blog/the-right-stuff-teaching-kids-about-copyright?utm_source=tr.im&utm_medium=plus.url.google.com&utm_campaign=tr.im%2F21ZRK&utm_content=link_click">See Link</a></li>
+<li>September 2018: The ABC model to build resilience against cyber bullying.<a href = "https://cyberbullying.org/the-abc-model-to-build-resilience-against-cyberbullying?utm_source=tr.im&utm_medium=plus.url.google.com&utm_campaign=tr.im%252F1hqU0&utm_content=link_click">See Model</a></li>
+<li>October 2018: Teaching internet safety to children using a fun way.<a href = "https://beinternetawesome.withgoogle.com/en/interland">See Guide</a></li>
+<li>November 2018: Keep your child safe on mobile devices.<a href = "https://www.csa.gov.sg/gosafeonline/go-safe-for-me/for-parents/keep-your-child-safe-on-mobile-devices">See Tips</a></li>
+</ul> </details>
