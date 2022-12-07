@@ -28,7 +28,7 @@ MOE has developed the following resources to support parents on:
 
 Schoolbag.sg  – MOE’s Education News Site – provides parents, educators and the general public with education news, school features and tips.
 
-<a href = "">Read more</a>
+<a href = "https://www.schoolbag.edu.sg/">Read more</a>
 
 #### STEPS
 
