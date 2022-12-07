@@ -66,3 +66,15 @@ Parents could set a good example at home in the use of technology and play an ac
 <li>October 2019:  Internet Quiz.<a href = "https://www.commonsensemedia.org/blog/why-you-probably-shouldnt-take-that-facebook-quiz">See Tips</a></li>
 <li>November 2019:  Video games addictions:<a href = "https://www.webmd.com/mental-health/addiction/video-game-addiction#1">Read article</a></li>
 </ul> </details>
+
+<details> <summary>2018</summary> <ul>
+  <li>February 2018:  How to spot fake news?<a href = "https://www.commonsensemedia.org/videos/helping-kids-spot-fake-news">Watch Video</a></li>
+  <li>March 2018:  Be a positive peer influence online. <a href = "https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/developing-your-child-to-be-a-positive-peer-influence-online">See Guide</a></li>
+	<li>April 2018:  Deal with cyber addiction <a href = "https://www.familiesforlife.sg/discover-an-article/Pages/Dealing-with-Cyber-Addiction.aspx">See Tips</a></li>
+	<li>May 2018:  What's the right age for parents to get their kids a cell phone?<a href = "https://www.commonsensemedia.org/cell-phone-parenting/whats-the-right-age-for-parents-to-get-their-kids-a-cell-phone">See article</a></li>
+	<li>July 2018:  Back to school 101:  Cyber hygiene for students.<a href = "https://www.infosecurity-magazine.com/blogs/back-to-school-101-cyber-hygiene/">See Guide</a></li>
+<li>August 2018:  Teaching kids about copyrights<a href = "https://www.commonsense.org/education/blog/the-right-stuff-teaching-kids-about-copyright?utm_source=tr.im&utm_medium=plus.url.google.com&utm_campaign=tr.im%2F21ZRK&utm_content=link_click">See Link</a></li>
+<li>September 2018: The ABC model to build resilience against cyber bullying.<a href = "https://cyberbullying.org/the-abc-model-to-build-resilience-against-cyberbullying?utm_source=tr.im&utm_medium=plus.url.google.com&utm_campaign=tr.im%252F1hqU0&utm_content=link_click">See Model</a></li>
+<li>October 2018: Teaching internet safety to children using a fun way.<a href = "https://beinternetawesome.withgoogle.com/en/interland">See Guide</a></li>
+<li>November 2018: Keep your child safe on mobile devices.<a href = "https://www.csa.gov.sg/gosafeonline/go-safe-for-me/for-parents/keep-your-child-safe-on-mobile-devices">See Tips</a></li>
+</ul> </details>
