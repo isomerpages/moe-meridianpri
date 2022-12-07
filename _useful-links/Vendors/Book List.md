@@ -8,10 +8,10 @@ third_nav_title: Vendors
 
 Please click on the level to view on the book list details:   
 <b><u>Primary 1</u></b><br>
-* <a href="/files/Useful%20Link/Book%20List/pri%201.pdf">Primary 1</a>
+* <a href="/files/Useful%20Link/Book%20List/2023%20Book%20List/Pri%201.pdf">Primary 1</a>
 
 <b><u>Primary 2</u></b><br>
-* <a href="/files/Useful%20Link/Book%20List/pri%202.pdf">Primary 2</a>
+* <a href="/files/Useful%20Link/Book%20List/2023%20Book%20List/Pri%202.pdf">Primary 2</a>
 
 <b><u>Primary 3</u></b><br>
 * <a href="/files/Useful%20Link/Book%20List/pri%203.pdf">Primary 3</a>
