@@ -24,23 +24,23 @@ The accessibility and operation of the Web Site relies on technologies outside t
 <p align = "justify"><b>Disclaimer of Warranties & Liabilities</b><br> 
 The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, the school does not warrant and hereby disclaims any warranty:</p>
 
-(a) as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;  
+<p align = "justify">(a) as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;</p>
 
-(b) that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.
+<p align = "justify">(b) that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.</p>
 
-The school shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.
+<p align = "justify">The school shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.</p>
 
-**Links to other Web Sites<br>**
-This Web Site contains hyperlinks to web sites which are not maintained the school. The school is not responsible for the availability or contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk. 
+<p align = "justify"><b>Links to other Web Sites</b><br>
+This Web Site contains hyperlinks to web sites which are not maintained the school. The school is not responsible for the availability or contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.</p>
 
-Hyperlinks to other web sites are provided as a convenience. In no circumstances shall the school be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked. 
+<p align = "justify">Hyperlinks to other web sites are provided as a convenience. In no circumstances shall the school be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.</p>
 
-The school reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
+<p align = "justify">The school reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.</p>
 
-**Links to this Web Site<br>**
-In no circumstances shall the school be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Web Site or any of the Contents. 
+<p align = "justify"><b>Links to this Web Site</b><br>
+In no circumstances shall the school be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Web Site or any of the Contents.</p>
 
-The school reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.
+<p align = "justify">The school reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.</p>
 
   
 **Governing Law<br>**
