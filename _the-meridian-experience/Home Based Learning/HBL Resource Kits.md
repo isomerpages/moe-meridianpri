@@ -23,12 +23,11 @@ Missed our last issue? Click on the images below for our previous Parent Kits
 	<tr>
         <td><a href = "/files/The%20Meridian%20Experience/SLS/Resource%20Kit%20-%20HBL_8%20Apr%202020.pdf">
 					<img src="/images/The%20Meridian%20Experience/SLS/HBL%20Part%201.png" style="width: 80%; height: 50%"/></a></td>
-        <td>
-	<img src="/images/The%20Meridian%20Experience/SLS/HBL%20Part%202.png" style="width: 80%; height: 50%"/></td>
-		<td>
-	<img src="/images/The%20Meridian%20Experience/SLS/HBL%20Kit%203.png" style="width: 80%; height: 50%"/></td>
-    </tr>
-
+        <td><a href = "/files/The%20Meridian%20Experience/SLS/Resource%20Kit%20-%20HBL%20(Part%202)_8%20Apr%202020.pdf">
+	<img src="/images/The%20Meridian%20Experience/SLS/HBL%20Part%202.png" style="width: 80%; height: 50%"/></a></td>
+		<td><a href = "/files/The%20Meridian%20Experience/SLS/Resource%20Kit%20-%20HBL%20(Part%203).pdf">
+	<img src="/images/The%20Meridian%20Experience/SLS/HBL%20Kit%203.png" style="width: 80%; height: 50%"/></a></td>
+	</tr>
 </table>
 
 <table style="width:100%">
@@ -40,4 +39,3 @@ Missed our last issue? Click on the images below for our previous Parent Kits
     </tr>
 
 </table>
-
