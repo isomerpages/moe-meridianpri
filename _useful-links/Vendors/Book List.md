@@ -19,6 +19,7 @@ Please click on the level to view on the book list details: 
 
 <b><u>Primary 4</u></b><br>
 * <a href="/files/Useful%20Link/Book%20List/pri%204%20.pdf">Primary 4</a>
+* <a href="/files/Useful%20Link/Book%20List/pri%204%20.pdf">Primary 4 (HMT)</a>
 
 <b><u>Primary 5</u></b><br>
 * <a href="/files/Useful%20Link/Book%20List/pri%205.pdf">Primary 5 (Standard)</a>
