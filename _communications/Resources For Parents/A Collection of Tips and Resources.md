@@ -4,15 +4,15 @@ permalink: /communications/resources-for-parents/a-collection-of-tips-and-resour
 description: ""
 third_nav_title: Resources For Parents
 ---
-<table style="width:100%">
-  <tr>
-  </tr>
-  <tr>
-    <td>Emil</td>
-    <td>Tobias</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>14</td>
-  </tr>
+<table border="4">
+    <tr>
+        <th>Name</th>
+        <th>Location</th>
+        <th>Photo</th>
+    </tr>
+    <tr>
+        <td>Apu Gorai</td>
+        <td>India</td>
+        <td><img src="https://app.3schools.in/logo.png" height="100" width="100"></td>
+    </tr>
 </table>
