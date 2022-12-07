@@ -10,7 +10,6 @@ third_nav_title: Home Based Learning
 
 <p align = "justify">2. Teachers will be supporting our students with a combination of online and offline learning materials. All instructions will be indicated in their class learning plan which will be uploaded onto Parents Gateway one day before HBL. While we encourage your child / ward to adhere to the time-table, they may exercise flexibility in completing the work at their own pace as the HBL is largely asynchronous. The Singapore Student Learning Space (SLS) will continue to be the primary platform for online learning.</p>
 
-<p align = "justify">3. Our teachers will continue to monitor the learning progress of your child and be in regular contact with you and your child to provide support during this transition.  You may contact your child’s / ward’s subject teachers should you need any clarifications pertaining to the respective HBL assignments. Please click here to locate your child's / ward's class HBL plan from 29 Sep 2022.</p>
+<p align = "justify">3. Our teachers will continue to monitor the learning progress of your child and be in regular contact with you and your child to provide support during this transition.  You may contact your child’s / ward’s subject teachers should you need any clarifications pertaining to the respective HBL assignments. Please click <a href = ""> here</a> to locate your child's / ward's class HBL plan from 29 Sep 2022.</p>
 
 <p align = "justify">4.  During school operating hours (8 a.m. to 4 p.m.), students should contact the school-based helpline at 6583 2125 for all SLS matters such as password reset, unlocking of accounts, as well as queries about lesson assignments.</p>
-
