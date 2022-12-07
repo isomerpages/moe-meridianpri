@@ -94,3 +94,11 @@ Parents could set a good example at home in the use of technology and play an ac
 In this digital age, it is common to see technological devices in the hands of our children.  As parents, we know that technology has become an integral part of their everyday life; and we need to support our children in harnessing it meaningfully.
 
 Having regular conversations with our children about the importance of safe, healthy and balanced use and role-modelling it are ways in which we can help them develop self-regulation.  At times, we may not be by their side when they surf the Internet or play computer games.  To complement your current parenting practices, you can use parental controls and Internet filters to safeguard your children from inappropriate websites and help them navigate the digital world safely. Please see <a href = "https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/parental-controls">link</a> for setting up parental controls on common operating systems and web browsers.
+
+We hope that you can help to reinforce these CW messages at home.
+
+For enquiries on the school’s Cyber Wellness programme, please email:
+<ul>
+  <li>Mr Lee Huan Leng (Head of Department)</li>
+  <li>Mdm Low Hwee Miang & Mdm Li Cheng (CW Co-ordinators)</li>
+</ul> 
