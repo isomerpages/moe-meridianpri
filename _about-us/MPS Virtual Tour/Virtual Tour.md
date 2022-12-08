@@ -22,3 +22,28 @@ Welcome to Meridian Primary School e-Open House! It provides an insight into the
 
 <p align = "center" >Achieve  <br>
 (Best View with Chrome)</p>
+
+<center><b>Our Facilities</b><br>
+Please click on any of the location to find out more about our school</center>
+
+<table style="width:100%">
+  <tr>
+		<th colspan="2">Name</th>
+    <th colspan="2">Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>43</td>
+		<td>43</td>
+		<td>43</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>57</td>
+		<td>57</td>
+		<td>57</td>
+  </tr>
+</table>
