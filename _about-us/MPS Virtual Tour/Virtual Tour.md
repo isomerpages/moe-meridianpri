@@ -57,9 +57,9 @@ Please click on any of the location to find out more about our school</center>
 		<td></td>
   </tr>
 	<tr>
-    <td>Canteen</td>
-    <td>Music Room</td>
-    <td>Koi Pond</td>
+    <td><a href = "https://photos.google.com/share/AF1QipNr2SXJ9Y9Y7D4N5hhiY9FmeGbjLstCC4_8m8bEYbOqaP2IU2uXTbfHl0F1e7dz_A/photo/AF1QipOd44BdhbZGVYWxCa_VoGo4bZE7KKxlXz7j7PEv?key=TjF3UFdvZExFTl9mM1VjZEFFRUVBM0hXNkwxd0RR">Canteen</a></td>
+    <td><a href = "https://photos.google.com/share/AF1QipOMKLuIVCS71x_cEwRd5J2gXv-JgbX4kzN5z68BTsFYI2CFmh5x37inZWg49i8KwA/photo/AF1QipOGjTDMO0rP8aqfyKos33ROdjIbTHmDEBgJUhNi?key=ZzR5b0htblg4T2RSS0hoa0xoOG94cVp3VVFqQm5B">Music Room</a></td>
+    <td><a href = "https://photos.google.com/share/AF1QipMQ248OCG25U9K-kmxAaqgI654nPx3XrVmZoUPZyTasRZHWrRESq6nGE91DhlVejw/photo/AF1QipM8Cqj7262cmOi9ZnMJrqV6AocG_w5neZ_O--49?key=bVAwdk1tRndlTUlSRzJHUnpYZkp2a2M1TWMyMFRn">Koi Pond</a></td>
 		<td></td>
   </tr>
 	<tr>
