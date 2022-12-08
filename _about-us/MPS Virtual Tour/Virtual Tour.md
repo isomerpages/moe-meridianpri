@@ -29,7 +29,7 @@ Please click on any of the location to find out more about our school</center>
 <table style="width:100%">
   <tr>
 		<th>Common Spaces</th>
-    <th colspan="2">Special Rooms & <br>eco-Environment Learning Spaces</th>
+    <th colspan="2"><p align = "center">Special Rooms & <br>eco-Environment Learning Spaces</p></th>
     <th>Sport Facilities</th>
   </tr>
   <tr>
@@ -39,7 +39,7 @@ Please click on any of the location to find out more about our school</center>
 		<td>Indoor Sports Hall</td>
   </tr>
   <tr>
-    <td>Fover</td>
+    <td>Foyer</td>
     <td>Maths Room</td>
     <td>Eco-Garden</td>
 		<td>Field</td>
