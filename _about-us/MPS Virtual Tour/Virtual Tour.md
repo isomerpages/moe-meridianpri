@@ -44,4 +44,22 @@ Please click on any of the location to find out more about our school</center>
     <td>Eco-Garden</td>
 		<td>Field</td>
   </tr>
+	<tr>
+    <td>Parade Square</td>
+    <td>Science Room</td>
+    <td>Permaculture and <br> Butterfly Garden</td>
+		<td></td>
+  </tr>
+	<tr>
+    <td>Playground</td>
+    <td>Art Room</td>
+    <td>Experimental Pond</td>
+		<td></td>
+  </tr>
+	<tr>
+    <td>Canteen</td>
+    <td>Music Room</td>
+    <td>Koi Pond</td>
+		<td></td>
+  </tr>
 </table>
