@@ -104,3 +104,7 @@ Please click on any of the location to find out more about our school</center>
 
 
 ![](/images/About%20As/Virtual%20Tour/School%20Floor_5%20June.jpg)
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nYRnvpCo3ng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
