@@ -101,3 +101,6 @@ Please click on any of the location to find out more about our school</center>
 
 
 <img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 5%; height: 50%; float = right"/>
+
+
+![](/images/About%20As/Virtual%20Tour/School%20Floor_5%20June.jpg)
