@@ -42,12 +42,12 @@ Please click on any of the location to find out more about our school</center>
     <td><a href = "https://photos.google.com/share/AF1QipPdfbxr1xQNPywOHFJcNcxSADOBf0FGaOw5eZwX9PKDznFqoUgKEefjWxtG28BEfg/photo/AF1QipPny3rlsd_F5jva_ePSndGoGvYSgQMY8hp4fkCb?key=YmMxdkJaMHAyRktNRXkyQ051Q2NxMlhZbFlIWXZ3">Foyer</a></td>
     <td><a href = "https://photos.google.com/share/AF1QipO4PCZVUVeKJGucccwBLGAizWK-3_GjhWbkABDKSVaq1O4luG4A0ODaiu4UGzkXjg/photo/AF1QipMK63TFrIvQ1eQj1Pra2CoD5kZI0zHaMIGKPZbn?key=Vkl6eFk0cUlLOEtSdk11U3dadDdtYzFyV2RtV29n">Maths Room</a></td>
     <td><a href = "https://photos.google.com/share/AF1QipNAYscs22XeV6vc-PO5GMOLoBJL4yOZ3DRvyZPDzwFB69_eW3cUHkETDg-nYF7Oqw/photo/AF1QipMWJhshXn_PkmZvteJ_vrpdWWGY1RVcH_JbgdJh?key=MTZsUjZrMWEzajdoV0FLMjNhX3Y4UlpmbUpyQVd3">Eco-Garden</a></td>
-		<td>Field</td>
+		<td><a href = "https://photos.google.com/share/AF1QipNGTD16TnCsdwvu6tJewMziS0bNwY1S93ZEmr1UzLdt4hAfA6ua-5fBWzUm_0GpYQ/photo/AF1QipMlM0TvJ6T57zxop-eB2E3GAy415DShQ8-gLrsR?key=TGhJYWdMcm9zWDc1R2dfdmM0YV95WGwzZkRMT0tB">Field</a></td>
   </tr>
 	<tr>
-    <td>Parade Square</td>
-    <td>Science Room</td>
-    <td>Permaculture and <br> Butterfly Garden</td>
+    <td><a href = "https://photos.google.com/share/AF1QipMpQZYAJ4YPF3ZOiVBFObvqbx138KngQxFVJbM78QpVh4Fk0nYJrG1OCjiVtzUIOQ/photo/AF1QipNcnLkU_dUFd7cawxmATpWoJB9hzxXJnw6Xc2Ib?key=cmxKRlhhZURvRmpSd3ctT3k0dzdLZ09ta2R0MTR3">Parade Square</a></td>
+    <td><a href = "https://photos.google.com/share/AF1QipP3hwfD2zUn8130JXzeDDfc9ZiWdIAoEa3CPnwubgJAzuwTz6ESPSczaGnQgPfbYA/photo/AF1QipMuOKXs3CEL3Q0d8cLQZtmz06xJbr8nM_szGi96?key=X0VIRHBVc094T2RkX2JiYVJ4bzB5NE5TaS0xQl9n">Science Room</a></td>
+    <td><a href = "https://photos.google.com/share/AF1QipONKR_JftS7LuzqW7Kg9pP1pHy1yoSKT582fzgR_-ioWUcx1ITNKUdsj90UFLvnjA/photo/AF1QipNN5xGcF1gmyfNVvyyO7uSmDPOPLu1eL4xWUoDR?key=V3Yydi1vVnd5NEMwRHl1emJyT0pZc1U5NmJqR1RB">Permaculture and <br> Butterfly Garden</a></td>
 		<td></td>
   </tr>
 	<tr>
