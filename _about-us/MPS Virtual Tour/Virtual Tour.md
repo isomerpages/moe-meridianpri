@@ -62,4 +62,34 @@ Please click on any of the location to find out more about our school</center>
     <td>Koi Pond</td>
 		<td></td>
   </tr>
+	<tr>
+    <td></td>
+    <td>PAL Room</td>
+    <td>Flow Pond</td>
+		<td></td>
+  </tr>
+	<tr>
+    <td></td>
+    <td>Library</td>
+    <td>Turtle Pond</td>
+		<td></td>
+  </tr>
+	<tr>
+    <td></td>
+    <td>Computer Lab</td>
+    <td></td>
+		<td></td>
+  </tr>
+	<tr>
+    <td></td>
+    <td>Learning Lab</td>
+    <td></td>
+		<td></td>
+  </tr>
+	<tr>
+    <td></td>
+    <td>Dental Clinic</td>
+    <td></td>
+		<td></td>
+  </tr>
 </table>
