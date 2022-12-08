@@ -64,31 +64,31 @@ Please click on any of the location to find out more about our school</center>
   </tr>
 	<tr>
     <td></td>
-    <td>PAL Room</td>
-    <td>Flow Pond</td>
+    <td><a href = "https://photos.google.com/share/AF1QipMf3-mRKRGeVd60jVVyuKe1zZcOf7MpkDbLpAV87y6dRWV5mAQR4PojlSFk6NDwSQ/photo/AF1QipOQOtoIsgeaAcl8lKNNm3E5k7MvI2KkgKOp7Yd1?key=TXlrcjlYRHFJcE5xeFJqSVF3WTRlSEZzQUE4dXNR">PAL Room</a></td>
+    <td><a href = "https://photos.google.com/share/AF1QipPx2v9y8uTfHxSgccoZUehBeFUvsWWeeaL2UL9_XVhUhz8SVA0fu05jRt7wd-csIA/photo/AF1QipNsoeoqgRjcZxY4vCMhs2nfJep_aXqx3bWHTEXR?key=aWZ5Z1dRRkhXQy1NaElvbnJhSnNZb2NZcmo1U0pn">Flow Pond</a></td>
 		<td></td>
   </tr>
 	<tr>
     <td></td>
-    <td>Library</td>
-    <td>Turtle Pond</td>
+    <td><a href = "https://photos.google.com/share/AF1QipOEvHuk_L-m5cqzPJusyY0Q_ncY0dIzrBulYnhGGCFfSzBIa5sodtMjqZBkmQXOoA/photo/AF1QipMtcISRytAhdXysT0KuNpSx7xM6FJMBW5t105bz?key=VGtrdW43WGJfNDVYMERlRFBKSzUzakpYS2tja0p3">Library</a></td>
+    <td><a href = "https://photos.google.com/share/AF1QipNtBXZFnv0D7j5Sv2oKSSnKxFTO8MASvsS5ZckleSgSWDP9CTgDipbBSqqWIKqn-Q/photo/AF1QipNIeHxUbhNxlY9j6jeHBKV6-NxymlVnFzLInq8k?key=XzM3cW5PeGFGUk1UWktHLUN5cWdKWlByZUdEd2JR">Turtle Pond</a></td>
 		<td></td>
   </tr>
 	<tr>
     <td></td>
-    <td>Computer Lab</td>
-    <td></td>
-		<td></td>
-  </tr>
-	<tr>
-    <td></td>
-    <td>Learning Lab</td>
+    <td><a href = "https://photos.google.com/share/AF1QipOTAuWjD1kvetpt2vFmR3lFCqQZTCK8jBA3hqsXS4lzh-CqSgxMOdv4oZNExERmwA/photo/AF1QipO4dGYVVYz673h0TSuWPFEe9Xc7sfcAp3NSnsAy?key=a2hjQ1YwcjFJV0pHcTlPSW9LT01CZXBQNmdBaHp3">Computer Lab</a></td>
     <td></td>
 		<td></td>
   </tr>
 	<tr>
     <td></td>
-    <td>Dental Clinic</td>
+    <td><a href = "https://photos.google.com/share/AF1QipO2OZTBLgYKKUgq7ipvd8alRscbtbKOyP8M5PV0zkrGRx3hwEbS6XBajRiAaghIIg/photo/AF1QipP6ZEG6Ki602ZMPK081S-5N5DJ-5IK8We3QoOOR?key=TlhaWG5Mc0xOTTNheXdnNHp5bWFyOHhTd1YxUFVB">Learning Lab</a></td>
+    <td></td>
+		<td></td>
+  </tr>
+	<tr>
+    <td></td>
+    <td><a href ="https://photos.google.com/share/AF1QipM2gPla_LHo3txyQKrZXqWm5nWOLIYghDY1tm3zu3KLP-RE7HuS4eI2LMVPo_mVyA/photo/AF1QipNGvH29XzM6N7KBimWtskpPQD_nGd5DbL7W0I1E?key=aklVdU9ZZ0MyWHpqSzhqcmZ2M3ZkWm1MNUxvQjFR">Dental Clinic</a></td>
     <td></td>
 		<td></td>
   </tr>
