@@ -34,14 +34,14 @@ Please click on any of the location to find out more about our school</center>
   </tr>
   <tr>
     <td><a href = "https://photos.google.com/share/AF1QipPLor48tf09MERr6KE1aIKiIYpKg4qGTSVlwH62obbQP-FyEsDhBu0G2Mu-eRIkew/photo/AF1QipOJFiVITfMrmCU3dUj2T6E8VyNQYjxJzuZojB4M?key=ODdfM2VYeWd4TmlSMkpJM2hkVENVaTN3Q2FoVXV3">Main Driveway</a></td>
-    <td>Secret Garden</td>
-    <td>The Main Mangrove</td>
-		<td>Indoor Sports Hall</td>
+    <td><a href = "https://photos.google.com/share/AF1QipPUw3RQfWy4pwbOGX3jBLjm5k_hEd9XOmQaamTwUKTj2fPR_dNVXWtlLsWQQzq7aQ/photo/AF1QipPzpXs5-aQRh9tgdEZwrs9zahVVrS9y6cZBB-zz?key=dWNpYndLUEV4N0FCeUxQQVdqNFNzWnNTdDhqRmZR">Secret Garden</a></td>
+    <td><a href = "https://photos.google.com/share/AF1QipPhDKUFIWMvBwOHzYP8uDFerX1ma_87ZKnE4XGaal4BzpQsu81QKwSGX7gjuy6hyg/photo/AF1QipMPQYzcYvPc_sMQdCOZR8sd2jAjLO9ka-co0QUn?key=Q1ZzcFpBanJjdWt1VmpqTnA5YmZPUnNPTVg1cTZ3">The Main Mangrove</a></td>
+		<td><a href = "https://photos.google.com/share/AF1QipMgurMuj0YkJoy1FfMz4xebRBKnGVpgvfuzk5BdqXvLeTj_Gn53blYOEpl_1H6JWw/photo/AF1QipPwOfFaDDo5hCo0xoV2peceJI9Xc446fpDoHUb_?key=RTBqeHo3Xy1BMnFSZDdqX19LZ1gyOWRpRWgyVmV3">Indoor Sports Hall</a></td>
   </tr>
   <tr>
-    <td>Foyer</td>
-    <td>Maths Room</td>
-    <td>Eco-Garden</td>
+    <td><a href = "https://photos.google.com/share/AF1QipPdfbxr1xQNPywOHFJcNcxSADOBf0FGaOw5eZwX9PKDznFqoUgKEefjWxtG28BEfg/photo/AF1QipPny3rlsd_F5jva_ePSndGoGvYSgQMY8hp4fkCb?key=YmMxdkJaMHAyRktNRXkyQ051Q2NxMlhZbFlIWXZ3">Foyer</a></td>
+    <td><a href = "https://photos.google.com/share/AF1QipO4PCZVUVeKJGucccwBLGAizWK-3_GjhWbkABDKSVaq1O4luG4A0ODaiu4UGzkXjg/photo/AF1QipMK63TFrIvQ1eQj1Pra2CoD5kZI0zHaMIGKPZbn?key=Vkl6eFk0cUlLOEtSdk11U3dadDdtYzFyV2RtV29n">Maths Room</a></td>
+    <td><a href = "https://photos.google.com/share/AF1QipNAYscs22XeV6vc-PO5GMOLoBJL4yOZ3DRvyZPDzwFB69_eW3cUHkETDg-nYF7Oqw/photo/AF1QipMWJhshXn_PkmZvteJ_vrpdWWGY1RVcH_JbgdJh?key=MTZsUjZrMWEzajdoV0FLMjNhX3Y4UlpmbUpyQVd3">Eco-Garden</a></td>
 		<td>Field</td>
   </tr>
 	<tr>
