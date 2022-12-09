@@ -106,7 +106,7 @@ Theme: People in the street by Neo Yue Xuan (5 RT)
 ##### DanceSport Competition for Primary Schools 2017
 
 <p align = "justify">The school shares the joy of our student, Yeo Jing Xuan, for emerging 1st in the Under 13 Jive Open Girl-Girl and 3rd in Jive Dance categories respectively.  She also qualified for the semi-final in the Cha Cha category.  Well done, Jing Xuan.</p>
-<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-26.jpg" style="width:350px;height:450px;float:center">
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-26.jpg" style="width:350px;height:450px;float:center"><br>
 
 <hr>
 
@@ -114,12 +114,11 @@ Theme: People in the street by Neo Yue Xuan (5 RT)
 
 ##### Soccer – Temasek Cup 2017
 Our soccer boys participated in this year Temasek Cup.  With grit and determination, both the U10 and U12 teams emerged runners-up in their respective category.  Goal!
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-27.jpg" style="width:450px;height:350px;float:center">
+<center>Meridian U10 Soccer Player</center>
 
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-27.jpg)
-Meridian U10 Soccer Player
-
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-28.jpg)
-Our U12 Boys
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-28.jpg" style="width:450px;height:350px;float:center">
+<center>Our U12 Boys</center>
 
 <hr>
 
@@ -128,7 +127,8 @@ Our U12 Boys
 ##### Akela Award
 <p align = "justify">We are pleased to share another good news! 4 students from the Meridian Cub Scouts were presented with the Akela Award, the top recognition for outstanding Cub Scouts.  We are really proud of you!</p>
 
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-29.jpg)
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-29.jpg" style="width:550px;height:450px;float:center">
+
 
 ##### Frank Cooper Sands Awards – Gold
 
