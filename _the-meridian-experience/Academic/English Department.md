@@ -19,9 +19,11 @@ Provide a rich learning environment to:
 #### Appreciation
 The department adopts the STELLAR (<b>S</b>trategies for <b>E</b>nglish <b>L</b>anguage <b>L</b>earning <b>A</b>nd <b>R</b>eading) Framework in the teaching and learning of English.
 
-![](/images/The%20Meridian%20Experience/English%20Dept/english-department-Stellar-1.jpg)
 
-![](/images/The%20Meridian%20Experience/English%20Dept/english-department-Stellar-2.jpg)
+<img src="/images/The%20Meridian%20Experience/English%20Dept/english-department-Stellar-1.jpg" style="width: 80%; height: 50%"/>
+
+<br>
+<img src="/images/The%20Meridian%20Experience/English%20Dept/english-department-Stellar-2.jpg" style="width: 80%; height: 50%"/>
 
 #### Key Programmes
 
@@ -54,7 +56,7 @@ The department adopts the STELLAR (<b>S</b>trategies for <b>E</b>nglish <b>L</
     
 *   East Zone Story-telling competition: S Rajaratnam Leadership Series 2015: Champion
 
-![](/images/The%20Meridian%20Experience/English%20Dept/english-department-EZ-Champions-2015.jpg)
+<img src="/images/The%20Meridian%20Experience/English%20Dept/english-department-EZ-Champions-2015.jpg" style="width: 80%; height: 50%"/>
 
 #### Useful Website Links
 
