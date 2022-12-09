@@ -50,22 +50,25 @@ third_nav_title: Academic
 
 
 #### Highlights
-![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-Co-Space-Challenge_10-Feb-2017-720x540.jpg)
 
-![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-Maths-CoSpace-2017.jpg)
-<p align = "center">2nd Runner-up in the Temasek Primary Co-Space Challenge 2017</p>
+<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-Co-Space-Challenge_10-Feb-2017-720x540.jpg" style="width: 80%; height: 50%"/>
+<br>
+<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-Maths-CoSpace-2017.jpg" style="width: 80%; height: 50%"/>
 
-![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-1-720x405.jpg)
+<center>2nd Runner-up in the Temasek Primary Co-Space Challenge 2017</center>
 
-![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-3-720x405.jpg)
 
-![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-6-720x684.jpg)
-
-![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-4-720x679.jpg)
-
-![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-2-720x540.jpg)
-
-![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-5-720x480.jpg)
+<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-1-720x405.jpg" style="width: 80%; height: 50%"/>
+<br>
+<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-3-720x405.jpg" style="width: 80%; height: 50%"/>
+<br>
+<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-6-720x684.jpg" style="width: 70%; height: 50%"/>
+<br>
+<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-4-720x679.jpg" style="width: 70.5%; height: 50%"/>
+<br>
+<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-2-720x540.jpg" style="width: 70.5%; height: 50%"/>
+<br>
+<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-5-720x480.jpg" style="width: 70.5%; height: 50%"/>
 <p align = "center">Maths Play Programme in Term 1 (2017)</p>
 
 ![](/images/The%20Meridian%20Experience/Math%20Dept/MD-P4_T2-2017Gif.gif)
