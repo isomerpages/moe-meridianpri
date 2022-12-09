@@ -148,7 +148,7 @@ Well done, team!
 
 ![](/images/The%20Meridian%20Experience/Achievements/Achievements-31.jpg)
 
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-32.jpg)
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-32.jpg" style="width:450px;height:550px;float:center">
 
 Front row (from left: P3-PA Fitrilyana Quistina Binte Sadruddin,
 P3-CA Hiong Kai Sing, P3-PA Chow Wei Ming,
