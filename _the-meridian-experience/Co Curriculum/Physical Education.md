@@ -45,13 +45,14 @@ third_nav_title: Co Curriculum
     
 *   Swim Safer Programme
 
-![](/images/The%20Meridian%20Experience/PE%20Dept/PE-leadership-and-adventure-camp-1.jpg)
+<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-leadership-and-adventure-camp-1.jpg" style="width: 70%; height: 50%"/>
+<br>
+<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-gymnastics-lesson-pe-.jpg" style="width: 70%; height: 50%"/>
+<br>
+<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-health-for-life-week.jpg" style="width: 70%; height: 50%"/>
+<br>
+<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-swim-safer-programme.jpg" style="width: 70%; height: 50%"/>
 
-![](/images/The%20Meridian%20Experience/PE%20Dept/PE-gymnastics-lesson-pe-.jpg)
-
-![](/images/The%20Meridian%20Experience/PE%20Dept/PE-health-for-life-week.jpg)
-
-![](/images/The%20Meridian%20Experience/PE%20Dept/PE-swim-safer-programme.jpg)
 
 <p>For enquiries on the school’s Physical Education, please email:</p>
 <a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mrs Sharon Tng (Head of Department)</a>
