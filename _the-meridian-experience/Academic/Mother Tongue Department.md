@@ -49,23 +49,23 @@ Reading is important to enhance language skill.  We carry out a series of readi
 The Conversational Chinese-Malay programme (CCM) is introduced as an enrichment programme for non-Chinese and non-Malay students who are interested in learning Chinese or Malay language and culture. Communication through languages enhances social interaction. Learning Conversational Chinese-Malay would provide these students with the facility to communicate with native speakers, and to better understand and appreciate Chinese and Malay culture and values. It will also help students to enhance their rapport with their Chinese and Malay-speaking friends.  The CCM programme is non-examinable.</p>
 
 #### Highlights
-
-![](/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT4.jpg)
+<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT4.jpg" style="width: 70.5%; height: 50%"/>
 <p align = "center">MTL Fortnight language games supported by the PSG</p>
 
-![](/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT1-720x405.jpg)
+<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT1-720x405.jpg" style="width: 70.5%; height: 50%"/>
 <p align = "center">Appreciation of Tea culture</p>
 
-![](/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT3.jpg)
+<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT3.jpg" style="width: 70.5%; height: 50%"/>
 <p align = "center">Enjoying Indian cuisine for LJ to Little India</p>
 
-![](/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT5-720x540.jpg)
+<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT5-720x540.jpg" style="width: 70.5%; height: 50%"/>
 <p align = "center">Story telling session by our Parent Volunteers</p>
 
-![](/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT2.jpg)
+<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT2.jpg" style="width: 70.5%; height: 50%"/>
 <p align = "center">At a Learning Journey</p>
 
-![](/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT_CPES-1.jpg)
+<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT_CPES-1.jpg" style="width: 70.5%; height: 50%"/>
+
 <p align = "center">Students attending “Wizard of Oz” musical at the Singapore Chinese Cultural Centre. The educational play explores key themes of friendship, courage, love and teamwork, and inspires them to pursue their dreams with perseverance</p>
 
 <p>For enquiries on the school’s Mother Tongue Department, please email:</p>
