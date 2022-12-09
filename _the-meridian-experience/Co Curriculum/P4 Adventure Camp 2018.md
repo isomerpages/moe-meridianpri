@@ -18,14 +18,14 @@ third_nav_title: Co Curriculum
 
 <p>Through the  camp, the students also have the opportunity to live and work with one another as they develop and hone their social emotional learning skills.</p>
 
-![](/images/The%20Meridian%20Experience/P4%20Camp%202018/P4%20Camp_1.jpg)
-
-![](/images/The%20Meridian%20Experience/P4%20Camp%202018/P4%20Camp_2.jpg)
-
-![](/images/The%20Meridian%20Experience/P4%20Camp%202018/P4%20Camp_3.jpg)
-
-![](/images/The%20Meridian%20Experience/P4%20Camp%202018/P4%20Camp_4.jpg)
-
-![](/images/The%20Meridian%20Experience/P4%20Camp%202018/P4%20Camp_5.jpg)
-
-![](/images/The%20Meridian%20Experience/P4%20Camp%202018/P4%20Camp_6.jpg)
+<img src="/images/The%20Meridian%20Experience/P4%20Camp%202018/P4%20Camp_1.jpg" style="width: 80%; height: 50%"/>
+<br>
+<img src="/images/The%20Meridian%20Experience/P4%20Camp%202018/P4%20Camp_2.jpg" style="width: 80%; height: 50%"/>
+<br>
+<img src="/images/The%20Meridian%20Experience/P4%20Camp%202018/P4%20Camp_3.jpg" style="width: 80%; height: 50%"/>
+<br>
+<img src="/images/The%20Meridian%20Experience/P4%20Camp%202018/P4%20Camp_4.jpg" style="width: 80%; height: 50%"/>
+<br>
+<img src="/images/The%20Meridian%20Experience/P4%20Camp%202018/P4%20Camp_5.jpg" style="width: 80%; height: 50%"/>
+<br>
+<img src="/images/The%20Meridian%20Experience/P4%20Camp%202018/P4%20Camp_6.jpg" style="width: 80%; height: 50%"/>
