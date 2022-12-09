@@ -6,11 +6,11 @@ description: ""
 #### School Green Awards – Lotus Sustained Achievement Award
 <p align = "justify">The school was recognised for its pro-environment efforts and was presented the Lotus Sustained Achievement Award  by the National Environment Council.</p>
 
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-1.jpg)
-
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-2.jpg)
-
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-3.jpg)
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-1.jpg" style="width:450px;height:350px;float:center">
+<br>
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-2.jpg" style="width:450px;height:350px;float:center">
+<br>
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-3.jpg" style="width:450px;height:650px;float:center">
 
 #### Community in Bloom Awards
 <p align = "justify">The school was awarded the Diamond Award for Educational Institutions for the Community in Bloom Awards 2018 by National Parks Board (NParks) under the Excellence Category.  The school also bagged the Platinum Banding for the Best Institution Community Gardens.</p>
@@ -18,17 +18,17 @@ description: ""
 ![](/images/The%20Meridian%20Experience/Achievements/Achievements-4.jpg)
 
 #### Academic
-
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-6.jpeg)
-
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-7.jpeg)
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-6.jpeg" style="width:450px;height:350px;float:center">
+<br>
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-7.jpeg" style="width:450px;height:350px;float:center">
 
 <p align = "jusify">Team Meridian emerged champions  in the Pi-Force Challenge organised by Yusof Ishak Secondary School and Punggol Cove Primary School. The competition integrated both math and science Well done!</p>
 
 #### Malay Language Ops Baca Competition 2019
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-8.jpeg)
 
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-9.jpeg)
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-8.jpeg" style="width:350px;height:550px;float:center">
+<br>
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-9.jpeg" style="width:650px;height:350px;float:center">
 
 <p align = "justify">Our students clinched 2nd place in the Ops Baca Competition was organised by Malay Activity Executive Committees of Pasir Ris Elias CC. Congratulations!</p>
 
@@ -42,9 +42,9 @@ description: ""
 #### National Creative Writing Using LEGO Competition
 Ogranised by the Malay Language Learning and Promotion Committee, our students emerged runners-up in the annual Fiesta Bahasa competition.  Congratulations!
 
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-12.jpg)
-
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-13.jpg)
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-12.jpg" style="width:450px;height:550px;float:center">
+<br>
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-13.jpg" style="width:550px;height:350px;float:center">
 
 The team comprises of Quzandria Qistina (5 RB), Nurin Jazima (5 CA) and Mohammad Naqib (5 RT)
 
@@ -53,6 +53,7 @@ The team comprises of Quzandria Qistina (5 RB), Nurin Jazima (5 CA) and Mohammad
 We are pleased to share the joy of our students below who emerged as winners in the above competition.
 
 ![](/images/The%20Meridian%20Experience/Achievements/Achievements-14.jpg)
+
 P1 – Srisahana, P2 – Neha, P3 – Niranjan, P4 – Bharathi, P5 – John Graceson & P6 – Lakshmisurya
 
 #### Speak Up! Kids 2017
@@ -96,17 +97,16 @@ Theme: People in the street by Neo Yue Xuan (5 RT)
 <p align = "justify">A group of talented art students, including Meridians, participated in SYF Art Exhibition 2019. Their artworks were showcased at the National Museum.</p>
 
 ##### Singapore Youth Festival Art Exhibition 2017
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-23.jpg)
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-23.jpg" style="width:350px;height:250px;float:center">
 
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-24.jpg)
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-24.jpg" style="width:350px;height:250px;float:center">
 
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-25.jpg)
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-25.jpg" style="width:350px;height:250px;float:center">
 
 ##### DanceSport Competition for Primary Schools 2017
 
 <p align = "justify">The school shares the joy of our student, Yeo Jing Xuan, for emerging 1st in the Under 13 Jive Open Girl-Girl and 3rd in Jive Dance categories respectively.  She also qualified for the semi-final in the Cha Cha category.  Well done, Jing Xuan.</p>
-
-![](/images/The%20Meridian%20Experience/Achievements/Achievements-26.jpg)
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-26.jpg" style="width:350px;height:450px;float:center">
 
 <hr>
 
@@ -154,4 +154,3 @@ Front row (from left: P3-PA Fitrilyana Quistina Binte Sadruddin,
 P3-CA Hiong Kai Sing, P3-PA Chow Wei Ming,
 P4-RB Zayed Sameer Fo’ad Altway)
 Back row (from left: P5-RB Shermaine Tan Li Ying, P5-RT Goh Tze Hian, Sherry, P4-PA Vijayasekar Hemasree, P4-PA Woo Jie Rui Ambrose, P4-CA Wong Yu Heng Rayan,   P5-CA Tew Wei Hong)
-
