@@ -22,7 +22,7 @@ sections:
         - title: Sexuality Education in School
           description: ""
           url: ""
-      subtitle: Future Learner • Future Citizens • Future Leaders
+      subtitle: Future Learners • Future Citizens • Future Leaders
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
