@@ -10,7 +10,7 @@ sections:
       title: Meridian Primary School
       background: /images/Home Page/HomePage.jpg
       key_highlights:
-        - title: Announcement
+        - title: Announcements
           description: ""
           url: https://google.com
         - title: Resources for Parents and Guardians
