@@ -19,7 +19,7 @@ sections:
         - title: Recent Letters to Parents & Guardians
           description: ""
           url: /privacy/
-        - title: Sexuality Education in School
+        - title: Information on Sexuality Education in School
           description: ""
           url: ""
       subtitle: Future Learners • Future Citizens • Future Leaders
