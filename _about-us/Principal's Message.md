@@ -18,6 +18,5 @@ description: ""
 
 Let’s look forward to an exciting 2020 as we continue to nurture Future Learners, Future Citizens and Future Leaders in Meridian Primary!
 
-
-Ms Liza Rahmat
+Liza Rahmat(Ms)<br>
 Principal
