@@ -23,7 +23,7 @@ third_nav_title: Academic
     
 *   develop thinking, reasoning, communication, application & metacognitive skill
 
-<p align = "jusify">The central focus of our Mathematics learning is problem solving. This is as reflected in the Mathematics framework, which comprises of five interrelated components: concepts, skills, processes, attitudes and metacognition.</p>
+<p align = "justify">The central focus of our Mathematics learning is problem solving. This is as reflected in the Mathematics framework, which comprises of five interrelated components: concepts, skills, processes, attitudes and metacognition.</p>
 
 ![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-maths-720x486.png)
 
