@@ -24,10 +24,7 @@ sections:
           url: ""
       subtitle: Future Learners • Future Citizens • Future Leaders
   - infobar:
-      title: Infobar Title
-      description: Infobar description
-      button: Button Text
-      url: <iframe width="560" height="315"
+      description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/hA_11fdyWXk" title="YouTube video
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture"
