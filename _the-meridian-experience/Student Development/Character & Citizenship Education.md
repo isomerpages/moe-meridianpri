@@ -47,5 +47,5 @@ VIA partnership with CPAS and Pasir Ris West CC
 <p align = "center">Learning to care for others</p>
 
 
-<p>For enquiries on the school’s CCE, please email:</p>
+<p>For enquiries on the school’s CCE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
