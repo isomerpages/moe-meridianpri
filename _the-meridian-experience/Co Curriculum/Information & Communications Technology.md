@@ -45,7 +45,7 @@ Taking reference from MOE’s Baseline ICT Standard and New Media Literacies for
 
 Student ICT Capacity Building Programme
 
-Taking reference from MOE’s Baseline ICT Standard and New Media Literacies for primary schools, lessons are designed in spiral-upwards to progressively build the ICT capacity of our students. Each department has infused Baseline ICT skills into their curriculum so that students benefit from an ICT-enabled learning environment.  The skills covered include:
+<p align = "justify">Taking reference from MOE’s Baseline ICT Standard and New Media Literacies for primary schools, lessons are designed in spiral-upwards to progressively build the ICT capacity of our students. Each department has infused Baseline ICT skills into their curriculum so that students benefit from an ICT-enabled learning environment.  The skills covered include:</p>
 
 *   Microsoft Office Skills (eg. Word, PowerPoint and Excel)
 *   Computational and Coding Skills (eg. Code for Fun, Micro:bit, Scratch)
