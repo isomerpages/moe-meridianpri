@@ -19,7 +19,7 @@ description: ""
 <table style="width:100%">
   <tr>
     <td><p align = "justify">To commemorate this special year, our HOD Student Management, Ms Han Zi Rui, designed a 20th Anniversary logo that adapts the iconic globe from the school crest into a tree to mark the school’s steady growth over the past two decades. We celebrate the many children that have passed through our hands and this year, we hope to capture their unique Meridian Stories that encapsulate their experiences, memories and friendship through the years.</p></td>
-    <td><img src="/images/About%20As/Liza%20Rahmat%20MPS.jpg" style="width:2570px;height:220px; float:right"></td>
+    <td><img src="/images/About%20As/2020.jpg" style="width:4500px;height:250px; float:right"></td>
   </tr>
 </table>
 
