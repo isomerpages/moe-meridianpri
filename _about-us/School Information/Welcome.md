@@ -12,7 +12,7 @@ Welcome
 
 **Our Key Belief & Approach – “It takes the whole village to raise a child”**
 
-At Meridian, we believe in providing our students with a holistic education, with good character and values as its core foundation.
+<p align = "justify">At Meridian, we believe in providing our students with a holistic education, with good character and values as its core foundation.</p>
 
 *   Character and Citizenship Education
 
