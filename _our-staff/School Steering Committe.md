@@ -101,6 +101,9 @@ description: ""
     <td><a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mdm Sharon Ng Ye Chin</a></td>
     <td>HOD/PE, CCA Aesthetics</td>
   </tr>
+	<td><a href="mailto:yeo_kim_chiau_benjamin@moe.edu.sg">Mr Benjamin Yeo Kin Chiau</a></td>
+    <td>School Staff Developer</td>
+  </tr>
 	<tr>
     <td><a href="mailto:tay_wan_boon@moe.edu.sg">Mdm Stephanie Tay Wan Boon</a></td>
     <td>Subject Head/ Character and Citizenship Education</td>
@@ -110,8 +113,6 @@ description: ""
     <td>Level Head Science</td>
   </tr>
 	<tr>
-    <td><a href="mailto:yeo_kim_chiau_benjamin@moe.edu.sg">Mr Benjamin Yeo Kin Chiau</a></td>
-    <td>School Staff Developer</td>
-  </tr>
+    
 	
 </table>
