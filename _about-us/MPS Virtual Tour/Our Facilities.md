@@ -15,7 +15,7 @@ third_nav_title: MPS Virtual Tour
   <tr>
     <td></td>
 		<td>Main Driveway</td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
 		<td>Secret Garden</td>
 		<td></td>
 		<td>The Main  Mangrove</td>
@@ -27,13 +27,13 @@ third_nav_title: MPS Virtual Tour
 		<td>Foyer</td>
 		<td></td>
 		<td>Maths Room</td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
 		<td>Eco-Garden</td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
 		<td>Field</td>
   </tr>
 	<tr>
-    <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+    <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
 		<td>Parade Square</td>
 		<td></td>
 		<td>Science Room</td>
@@ -43,9 +43,9 @@ third_nav_title: MPS Virtual Tour
 		<td></td>
   </tr>
 	<tr>
-    <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+    <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
 		<td>Playground</td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
 		<td>Art Room</td>
 		<td></td>
 		<td>Experimental Pond</td>
@@ -53,9 +53,9 @@ third_nav_title: MPS Virtual Tour
 		<td></td>
   </tr>
 	<tr>
-    <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+    <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
 		<td>Canteen</td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
 		<td>Music Room</td>
 		<td></td>
 		<td>Koi Pond</td>
@@ -75,7 +75,7 @@ third_nav_title: MPS Virtual Tour
 	<tr>
     <td></td>
 		<td></td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
 		<td>Library</td>
 		<td></td>
 		<td>Turtle Pond</td>
@@ -85,7 +85,7 @@ third_nav_title: MPS Virtual Tour
 	<tr>
     <td></td>
 		<td></td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
 		<td>Computer Lab</td>
 		<td></td>
 		<td></td>
