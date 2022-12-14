@@ -24,13 +24,13 @@ third_nav_title: MPS Virtual Tour
   </tr>
 	<tr>
     <td></td>
-		<td>Foyer</td>
+		<td><a href = "https://photos.google.com/share/AF1QipPdfbxr1xQNPywOHFJcNcxSADOBf0FGaOw5eZwX9PKDznFqoUgKEefjWxtG28BEfg/photo/AF1QipPny3rlsd_F5jva_ePSndGoGvYSgQMY8hp4fkCb?key=YmMxdkJaMHAyRktNRXkyQ051Q2NxMlhZbFlIWXZ3">Foyer</a></td>
 		<td></td>
-		<td>Maths Room</td>
+		<td><a href = "https://photos.google.com/share/AF1QipO4PCZVUVeKJGucccwBLGAizWK-3_GjhWbkABDKSVaq1O4luG4A0ODaiu4UGzkXjg/photo/AF1QipMK63TFrIvQ1eQj1Pra2CoD5kZI0zHaMIGKPZbn?key=Vkl6eFk0cUlLOEtSdk11U3dadDdtYzFyV2RtV29n">Maths Room</a></td>
 		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
-		<td>Eco-Garden</td>
+		<td><a href = "https://photos.google.com/share/AF1QipNAYscs22XeV6vc-PO5GMOLoBJL4yOZ3DRvyZPDzwFB69_eW3cUHkETDg-nYF7Oqw/photo/AF1QipMWJhshXn_PkmZvteJ_vrpdWWGY1RVcH_JbgdJh?key=MTZsUjZrMWEzajdoV0FLMjNhX3Y4UlpmbUpyQVd3">Eco-Garden</a></td>
 		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
-		<td>Field</td>
+		<td><a href = "https://photos.google.com/share/AF1QipNGTD16TnCsdwvu6tJewMziS0bNwY1S93ZEmr1UzLdt4hAfA6ua-5fBWzUm_0GpYQ/photo/AF1QipMlM0TvJ6T57zxop-eB2E3GAy415DShQ8-gLrsR?key=TGhJYWdMcm9zWDc1R2dfdmM0YV95WGwzZkRMT0tB">Field</a></td>
   </tr>
 	<tr>
     <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
