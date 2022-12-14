@@ -70,15 +70,15 @@ To help you to reinforce Cyber Wellness education at home, you may access Cybe
 
 #### Highlights
 
-*   The school commemorate the Safer Internet Day each year with a morning assembly sharing.  Students pledged their support to promote safe, responsible and positive use of digital technology during a recess activity.
+*   <p align = "justify">The school commemorate the Safer Internet Day each year with a morning assembly sharing.  Students pledged their support to promote safe, responsible and positive use of digital technology during a recess activity.</p>
 
-*   Our students took part in the East Zone Cyber Wellness Conferences to learn how to resolve different Cyber Wellness conflicts.  They also picked up skills to design an advocacy project to spread cyber wellness messages.  
+*   <p align = "justify">Our students took part in the East Zone Cyber Wellness Conferences to learn how to resolve different Cyber Wellness conflicts.  They also picked up skills to design an advocacy project to spread cyber wellness messages.</p>
     
 
-*   In collaboration with IMDA and MOE, the school piloted the Code for Fun programme.  The IMDA’s Lab on Wheels also visited us to provide our P3s with coding and computational thinking experience. The students had fun learning and coding their toy ball, ‘hackaball’, through visual block-based programming. The workshop equipped our students with technological knowledge to be future ready digital citizens in Singapore’s Smart Nation.  
+*   <p align = "justify">In collaboration with IMDA and MOE, the school piloted the Code for Fun programme.  The IMDA’s Lab on Wheels also visited us to provide our P3s with coding and computational thinking experience. The students had fun learning and coding their toy ball, ‘hackaball’, through visual block-based programming. The workshop equipped our students with technological knowledge to be future ready digital citizens in Singapore’s Smart Nation.</p>
     
 
-*   In line with MOE’s effort to nurture “Future-ready and Responsible Digital Learners”, the school organised “Coding with Micro:bit Workshop” for our P4 students to increase their exposure to coding.  Through the fun and hands-on workshop, the students will improve in their computational thinking, which is the ability to communicate their thoughts in a structured and logical way.  The workshop also encourages them to be creative and promotes thinking “out of the box”.
+*   <p align = "justify">In line with MOE’s effort to nurture “Future-ready and Responsible Digital Learners”, the school organised “Coding with Micro:bit Workshop” for our P4 students to increase their exposure to coding.  Through the fun and hands-on workshop, the students will improve in their computational thinking, which is the ability to communicate their thoughts in a structured and logical way.  The workshop also encourages them to be creative and promotes thinking “out of the box”.</p>
 
 <p>For enquiries on the school’s ICT Department, please email:</p>
 <a href="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng (Head of Department)</a>
