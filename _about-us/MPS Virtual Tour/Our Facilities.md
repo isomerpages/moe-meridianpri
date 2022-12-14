@@ -32,4 +32,14 @@ third_nav_title: MPS Virtual Tour
 		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
 		<td>Field</td>
   </tr>
+	<tr>
+    <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+		<td>Parade Square</td>
+		<td></td>
+		<td>Science Room</td>
+		<td></td>
+		<td>Permaculture and <br> Butterfly Garden</td>
+		<td></td>
+		<td></td>
+  </tr>
 </table>
