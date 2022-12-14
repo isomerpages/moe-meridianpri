@@ -43,5 +43,5 @@ Festive Learning Journeys, where Student Leaders serve as guides for their fello
 ![](/images/CCE/NE/SL-2-720x481.jpg)
 <p align = "center">Students leaders guide their schoolmates in how to brew tea during the CNY Learning Journey</p>
 
-<p>For enquiries on the school’s Applied Learning Programme, please email:</p>
+<p>For enquiries on the school’s Student Leadership Programme, please email:</p>
 <a href="mailto:han_zi_rui@moe.edu.sg">Ms Han Zi Rui (HOD/Student Management)</a>
