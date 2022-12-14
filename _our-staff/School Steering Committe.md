@@ -106,16 +106,8 @@ description: ""
     <td>Subject Head/ Character and Citizenship Education</td>
   </tr>
 	<tr>
-    <td><a href="mailto:vasanthi_mahalinggam@moe.edu.sg">Mdm Vasanthi d/o Mahalinggam</a></td>
-    <td>Level Head English</td>
-  </tr>
-	<tr>
     <td><a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi</a></td>
     <td>Level Head Science</td>
-  </tr>
-	<tr>
-    <td><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah Bte Md Nasir</a></td>
-    <td>Level Head Mother Tongue</td>
   </tr>
 	<tr>
     <td><a href="mailto:yeo_kim_chiau_benjamin@moe.edu.sg">Mr Benjamin Yeo Kin Chiau</a></td>
