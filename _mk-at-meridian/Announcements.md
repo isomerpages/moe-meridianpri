@@ -10,5 +10,5 @@ description: ""
 
 <p align = "justify"> The MK Virtual Open House was conducted on 29 January 2022  If you have missed out on the event, you may view the MK Open House sharing slides to find out more about the MK curriculum and programme, before registering your child for 2023 K1 admissions during the MK registration exercise.</p>
 
-<p align = "center">Should you require more information or clarifications, you are welcome to contact us via:
+<p align = "justify">Should you require more information or clarifications, you are welcome to contact us via:
 Tel: 6583 2125 or email:  mk_meridian@moe.edu.sg</p>
