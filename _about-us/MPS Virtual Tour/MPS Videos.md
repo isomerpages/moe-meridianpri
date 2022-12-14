@@ -4,7 +4,6 @@ permalink: /about-us/mps-virtual-tour/mps-videos/permalink/
 description: ""
 third_nav_title: MPS Virtual Tour
 ---
-
 ### The Meridian Experience
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hA_11fdyWXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -14,7 +13,7 @@ third_nav_title: MPS Virtual Tour
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z8-de9W6kok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<p align = "center">The videos below showcase the learning experiences and achievements at Meridian Primary School in 2019.   
+<p align = "justify">The videos below showcase the learning experiences and achievements at Meridian Primary School in 2019.   
 Please click on them to watch.</p>
 
 
