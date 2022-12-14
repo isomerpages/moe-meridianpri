@@ -72,4 +72,44 @@ third_nav_title: MPS Virtual Tour
 		<td></td>
 		<td></td>
   </tr>
+	<tr>
+    <td></td>
+		<td></td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+		<td>Library</td>
+		<td></td>
+		<td>Turtle Pond</td>
+		<td></td>
+		<td></td>
+  </tr>
+	<tr>
+    <td></td>
+		<td></td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+		<td>Computer Lab</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+  </tr>
+	<tr>
+    <td></td>
+		<td></td>
+		<td></td>
+		<td>Learning Lab</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+  </tr>
+	<tr>
+    <td></td>
+		<td></td>
+		<td></td>
+		<td>Dental Clinic</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+  </tr>
 </table>
