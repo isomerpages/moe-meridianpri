@@ -28,7 +28,7 @@ third_nav_title: MPS Virtual Tour
 		<td></td>
 		<td>Maths Room</td>
 		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
-		<td>Eco-Graden</td>
+		<td>Eco-Garden</td>
 		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
 		<td>Field</td>
   </tr>
@@ -59,6 +59,16 @@ third_nav_title: MPS Virtual Tour
 		<td>Music Room</td>
 		<td></td>
 		<td>Koi Pond</td>
+		<td></td>
+		<td></td>
+  </tr>
+	<tr>
+    <td></td>
+		<td></td>
+		<td></td>
+		<td>PAL Room</td>
+		<td></td>
+		<td>Flow Pond</td>
 		<td></td>
 		<td></td>
   </tr>
