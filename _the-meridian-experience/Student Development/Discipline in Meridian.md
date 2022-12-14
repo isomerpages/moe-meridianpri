@@ -10,13 +10,13 @@ third_nav_title: Student Development
 
 ![](/images/CCE/Discipline%20in%20Meridian/Discipline%20in%20Meridian%201.png)
 
-<p>We support our teachers in managing a positive classroom environment conducive for learning and establishing strong meaningful relationships.</p>
+<p align = "justify">We support our teachers in managing a positive classroom environment conducive for learning and establishing strong meaningful relationships.</p>
 
-<p>We engage parents to partners us in developing your child positively in all areas of his/her life.</p>
+<p align = "justify">We engage parents to partners us in developing your child positively in all areas of his/her life.</p>
 	
 #### Our School Rules
 
-<p align = "center">Our School Rules is designed to help every child understand their purpose in this Meridian family that they live in. Strongly guided by our Motto on  To Learn, To Love, To Lead, it sets out to define their role to take the best care they possibly can, of themselves, others and what’s around them–</p>
+<p align = "justify">Our School Rules is designed to help every child understand their purpose in this Meridian family that they live in. Strongly guided by our Motto on  To Learn, To Love, To Lead, it sets out to define their role to take the best care they possibly can, of themselves, others and what’s around them–</p>
 
 <ol style = "font-size: 14px"><b>
   <li>LEARN to take care of yourself</li>
