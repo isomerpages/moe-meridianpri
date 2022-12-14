@@ -52,4 +52,14 @@ third_nav_title: MPS Virtual Tour
 		<td></td>
 		<td></td>
   </tr>
+	<tr>
+    <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+		<td>Canteen</td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+		<td>Music Room</td>
+		<td></td>
+		<td>Koi Pond</td>
+		<td></td>
+		<td></td>
+  </tr>
 </table>
