@@ -13,6 +13,23 @@ third_nav_title: MPS Virtual Tour
 		<th></th>
   </tr>
   <tr>
-    
+    <td></td>
+		<td>Main Driveway</td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+		<td>Secret Garden</td>
+		<td></td>
+		<td>The Main  Mangrove</td>
+		<td></td>
+		<td>Indoor Sports Hall</td>
+  </tr>
+	<tr>
+    <td></td>
+		<td>Foyer</td>
+		<td></td>
+		<td>Maths Room</td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+		<td>Eco-Graden</td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 50%; height: 50%; float = right"/></td>
+		<td>Field</td>
   </tr>
 </table>
