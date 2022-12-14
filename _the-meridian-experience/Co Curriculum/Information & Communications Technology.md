@@ -53,12 +53,12 @@ Student ICT Capacity Building Programme
 *   Web 2.0 Collaboration Tools (eg. Google Doc) etc
 
 <b>B) Love ICT</b>
-1) Student-led Cyber Wellness Peer-Advocacy Programme
-To engage student voice and promote cyber wellness peer advocacy, selected students serve as Cyber Wellness Ambassadors to champion the safe and responsible use of ICT to their peers.  These ambassadors will be equipped with the necessary skills via training (such as attending the East Zone ICT Cyber Wellness Conference) and with the guidance and support from teachers.
+<p align = "justify">1) Student-led Cyber Wellness Peer-Advocacy Programme
+To engage student voice and promote cyber wellness peer advocacy, selected students serve as Cyber Wellness Ambassadors to champion the safe and responsible use of ICT to their peers.  These ambassadors will be equipped with the necessary skills via training (such as attending the East Zone ICT Cyber Wellness Conference) and with the guidance and support from teachers.</p>
 
 
-2) Partnering Parents and Guardians in Reinforcing Cyber Wellness at Home<br>
-To complement the cyber wellness curriculum in school, parents and guardians could set a good example at home in the use of technology and play an active role in guiding our children to navigate safely in the cyberspace.  We look forward to partnering parents in reinforcing consistent and coherent messaging for Cyber Wellness education:
+<p align = "justify">2) Partnering Parents and Guardians in Reinforcing Cyber Wellness at Home<br>
+To complement the cyber wellness curriculum in school, parents and guardians could set a good example at home in the use of technology and play an active role in guiding our children to navigate safely in the cyberspace.  We look forward to partnering parents in reinforcing consistent and coherent messaging for Cyber Wellness education:</p>
 
 *   Maintain a balanced lifestyle between the physical and the cyber world
 *   Use ICT for positive purposes
