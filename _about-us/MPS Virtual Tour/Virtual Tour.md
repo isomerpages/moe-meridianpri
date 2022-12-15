@@ -15,7 +15,7 @@ Please click on any of the location to find out more about our school</center>
   <tr>
 		<th colspan="2"><p align = "center">Common Space</p></th>
 		<th></th>
-    <th colspan="4"><p align = "center">Special Rooms & <br>eco-Environment Learning Spaces</p></th>
+    <th colspan="4"><p align = "center">Special Rooms & eco-Environment Learning Spaces</p></th>
     <th colspan="2"><p align = "center">Sport Facilities</p></th>
 		<th></th>
   </tr>
