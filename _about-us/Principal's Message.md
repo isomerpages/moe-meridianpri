@@ -7,7 +7,7 @@ description: ""
 
 <table>
   <tr>
-    <td><br><br><br><br><img style="width:2490px; float:left" src="/images/About%20As/Liza%20Rahmat%20MPS.jpg"></td>
+    <td><img style="width:2490px; float:left" src="/images/About%20As/Liza%20Rahmat%20MPS.jpg"></td>
     <td><p align="justify">2020 is a special year for us at Meridian Primary. Twenty years ago, we started as a school with humble beginnings at the former Coral Primary under the leadership of the first Principal, Mr Eric Lim.</p>
 		</td>
   </tr></table>
