@@ -43,7 +43,7 @@ third_nav_title: Student Development
 	
 
 	
-#### Important Information for Parents
+#### Improtant Information for Parents
 	
 <li>Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
 	
