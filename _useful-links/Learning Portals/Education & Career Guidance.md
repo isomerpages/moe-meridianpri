@@ -4,3 +4,7 @@ permalink: /useful-links/Learning-Portals/permalink/
 description: ""
 third_nav_title: Learning Portals
 ---
+![](/images/Useful%20Links/skillsfuture_fb_1200by630_w.jpg)
+
+Click <a href ="https://www.myskillsfuture.gov.sg/content/student/en/primary/about/myskillsfuture-for-students.html">here</a> to access MySkillsFuture webpage
+
