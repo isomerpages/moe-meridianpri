@@ -37,14 +37,11 @@ third_nav_title: Student Development
 	
 <li> The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.</li>
 	
-<li>The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.</li>
+<li>The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate <em>changes</em>, build healthy <em>relationships</em>, especially online relationships, and exercise <em>safety</em>.</li>
 
 **At Meridian, the following lessons from the Growing Years Programme will be taught in <u>2022</u>:**
 	
-![](/images/CCE/Sexuality%20Education/Sexuality%20Education%201.png)
-![](/images/CCE/Sexuality%20Education/Sexuality%20Education%202.png)
-![](/images/CCE/Sexuality%20Education/Sexuality%20Education%203.png)
-![](/images/CCE/Sexuality%20Education/Sexuality%20Education%204.png)
+
 	
 #### Important Information for Parents
 	
