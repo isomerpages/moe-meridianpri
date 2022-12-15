@@ -5,7 +5,7 @@ description: ""
 ---
 # Principal's Message
 
-<table frame="box">
+<table frame="void;">
   <tr>
     <td><img style="width:2490px;height:220px; float:left" src="/images/About%20As/Liza%20Rahmat%20MPS.jpg"></td>
     <td><p align="justify">2020 is a special year for us at Meridian Primary. Twenty years ago, we started as a school with humble beginnings at the former Coral Primary under the leadership of the first Principal, Mr Eric Lim.</p>
@@ -19,7 +19,7 @@ description: ""
 <p align="justify">Though the school been under the leadership of three other Principals, our core belief has not changed since we started. In Meridian Primary, we strive to provide a holistic all-rounded development of character, body and mind for every Meridian and we are guided by our school motto ‘To Learn, To Love and To Lead’.</p>
 
 <br>
-<table style="width:100%">
+<table style="width:100%;" border="0">
   <tbody><tr>
     <td><p align="justify">To commemorate this special year, our HOD Student Management, Ms Han Zi Rui, designed a 20th&nbsp;Anniversary logo that adapts the iconic globe from the school crest into a tree to mark the school’s steady growth over the past two decades. We celebrate the many children that have passed through our hands and this year, we hope to capture their unique Meridian Stories that encapsulate their experiences, memories and friendship through the years.</p></td>
     <td><img style="width:4500px;height:250px; float:right" src="/images/About%20As/2020.jpg"></td>
@@ -36,5 +36,3 @@ Let’s look forward to an exciting 2020 as we continue to nurture Future Learne
 
 Liza Rahmat(Ms)<br>
 Principal
-
-
