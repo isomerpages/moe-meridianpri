@@ -22,7 +22,7 @@ Please click on any of the location to find out more about our school</center>
   <tr>
     <td></td>
 		<td><a href = "https://photos.google.com/share/AF1QipPLor48tf09MERr6KE1aIKiIYpKg4qGTSVlwH62obbQP-FyEsDhBu0G2Mu-eRIkew/photo/AF1QipOJFiVITfMrmCU3dUj2T6E8VyNQYjxJzuZojB4M?key=ODdfM2VYeWd4TmlSMkpJM2hkVENVaTN3Q2FoVXV3">Main Driveway<br></a></td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></td>
 		<td><a href = "https://photos.google.com/share/AF1QipPUw3RQfWy4pwbOGX3jBLjm5k_hEd9XOmQaamTwUKTj2fPR_dNVXWtlLsWQQzq7aQ/photo/AF1QipPzpXs5-aQRh9tgdEZwrs9zahVVrS9y6cZBB-zz?key=dWNpYndLUEV4N0FCeUxQQVdqNFNzWnNTdDhqRmZR">Secret Garden</a></td>
 		<td></td>
 		<td><a href = "https://photos.google.com/share/AF1QipPhDKUFIWMvBwOHzYP8uDFerX1ma_87ZKnE4XGaal4BzpQsu81QKwSGX7gjuy6hyg/photo/AF1QipMPQYzcYvPc_sMQdCOZR8sd2jAjLO9ka-co0QUn?key=Q1ZzcFpBanJjdWt1VmpqTnA5YmZPUnNPTVg1cTZ3">The Main Mangrove</a></td>
@@ -34,13 +34,13 @@ Please click on any of the location to find out more about our school</center>
 		<td><a href = "https://photos.google.com/share/AF1QipPdfbxr1xQNPywOHFJcNcxSADOBf0FGaOw5eZwX9PKDznFqoUgKEefjWxtG28BEfg/photo/AF1QipPny3rlsd_F5jva_ePSndGoGvYSgQMY8hp4fkCb?key=YmMxdkJaMHAyRktNRXkyQ051Q2NxMlhZbFlIWXZ3">Foyer</a></td>
 		<td></td>
 		<td><a href = "https://photos.google.com/share/AF1QipO4PCZVUVeKJGucccwBLGAizWK-3_GjhWbkABDKSVaq1O4luG4A0ODaiu4UGzkXjg/photo/AF1QipMK63TFrIvQ1eQj1Pra2CoD5kZI0zHaMIGKPZbn?key=Vkl6eFk0cUlLOEtSdk11U3dadDdtYzFyV2RtV29n">Maths Room</a></td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></td>
 		<td><a href = "https://photos.google.com/share/AF1QipNAYscs22XeV6vc-PO5GMOLoBJL4yOZ3DRvyZPDzwFB69_eW3cUHkETDg-nYF7Oqw/photo/AF1QipMWJhshXn_PkmZvteJ_vrpdWWGY1RVcH_JbgdJh?key=MTZsUjZrMWEzajdoV0FLMjNhX3Y4UlpmbUpyQVd3">Eco-Garden</a></td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></td>
 		<td><a href = "https://photos.google.com/share/AF1QipNGTD16TnCsdwvu6tJewMziS0bNwY1S93ZEmr1UzLdt4hAfA6ua-5fBWzUm_0GpYQ/photo/AF1QipMlM0TvJ6T57zxop-eB2E3GAy415DShQ8-gLrsR?key=TGhJYWdMcm9zWDc1R2dfdmM0YV95WGwzZkRMT0tB">Field</a></td>
   </tr>
 	<tr>
-    <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
+    <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></td>
 		<td><a href = "https://photos.google.com/share/AF1QipMpQZYAJ4YPF3ZOiVBFObvqbx138KngQxFVJbM78QpVh4Fk0nYJrG1OCjiVtzUIOQ/photo/AF1QipNcnLkU_dUFd7cawxmATpWoJB9hzxXJnw6Xc2Ib?key=cmxKRlhhZURvRmpSd3ctT3k0dzdLZ09ta2R0MTR3">Parade Square</a></td>
 		<td></td>
 		<td><a href = "https://photos.google.com/share/AF1QipP3hwfD2zUn8130JXzeDDfc9ZiWdIAoEa3CPnwubgJAzuwTz6ESPSczaGnQgPfbYA/photo/AF1QipMuOKXs3CEL3Q0d8cLQZtmz06xJbr8nM_szGi96?key=X0VIRHBVc094T2RkX2JiYVJ4bzB5NE5TaS0xQl9n">Science Room</a></td>
@@ -50,9 +50,9 @@ Please click on any of the location to find out more about our school</center>
 		<td></td>
   </tr>
 	<tr>
-    <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
+    <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></td>
 		<td><a href = "https://photos.google.com/share/AF1QipPv3eHm-RtuFcOmnKgYhM2J8z08Z9LloGyQZ6zhXldwCl_29TLkzkupZ-Uvg2S-kw/photo/AF1QipP-qS0j4BEluwP-Jm3GGtx-E-nqRJdF-dJLxTWW?key=bU9qUTlDY0tSXzg3dUQ3NHprS1gxdmxlc2twa1NB">Playground</a></td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></td>
 		<td><a href = "https://photos.google.com/share/AF1QipOsKWv4QTDXC2EUI4usExqpb47rWM2nfYrvuCORSXXNtNyqnvlIgwJ9sWB2_AR4lw/photo/AF1QipOyxylAWITtLGLmM7mY0XQjJUTLF4uAZSfrdSMS?key=Ml83Z0RYT2NCTG5FbkJLVk9ZWDdjY3pUZUVjRWJR">Art Room</a></td>
 		<td></td>
 		<td><a href = "https://photos.google.com/share/AF1QipNsMephdk2lz_cV7fpcEpwV4KJqIEtrnvwkXhQK-yb5Mrf_UPgd2UEjjQff3vCPjg/photo/AF1QipMhJ1fDIkqRp2D3DmN4_6EE4cer0mNxxNENFKT1?key=bENIdlRYSThqSXY5anUxWXFJRl81X3Z6cVJnZllB">Experimental Pond</a></td>
@@ -60,9 +60,9 @@ Please click on any of the location to find out more about our school</center>
 		<td></td>
   </tr>
 	<tr>
-    <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
+    <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></td>
 		<td><a href = "https://photos.google.com/share/AF1QipNr2SXJ9Y9Y7D4N5hhiY9FmeGbjLstCC4_8m8bEYbOqaP2IU2uXTbfHl0F1e7dz_A/photo/AF1QipOd44BdhbZGVYWxCa_VoGo4bZE7KKxlXz7j7PEv?key=TjF3UFdvZExFTl9mM1VjZEFFRUVBM0hXNkwxd0RR">Canteen</a></td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></td>
 		<td><a href = "https://photos.google.com/share/AF1QipOMKLuIVCS71x_cEwRd5J2gXv-JgbX4kzN5z68BTsFYI2CFmh5x37inZWg49i8KwA/photo/AF1QipOGjTDMO0rP8aqfyKos33ROdjIbTHmDEBgJUhNi?key=ZzR5b0htblg4T2RSS0hoa0xoOG94cVp3VVFqQm5B">Music Room</a></td>
 		<td></td>
 		<td><a href = "https://photos.google.com/share/AF1QipMQ248OCG25U9K-kmxAaqgI654nPx3XrVmZoUPZyTasRZHWrRESq6nGE91DhlVejw/photo/AF1QipM8Cqj7262cmOi9ZnMJrqV6AocG_w5neZ_O--49?key=bVAwdk1tRndlTUlSRzJHUnpYZkp2a2M1TWMyMFRn">Koi Pond</a></td>
@@ -82,7 +82,7 @@ Please click on any of the location to find out more about our school</center>
 	<tr>
     <td></td>
 		<td></td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></td>
 		<td><a href = "https://photos.google.com/share/AF1QipOEvHuk_L-m5cqzPJusyY0Q_ncY0dIzrBulYnhGGCFfSzBIa5sodtMjqZBkmQXOoA/photo/AF1QipMtcISRytAhdXysT0KuNpSx7xM6FJMBW5t105bz?key=VGtrdW43WGJfNDVYMERlRFBKSzUzakpYS2tja0p3">Library</a></td>
 		<td></td>
 		<td><a href = "https://photos.google.com/share/AF1QipNtBXZFnv0D7j5Sv2oKSSnKxFTO8MASvsS5ZckleSgSWDP9CTgDipbBSqqWIKqn-Q/photo/AF1QipNIeHxUbhNxlY9j6jeHBKV6-NxymlVnFzLInq8k?key=XzM3cW5PeGFGUk1UWktHLUN5cWdKWlByZUdEd2JR">Turtle Pond</a></td>
@@ -92,7 +92,7 @@ Please click on any of the location to find out more about our school</center>
 	<tr>
     <td></td>
 		<td></td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 80%; height: 50%; float = right"/></td>
+		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></td>
 		<td><a href = "https://photos.google.com/share/AF1QipOTAuWjD1kvetpt2vFmR3lFCqQZTCK8jBA3hqsXS4lzh-CqSgxMOdv4oZNExERmwA/photo/AF1QipO4dGYVVYz673h0TSuWPFEe9Xc7sfcAp3NSnsAy?key=a2hjQ1YwcjFJV0pHcTlPSW9LT01CZXBQNmdBaHp3">Computer Lab</a></td>
 		<td></td>
 		<td></td>
