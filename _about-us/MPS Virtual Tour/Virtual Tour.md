@@ -11,6 +11,8 @@ Welcome to Meridian Primary School e-Open House! It provides an insight into the
 <center><b>Our Facilities</b><br>
 Please click on any of the location to find out more about our school</center>
 
+![](/images/About%20As/Virtual%20Tour/School%20Floor_20%20Dec.jpg)
+
 <table style="width:100%">
   <tr>
 		<th colspan="2"><p align = "center">Common Space (A)</p></th>
@@ -120,8 +122,6 @@ Please click on any of the location to find out more about our school</center>
 		<td></td>
   </tr>
 </table>
-
-![](/images/About%20As/Virtual%20Tour/School%20Floor_5%20June.jpg)
 
 <br>
 
