@@ -15,7 +15,6 @@ School Vision & Mission
 
 Our Mission
 -----------
-<p align ="justify">To provide a quality educational experience that maximises the potential of all pupils<br>
-through the delivery of a holistic student-centric curriculum<br>
-anchored in values, safety, health, continuous improvement<br>
+<p align ="justify">To provide a quality educational experience that maximises the potential of all pupils
+through the delivery of a holistic student-centric curriculum anchored in values, safety, health, continuous improvement
 and collaborative partnership with all stakeholders.</p>
