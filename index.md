@@ -12,16 +12,16 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://google.com
+          url: https://www.meridianpri.moe.edu.sg/communications/letters-to-parents/letter-to-all-parents-2023/
         - title: Resources for Parents and Guardians
           description: ""
-          url: https://gmail.com
+          url: https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/resources-for-parents/
         - title: Recent Letters to Parents & Guardians
           description: ""
-          url: /privacy/
+          url: https://www.meridianpri.moe.edu.sg/communications/letters-to-parents/letter-to-all-parents-2023/
         - title: Information on Sexuality Education in Schools
           description: ""
-          url: ""
+          url: https://www.meridianpri.moe.edu.sg/the-meridian-experience/student-development/sexuality-education/
       subtitle: Future Learners • Future Citizens • Future Leaders
   - infobar:
       description: <iframe width="560" height="315"
