@@ -16,7 +16,6 @@ description: ""
 
 <p align="justify">Though the school been under the leadership of three other Principals, our core belief has not changed since we started. In Meridian Primary, we strive to provide a holistic all-rounded development of character, body and mind for every Meridian and we are guided by our school motto ‘To Learn, To Love and To Lead’.</p>
 
-<br>
 <table style="width:100%;" border="0">
   <tbody><tr>
     <td><p align="justify">To commemorate this special year, our HOD Student Management, Ms Han Zi Rui, designed a 20th&nbsp;Anniversary logo that adapts the iconic globe from the school crest into a tree to mark the school’s steady growth over the past two decades. We celebrate the many children that have passed through our hands and this year, we hope to capture their unique Meridian Stories that encapsulate their experiences, memories and friendship through the years.</p></td>
