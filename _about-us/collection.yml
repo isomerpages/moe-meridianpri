@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Annocement.md
+      - Announcements.md
       - Principal's Message.md
       - School Information/.keep
       - School Information/Welcome.md
