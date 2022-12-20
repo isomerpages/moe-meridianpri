@@ -4,9 +4,7 @@ permalink: /useful-links/parents-gateway/parents-gateway/
 description: ""
 third_nav_title: Parents Gateway (PG)
 ---
-
-
-
+#### Useful Links
 
 1. Access Parent Gateway() website, <a href = "https://pg.moe.edu.sg/">click here</a>.
 2. PG Meeting Feature - <a href = "/files/Useful%20Link/Parents%20Gateway/Meetings%20Feature%20-%20User%20Guide%20for%20Parents%20-%20Aug%202020%20(1).pdf">User guide </a>for parents
