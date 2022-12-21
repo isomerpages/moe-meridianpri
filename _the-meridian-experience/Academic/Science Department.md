@@ -20,9 +20,9 @@ third_nav_title: Academic
 #### Goals
 To provide our students with the:
 
-*   experiences which build on their interest in and stimulate their curiousity about the environment we live in  
+*   <p align = "justify">experiences which build on their interest in and stimulate their curiousity about the environment we live in</p>
     
-*   scientific knowledge and concepts to help them understand the world around them  
+*  <p align = "justify"> scientific knowledge and concepts to help them understand the world around them</p>
     
 *   opportunities and platforms to develop skills, habits of mind and attitudes for scientific inquiry  
     
