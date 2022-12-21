@@ -4,7 +4,6 @@ permalink: /communications/resources-for-parents/resources-for-parents/
 description: ""
 third_nav_title: Resources For Parents
 ---
-
 <p align = "justify">“Every parent a supportive partner” is an important piece of MOE’s key theme “Towards Student-Centric, Values-Driven Education”. It emphasises the importance of partnerships between schools and parents in bringing out the best in every child, and also the key role of the community in supporting our children on diverse pathways towards success.</p>
 
 At Meridian, we regularly share resources for parents and guardians with education news, resources and tips.
@@ -32,6 +31,15 @@ MOE has developed the following resources to support parents on:
 <p align = "justify">Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.</p>
 
 <a href = "">Read more</a>
+
+#### Resources for Parents and Guardians 
+
+<p align = "justify">“Every parent a supportive partner” is an important piece of MOE’s key theme “Towards Student-Centric, Values-Driven Education”. It emphasises the importance of partnerships between schools and parents in bringing out the best in every child.  At Meridian, we regularly share resources for parents with education news, resources and tips.  The most recent sharing is as follow:</p>
+
+**1) What's the right age for parents to get their kids a cell phone?**
+
+Parents need to consider whether their kids are ready to use their phones responsibly and respectfully.
+
 
 #### SchoolBag
 
