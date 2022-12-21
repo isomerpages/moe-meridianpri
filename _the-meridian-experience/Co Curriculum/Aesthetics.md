@@ -84,12 +84,12 @@ Meridian’s Got Talent is an annual event organised for students to showcase th
 ![](/images/The%20Meridian%20Experience/Aesthetics/aesthetics-Music-Day_1RT-2017.jpg)
 
 ![](/images/The%20Meridian%20Experience/Aesthetics/aesthetics-Music-Day_2PA-2017.jpg)
-<p>Music Day for P1 and P2  <br>
-P1 & P2 Music Day is a yearly event where our lower primary students are given the opportunity to perform as a class on stage. It is also an opportunity for our students to showcase the musical instruments that they have made as part of our Music Creations Project.
+Music Day for P1 and P2  <br>
+<p align = "justify">P1 & P2 Music Day is a yearly event where our lower primary students are given the opportunity to perform as a class on stage. It is also an opportunity for our students to showcase the musical instruments that they have made as part of our Music Creations Project.</p>
 	
-Each performance includes singing, movement and instrument-playing. Through each performance, we aim to develop listening and ensemble performance skills in our students. At the same time, students gain self-confidence through performing on stage. Through making music together as a class, our students learn to respect their peers, look out for visual cues from their music teachers, and feel a sense of identity to the class.
+<p align = "justify">Each performance includes singing, movement and instrument-playing. Through each performance, we aim to develop listening and ensemble performance skills in our students. At the same time, students gain self-confidence through performing on stage. Through making music together as a class, our students learn to respect their peers, look out for visual cues from their music teachers, and feel a sense of identity to the class.</p>
 	
-This July, our Primary 1 and Primary 2 pupils did an excellent job for each of their class performance.  This is all possible with the hard work of our students, as well as the dedication of our music teachers in facilitating practices during music lessons.</p>
+<p align = "justify">This July, our Primary 1 and Primary 2 pupils did an excellent job for each of their class performance.  This is all possible with the hard work of our students, as well as the dedication of our music teachers in facilitating practices during music lessons.</p>
 
 <p align = "justify"><u>Music Day for P3 and P4</u><br>  
 P3 and P4 Music Day is a platform for our students to perform on stage together as a class. We hope to develop confidence in our students and ignite their passion for the performing arts. Through playing in an ensemble, which consists of different instruments and layers, students learn to understand the importance of teamwork and listening to one another on stage.</p>
