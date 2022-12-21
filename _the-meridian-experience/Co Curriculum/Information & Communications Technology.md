@@ -32,15 +32,6 @@ third_nav_title: Co Curriculum
 
 #### Key Programmes
 
-<b>A) Learn ICT</b><br>
-Student ICT Capacity Building Programme<br>
-Taking reference from MOE’s Baseline ICT Standard and New Media Literacies for primary schools, lessons are designed in spiral-upwards to progressively build the ICT capacity of our students. Each department has infused Baseline ICT skills into their curriculum so that students benefit from an ICT-enabled learning environment.  The skills covered include:
-
-*   Microsoft Office Skills (eg. Word, PowerPoint and Excel)
-*   Computational and Coding Skills (eg. Code for Fun, Micro:bit, Scratch)
-*   Digital Art (eg. Sketchbook Pro)
-*   Web 2.0 Collaboration Tools (eg. Google Doc) etc
-
 **A) Learn ICT**
 
 Student ICT Capacity Building Programme
