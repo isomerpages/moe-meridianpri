@@ -14,7 +14,10 @@ You’ve got this!
 
 Click on the image below or <a href = "/files/The%20Meridian%20Experience/SLS/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf">here </a>to read more.
 
+
 ![](/images/The%20Meridian%20Experience/SLS/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL_Page_01.jpg)
+
+
 <hr>
 
 Missed our last issue? Click on the images below for our previous Parent Kits
