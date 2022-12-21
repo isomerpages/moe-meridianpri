@@ -102,9 +102,11 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%203.png" style="width:350px;height:250px;float:center">
 
 <br>
+
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%204.png" style="width:350px;height:250px;float:center">
 
 <br>
+
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%205.jpeg" style="width:350px;height:250px;float:center">
 
 <br>
@@ -112,6 +114,7 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 
 
 ![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%207.jpeg)
+
 
 **Highlights**
 
