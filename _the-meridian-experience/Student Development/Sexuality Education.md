@@ -24,7 +24,7 @@ third_nav_title: Student Development
 
 <p>You may click <a href="http://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/">here</a> for more information on MOE Sexuality Education.</p>
 
-#### Meridian's SEd Programme
+<b>Meridian's SEd Programme</b>
 	
 <li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li>
 
