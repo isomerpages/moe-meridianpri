@@ -49,7 +49,7 @@ third_nav_title: Student Development
 	<br>
 <img src="/images/The%20Meridian%20Experience/Sexuality%20Education/Sexuality%20Education%204.png"/>
 	
-#### Improtant Information for Parents
+<b>Important Information for Parents</b>
 	
 <li>Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
 	
