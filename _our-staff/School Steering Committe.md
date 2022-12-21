@@ -101,6 +101,7 @@ description: ""
     <td><a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mdm Sharon Ng Ye Chin</a></td>
     <td>HOD/PE, CCA Aesthetics</td>
   </tr>
+	<tr>
 	<td><a href="mailto:yeo_kim_chiau_benjamin@moe.edu.sg">Mr Benjamin Yeo Kin Chiau</a></td>
     <td>School Staff Developer</td>
   </tr>
@@ -112,7 +113,5 @@ description: ""
     <td><a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi</a></td>
     <td>Level Head Science</td>
   </tr>
-	<tr>
-    
 	
 </table>
