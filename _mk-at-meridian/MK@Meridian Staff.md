@@ -64,10 +64,6 @@ description: ""
     <td><a href="mailto:ye_hong@moe.edu.sg">Mdm Ye Hong</a></td>
     <td>Chinese Language Teacher</td>
   </tr>
-	<tr>
-    <td><a href="mailto:tan_chew_yu@moe.edu.sg">Ms Tan Chew Yu</a></td>
-    <td>Chinese Language Teacher (FAJT)</td>
-  </tr>
 		<tr>
     <td><a href="mailto:nurul_hani_effandi@moe.edu.sg">Ms Nurul Hani Bte Effandi</a></td>
     <td>Malay Language Teacher</td>
