@@ -110,6 +110,7 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%205.jpeg" style="width:350px;height:250px;float:center">
 
 <br>
+
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%206.jpeg" style="width:350px;height:250px;float:center">
 
 
@@ -139,14 +140,15 @@ Poomsae Category (Junior Division)
 1.  Y7 individual boy: 5th position (Drake Ryder Lee)
 2.  W9 individual girl: 6th position (Keira Lim)
 3.  W9 individual boy: 8th position (Thaddeus Tay)
+<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SaiTTpJWsqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
 For enquiries on the school’s Taekwondo CCA, please email:<br>
-* <a href="mailto:nurrashidah_norman@moe.edu.sg">Ms Shidah</a>
-* <a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah</a>
+* <a href="mailto:nurrashidah_norman@moe.edu.sg">Ms Shidah</a><br>
+* <a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah</a><br>
 * <a href="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a>
 <hr>
 
@@ -195,5 +197,5 @@ Some activities done during CCA:<br>
 <br>
 
 For enquiries on the school’s Sport Club CCA, please email:<br>
-* <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a>
+* <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a><br>
 * <a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Heryanti</a>
