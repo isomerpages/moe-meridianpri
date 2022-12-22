@@ -54,7 +54,7 @@ Please click on any of the location to find out more about our school</center>
 	<tr>
     <td><a href = "https://youtu.be/yhHzXw0iaX0"><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></a></td>
 		<td>A4) <a href = "https://photos.google.com/share/AF1QipPv3eHm-RtuFcOmnKgYhM2J8z08Z9LloGyQZ6zhXldwCl_29TLkzkupZ-Uvg2S-kw/photo/AF1QipP-qS0j4BEluwP-Jm3GGtx-E-nqRJdF-dJLxTWW?key=bU9qUTlDY0tSXzg3dUQ3NHprS1gxdmxlc2twa1NB">Playground</a></td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></td>
+		<td><a href = "https://youtu.be/_g3m2vL2TwA"><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></a></td>
 		<td>B4) <a href = "https://photos.google.com/share/AF1QipOsKWv4QTDXC2EUI4usExqpb47rWM2nfYrvuCORSXXNtNyqnvlIgwJ9sWB2_AR4lw/photo/AF1QipOyxylAWITtLGLmM7mY0XQjJUTLF4uAZSfrdSMS?key=Ml83Z0RYT2NCTG5FbkJLVk9ZWDdjY3pUZUVjRWJR">Art Room</a></td>
 		<td></td>
 		<td>B14) <a href = "https://photos.google.com/share/AF1QipNsMephdk2lz_cV7fpcEpwV4KJqIEtrnvwkXhQK-yb5Mrf_UPgd2UEjjQff3vCPjg/photo/AF1QipMhJ1fDIkqRp2D3DmN4_6EE4cer0mNxxNENFKT1?key=bENIdlRYSThqSXY5anUxWXFJRl81X3Z6cVJnZllB">Experimental Pond</a></td>
