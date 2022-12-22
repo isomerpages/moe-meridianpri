@@ -62,9 +62,9 @@ Please click on any of the location to find out more about our school</center>
 		<td></td>
   </tr>
 	<tr>
-    <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></td>
+    <td><a href = "https://youtu.be/GWvhwc77Y30"><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></a></td>
 		<td>A5) <a href = "https://photos.google.com/share/AF1QipNr2SXJ9Y9Y7D4N5hhiY9FmeGbjLstCC4_8m8bEYbOqaP2IU2uXTbfHl0F1e7dz_A/photo/AF1QipOd44BdhbZGVYWxCa_VoGo4bZE7KKxlXz7j7PEv?key=TjF3UFdvZExFTl9mM1VjZEFFRUVBM0hXNkwxd0RR">Canteen</a></td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></td>
+		<td><a href = "https://youtu.be/9RtG--GtczI"><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></a></td>
 		<td>B5) <a href = "https://photos.google.com/share/AF1QipOMKLuIVCS71x_cEwRd5J2gXv-JgbX4kzN5z68BTsFYI2CFmh5x37inZWg49i8KwA/photo/AF1QipOGjTDMO0rP8aqfyKos33ROdjIbTHmDEBgJUhNi?key=ZzR5b0htblg4T2RSS0hoa0xoOG94cVp3VVFqQm5B">Music Room</a></td>
 		<td></td>
 		<td>B15) <a href = "https://photos.google.com/share/AF1QipMQ248OCG25U9K-kmxAaqgI654nPx3XrVmZoUPZyTasRZHWrRESq6nGE91DhlVejw/photo/AF1QipM8Cqj7262cmOi9ZnMJrqV6AocG_w5neZ_O--49?key=bVAwdk1tRndlTUlSRzJHUnpYZkp2a2M1TWMyMFRn">Koi Pond</a></td>
@@ -84,7 +84,7 @@ Please click on any of the location to find out more about our school</center>
 	<tr>
     <td></td>
 		<td></td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></td>
+		<td><a href = "https://youtu.be/bjcxQzeThgg"><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></a></td>
 		<td>B7) <a href = "https://photos.google.com/share/AF1QipOEvHuk_L-m5cqzPJusyY0Q_ncY0dIzrBulYnhGGCFfSzBIa5sodtMjqZBkmQXOoA/photo/AF1QipMtcISRytAhdXysT0KuNpSx7xM6FJMBW5t105bz?key=VGtrdW43WGJfNDVYMERlRFBKSzUzakpYS2tja0p3">Library</a></td>
 		<td></td>
 		<td>B17) <a href = "https://photos.google.com/share/AF1QipNtBXZFnv0D7j5Sv2oKSSnKxFTO8MASvsS5ZckleSgSWDP9CTgDipbBSqqWIKqn-Q/photo/AF1QipNIeHxUbhNxlY9j6jeHBKV6-NxymlVnFzLInq8k?key=XzM3cW5PeGFGUk1UWktHLUN5cWdKWlByZUdEd2JR">Turtle Pond</a></td>
