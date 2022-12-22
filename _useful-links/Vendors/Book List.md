@@ -4,7 +4,7 @@ permalink: /useful-links/vendors/book-list/
 description: ""
 third_nav_title: Vendors
 ---
-#### 2022 Book list
+#### 2023 Book list
 
 Please click on the level to view on the book list details:   
 <b><u>Primary 1</u></b><br>
@@ -28,4 +28,3 @@ Please click on the level to view on the book list details: 
 <b><u>Primary 6</u></b><br>
 * <a href="/files/Useful%20Link/Book%20List/2023%20Book%20List/Pri%206.pdf">Primary 6 (Standard)</a>
 *  <a href="/files/Useful%20Link/Book%20List/2023%20Book%20List/Pri%206%20foundation.pdf">Primary 6 (Foundation)</a>
-
