@@ -30,7 +30,7 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 **Football** <i>(For Boys Only)</i>
 
 **Vision**
-<br align = "justify">Role Models, on and off the pitch Our Football CCA inculcates strong values and character through different activities.  Team games create bonds and build lasting friendships.  When the tide is against us, we will move on and never give up.  Values are not just caught in Football CCA.  We make a conscientious effort to teach them in meaningful ways. Resilience. Teamwork. Respect. Responsibility. Perseverance.
+<p align = "justify">Role Models, on and off the pitch Our Football CCA inculcates strong values and character through different activities.  Team games create bonds and build lasting friendships.  When the tide is against us, we will move on and never give up.  Values are not just caught in Football CCA.  We make a conscientious effort to teach them in meaningful ways. Resilience. Teamwork. Respect. Responsibility. Perseverance.</p>
 
 **Highlights**
 
