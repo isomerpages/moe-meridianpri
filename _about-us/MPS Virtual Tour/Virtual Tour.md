@@ -42,7 +42,7 @@ Please click on any of the location to find out more about our school</center>
 		<td>C2) <a href = "https://photos.google.com/share/AF1QipNGTD16TnCsdwvu6tJewMziS0bNwY1S93ZEmr1UzLdt4hAfA6ua-5fBWzUm_0GpYQ/photo/AF1QipMlM0TvJ6T57zxop-eB2E3GAy415DShQ8-gLrsR?key=TGhJYWdMcm9zWDc1R2dfdmM0YV95WGwzZkRMT0tB">Field</a></td>
   </tr>
 	<tr>
-    <td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></td>
+    <td><a href = "https://youtu.be/fRJwEBw8BM4"><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></a></td>
 		<td>A3) <a href = "https://photos.google.com/share/AF1QipMpQZYAJ4YPF3ZOiVBFObvqbx138KngQxFVJbM78QpVh4Fk0nYJrG1OCjiVtzUIOQ/photo/AF1QipNcnLkU_dUFd7cawxmATpWoJB9hzxXJnw6Xc2Ib?key=cmxKRlhhZURvRmpSd3ctT3k0dzdLZ09ta2R0MTR3">Parade Square</a></td>
 		<td></td>
 		<td>B3) <a href = "https://photos.google.com/share/AF1QipP3hwfD2zUn8130JXzeDDfc9ZiWdIAoEa3CPnwubgJAzuwTz6ESPSczaGnQgPfbYA/photo/AF1QipMuOKXs3CEL3Q0d8cLQZtmz06xJbr8nM_szGi96?key=X0VIRHBVc094T2RkX2JiYVJ4bzB5NE5TaS0xQl9n">Science Room</a></td>
