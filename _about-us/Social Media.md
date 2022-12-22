@@ -9,3 +9,5 @@ description: ""
 
 
 #### Meridian Primary School Official Instagram Page
+
+![](/images/About%20As/Meridian%20Ig.png)
