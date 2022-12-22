@@ -94,7 +94,7 @@ Please click on any of the location to find out more about our school</center>
 	<tr>
     <td></td>
 		<td></td>
-		<td><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></td>
+		<td><a href = "https://youtu.be/ob6oI19JIGQ"><img src="/images/About%20As/Virtual%20Tour/camera.jpg" style="width: 60%; height: 50%; float = right"/></a></td>
 		<td>B8) <a href = "https://photos.google.com/share/AF1QipOTAuWjD1kvetpt2vFmR3lFCqQZTCK8jBA3hqsXS4lzh-CqSgxMOdv4oZNExERmwA/photo/AF1QipO4dGYVVYz673h0TSuWPFEe9Xc7sfcAp3NSnsAy?key=a2hjQ1YwcjFJV0pHcTlPSW9LT01CZXBQNmdBaHp3">Computer Lab</a></td>
 		<td></td>
 		<td></td>
