@@ -43,7 +43,7 @@ Parents need to consider whether their kids are ready to use their phones respon
 
 #### SchoolBag
 
-Schoolbag.sg  – MOE’s Education News Site – provides parents, educators and the general public with education news, school features and tips.
+<p align = "justify">Schoolbag.sg  – MOE’s Education News Site – provides parents, educators and the general public with education news, school features and tips.</p>
 
 <a href = "https://www.schoolbag.edu.sg/">Read more</a>
 
