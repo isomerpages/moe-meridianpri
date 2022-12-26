@@ -8,7 +8,7 @@ description: ""
 ![](/images/Our%20Partners/PSG_15-Feb-2017a-720x540.jpg)
 <p align = "center">PSG Member at A Get-Together</p>
 
-The group has been actively working with and supporting the school on several initiatives, some of them are as listed below:
+<p align = "justify">The group has been actively working with and supporting the school on several initiatives, some of them are as listed below:</p>
 
 *   Breakfast With Parents and School re-opening in January  
 *   Eco-Environment Projects  
