@@ -12,4 +12,4 @@ description: ""
 
 <a href = "https://www.instagram.com/meridianpri_official/?hl=en" >![](/images/About%20As/Meridian%20Ig.png)</a>
 
-Click on the photo to view Meridian Primary School Officiall Instagram
+Click on the above image to view Meridian Primary School Official Instagram page.
