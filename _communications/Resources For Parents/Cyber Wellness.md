@@ -7,7 +7,7 @@ third_nav_title: Resources For Parents
 <p align = "justify">Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.</p>
 
 **Parents as Partners**  
-As parents, you are our key partners in ensuring holistic CW education for our children.  Through our CW lessons and programmes, the students receive these key messages:
+<p align = "justify">As parents, you are our key partners in ensuring holistic CW education for our children.  Through our CW lessons and programmes, the students receive these key messages:</p>
 
 *   Embrace ICT yet maintain a balanced lifestyle between the physical and the cyber world  
     
@@ -27,14 +27,14 @@ Parents could set a good example at home in the use of technology and play an ac
 *   Be mindful of your digital media use (or over-use).
 
 **Resources for Parents**<br>
-1.  To support all parents, there is a range of CW resources in MOE’s ICT Connection website.  These include:
+<p align = "justify">1.  To support all parents, there is a range of CW resources in MOE’s ICT Connection website.  These include:</p>
 *   [Introduction to CW – Cyber Wellness 101](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101)  
     
 *   [CW Resources, Guides and Tips, and Useful Links](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents)  
     
 *   [MOE’s Social Media Posts](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/social-media-posts)
 
-2.  Since March 2017, the CW team at Meridian also initiated monthly CW messages for parents in the form of useful articles and/or tips.
+<p align = "justify">2.  Since March 2017, the CW team at Meridian also initiated monthly CW messages for parents in the form of useful articles and/or tips.</p>
 
 <details> <summary>2021</summary> <ul>
   <li>Term 1 2021:  Parental controls. <a href = "/files/Communications/Resources%20for%20Parents/Cyber%20Wellness/Parental%20Control%20Resource_Term1_%202021.pdf">See guide</a></li>
