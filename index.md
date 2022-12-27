@@ -18,7 +18,7 @@ sections:
           url: https://staging.dwna1etcg5x8g.amplifyapp.com/communications/resources-for-parents/resources-for-parents/
         - title: Recent Letters to Parents & Guardians
           description: ""
-          url: https://www.meridianpri.moe.edu.sg/communications/letters-to-parents/letter-to-all-parents-2023/
+          url: https://staging.dwna1etcg5x8g.amplifyapp.com/communications/letters-to-parents/letter-to-all-parents-2023/
         - title: Information on Sexuality Education in Schools
           description: ""
           url: https://staging.dwna1etcg5x8g.amplifyapp.com/the-meridian-experience/student-development/sexuality-education/
