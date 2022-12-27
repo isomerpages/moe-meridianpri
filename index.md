@@ -21,7 +21,7 @@ sections:
           url: https://www.meridianpri.moe.edu.sg/communications/letters-to-parents/letter-to-all-parents-2023/
         - title: Information on Sexuality Education in Schools
           description: ""
-          url: https://www.meridianpri.moe.edu.sg/the-meridian-experience/student-development/sexuality-education/
+          url: https://staging.dwna1etcg5x8g.amplifyapp.com/the-meridian-experience/student-development/sexuality-education/
       subtitle: Future Learners • Future Citizens • Future Leaders
   - infobar:
       description: <iframe width="560" height="315"
