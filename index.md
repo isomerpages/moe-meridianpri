@@ -15,7 +15,7 @@ sections:
           url: https://staging.dwna1etcg5x8g.amplifyapp.com/about-us/announcements/
         - title: Resources for Parents and Guardians
           description: ""
-          url: https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/resources-for-parents/
+          url: https://staging.dwna1etcg5x8g.amplifyapp.com/communications/resources-for-parents/resources-for-parents/
         - title: Recent Letters to Parents & Guardians
           description: ""
           url: https://www.meridianpri.moe.edu.sg/communications/letters-to-parents/letter-to-all-parents-2023/
