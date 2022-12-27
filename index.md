@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://www.meridianpri.moe.edu.sg/about-us/announcements/
+          url: https://staging.dwna1etcg5x8g.amplifyapp.com/about-us/announcements/
         - title: Resources for Parents and Guardians
           description: ""
           url: https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/resources-for-parents/
