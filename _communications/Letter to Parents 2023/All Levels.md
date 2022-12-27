@@ -4,12 +4,7 @@ permalink: /communications/letters-to-parents/letter-to-all-parents-2023/
 description: ""
 third_nav_title: Letter to Parents 2023
 ---
-
-
-
-
-
-#### Letter to All Parents 2022
+#### Letter to All Parents 2023
 
 <b>December (2021)</b>
 <br>
