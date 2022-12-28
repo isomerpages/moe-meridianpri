@@ -5,4 +5,4 @@ description: ""
 ---
 <a href = "https://padlet.com/meridianprimary/je0dpzy84plzfexb"><img src="/images/The%20Meridian%20Experience/Gratitude%20Wall.png"></a>
 
-Please click on the image to view the Meridian Gratitude Wall
+Please click on the image to view the Meridian Primary Gratitude Wall
