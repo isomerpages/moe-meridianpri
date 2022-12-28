@@ -13,6 +13,8 @@ description: ""
   </tr>
 </table>
 
+<hr>
+
 #### Meridian Primary School Official Instagram Page
 
 <a href = "https://www.instagram.com/meridianpri_official/?hl=en" >![](/images/About%20As/Meridian%20Ig.png)</a>
