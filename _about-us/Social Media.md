@@ -19,9 +19,8 @@ description: ""
 
 <table style="width:100%">
   <tr>
-    <td><img src="/images/About%20As/ig%20post.png" style="width:10000px;height:600px;float:center"></td>
+    <td><img src="/images/About%20As/ig%20post.png" style="width:9500px;height:600px;float:center"></td>
     <td><p style="font-size:20px"><b>(https://www.facebook.com/meridianpri/)</b></p><img width="50" height="50" src="/images/About%20As/FB.png">
 		</td>
   </tr>
 </table>
-
