@@ -3,9 +3,8 @@ title: NASCANS Student Care Centre
 permalink: /useful-links/nascans-student-care-centre/
 description: ""
 ---
-Student
-Care Service Provider:<br>
-<u>NASCANS Pte Ltd<br></u>
+Student Care Service Provider:<br>
+<u>NASCANS Pte Ltd</u><br>
 <b>Address:</b> c/o Meridian Primary School, 20 Pasir Ris Street 71 Singapore 518798
 <b>Main Address: </b>32 Sam Leong Road Singapore 207922 <br>
 <b>SCC Contact No: </b>8725 7254 (Mon to Fri, 11 A.M to 6:30 P.M)<br>
