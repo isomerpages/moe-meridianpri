@@ -17,6 +17,13 @@ description: ""
 
 #### Meridian Primary School Official Instagram Page
 
-<a href = "https://www.instagram.com/meridianpri_official/?hl=en" >![](/images/About%20As/Meridian%20Ig.png)</a>
+<table style="width:50%">
+  <tr>
+    <td><img src="/images/About%20As/ig%20post.png" height="200" width="200"></td>
+    <td>
+		</td>
+  </tr>
+</table>
+
 
 Click on the above image to view Meridian Primary School Official Instagram page.
