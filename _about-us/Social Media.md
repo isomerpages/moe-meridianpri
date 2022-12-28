@@ -21,7 +21,7 @@ description: ""
   <tr>
     <td><img width="300" height="300" src="/images/About%20As/ig%20post.png"></td>
     <td>
-			<img width="200" height="200" src="/images/About%20As/IG.png">
+			<br><br><br><br><p style="font-size:20px"><b>(https://www.facebook.com/meridianpri/)</b></p><img width="200" height="200" src="/images/About%20As/FB.png">
 		</td>
   </tr>
 </table>
