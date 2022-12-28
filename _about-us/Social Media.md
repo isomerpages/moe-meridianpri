@@ -25,5 +25,3 @@ description: ""
   </tr>
 </table>
 
-
-Click on the above image to view Meridian Primary School Official Instagram page.
