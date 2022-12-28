@@ -156,7 +156,7 @@ For enquiries on the school’s Taekwondo CCA, please email:<br>
 <hr>
 
 #### Sports Club
-**Sport Club** _(Boys and Girls Only)_
+<b>Sport Club</b> <em>(Boys and Girls Only)</em>
 
 <p align = "justify">The sports club is a modular CCA. It aims to expose students to a variety of sports including mini-tennis, modified basketball, badminton, and other recreational activities. There are many sports activities to keep the students motivated in staying physically active. From time to time, selected students will also be given the platform to showcase their skills and abilities through learn-to-play workshops and inter-school competitions.</p>
 
