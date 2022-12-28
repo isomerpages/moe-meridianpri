@@ -11,4 +11,4 @@ description: ""
 
 <b>3)   Online  Registration for MOE Kindergarten (MK) 2022 K1 Admission (CLOSED)</b>
 
-<p align = "justify">The Online Registration for MOE Kindergarten (MK) 2022 K1 admission took place from 5 Feb 2021, 9 a.m. to 9 Feb 2021, 4p.m.  You may read Top Registration Questions Asked at the recent MK Virtual Open House.  You may also find out more on MK@Meridian <a href = "">here</a></p>
+<p align = "justify">The Online Registration for MOE Kindergarten (MK) 2022 K1 admission took place from 5 Feb 2021, 9 a.m. to 9 Feb 2021, 4p.m.  You may read <a href = "">Top Registration Questions</a> Asked at the recent MK Virtual Open House.  You may also find out more on MK@Meridian <a href = "">here</a></p>
