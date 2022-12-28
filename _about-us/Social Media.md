@@ -20,7 +20,7 @@ description: ""
 <table style="width:100%">
   <tr>
     <td><img src="/images/About%20As/ig%20post.png"></td>
-    <td><p style="font-size:20px"><b>(https://www.facebook.com/meridianpri/)</b></p><img width="100" height="100" src="/images/About%20As/FB.png">
+    <td><p style="font-size:20px"><b>(https://www.facebook.com/meridianpri/)</b></p><img width="50" height="50" src="/images/About%20As/FB.png">
 		</td>
   </tr>
 </table>
