@@ -18,12 +18,13 @@ description: ""
 #### Meridian Primary School Official Instagram Page
 
 <table style="width:50%">
-  <tbody><tr>
-    <td><img width="200" height="200" src="/images/About%20As/ig%20post.png"></td>
+  <tr>
+    <td><img width="300" height="300" src="/images/About%20As/ig%20post.png"></td>
     <td>
+			<img width="200" height="200" src="/images/About%20As/IG.png">
 		</td>
   </tr>
-</tbody></table>
+</table>
 
 
 Click on the above image to view Meridian Primary School Official Instagram page.
