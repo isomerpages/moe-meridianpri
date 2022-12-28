@@ -119,10 +119,10 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 
 **Highlights**
 
-National Primary Schools Taekwondo Championships 2019
+<p>National Primary Schools Taekwondo Championships 2019</p>
 
 * Poomsae Category
-	* Senior Division Blue Belt (Individual) – 4th position (Ai Bo Xuan)
+	*Senior Division Blue Belt (Individual) – 4th position (Ai Bo Xuan)
 	* Junior Division Green Tip Belt (Individual) – 8th position (Li Shaorong)
 	* Junior Division Red Belt (Individual) – 8th position (Wee Zun Ya, Delfina)
 
