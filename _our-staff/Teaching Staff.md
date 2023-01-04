@@ -33,15 +33,20 @@ description: ""
 	<tr>
     <td>1 Resilience</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:qiu_jie_zhi@moe.edu.sg">Mdm Jessi Qiu Jie Zhi </a><br>
-		<a href ="mailto:nurrashidah_norman@moe.edu.sg">Miss Nurrashidah Bte Norman</a></td>
+    <td><a href ="mailto:siti_saleha_salleh_a@moe.edu.sg">Mdm Siti Saleha bte Salleh </a><br>
+		<a href ="mailto:norhaida_kamaludin@moe.edu.sg">Miss Norhaida Kamaludin</a></td>
+  </tr>
+	<tr>
+    <td>1 Respect</td>
+    <td>Form Teacher</td>
+    <td><a href ="mailto:norsheleen_mohd_atan@moe.edu.sg">Mdm Norsheleen binte Mohd Atan</a><br>
+		<a href ="mailto:lim_seow_wei@moe.edu.sg">Mdm Lim Seow Wei</a></td>
   </tr>
 	<tr>
     <td>1 Teamwork</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:zahirah_lyana_mohd_khir@moe.edu.sg">Mdm Zahirah Lyana Binte Mohd Khir</a><br>
-		<a href ="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
-		<a href ="mailto:siti_saleha_salleh_a@moe.edu.sg">Mdm Siti Saleha Bte Salleh</a></td>
+    <td><a href ="mailto:maslinda_ahmad@moe.edu.sg">Mdm Maslinda bte Ahmad</a><br>
+		<a href ="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a></td>
   </tr>
 </table>
 
