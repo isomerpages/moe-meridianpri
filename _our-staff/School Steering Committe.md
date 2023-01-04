@@ -42,7 +42,7 @@ description: ""
   </tr>
   <tr>
     <td>
-			<a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg">Mdm Tan Hugue Hwan Stefane</a></td>
+			<a href="mailto:chou_shin_chieh@moe.edu.sg">Mdm Chou Shin Chieh</a></td>
     <td>Year Head P2 and P5</td>
   </tr>
 	<tr>
