@@ -25,6 +25,12 @@ description: ""
 		<a href = "mailto:tang_tsin_ray@moe.edu.sg">Mdm Tang Tsin Ray</a></td>
   </tr>
 	<tr>
+    <td>1 Responsibility</td>
+    <td>Form Teacher</td>
+    <td><a href ="mailto:vasanthi_mahalinggam@moe.edu.sg">Mdm Vasanthi d/o Mahalinggam</a> <br>
+		<a href = "mailto:lim_chia_chia@moe.edu.sg">Mdm Lim Chia Chia</a></td>
+  </tr>
+	<tr>
     <td>1 Resilience</td>
     <td>Form Teacher</td>
     <td><a href ="mailto:qiu_jie_zhi@moe.edu.sg">Mdm Jessi Qiu Jie Zhi </a><br>
