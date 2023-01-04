@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Meridian Primary School
-      background: /images/About As/Home_Banner.png
+      background: /images/About As/Home_Banner1.png
       key_highlights:
         - title: Announcements
           description: ""
