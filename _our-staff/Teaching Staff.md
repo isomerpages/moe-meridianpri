@@ -184,10 +184,10 @@ description: ""
 		<a href ="mailto:muhammad_raziz_abdul_razak@moe.edu.sg">Mr Muhammad Raziz bin Abdul Razak</a><br></td>
   </tr>
 	<tr>
-    <td>5 Respect</td>
+    <td>5 Teamwork</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Nur Shahid Bin Ahmad </a><br>
-		<a href ="mailto:low_hwee_miang_a@moe.edu.sg">Mdm Low Hwee Miang</a></td>
+    <td><a href ="mailto:angel_huang@moe.edu.sg">Mdm Angel Huang </a><br>
+		<a href ="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan binte Abd Wahab</a></td>
   </tr>
 </table>
 
