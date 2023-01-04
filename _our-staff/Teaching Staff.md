@@ -162,8 +162,14 @@ description: ""
   <tr>
     <td>5 Care</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg">Miss Kirenjit Kaur </a><br>
-		<a href ="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah Bte Md Nasir</a></td>
+    <td><a href ="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Nur Shahid bin Ahmad </a><br>
+		<a href ="mailto:foo_si_min@moe.edu.sg">Ms Tracy Foo</a></td>
+  </tr>
+	 <tr>
+    <td>5 Integrity</td>
+    <td>Form Teacher</td>
+    <td><a href ="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu bte Mohamed </a><br>
+		<a href ="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a></td>
   </tr>
   <tr>
     <td>5 Responsibility</td>
