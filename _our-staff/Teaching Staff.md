@@ -60,7 +60,7 @@ description: ""
   <tr>
     <td>2 Care</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:norsheleen_mohamed_atan@moe.edu.sg">Mdm Norsheleen Binte Mohd Atan</a> <br>
+    <td><a href="mailto:nazurah_norizan@moe.edu.sg">Miss Nazurah bte Norizan</a> <br>
 		<a href ="mailto:angel_huang@moe.edu.sg">Mdm Angel Huang Meiyun</a></td>
   </tr>
   <tr>
