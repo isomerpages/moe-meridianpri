@@ -134,8 +134,8 @@ description: ""
     
   </tr>
   <tr>
-    <td><a href="mailto:LIM_Kim_Min@moe.edu.sg">Mr Lim Kim Min</a></td>
-    <td>Vice Principal</td>
+    <td><a href="mailto:khairilanuar_junid@moe.edu.sg">Mr Khairilanuar Bin Junid</a></td>
+    <td>Operations Manager</td>
   </tr>
 	
 </table>
