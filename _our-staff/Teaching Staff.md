@@ -15,14 +15,14 @@ description: ""
   <tr>
     <td>1 Care</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:nazurah_norizan@moe.edu.sg">Miss Nazurah bte Norizan </a><br>
-		<a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a></td>
+    <td><a href="mailto:salina_a@moe.edu.sg">Mdm Salina bte Mohd Hassan</a><br>
+		<a href="mailto:zulkarnai_zulkifli@moe.edu.sg">Mr Zulkarnai Zulkifli</a></td>
   </tr>
   <tr>
     <td>1 Integrity</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:tan_pei_ling_a@moe.edu.sg">Mdm Tan Pei Ling</a> <br>
-		<a href = "mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiaolu</a></td>
+    <td><a href ="mailto:fadhilatun_samsudin@moe.edu.sg">Mdm Fadhilatun bte Samsudin</a> <br>
+		<a href = "mailto:tang_tsin_ray@moe.edu.sg">Mdm Tang Tsin Ray</a></td>
   </tr>
 	<tr>
     <td>1 Resilience</td>
