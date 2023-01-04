@@ -43,7 +43,7 @@ description: ""
   <tr>
     <td>
 			<a href="mailto:chou_shin_chieh@moe.edu.sg">Mdm Chou Shin Chieh</a></td>
-    <td>Year Head P2 and P5</td>
+    <td>Year Head P2 and P4</td>
   </tr>
 	<tr>
     <td><a href="mailto:chou_shin_chieh@moe.edu.sg">Mdm Chou Shin Chieh</a></td>
