@@ -123,11 +123,9 @@ description: ""
 </table>
 
 ### Executive and Administrative Staff
-----------------------------------
+
 
 <table style="width:100%">
-  <tr>
-  </tr>
   <tr>
     <td><a href="mailto:aliza_farhana_mohd_raus@moe.edu.sg">Ms Aliza Farhana Binti Mohd Raus</a></td>
     <td>Administrative Manager</td>
