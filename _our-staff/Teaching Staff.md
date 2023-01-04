@@ -180,8 +180,8 @@ description: ""
 	<tr>
     <td>5 Resilience</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:tay_wan_boon@moe.edu.sg">Mdm Tay Wan Boon Stephanie</a><br>
-		<a href ="mailto:norhaida_kamaludin@moe.edu.sg">Miss Norhaida Bte Kamaludin </a><br></td>
+    <td><a href ="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen</a><br>
+		<a href ="mailto:muhammad_raziz_abdul_razak@moe.edu.sg">Mr Muhammad Raziz bin Abdul Razak</a><br></td>
   </tr>
 	<tr>
     <td>5 Respect</td>
