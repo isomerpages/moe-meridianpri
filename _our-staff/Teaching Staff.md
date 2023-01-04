@@ -199,17 +199,16 @@ description: ""
     <th>Staff</th>
   </tr>
   <tr>
-    <td>6 Responsiblility</td>
+    <td>6 Care</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:juliana_jalil@moe.edu.sg">Miss Juliana Bte Jalil </a><br>
-		<a href ="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Jeyamohan Ramsami</a></td>
+    <td><a href ="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg">Miss Kirenjit Kaur</a><br>
+		<a href ="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah bte </a></td>
   </tr>
   <tr>
-    <td>6 Resilience</td>
+    <td>6 Responsibility</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:mastura_yaacob@moe.edu.sg">Mdm Mastura Bte Yaacob </a><br>
-		<a href ="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi </a><br>
-		<a href ="mailto:tang_tsin_ray@moe.edu.sg">Mdm Tang Tsin Ray</a></td>
+    <td><a href ="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Noor Heryanti Abd Karim </a><br>
+		<a href ="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung </a></td>
   </tr>
 	<tr>
     <td>6 Respect</td>
