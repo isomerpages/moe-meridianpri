@@ -211,17 +211,16 @@ description: ""
 		<a href ="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung </a></td>
   </tr>
 	<tr>
-    <td>6 Respect</td>
+    <td>6 Resilience</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen Chai Ying</a><br>
-		<a href ="mailto:Muhammad_Raziz_Abdul_Razak@moe.edu.sg">Mr Muhammad Raziz Bin Abdul Razak</a> <br></td>
+    <td><a href ="mailto:tay_wan_boon@moe.edu.sg">Mdm Stephanie Tay</a><br>
+		<a href ="mailto:yamuna_jathananthan@moe.edu.sg">Mdm Yamuna d/o Jathananthan</a> <br></td>
   </tr>
 	<tr>
-    <td>6 Teamwork</td>
+    <td>6 Respect</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan Binte Abd Wahab</a> <br>
-		<a href ="mailto:tang_li_hwa@moe.edu.sg">Mdm Tang Li Hwa </a><br>
-		<a href ="mailto:zulkarnai_zulkifli@moe.edu.sg">Mr Zulkarnai Bin Zulkifi</a></td>
+    <td><a href ="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi Hui Yee</a> <br>
+		<a href ="mailto:low_hwee_miang_a@moe.edu.sg">Mdm Low Hwee Miang </a></td>
   </tr>
 </table>
 
