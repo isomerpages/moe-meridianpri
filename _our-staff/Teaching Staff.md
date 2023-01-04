@@ -134,35 +134,22 @@ description: ""
   <tr>
     <td>4 Care</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham Jian Wen </a><br>
+    <td><a href ="mailto:lim_lee_yong@moe.edu.sg">Miss Debbie Lim Lee Yong </a><br>
 		<a href ="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah Bte Jamal</a></td>
-  </tr>
-  <tr>
-    <td>4 Integrity</td>
-    <td>Form Teacher</td>
-    <td><a href ="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Wong Mau Tan Peony </a><br>
-		<a href ="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a></td>
   </tr>
 	<tr>
     <td>4 Responsibility</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah Binte Ali</a><br>
-		<a href ="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho Kwai Ming</a><br>
+    <td><a href ="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
+		<a href ="mailto:nurrashidah_norman@moe.edu.sg">Ms Nurrashidah bte Norman</a><br>
 			</td>
   </tr>
 	<tr>
     <td>4 Resilience</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:zahrul_zaiden@moe.edu.sg">Mr Zahrul Bin Zaiden </a><br>
-		<a href ="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a></td>
-  </tr>
-	<tr>
-    <td>4 Respect </td>
-    <td>Form Teacher</td>
-    <td><a href ="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu Bte Mohamed</a><br>
-		<a href ="mailto:chua_ee_lyn@moe.edu.sg">Miss Chua Ee Lyn</a>
-			</td>
-  </tr>
+    <td><a href ="mailto:juliana_jalil@moe.edu.sg">Mdm Juliana bte Jalil </a><br>
+		<a href ="mailto:chen_chuangan_mark@moe.edu.sg">Mr Mark Chen</a></td>
+	</tr>
 </table>
 
 ####  Primary 5
