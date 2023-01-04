@@ -100,20 +100,26 @@ description: ""
   <tr>
     <td>3 Care </td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:lim_lee_yong@moe.edu.sg">Miss Debbie Lim Yong </a><br>
-			<a href ="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a></td>
+    <td><a href ="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho </a><br>
+			<a href ="mailto:tang_li_hwa@moe.edu.sg">Mdm Tang Li Hwa</a></td>
+  </tr>
+	<tr>
+    <td>3 Integrity </td>
+    <td>Form Teacher</td>
+    <td><a href ="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham </a><br>
+			<a href ="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah bte Jem</a></td>
   </tr>
   <tr>
     <td>3 Responsibility</td>
     <td>Form Teacher</td>
-    <td>	<a href ="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi Hui Yee </a><br>
-			<a href ="mailto:syedama_syeed_ibrahim@moe.edu.sg">Mdm Syedama d/o Syeed Ibrahim</a></td>
+    <td>	<a href ="mailto:chua_ee_lyn@moe.edu.sg">Miss Chua Ee Lyn</a><br>
+			<a href ="mailto:abdul_wahid_abdul_wahab@moe.edu.sg">Mr Abd Wahid bin Abd Wahab</a></td>
   </tr>
 	<tr>
     <td>3 Resilience</td>
     <td>Form Teacher</td>
-    <td>	<a href ="mailto:sharifah_lubna@moe.edu.sg">Mdm Sharifah Lubna </a><br>
-			<a href ="mailto:chen_chuangan_mark@moe.edu.sg">Mr Chen Chuangan Mark </a><br>
+    <td>	<a href ="mailto:yeo_han_leng_david@moe.edu.sg">Mr David Yeo Han Leng</a><br>
+			<a href ="mailto:lee_song_sang@moe.edu.sg">Mdm Lee Song Sang </a><br>
 		</td>
   </tr>
 </table>
