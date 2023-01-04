@@ -121,3 +121,21 @@ description: ""
   </tr>
 	
 </table>
+
+### Executive and Administrative Staff
+----------------------------------
+
+<table style="width:100%">
+  <tr>
+  </tr>
+  <tr>
+    <td><a href="mailto:aliza_farhana_mohd_raus@moe.edu.sg">Ms Aliza Farhana Binti Mohd Raus</a></td>
+    <td>Administrative Manager</td>
+    
+  </tr>
+  <tr>
+    <td><a href="mailto:LIM_Kim_Min@moe.edu.sg">Mr Lim Kim Min</a></td>
+    <td>Vice Principal</td>
+  </tr>
+	
+</table>
