@@ -9,14 +9,13 @@ description: ""
 <hr>
 <br>
 <table style="width:100%">
-  
+	 <tr>
+    <td><a href="mailto:azila_farhana_mohd_raus@moe.edu.sg">Ms Aliza Farhana Binti Mohd Raus</a></td>
+    <td>Administrative Manager</td>
+  </tr>
   <tr>
     <td><a href="mailto:khairilanuar_junid@moe.edu.sg">Mr Khairilanuar Bin Junid</a></td>
-    <td>Operations Manager (OM)</td>
-  </tr>
-	  <tr>
-    <td><a href="mailto:azila_farhana_mohd_raus@moe.edu.sg">Ms Aliza Farhana Binti Mohd Raus</a></td>
-    <td>Administrative Manager (AM)</td>
+    <td>Operations Manager</td>
   </tr>
   <tr>
     <td><a href="mailto:azzilawaty_abdullah@moe.edu.sg">Miss Azzilawaty Binte Abdullah</a></td>
