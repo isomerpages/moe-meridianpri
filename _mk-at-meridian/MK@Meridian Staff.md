@@ -76,9 +76,6 @@ description: ""
     <td><a href="mailto:nurul_ainn_rostan@moe.edu.sg">Ms Nurul Ainn Binte Rostan</a></td>
     <td>Malay Language Teacher</td>
   </tr>
-	<tr>
-    <td><a href="mailto:thaulath_nisha_begum_rahman_shariff@moe.edu.sg">Ms Thaulath Nisha Begum Rahman Shariff</a></td>
-    <td>Tamil Language Teacher</td>
-  </tr>
+	
 	
 </table>
