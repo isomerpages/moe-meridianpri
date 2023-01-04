@@ -276,9 +276,6 @@ description: ""
     <td><a href ="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a></td>
   </tr>
 	<tr>
-    <td><a href ="mailto:Loh_Ying_Xuan_Tiffany@moe.edu.sg">Miss Tiffany Loh Ying Xuan</a></td>
-  </tr>
-	<tr>
     <td><a href ="mailto:wong_hwee_kim@moe.edu.sg">Mdm Wong Hwee Kim</a></td>
   </tr>
 </table>
