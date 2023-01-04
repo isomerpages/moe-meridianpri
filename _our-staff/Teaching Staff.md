@@ -61,13 +61,13 @@ description: ""
     <td>2 Care</td>
     <td>Form Teacher</td>
     <td><a href="mailto:nazurah_norizan@moe.edu.sg">Miss Nazurah bte Norizan</a> <br>
-		<a href ="mailto:angel_huang@moe.edu.sg">Mdm Angel Huang Meiyun</a></td>
+		<a href ="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a></td>
   </tr>
   <tr>
     <td>2 Integrity</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:vasanthi_mahalinggam@moe.edu.sg">Mdm Vasanhti d/o Mahalinggam</a> <br>
-		<a href ="mailto:abdul_wahid_abdul_wahab@moe.edu.sg">Mr Abdul Wahid bin Abd Wahab</a></td>
+    <td><a href ="mailto:tan_pei_ling_a@moe.edu.sg">Mdm Tan Pei Ling</a> <br>
+		<a href ="mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiaolu</a></td>
   </tr>
 	<tr>
     <td>2 Responsibility</td>
@@ -78,21 +78,14 @@ description: ""
 	<tr>
     <td>2 Resilience</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:yeo_han_leng_david@moe.edu.sg">Mr David Yeo Han Leng </a><br>
-		<a href ="mailto:foo_si_min@moe.edu.sg">Miss Tracy Foo Si Min </a><br>
-		<a href ="mailto:yamuna_jathananthan@moe.edu.sg">Mdm Yamuna d/o Jathananthan</a></td>
-  </tr>
-	<tr>
-    <td>2 Respect</td>
-    <td>Form Teacher</td>
-    <td><a href ="mailto:maslinda_ahmad@moe.edu.sg">Mdm Maslinda Bte Ahmad </a><br>
-		<a href ="mailto:lee_song_sang@moe.edu.sg">Mdm Lee Song Sang</a></td>
+    <td><a href ="mailto:qiu_jie_zhi@moe.edu.sg">Mdm Jessi Qiu Jie Zhi</a><br>
+		<a href ="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah binte Ali </a></td>
   </tr>
 	<tr>
     <td>2 Teamwork</td>
     <td>Form Teacher</td>
-    <td><a href ="mailto:salina_a@moe.edu.sg">Mdm Salina Bte Mohd Hassan</a><br>
-		<a href ="mailto:lim_seow_wei@moe.edu.sg">Mdm Lim Seow Wei</a></td>
+    <td><a href ="mailto:zahirah_lyana_mohd_khir@moe.edu.sg">Mdm Zahirah Lyana binte Mohd Khir</a><br>
+		<a href ="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a></td>
   </tr>
 </table>
 
