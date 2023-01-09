@@ -8,7 +8,7 @@ description: ""
 
 <p align = "justify">Happy New Year to all of our Meridian family.  We look forward to meeting our K1 and P1 children on 3 Jan 203, and welcoming our K2, P2to P6 Meridians on 4 Jan 2023. </p>
 
-Let the adventure begin!</p>
+<p>Let the adventure begin!</p>
 
 <b>2)   Online  Registration for MOE Kindergarten (MK) 2023 K1 Admission <font color = "red">(CLOSED)</font><img src="/images/MK@Meridian/MK%20Logo.png" style="width:150px;height:150px;float:right"></b>
 
