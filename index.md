@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Meridian Primary School
       background: /images/About As/Meridian Banner.png
       key_highlights:
         - title: Announcements
@@ -22,7 +21,6 @@ sections:
         - title: Information on Sexuality Education in Schools
           description: ""
           url: https://staging.dwna1etcg5x8g.amplifyapp.com/the-meridian-experience/student-development/sexuality-education/
-      subtitle: Future Learners • Future Citizens • Future Leaders
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/hA_11fdyWXk" title="YouTube video
