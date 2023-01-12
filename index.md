@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/About As/Meridian Banner.png
+      background: /images/About As/Meridian Banner_1.png
       key_highlights:
         - title: Announcements
           description: ""
