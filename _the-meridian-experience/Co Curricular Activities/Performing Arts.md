@@ -74,7 +74,7 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 
 <p align = "justify">Malay Dance exposes students to a healthy and fun lifestyle by keeping fit with the dance moves and building friendship. Through the CCA, the students get to understand each other better and work with each other together to achieve the desired goals.</p>
 
-<a align = "justify">During the course of practice, students build their self-confidence through stage performances, develop team spirit and encourage multi-racial participation. Most importantly, students learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
+<p align = "justify">During the course of practice, students build their self-confidence through stage performances, develop team spirit and encourage multi-racial participation. Most importantly, students learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
 
 **Highlights**  
 
