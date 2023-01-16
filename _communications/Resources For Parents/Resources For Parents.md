@@ -24,7 +24,7 @@ MOE has developed the following resources to support parents on:
     
 *   nurture the social and emotional skills that build up the resilience in their children
 
-<a href = "">Read more</a>
+<a href = "https://staging.dwna1etcg5x8g.amplifyapp.com/communications/resources-for-parents/">Read more</a>
 
 #### Cyber Wellness
 
