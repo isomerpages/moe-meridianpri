@@ -49,7 +49,7 @@ Parents need to consider whether their kids are ready to use their phones respon
 
 #### STEPS
 
-To register to see STEPS user guide <a href = "">click here</a>
+To register to see STEPS user guide <a href = "/files/Communications/Resources%20for%20Parents/Annex%20C-%20Step%20By%20Step%20Guide%20for%20Internet%20Users.pdf">click here</a>
 
 #### P4 Subject-Based Banding Briefing
 
