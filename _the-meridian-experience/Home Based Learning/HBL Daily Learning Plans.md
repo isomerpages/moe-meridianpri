@@ -11,8 +11,8 @@ Please select class from the drop-down menu below to retrieve your class' HBL Le
 Dear Students  
   
 	     
-<br><span style="background-color: transparent; text-align: center; color: rgb(34, 34, 34);"><b>For&nbsp;</b></span><b style="color: rgb(34, 34, 34); text-align: center;">**HBL on 29** **September** **2022**</b><span style="text-align: center; background-color: transparent; color: rgb(34, 34, 34);"><b><br></b></span><font size="2">
-</font>
+<b>For HBL on 29 September 2022</b>
+
 <table>
 <tr>
 <td style="width: 184px;">
