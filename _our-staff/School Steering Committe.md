@@ -117,7 +117,7 @@ description: ""
   </tr>
 	<tr>
     <td><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah bte Md Nasir</a></td>
-    <td>Level Mother Tongue</td>
+    <td>Subject Head Mother Tongue (Covering)</td>
   </tr>
 	
 </table>
