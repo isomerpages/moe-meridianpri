@@ -104,16 +104,16 @@ description: ""
     <td>Subject Head/ Character and Citizenship Education</td>
   </tr>
 	<tr>
+    <td><a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi</a></td>
+    <td>Level Head Science</td>
+  </tr>
+	<tr>
     <td><a href="mailto:vasanthi_mahalinggam@moe.edu.sg">Mdm Vasanthi d/o Mahalinggam</a></td>
     <td>Level Head English (Covering)</td>
   </tr>
 	<tr>
     <td><a href="mailto:noor_heryanti_abd_karim@moe.edu.sg">Mdm Noor Heryanti Abd Karim</a></td>
     <td>Level Head Maths (Covering)</td>
-  </tr>
-	<tr>
-    <td><a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi</a></td>
-    <td>Level Head Science</td>
   </tr>
 	<tr>
     <td><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah bte Md Nasir</a></td>
