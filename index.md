@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/About As/Meridian Banner_1.png
+      background: /images/About As/My Meridian Experience_School Websitei-01.png
       key_highlights:
         - title: Announcements
           description: ""
