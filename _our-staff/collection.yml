@@ -1,0 +1,13 @@
+collections:
+  our-staff:
+    output: true
+    order:
+      - School Steering Committe.md
+      - Teaching Staff.md
+      - Non Teaching Staff.md
+      - Team Meridian's Wonder Works/.keep
+      - Team Meridian's Wonder Works/The Guidance Angels.md
+      - Team Meridian's Wonder Works/The Students' Champions.md
+      - Team Meridian's Wonder Works/The Teacher Leaders.md
+      - Team Meridian's Wonder Works/The School Leaders.md
+      - Team Meridian's Wonder Works/The Curriculum Leaders.md

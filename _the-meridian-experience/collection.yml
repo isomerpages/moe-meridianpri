@@ -1,0 +1,44 @@
+collections:
+  the-meridian-experience:
+    output: true
+    order:
+      - 20th Anniversary.md
+      - Signature Programmes/.keep
+      - Signature Programmes/Applied Learning Programme (ALP).md
+      - Signature Programmes/Secret Garden (MTL).md
+      - Student Development/.keep
+      - Student Development/Character & Citizenship Education.md
+      - Student Development/National Education.md
+      - Student Development/Sexuality Education.md
+      - Student Development/Student Leadership.md
+      - Student Development/Discipline in Meridian.md
+      - Student Development/Student Well Being.md
+      - Academic/.keep
+      - Academic/English Department.md
+      - Academic/Meridian Primary Recommended Books.md
+      - Academic/Mathematics Department.md
+      - Academic/Mother Tongue Department.md
+      - Academic/Science Department.md
+      - Co Curriculum/.keep
+      - Co Curriculum/Aesthetics.md
+      - Co Curriculum/Physical Education.md
+      - Co Curriculum/Programme For Active Learning (PAL).md
+      - Co Curriculum/Information & Communications Technology.md
+      - Co Curriculum/P4 Adventure Camp 2018.md
+      - Co Curriculum/P5 Overseas Immersion Programme.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/General Information.md
+      - Co Curricular Activities/Sports & Games.md
+      - Co Curricular Activities/Performing Arts.md
+      - Co Curricular Activities/Clubs & Societies.md
+      - Co Curricular Activities/Uniformed Group.md
+      - Achievements.md
+      - Prize Giving Day 2022/.keep
+      - Prize Giving Day 2022/P1 & P2 Prize Giving Day 2022.md
+      - Prize Giving Day 2022/P3 to P6 Prize Giving Day 2022.md
+      - Home Based Learning/.keep
+      - Home Based Learning/Home Based Learning.md
+      - Home Based Learning/HBL Daily Learning Plans.md
+      - Home Based Learning/HBL Technical Support.md
+      - Home Based Learning/HBL Resource Kits.md
+      - Meridian Primary Gratitude Wall.md
