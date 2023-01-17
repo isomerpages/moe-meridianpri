@@ -79,7 +79,7 @@ description: ""
   </tr>
 	<tr>
     <td><a href="mailto:anna_lim_lin_lin@moe.edu.sg">Mdm Anna Lim Lin Lin</a></td>
-    <td>HOD/Mother Tongue</td>
+    <td>HOD/Mother Tongue Languages</td>
 		
   </tr>
 	<tr>
@@ -117,7 +117,7 @@ description: ""
   </tr>
 	<tr>
     <td><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah bte Md Nasir</a></td>
-    <td>Level Head Science</td>
+    <td>Level Mother Tongue</td>
   </tr>
 	
 </table>
