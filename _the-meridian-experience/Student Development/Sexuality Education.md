@@ -40,13 +40,13 @@ third_nav_title: Student Development
 
 **At Meridian, the following lessons from the Growing Years Programme will be taught in <u>2023</u>:**
 	
-<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/Sexuality%20Education%201.png"/>
+<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2023/Sexuality%20Education%201.png"/>
 	<br>
-<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/Sexuality%20Education%202.png"/>
+<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2023/Sexuality%20Education%202.png"/>
 	<br>
-<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/Sexuality%20Education%203.png"/>
+<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2023/Sexuality%20Education%203.png"/>
 	<br>
-<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/Sexuality%20Education%204.png"/>
+<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2023/Sexuality%20Education%204.png"/>
 	
 <b>Important Information for Parents</b>
 	
