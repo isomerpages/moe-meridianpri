@@ -12,10 +12,6 @@ Dear Students
   
 	     
 <b>For HBL on 29 September 2022</b>
-
-<table>
-<tr>
-<td style="width: 184px;">
   
   <p style="text-align: left;"><font size="3">Primary 5:</font></p>
   <select id="select">
@@ -28,5 +24,3 @@ Dear Students
   <option value="">5TW</option>
   
   </select>
-</td> 
-</table>
