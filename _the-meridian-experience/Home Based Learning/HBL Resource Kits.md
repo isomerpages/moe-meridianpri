@@ -14,7 +14,7 @@ third_nav_title: Home Based Learning
 
 <p>Click <a href = "/files/The%20Meridian%20Experience/SLS/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf">here </a>to read more.</p>
 
-![](/images/The%20Meridian%20Experience/SLS/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL_Page_01.jpg)
+<img src="/images/The%20Meridian%20Experience/SLS/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL_Page_01.jpg" style="width: 80%; height: 50%"/>
 
 <hr>
 
