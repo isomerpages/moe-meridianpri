@@ -30,8 +30,7 @@ third_nav_title: Student Development
 
 <li> The subjects that incorporate topics on sexuality include:</li>
 	<dd>1.  Science</dd>
-	<dd>2.  Form Teacher Guidance Period (FTGP)</dd>
-	<dd>3. Character and Citizenship Education (CCE)</dd>
+	<dd>2. Character and Citizenship Education (CCE)</dd>
 	
 <p><u><b>Sexuality Education:</b></u> “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package</p>
 	
