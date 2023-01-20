@@ -1,8 +1,9 @@
 ---
 title: Meridian In the News
-permalink: /meridian-in-the-news/permalink/
+permalink: /about-us/meridian-in-the-news/
 description: ""
 ---
+
 ### “I am a small certain” – Twelfth Set: Saxophone Player
 
 <center>25 October 2017</center>

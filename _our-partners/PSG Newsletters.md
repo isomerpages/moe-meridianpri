@@ -1,8 +1,9 @@
 ---
 title: PSG Newsletters
-permalink: /our-partners/permalink/
+permalink: /our-partners/psg-newsletters/
 description: ""
 ---
+
 #### Newsletter 2019
 
 <img src="/images/Our%20Partners/2019.png" />

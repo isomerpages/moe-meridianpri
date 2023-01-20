@@ -1,8 +1,9 @@
 ---
 title: Social Media
-permalink: /about-us/permalink/
+permalink: /about-us/social-media/
 description: ""
 ---
+
 #### Meridian Primary School Official Facebook Page
 
 <table style="width:50%">

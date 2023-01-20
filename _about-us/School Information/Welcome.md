@@ -1,9 +1,10 @@
 ---
 title: Welcome
-permalink: /welcome/permalink/
+permalink: /about-us/school-information/welcome/
 description: ""
 third_nav_title: School Information
 ---
+
 Welcome
 =======
 

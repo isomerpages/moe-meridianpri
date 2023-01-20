@@ -1,8 +1,9 @@
 ---
 title: Websites
-permalink: /useful-links/permalink/
+permalink: /useful-links/websites/
 description: ""
 ---
+
 #### Singapore Examination & Assessment Board
 To find out information on PSLE calendar and PSLE related information,  <a href = "https://www.seab.gov.sg/home/#">click here.</a>
 

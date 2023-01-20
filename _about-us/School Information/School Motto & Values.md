@@ -1,9 +1,10 @@
 ---
 title: School Motto & Values
-permalink: /about-us/school-information/school-motto-n-values/permalink/
+permalink: /about-us/school-information/school-motto-n-values/
 description: ""
 third_nav_title: School Information
 ---
+
 School Motto & Values
 =====================
 ### Our Motto

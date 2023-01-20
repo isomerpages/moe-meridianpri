@@ -1,8 +1,9 @@
 ---
 title: Parents Gateway (PG)
-permalink: /useful-links/parents-gateway/parents-gateway/
+permalink: /useful-links/parents-gateway/
 description: ""
 ---
+
 #### Useful Links
 
 1. Access Parents Gateway (PG) website, <a href = "https://pg.moe.edu.sg/">click here</a>.

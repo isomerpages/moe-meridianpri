@@ -3,6 +3,8 @@ title: Announcements
 permalink: /about-us/announcements/
 description: ""
 ---
+
+
 <b>1)  Welcome Back to School - 2023</b><br>
 <p align = "justify">Our gears are on and we are all ready to deep dive into the vast ocean of the amazing Meridian Experience of 2023!</p>
 

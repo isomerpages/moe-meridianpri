@@ -10,13 +10,11 @@ third_nav_title: Home Based Learning
 
 <p align = "justify">To support you, we’ve put together a quick refresh of all your best tips to help you support your child at home for the next two weeks. For parents who are going through this for the first time, we hope these tips will help ease you and your child into Full HBL.</p>
 
-You’ve got this!
+<p>You’ve got this!</p>
 
-Click on the image below or <a href = "/files/The%20Meridian%20Experience/SLS/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf">here </a>to read more.
+<p>Click <a href = "/files/The%20Meridian%20Experience/SLS/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf">here </a>to read more.</p>
 
-
-![](/images/The%20Meridian%20Experience/SLS/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL_Page_01.jpg)
-
+<img src="/images/The%20Meridian%20Experience/SLS/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL_Page_01.jpg" style="width: 80%; height: 50%"/>
 
 <hr>
 

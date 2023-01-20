@@ -1,9 +1,10 @@
 ---
 title: School Philosophy
-permalink: /about-us/school-information/school-philosophy/permalink/
+permalink: /about-us/school-information/school-philosophy/
 description: ""
 third_nav_title: School Information
 ---
+
 School Philosophy
 =================
 ### Our Philosophy

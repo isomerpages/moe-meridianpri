@@ -1,9 +1,10 @@
 ---
 title: School Vision & Mission
-permalink: /about-us/school-information/school-vision-n-mission/permalink/
+permalink: /about-us/school-information/school-vision-n-mission/
 description: ""
 third_nav_title: School Information
 ---
+
 School Vision & Mission
 =======================
 ###  Our Vision

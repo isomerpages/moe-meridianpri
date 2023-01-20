@@ -1,8 +1,9 @@
 ---
 title: Principal's Message
-permalink: /Principals-Message/permalink/
+permalink: /about-us/Principals-Message/
 description: ""
 ---
+
 # Principal's Message
 
 <table>

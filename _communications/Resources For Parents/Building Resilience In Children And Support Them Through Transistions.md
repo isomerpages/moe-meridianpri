@@ -1,9 +1,10 @@
 ---
 title: Building Resilience In Children And Support Them Through Transistions
-permalink: /communications/resources-for-parents/
+permalink: /communications/resources-for-parents/children-support/
 description: ""
 third_nav_title: Resources For Parents
 ---
+
 MOE has developed the following resources to support parents on:
 
 *   build a supportive and caring home environment in supporting their children through transitions; and  

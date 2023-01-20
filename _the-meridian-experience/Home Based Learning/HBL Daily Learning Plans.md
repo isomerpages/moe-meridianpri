@@ -11,22 +11,21 @@ Please select class from the drop-down menu below to retrieve your class' HBL Le
 Dear Students  
   
 	     
-<b>For HBL on 29 September 2022</b>
-
+<b>For&nbsp;HBL on 29 September 2022</b>
+ 
 <table>
-<tr>
-<td style="width: 184px;">
-  
-  <p style="text-align: left;"><font size="3">Primary 5:</font></p>
+<tbody><tr>
+<th style="width: 178px;">
+  <p style="text-align: left;">Primary 5:</p>
   <select id="select">
  
-<option value="">Class</option>
-  
-  <option value="">5RB</option>
-  <option value="">5RS</option>
-  <option value="">5RT</option>
-  <option value="">5TW</option>
+  <option value="">Class</option>
+  <option value="/qql/slot/u143/Home Based Learning/2022/Sept/P5 CA HBL_29 Sep 2022.pdf">5CA</option>
+  <option value="/qql/slot/u143/Home Based Learning/2022/Sept/P5 RB HBL_29 Sep 2022.pdf">5RB</option>
+  <option value="/qql/slot/u143/Home Based Learning/2022/Sept/P5 RS HBL_29 Sep 2022.pdf">5RS</option>
+  <option value="/qql/slot/u143/Home Based Learning/2022/Sept/P5 RT HBL_29 Sep 2022.pdf">5RT</option>
   
   </select>
-</td> 
-</table>
+</th>
+</tr>
+</tbody></table>

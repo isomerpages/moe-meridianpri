@@ -1,9 +1,10 @@
 ---
 title: MPS Videos
-permalink: /about-us/mps-virtual-tour/mps-videos/permalink/
+permalink: /about-us/mps-virtual-tour/mps-videos/
 description: ""
 third_nav_title: MPS Virtual Tour
 ---
+
 ### The Meridian Experience
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hA_11fdyWXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
