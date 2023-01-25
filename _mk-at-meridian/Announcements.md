@@ -5,7 +5,7 @@ description: ""
 ---
 <h4 align = "center">MK @ Meridian Open House</h4>
 <br>
-<img src="/images/MK@Meridian/2023/OH%20details%20to%20be%20posted%20on%20PG.jpg">
+<img src="/images/MK@Meridian/2023/OH%20details%20to%20be%20posted%20on%20PG.jpg" style ="width: 490px;height:500px;">
 
 <p align = "justify"> Please click <a href = "/files/MK/2023/2023%20MK%20Open%20House%20-%20Letter%20to%20Parents_.pdf">here</a> for more information.</p>
 
