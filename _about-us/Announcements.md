@@ -3,8 +3,6 @@ title: Announcements
 permalink: /about-us/announcements/
 description: ""
 ---
-
-
 <b>1)  Welcome Back to School - 2023</b><br>
 <p align = "justify">Our gears are on and we are all ready to deep dive into the vast ocean of the amazing Meridian Experience of 2023!</p>
 
@@ -12,7 +10,6 @@ description: ""
 
 <p>Let the adventure begin!</p>
 
-<b>2)   Online  Registration for MOE Kindergarten (MK) 2023 K1 Admission <font color = "red">(CLOSED)</font><img src="/images/MK@Meridian/MK%20Logo.png" style="width:150px;height:150px;float:right"></b>
+<b>2)   MK @ Meridian Open House <br><img src="/images/MK@Meridian/MK%20Logo.png" style="width:150px;height:150px;float:right"></b>
 
-<p align = "justify">The Online Registration for MOE Kindergarten (MK) 2023 K1 admission is now closed.
-	You may read <a href = "">Top Registration Questions</a> Asked at the recent MK Virtual Open House.  You may also find out more on MK@Meridian <a href = "">here</a></p>
+<p align = "justify">Join us at our MK@Meridian Open House on 18 February 2023, Saturday from 9.00 am to 1.00 pm where you can participate in tour of our kindergarten and speak with our MK Team to find out more about our MK curriculum. Click <a href = "https://www.meridianpri.moe.edu.sg/mk-at-meridian/announcements/">here</a> to find out more.</p>
