@@ -12,4 +12,4 @@ description: ""
 
 <b>2)   MK @ Meridian Open House <br><img src="/images/MK@Meridian/MK%20Logo.png" style="width:150px;height:150px;float:right"></b>
 
-<p align = "justify">Join us at our open house on 18 February, Saturday 9.00 am to 1.00 pm for a tour of our kindergarten and speak with our team to find out more about our MK curriculum. Click <a href = "">here</a> to find out more.</p>
+<p align = "justify">Join us at our open house on 18 February, Saturday 9.00 am to 1.00 pm for a tour of our kindergarten and speak with our team to find out more about our MK curriculum. Click <a href = "https://www.meridianpri.moe.edu.sg/mk-at-meridian/announcements/">here</a> to find out more.</p>
