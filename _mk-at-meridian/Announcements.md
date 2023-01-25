@@ -3,8 +3,8 @@ title: Announcements
 permalink: /mk-at-meridian/announcements/
 description: ""
 ---
-<h5 align = "center">Online Registration for 2023 K1 Admission</h5>
-
+<h4 align = "center">MK @ Meridian Open House</h4>
+<br>
 <img src="/images/MK@Meridian/2023/OH%20details%20to%20be%20posted%20on%20PG.jpg">
 
 
