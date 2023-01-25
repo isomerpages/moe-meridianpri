@@ -12,5 +12,4 @@ description: ""
 
 <b>2)   MK @ Meridian Open House <br><img src="/images/MK@Meridian/MK%20Logo.png" style="width:150px;height:150px;float:right"></b>
 
-<p align = "justify">The Online Registration for MOE Kindergarten (MK) 2023 K1 admission is now closed.
-	You may read <a href = "">Top Registration Questions</a> Asked at the recent MK Virtual Open House.  You may also find out more on MK@Meridian <a href = "">here</a></p>
+<p align = "justify">Join us at our open house on 18 February, Saturday 9.00 am to 1.00 pm for a tour of our kindergarten and speak with our team to find out more about our MK curriculum. </p>
