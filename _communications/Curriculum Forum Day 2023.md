@@ -14,18 +14,22 @@ description: ""
 	<th>Primary 5 & Primary 6</th> 
 	</tr> 
 	<tr>
-		<td colspan="3" style="text-align:center" >Arrival of Participants <br> (0800 - 0830)</td>
+		<td colspan="8" style="text-align:center" >Arrival of Participants <br> (0800 - 0830)</td>
 	</tr>
 	<tr>
-		<td colspan="3" style="text-align:center" >Opening Address by Principal <br> (0830 - 0845) - 15min</td>
+		<td colspan="8" style="text-align:center" >Opening Address by Principal <br> (0830 - 0845) - 15min</td>
 	</tr>
 	<tr>
-		<td colspan="3" style="text-align:center" >Mother Tongue Languages Curriculum Sharing cum Parents' Workshops <br> (0900 - 0945) - 45min</td>
+		<td colspan="8" style="text-align:center" >Mother Tongue Languages Curriculum Sharing cum Parents' Workshops <br> (0900 - 0945) - 45min</td>
 	</tr>
 	<tr>
   <td>Chinese Language</td>
   <td>Malay Language</td>
   <td>Non-native learners of<br>Chinese/Malay Language for P1 and P2 Parents</td>
-		<td>Non-native learners of<br>Chinese/Malay Language for P1 and P2 Parents</td>
+		<td>Chinese Language</td>
+		<td>Malay Language</td>
+		<td>Chinese Language</td>
+		<td>Malay Language</td>
+		<td>Tamil Language</td>
  </tr>
 </table>
