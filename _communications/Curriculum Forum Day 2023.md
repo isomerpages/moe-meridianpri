@@ -9,9 +9,9 @@ description: ""
 
 <table style="width: 100%"> 
 <tr> 
-	<th colspan="3" style="text-align:center;background-color:#FE4C4C;">Primary 1 & Primary 2</th> 
-	<th colspan="2" style="text-align:center;background-color:#55FD7B;">Primary 3 & Primary 4</th> 
-	<th colspan="3" style="text-align:center;;background-color:#55BBFD;">Primary 5 & Primary 6</th> 
+	<th colspan="3" style="text-align:center;background-color:#FFCCCB;">Primary 1 & Primary 2</th> 
+	<th colspan="2" style="text-align:center;background-color:#90EE90;">Primary 3 & Primary 4</th> 
+	<th colspan="3" style="text-align:center;background-color:#55BBFD;">Primary 5 & Primary 6</th> 
 	</tr> 
 	<tr>
 		<td colspan="8" style="text-align:center" >Arrival of Participants <br> (0800 - 0830)</td>
@@ -23,14 +23,14 @@ description: ""
 		<td colspan="8" style="text-align:center" >Mother Tongue Languages Curriculum Sharing cum Parents' Workshops <br> (0900 - 0945) - 45min</td>
 	</tr>
 	<tr>
-  <td style="text-align:center;vertical-align: middle;">Chinese Language</td>
-  <td style="text-align:center;vertical-align: middle;">Malay Language</td>
-  <td style="text-align:center">Non-native learners of<br>Chinese/Malay Language for P1 and P2 Parents</td>
-		<td style="text-align:center;vertical-align: middle;">Chinese Language</td>
-		<td style="text-align:center;vertical-align: middle;">Malay Language</td>
-		<td style="text-align:center;vertical-align: middle;">Chinese Language</td>
-		<td style="text-align:center;vertical-align: middle;">Malay Language</td>
-		<td style="text-align:center;vertical-align: middle;">Tamil Language</td>
+  <td style="text-align:center;vertical-align: middle;background-color:#FFCCCB;">Chinese Language</td>
+  <td style="text-align:center;vertical-align: middle;background-color:#FFCCCB;">Malay Language</td>
+  <td style="text-align:center;background-color:#FFCCCB;">Non-native learners of<br>Chinese/Malay Language for P1 and P2 Parents</td>
+		<td style="text-align:center;vertical-align: middle;background-color:#90EE90;">Chinese Language</td>
+		<td style="text-align:center;vertical-align: middle;background-color:#90EE90;">Malay Language</td>
+		<td style="text-align:center;vertical-align: middle;background-color:#55BBFD;">Chinese Language</td>
+		<td style="text-align:center;vertical-align: middle;background-color:#55BBFD;">Malay Language</td>
+		<td style="text-align:center;vertical-align: middle;background-color:#55BBFD;">Tamil Language</td>
  </tr>
 	<tr>
   <td style="color:Blue;text-align:center;font-size: 14px">(Conducted in Chinese)</td>
