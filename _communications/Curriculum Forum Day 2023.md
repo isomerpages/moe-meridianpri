@@ -65,4 +65,4 @@ description: ""
 </table>
 
 
-<p>*Click here to view the whole level synopsis</p>
+<p>*Click <a href = "">here</a> to view the whole level synopsis</p>
