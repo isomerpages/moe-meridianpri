@@ -32,4 +32,14 @@ description: ""
 		<td style="text-align:center">Malay Language</td>
 		<td style="text-align:center">Tamil Language</td>
  </tr>
+	<tr>
+  <td style="color:Blue;text-align:center;font-size: 14px">(Conducted in Chinese)</td>
+    <td style="color:Blue;text-align:center;font-size: 14px">(Conducted in Malay)</td>
+   <td style="color:Blue;text-align:center;font-size: 14px">(Conducted in English)</td>
+		<td style="color:Blue;text-align:center;font-size: 14px">(Conducted in Chinese)</td>
+		<td style="color:Blue;text-align:center;font-size: 14px">(Conducted in Malay)</td>
+		<td style="color:Blue;text-align:center;font-size: 14px">(Conducted in Chinese)</td>
+		<td style="color:Blue;text-align:center;font-size: 14px">(Conducted in Malay)</td>
+		<td style="color:Blue;text-align:center;font-size: 14px">(Conducted in Tamil)</td>
+ </tr>
 </table>
