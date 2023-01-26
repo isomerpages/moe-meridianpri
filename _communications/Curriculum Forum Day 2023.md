@@ -63,6 +63,3 @@ description: ""
 		<td></td>
 	</tr>
 </table>
-
-
-<p>*Click <a href = "">here</a> to view the whole level synopsis</p>
