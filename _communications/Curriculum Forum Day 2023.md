@@ -9,9 +9,9 @@ description: ""
 
 <table style="width: 100%"> 
 <tr> 
-	<th>Primary 1 & Primary 2</th> 
-	<th>Primary 3 & Primary 4</th> 
-	<th>Primary 5 & Primary 6</th> 
+	<th colspan="3" style="text-align:center">Primary 1 & Primary 2</th> 
+	<th colspan="2" style="text-align:center">Primary 3 & Primary 4</th> 
+	<th colspan="3" style="text-align:center">Primary 5 & Primary 6</th> 
 	</tr> 
 	<tr>
 		<td colspan="8" style="text-align:center" >Arrival of Participants <br> (0800 - 0830)</td>
