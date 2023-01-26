@@ -23,13 +23,13 @@ description: ""
 		<td colspan="8" style="text-align:center" >Mother Tongue Languages Curriculum Sharing cum Parents' Workshops <br> (0900 - 0945) - 45min</td>
 	</tr>
 	<tr>
-  <td>Chinese Language</td>
-  <td>Malay Language</td>
-  <td>Non-native learners of<br>Chinese/Malay Language for P1 and P2 Parents</td>
-		<td>Chinese Language</td>
-		<td>Malay Language</td>
-		<td>Chinese Language</td>
-		<td>Malay Language</td>
-		<td>Tamil Language</td>
+  <td style="text-align:center">Chinese Language</td>
+  <td style="text-align:center">Malay Language</td>
+  <td style="text-align:center">Non-native learners of<br>Chinese/Malay Language for P1 and P2 Parents</td>
+		<td style="text-align:center">Chinese Language</td>
+		<td style="text-align:center">Malay Language</td>
+		<td style="text-align:center">Chinese Language</td>
+		<td style="text-align:center">Malay Language</td>
+		<td style="text-align:center">Tamil Language</td>
  </tr>
 </table>
