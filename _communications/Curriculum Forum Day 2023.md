@@ -10,7 +10,8 @@ description: ""
 <p align = "justify">Registration is now open!  We would like parents to join us by registering for the event using the link or QR code found below by 3 February 2023. </p>
 
 <p align = "justify">We look forward to meeting and engaging our parent participants.</p>
-
+<br>
+<br>
 <table style="width: 100%"> 
 <tr> 
 	<th colspan="3" style="text-align:center;background-color:#FFCCCB;">Primary 1 & Primary 2</th> 
