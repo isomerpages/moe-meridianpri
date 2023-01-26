@@ -22,4 +22,10 @@ description: ""
 	<tr>
 		<td colspan="3" style="text-align:center" >Mother Tongue Languages Curriculum Sharing cum Parents' Workshops <br> (0900 - 0945) - 45min</td>
 	</tr>
+	<tr>
+  <td>Chinese Language</td>
+  <td>Malay Language</td>
+  <td>Non-native learners of<br>Chinese/Malay Language for P1 and P2 Parents</td>
+		<td>Non-native learners of<br>Chinese/Malay Language for P1 and P2 Parents</td>
+ </tr>
 </table>
