@@ -33,7 +33,7 @@ description: ""
 		<td style="text-align:center;vertical-align: middle;background-color:#55BBFD;">Tamil Language</td>
  </tr>
 	<tr>
-  <td style="color:Blue;text-align:center;font-size: 14px">(Conducted in Chinese)</td>
+  <td style="color:Blue;text-align:center;font-size: 14px;">(Conducted in Chinese)</td>
     <td style="color:Blue;text-align:center;font-size: 14px">(Conducted in Malay)</td>
    <td style="color:Blue;text-align:center;font-size: 14px">(Conducted in English)</td>
 		<td style="color:Blue;text-align:center;font-size: 14px">(Conducted in Chinese)</td>
