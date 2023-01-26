@@ -45,4 +45,7 @@ description: ""
 	<tr>
 		<td colspan="8" style="text-align:center" >Hindi Language <br>(Conducted in Tamil)</td>
 	</tr>
+		<tr>
+		<td colspan="8" style="text-align:center" >English Languages Curriculum Sharing cum Parents' Workshops <br>(Conducted in Tamil)</td>
+	</tr>
 </table>
