@@ -9,16 +9,17 @@ description: ""
 
 <table style="width: 100%"> 
 <tr> 
-	<th>First Name </th> 
-	<th>Last Name</th> 
-	<th>Job role</th> 
+	<th>Primary 1 & Primary 2</th> 
+	<th>Primary 3 & Primary 4</th> 
+	<th>Primary 5 & Primary 6</th> 
 	</tr> 
 	<tr> 
-	<td colspan="2" >Tharun chandra</td> 
-	<td>Content writer</td> 
+	<td colspan="3">Arrival of Participants <br> (0800 - 0830)</td> 
+	<td></td> 
 	</tr> 
 	<tr>
 	<td colspan="2">Akshaj Vank</td>
 		<td>Content writer</td> 
 		</tr> 
 </table>
+
