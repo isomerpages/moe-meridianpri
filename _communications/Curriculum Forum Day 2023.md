@@ -13,13 +13,11 @@ description: ""
 	<th>Primary 3 & Primary 4</th> 
 	<th>Primary 5 & Primary 6</th> 
 	</tr> 
-	<tr> 
-	<td colspan="3">Arrival of Participants <br> (0800 - 0830)</td> 
-	<td></td> 
-	</tr> 
+	<tr>
+		<td colspan="3" style="text-align:center" >value for current day</td>
+	</tr>
 	<tr>
 	<td colspan="2">Akshaj Vank</td>
 		<td>Content writer</td> 
 		</tr> 
 </table>
-
