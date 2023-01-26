@@ -19,4 +19,7 @@ description: ""
 	<tr>
 		<td colspan="3" style="text-align:center" >Opening Address by Principal <br> (0830 - 0845) - 15min</td>
 	</tr>
+	<tr>
+		<td colspan="3" style="text-align:center" >Mother Tongue Languages Curriculum Sharing cum Parents' Workshops <br> (0900 - 0945) - 45min</td>
+	</tr>
 </table>
