@@ -59,4 +59,10 @@ description: ""
 		<td colspan="3" style="text-align:center;background-color:Black;" ></td>
 		<td colspan="5" style="text-align:center" >Sharing by School Leaders on Subject-Based Banding, PSLE Scoring and Direct school Admission <br>(1245 - 1330) - 45min</td>
 	</tr>
+	<tr>
+		<td></td>
+	</tr>
 </table>
+
+
+<p>Click here to view the whole level synopsis</p>
