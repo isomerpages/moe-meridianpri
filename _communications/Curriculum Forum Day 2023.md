@@ -5,7 +5,7 @@ description: ""
 ---
 <p align = "justify">The annual Curriculum Forum Day (CFD) will be held on 11 February 2023.</p>
 
-<p align = "justify">Registration is now open!  We would like ... </p>
+<p align = "justify">Registration is now open!  We would like parents to join us by registering for the event using the link or QR code found below by 3 February 2023. </p>
 
 <table style="width: 100%"> 
 <tr> 
