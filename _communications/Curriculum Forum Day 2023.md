@@ -5,7 +5,7 @@ description: ""
 ---
 <p align = "justify">The annual Curriculum Forum Day (CFD) will be held on 11 February 2023.</p>
 
-<p align = "justify">Registration will be opened next Friday, 27 January 2023!  Watch this space for more details.</p>
+<p align = "justify">Registration is now open!  We would like ... </p>
 
 <table style="width: 100%"> 
 <tr> 
@@ -53,7 +53,7 @@ description: ""
 	</tr>
 	<tr>
 		<td colspan="3" style="text-align:center;background-color:Black;" ></td>
-		<td colspan="5" style="text-align:center" >Mathematics Curriculum Sharing cum Parents' Workshops <br>(1100 - 1145) - 45min</td>
+		<td colspan="5" style="text-align:center" >Science Curriculum Sharing cum Parents' Workshops <br>(1100 - 1145) - 45min</td>
 	</tr>
 	<tr>
 		<td colspan="3" style="text-align:center;background-color:Black;" ></td>
