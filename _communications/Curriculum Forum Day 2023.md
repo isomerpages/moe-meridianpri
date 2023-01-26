@@ -43,7 +43,7 @@ description: ""
 		<td style="color:Blue;text-align:center;font-size: 14px">(Conducted in Tamil)</td>
  </tr>
 	<tr>
-		<td colspan="8" style="text-align:center" >Hindi Language <br><span style="color:Blue">(Conducted in Tamil)</span></td>
+		<td colspan="8" style="text-align:center" >Hindi Language <br><span style="color:Blue;font-size: 14px">(Conducted in Tamil)</span></td>
 	</tr>
 		<tr>
 		<td colspan="8" style="text-align:center" >English Languages Curriculum Sharing cum Parents' Workshops <br>(1000 - 1045) - 45min</td>
