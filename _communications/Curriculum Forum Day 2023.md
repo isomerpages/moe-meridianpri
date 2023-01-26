@@ -48,4 +48,7 @@ description: ""
 		<tr>
 		<td colspan="8" style="text-align:center" >English Languages Curriculum Sharing cum Parents' Workshops <br>(1000 - 1045) - 45min</td>
 	</tr>
+	<tr>
+		<td colspan="8" style="text-align:center" >Mathematics Curriculum Sharing cum Parents' Workshops <br>(1100 - 1145) - 45min</td>
+	</tr>
 </table>
