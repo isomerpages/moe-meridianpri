@@ -17,7 +17,6 @@ description: ""
 		<td colspan="3" style="text-align:center" >Arrival of Participants <br> (0800 - 0830)</td>
 	</tr>
 	<tr>
-	<td colspan="2">Akshaj Vank</td>
-		<td>Content writer</td> 
-		</tr> 
+		<td colspan="3" style="text-align:center" >Opening Address by Principal <br> (0830 - 0845) - 15min</td>
+	</tr>
 </table>
