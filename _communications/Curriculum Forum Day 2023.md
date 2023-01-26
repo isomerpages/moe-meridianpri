@@ -46,14 +46,14 @@ description: ""
 		<td colspan="8" style="text-align:center" >Hindi Language <br><span style="color:Blue;font-size: 14px">(Conducted in Tamil)</span></td>
 	</tr>
 		<tr>
-		<td colspan="8" style="text-align:center" >English Languages Curriculum Sharing cum Parents' Workshops <br>(1000 - 1045) - 45min</td>
+		<td colspan="8" style="text-align:center" >English Languages Curriculum Sharing cum Parents' Workshops <br>Subject Synopsis<br>(1000 - 1045) - 45min</td>
 	</tr>
 	<tr>
-		<td colspan="8" style="text-align:center" >Mathematics Curriculum Sharing cum Parents' Workshops <br>(1100 - 1145) - 45min</td>
+		<td colspan="8" style="text-align:center" >Mathematics Curriculum Sharing cum Parents' Workshops <br>Subject Synopsis<br>(1100 - 1145) - 45min</td>
 	</tr>
 	<tr>
 		<td colspan="3" style="text-align:center;background-color:Black;" ></td>
-		<td colspan="5" style="text-align:center" >Science Curriculum Sharing cum Parents' Workshops <br>(1100 - 1145) - 45min</td>
+		<td colspan="5" style="text-align:center" >Science Curriculum Sharing cum Parents' Workshops <br>Subject Synopsis<br>(1100 - 1145) - 45min</td>
 	</tr>
 	<tr>
 		<td colspan="3" style="text-align:center;background-color:Black;" ></td>
