@@ -42,4 +42,7 @@ description: ""
 		<td style="color:Blue;text-align:center;font-size: 14px">(Conducted in Malay)</td>
 		<td style="color:Blue;text-align:center;font-size: 14px">(Conducted in Tamil)</td>
  </tr>
+	<tr>
+		<td colspan="8" style="text-align:center" >Hindi Language <br>(Conducted in Tamil)</td>
+	</tr>
 </table>
