@@ -3,7 +3,7 @@ title: Curriculum Forum Day 2023
 permalink: /communications/curriculum-forum-day-2023/
 description: ""
 ---
-<img src="/images/Communication/CFD%202023/Curriculum%20Forum%20Day%202023%20Poster.jpg" style="width:250px;height:350px;float:right; padding: 15px 5px 10px 20px;">
+<img src="/images/Communication/CFD%202023/Curriculum%20Forum%20Day%202023%20Poster.jpg" style="width:350px;height:450px;float:right; padding: 20px 10px 15px 25px;">
 
 <p align = "justify">The annual Curriculum Forum Day (CFD) will be held on 11 February 2023.</p>
 
