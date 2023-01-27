@@ -55,7 +55,7 @@ description: ""
 		<td colspan="8" style="text-align:center" >Hindi Language <br><span style="color:Blue;font-size: 14px">(Conducted in Tamil)</span></td>
 	</tr>
 		<tr>
-		<td colspan="8" style="text-align:center" >English Languages Curriculum Sharing cum Parents' Workshops <br><a href = "/files/Communications/CFD%202023/EL/EL_Synopsis.pdf">Wrokshop Synopsis</a><br></td>
+		<td colspan="8" style="text-align:center" >English Languages Curriculum Sharing cum Parents' Workshops <br><a href = "/files/Communications/CFD%202023/EL/EL_Synopsis.pdf">Workshop Synopsis</a><br></td>
 	</tr>
 	<tr>
 		<td colspan="8" style="text-align:center" >Mathematics Curriculum Sharing cum Parents' Workshops <br><a href ="/files/Communications/CFD%202023/Math/Math_Synopsis.pdf">Workshop Synopsis</a><br></td>
