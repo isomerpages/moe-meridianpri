@@ -58,7 +58,7 @@ description: ""
 		<td colspan="8" style="text-align:center" >English Languages Curriculum Sharing cum Parents' Workshops <br><a href = "/files/Communications/CFD%202023/EL/EL_Synopsis.pdf">Subject Synopsis</a><br>(1000 - 1045) - 45min</td>
 	</tr>
 	<tr>
-		<td colspan="8" style="text-align:center" >Mathematics Curriculum Sharing cum Parents' Workshops <br>Subject Synopsis<br>(1100 - 1145) - 45min</td>
+		<td colspan="8" style="text-align:center" >Mathematics Curriculum Sharing cum Parents' Workshops <br><a href ="/files/Communications/CFD%202023/Math/Math_Synopsis.pdf">Subject Synopsis</a><br>(1100 - 1145) - 45min</td>
 	</tr>
 	<tr>
 		<td colspan="3" style="text-align:center;background-color:Black;" ></td>
