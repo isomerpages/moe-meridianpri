@@ -12,7 +12,6 @@ description: ""
 <p align = "justify">We look forward to meeting and engaging our parent participants.</p>
 <br>
 <br>
-<br>
 <hr>
 
 #### Programme Outline
