@@ -62,7 +62,7 @@ description: ""
 	</tr>
 	<tr>
 		<td colspan="3" style="text-align:center;background-color:Black;" ></td>
-		<td colspan="5" style="text-align:center" >Science Curriculum Sharing cum Parents' Workshops <br>Subject Synopsis<br>(1100 - 1145) - 45min</td>
+		<td colspan="5" style="text-align:center" >Science Curriculum Sharing cum Parents' Workshops <br><a href ="/files/Communications/CFD%202023/Science/Science_Synopsis.pdf">Subject Synopsis</a><br>(1100 - 1145) - 45min</td>
 	</tr>
 	<tr>
 		<td colspan="3" style="text-align:center;background-color:Black;" ></td>
