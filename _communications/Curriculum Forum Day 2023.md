@@ -29,7 +29,7 @@ description: ""
 		<td colspan="8" style="text-align:center" >Opening Address by Principal (School Hall)</td>
 	</tr>
 	<tr>
-		<td colspan="8" style="text-align:center" >Mother Tongue Languages Curriculum Sharing cum Parents' Workshops<br><a href = "/files/Communications/CFD%202023/MTL/MTL_Synopsis.pdf">Subject Synopsis</a> <br>(Refreshment will be provided)</td>
+		<td colspan="8" style="text-align:center" >Mother Tongue Languages Curriculum Sharing cum Parents' Workshops<br><a href = "/files/Communications/CFD%202023/MTL/MTL_Synopsis.pdf">Workshop Synopsis</a> <br>(Refreshment will be provided)</td>
 	</tr>
 	<tr>
   <td style="text-align:center;vertical-align: middle;background-color:#FFCCCB;">Chinese Language</td>
@@ -55,14 +55,14 @@ description: ""
 		<td colspan="8" style="text-align:center" >Hindi Language <br><span style="color:Blue;font-size: 14px">(Conducted in Tamil)</span></td>
 	</tr>
 		<tr>
-		<td colspan="8" style="text-align:center" >English Languages Curriculum Sharing cum Parents' Workshops <br><a href = "/files/Communications/CFD%202023/EL/EL_Synopsis.pdf">Subject Synopsis</a><br></td>
+		<td colspan="8" style="text-align:center" >English Languages Curriculum Sharing cum Parents' Workshops <br><a href = "/files/Communications/CFD%202023/EL/EL_Synopsis.pdf">Wrokshop Synopsis</a><br></td>
 	</tr>
 	<tr>
-		<td colspan="8" style="text-align:center" >Mathematics Curriculum Sharing cum Parents' Workshops <br><a href ="/files/Communications/CFD%202023/Math/Math_Synopsis.pdf">Subject Synopsis</a><br></td>
+		<td colspan="8" style="text-align:center" >Mathematics Curriculum Sharing cum Parents' Workshops <br><a href ="/files/Communications/CFD%202023/Math/Math_Synopsis.pdf">Workshop Synopsis</a><br></td>
 	</tr>
 	<tr>
 		<td colspan="3" style="text-align:center;background-color:Black;" ></td>
-		<td colspan="5" style="text-align:center" >Science Curriculum Sharing cum Parents' Workshops <br><a href ="/files/Communications/CFD%202023/Science/Science_Synopsis.pdf">Subject Synopsis</a><br></td>
+		<td colspan="5" style="text-align:center" >Science Curriculum Sharing cum Parents' Workshops <br><a href ="/files/Communications/CFD%202023/Science/Science_Synopsis.pdf">Workshop Synopsis</a><br></td>
 	</tr>
 	<tr>
 		<td colspan="3" style="text-align:center;background-color:Black;" ></td>
