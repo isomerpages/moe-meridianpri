@@ -31,7 +31,7 @@ description: ""
 		<td colspan="8" style="text-align:center" >Opening Address by Principal (School Hall)</td>
 	</tr>
 	<tr>
-		<td colspan="8" style="text-align:center" >Mother Tongue Languages Curriculum Sharing cum Parents' Workshops<br><a href = "/files/Communications/CFD%202023/MTL/MTL_Synopsis.pdf" target="_blank">Workshop Synopsis</a> <br>(Refreshment will be provided)</td>
+		<td colspan="8" style="text-align:center" >Mother Tongue Languages Curriculum Sharing cum Parents' Workshops<br><a href = "/files/Communications/CFD%202023/MTL/Synopsis%20for%20MTL%20Workshop%20CFD%202023_Updated_31%20Jan%202023.pdf" target="_blank">Workshop Synopsis</a> <br>(Refreshment will be provided)</td>
 	</tr>
 	<tr>
   <td style="text-align:center;vertical-align: middle;background-color:#FFCCCB;">Chinese Language</td>

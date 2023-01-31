@@ -160,4 +160,3 @@ Public performances
 
 For enquiries on the school’s Malay Dance CCA, please email:<br>
 * <a href="mailto:angel_huang@moe.edu.sg">Ms Angel Huang</a>
-* <a href="mailto:syedama_syeed_ibrahim@moe.edu.sg">Mdm Syedama</a>
