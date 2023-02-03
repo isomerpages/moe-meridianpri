@@ -8,7 +8,7 @@ third_nav_title: Assessment Matters
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRatv0eck74UUI0z6yqU0ldaJr2_h7stlYPl7VVe1MXsOfeOeCvK4zLTIx_LHxMUC4QlTWAznPtp0U9/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="860" height="649" allowfullscreen="true"></iframe>
 
-<p style="text-align:center">Download Assessment Plan for Primary 1</p>
+<p style="text-align:center"><a href = "/files/Communications/Assessment%20Plan/2023/2023%20P1%20Assessment%20Plan.pdf">Download Assessment Plan for Primary 1</a></p>
 
 <hr>
 
