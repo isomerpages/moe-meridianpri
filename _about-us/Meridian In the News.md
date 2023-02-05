@@ -3,14 +3,13 @@ title: Meridian In the News
 permalink: /about-us/meridian-in-the-news/
 description: ""
 ---
-
 ### “I am a small certain” – Twelfth Set: Saxophone Player
 
 <center>25 October 2017</center>
 
 ![](/images/About%20As/Meridian%20in%20the%20News/Aditya-Harihar.jpg)
 
-Aditya Harihar from 5RB was featured in National Chinese Daily, Lian He Zao Bao “I am a Certain Small”.  <a href = "http://www.zaobao.com.sg/zvideos/a-little-somebody/story20171025-805822"> Click here to watch his video</a>
+Aditya Harihar from 5RB (2017) was featured in National Chinese Daily, Lian He Zao Bao “I am a Certain Small”.  <a href = "http://www.zaobao.com.sg/zvideos/a-little-somebody/story20171025-805822"> Click here to read article</a>
 <hr>
 
 ### National Malay Language Smart App Vocabulary Competition
@@ -28,7 +27,7 @@ Aditya Harihar from 5RB was featured in National Chinese Daily, Lian He Zao Bao 
 
 ![](/images/About%20As/Meridian%20in%20the%20News/Meridian-in-the-news-ST_20160808_NSACTIVE0877Y3_2499630-300x200.jpg)
 
-Meridian Primary School celebrated our nation 51st birthday  by going sporty. <a href = "http://www.straitstimes.com/singapore/education/sports-fun-for-national-day">Read More</a>
+Meridian Primary School celebrated our nation 51st birthday by going sporty. <a href = "http://www.straitstimes.com/singapore/education/sports-fun-for-national-day">Read More</a>
 
 <hr>
 
