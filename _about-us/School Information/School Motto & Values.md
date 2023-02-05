@@ -15,6 +15,6 @@ School Motto & Values
 ### Our Values
 There are altogether 6 School Values namely:
 
-_**· Resilience · Responsibility · Care · Respect ·  Integrity · Teamwork ·**_
+_**· Care · Integrity · Resilience  · Responsibility · Respect · Teamwork ·**_
 
 <p align = "justify">These school values support the school motto of “To Learn”, “To Love” and “To Lead” as it moves towards its vision of  nurturing “Future Learners”, “Future Citizens” as well as “Future Leaders”.</p>
