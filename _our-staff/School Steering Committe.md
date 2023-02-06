@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Our%20Staff/2022%20Dept%20Photo/STEERING%20COMMITTEE.jpg)
 
-<p style="font-size:10px">*Photo taken 2022 </p>
+<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2022</p>
 <hr>
 
 ### School Leaders
