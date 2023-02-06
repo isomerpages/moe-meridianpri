@@ -4,7 +4,6 @@ permalink: /about-us/school-information/school-vision-n-mission/
 description: ""
 third_nav_title: School Information
 ---
-
 School Vision & Mission
 =======================
 ###  Our Vision
@@ -16,6 +15,6 @@ School Vision & Mission
 
 Our Mission
 -----------
-<p align ="justify">To provide a quality educational experience that maximises the potential of all pupils
+<p align ="justify">To provide a quality educational experience that maximises the potential of all students
 through the delivery of a holistic student-centric curriculum anchored in values, safety, health, continuous improvement
 and collaborative partnership with all stakeholders.</p>
