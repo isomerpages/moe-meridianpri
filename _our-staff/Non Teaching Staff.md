@@ -3,9 +3,9 @@ title: Non Teaching Staff
 permalink: /our-staff/non-teaching-staff/
 description: ""
 ---
-![](/images/EAS/EAS.jpg)
+![](/images/Our%20Staff/2022%20Dept%20Photo/EXECUTIVE%20AND%20ADMINISTRATIVE%20STAFF.jpg)
 
-<p style="font-size:10px">*Photo taken 2021 </p>
+<p style="font-size:10px">*Photo taken 2022 </p>
 <hr>
 <br>
 <table style="width:100%">
