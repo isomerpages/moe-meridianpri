@@ -4,8 +4,8 @@ permalink: /the-meridian-experience/co-curriculum/information-n-communications-t
 description: ""
 third_nav_title: Co Curriculum
 ---
-![](/images/Our%20Staff/ICT%20Department.jpg)
-<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2021</p>
+![](/images/Our%20Staff/2022%20Dept%20Photo/ICT.jpg)
+<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2022</p>
 <hr>
 
 #### Vision
