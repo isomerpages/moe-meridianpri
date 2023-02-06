@@ -4,8 +4,8 @@ permalink: /the-meridian-experience/student-development/student-leadership/
 description: ""
 third_nav_title: Student Development
 ---
-![](/images/Our%20Staff/Student%20Management%20Department.jpg)
-<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2021</p>
+![](/images/Our%20Staff/2022%20Dept%20Photo/STUDENT%20MANAGEMENT.jpg)
+<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2022</p>
 <hr>
 
 <p align = "justify">In line with the School Motto, “To Learn, To Love, To Lead”, we believe that every child is a leader. As part of their Meridian experience, every student will have the opportunity to have a lead while they are in the school.</p>
