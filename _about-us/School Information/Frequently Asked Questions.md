@@ -15,7 +15,7 @@ third_nav_title: School Information
     <td>What is the school hours during term time?</td>
     <td><ul>
 			<li>Mondays to Fridays:  7.30 a.m. to 1.30 p.m.</li>
-			<li>Wednesday:  7.30 a.m. to 2.30 p.m. for Primary 4 to Primary 6</li>
+			<li>Wednesdays:  7.30 a.m. to 2.30 p.m. for Primary 4 to Primary 6</li>
 	</ul></td>
   </tr>
   <tr>
