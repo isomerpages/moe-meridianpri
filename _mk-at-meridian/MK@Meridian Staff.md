@@ -76,6 +76,10 @@ description: ""
     <td><a href="mailto:nurul_ainn_rostan@moe.edu.sg">Ms Nurul Ainn Binte Rostan</a></td>
     <td>Malay Language Teacher</td>
   </tr>
+	<tr>
+    <td><a href="mailto:Preetha_Ooma_Maheswaren@moe.edu.sg">Ms Preetha d/o Ooma Maheswaren</a></td>
+    <td>FAJT Teacher</td>
+  </tr>
 	
 	
 </table>
