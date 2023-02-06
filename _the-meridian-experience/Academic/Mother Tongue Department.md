@@ -4,8 +4,8 @@ permalink: /the-meridian-experience/academic/mother-tongue-department/
 description: ""
 third_nav_title: Academic
 ---
-![](/images/Our%20Staff/Mother%20Tongue%20Language%20Department.jpg)
-<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2021</p>
+![](/images/Our%20Staff/2022%20Dept%20Photo/MOTHER%20TONGUE%20LANGUAGES.jpg)
+<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2022</p>
 <hr>
 
 #### Vision

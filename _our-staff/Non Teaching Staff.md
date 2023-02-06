@@ -3,9 +3,9 @@ title: Non Teaching Staff
 permalink: /our-staff/non-teaching-staff/
 description: ""
 ---
-![](/images/EAS/EAS.jpg)
+![](/images/Our%20Staff/2022%20Dept%20Photo/EXECUTIVE%20AND%20ADMINISTRATIVE%20STAFF.jpg)
 
-<p style="font-size:10px">*Photo taken 2021 </p>
+<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2022</p>
 <hr>
 <br>
 <table style="width:100%">
@@ -38,15 +38,11 @@ description: ""
     <td>Corporate Support Officer (CSO)</td>
   </tr>
 	<tr>
-    <td><a href="">Mdm Jamilah Bte Sa'ad</a></td>
-    <td>Operations Support Officer (OSO)</td>
-  </tr>
-	<tr>
-    <td><a href="">Mdm Peozisyah Bte Rashid</a></td>
-    <td>Operations Support Officer (OSO)</td>
-  </tr>
-	<tr>
     <td><a href="">Mr Aman Bin Ebrahim</a></td>
+    <td>Operations Support Officer (OSO)</td>
+  </tr>
+	<tr>
+    <td><a href="">Mdm Jamilah Bte Sa'ad</a></td>
     <td>Operations Support Officer (OSO)</td>
   </tr>
 	<tr>
@@ -55,6 +51,10 @@ description: ""
   </tr>
 	<tr>
     <td><a href="">Mr Mohamed Ali Mohamed Salleh</a></td>
+    <td>Operations Support Officer (OSO)</td>
+  </tr>
+	<tr>
+    <td><a href="">Mdm Peozisyah Bte Rashid</a></td>
     <td>Operations Support Officer (OSO)</td>
   </tr>
 </table>

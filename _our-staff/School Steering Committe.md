@@ -3,9 +3,9 @@ title: School Steering Committe
 permalink: /our-staff/school-steering-committee/
 description: ""
 ---
-![](/images/Our%20Staff/Steering%20Comm.jpg)
+![](/images/Our%20Staff/2022%20Dept%20Photo/STEERING%20COMMITTEE.jpg)
 
-<p style="font-size:10px">*Photo taken 2021 </p>
+<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2022</p>
 <hr>
 
 ### School Leaders
@@ -47,7 +47,7 @@ description: ""
   </tr>
 	<tr>
     <td><a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg">Mdm Tan Hugue  Hwan Stefane</a></td>
-    <td>Year Head P3 and P6</td>
+    <td>Year Head P3 and P5</td>
 		
   </tr>
 	<tr>
@@ -65,7 +65,10 @@ description: ""
   <tr>
     <td><a href="mailto:neo_jia_hwee@moe.edu.sg">Ms Charlotte Neo Jia Hwee</a></td>
     <td>HOD/English Language</td>
-   
+  </tr>
+	<tr>
+    <td><a href="mailto:anna_lim_lin_lin@moe.edu.sg">Mdm Anna Lim Lin Lin</a></td>
+    <td>HOD/Mother Tongue Languages</td>
   </tr>
   <tr>
     <td>
@@ -75,49 +78,42 @@ description: ""
 	<tr>
     <td><a href="mailto:low_boon_khim@moe.edu.sg">Mr Clarence Low Boon Khim</a></td>
     <td>HOD/Science</td>
-		
-  </tr>
-	<tr>
-    <td><a href="mailto:anna_lim_lin_lin@moe.edu.sg">Mdm Anna Lim Lin Lin</a></td>
-    <td>HOD/Mother Tongue Languages</td>
-		
-  </tr>
-	<tr>
-    <td><a href="mailto:han_zi_rui@moe.edu.sg">Ms Han Zi Rui</a></td>
-    <td>HOD/Student Management</td>
-		
-  </tr>
-	<tr>
-    <td><a href="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng</a></td>
-    <td>HOD/Information & Communications Technology</td>
   </tr>
 	<tr>
     <td><a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mdm Sharon Ng Ye Chin</a></td>
     <td>HOD/PE, CCA and Aesthetics</td>
   </tr>
 	<tr>
-	<td><a href="mailto:yeo_kim_chiau_benjamin@moe.edu.sg">Mr Benjamin Yeo Kin Chiau</a></td>
-    <td>School Staff Developer</td>
+    <td><a href="mailto:han_zi_rui@moe.edu.sg">Ms Han Zi Rui</a></td>
+    <td>HOD/Student Management</td>
   </tr>
 	<tr>
-    <td><a href="mailto:tay_wan_boon@moe.edu.sg">Mdm Stephanie Tay Wan Boon</a></td>
-    <td>Subject Head/ Character and Citizenship Education</td>
+    <td><a href="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng</a></td>
+    <td>HOD/Information & Communications Technology</td>
+	</tr>
+	<tr>
+	<td><a href="mailto:yeo_kim_chiau_benjamin@moe.edu.sg">Mr Benjamin Yeo Kin Chiau</a></td>
+    <td>School Staff Developer</td>
   </tr>
 	<tr>
     <td><a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi</a></td>
     <td>Level Head Science</td>
   </tr>
 	<tr>
-    <td><a href="mailto:vasanthi_mahalinggam@moe.edu.sg">Mdm Vasanthi d/o Mahalinggam</a></td>
-    <td>Level Head English (Covering)</td>
+    <td><a href="mailto:tay_wan_boon@moe.edu.sg">Mdm Stephanie Tay Wan Boon</a></td>
+    <td>Subject Head/ Character and Citizenship Education</td>
   </tr>
 	<tr>
-    <td><a href="mailto:noor_heryanti_abd_karim@moe.edu.sg">Mdm Noor Heryanti Abd Karim</a></td>
-    <td>Level Head Maths (Covering)</td>
+    <td><a href="mailto:vasanthi_mahalinggam@moe.edu.sg">Mdm Vasanthi d/o Mahalinggam</a></td>
+    <td>Subject Head English (Covering)</td>
   </tr>
 	<tr>
     <td><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah bte Md Nasir</a></td>
-    <td>Subject Head Mother Tongue (Covering)</td>
+    <td>Subject Head Malay (Covering)</td>
+  </tr>
+	<tr>
+    <td><a href="mailto:noor_heryanti_abd_karim@moe.edu.sg">Mdm Noor Heryanti Abd Karim</a></td>
+    <td>Subject Head Maths (Covering)</td>
   </tr>
 	
 </table>

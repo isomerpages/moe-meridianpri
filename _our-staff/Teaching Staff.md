@@ -237,43 +237,40 @@ description: ""
     <td><a href ="mailto:anna_lim_lin_lin@moe.edu.sg">Mdm Anna Lim Lin Lin</a></td>
   </tr>
 	<tr>
-    <td><a href ="mailto:neo_jia_hwee@moe.edu.sg">Miss Charlotte Neo Jia Hwee</a></td>
+    <td><a href ="mailto:neo_jia_hwee@moe.edu.sg">Miss Charlotte Neo Jia Hwee (HOD/EL)</a></td>
   </tr>
 	<tr>
-    <td><a href ="mailto:lee_ai_peng@moe.edu.sg">Mrs Doris Lee Ai Peng</a></td>
+    <td><a href ="mailto:lee_ai_peng@moe.edu.sg">Mrs Doris Lee Ai Peng (FAJT)</a></td>
   </tr>
   <tr>
-    <td><a href ="mailto:fadzlina_abdullah@moe.edu.sg">Mdm Fadzlina Bte Abdullah</a></td>
+    <td><a href ="mailto:fadzlina_abdullah@moe.edu.sg">Mdm Fadzlina Bte Abdullah (FAJT)</a></td>
   </tr>
 	<tr>
-    <td><a href ="mailto:kamsiah_musleh@moe.edu.sg">Mdm Kamsiah Binte Musleh</a></td>
+    <td><a href ="mailto:kamsiah_musleh@moe.edu.sg">Mdm Kamsiah Binte Musleh (FAJT)</a></td>
   </tr>
 	<tr>
-    <td><a href ="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng</a></td>
+    <td><a href ="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng (HOD/ICT)</a></td>
   </tr>
 	<tr>
-    <td><a href ="mailto:lim_chee_ming@moe.edu.sg">Mr Lim Chee Ming</a></td>
+    <td><a href ="mailto:lim_chee_ming@moe.edu.sg">Mr Lim Chee Ming (FAJT)</a></td>
   </tr>
 	<tr>
-    <td><a href ="mailto:low_boon_khim@moe.edu.sg">Mr Low Boon Khim Clarence</a></td>
+    <td><a href ="mailto:low_boon_khim@moe.edu.sg">Mr Low Boon Khim Clarence (HOD/SC)</a></td>
   </tr>
 	<tr>
-    <td><a href ="mailto:mastura_yaacob@moe.edu.sg">Mdm Mastura bte Yaacob</a></td>
+    <td><a href ="mailto:mastura_yaacob@moe.edu.sg">Mdm Mastura bte Yaacob (LT/Maths)</a></td>
   </tr>
 	<tr>
-    <td><a href ="mailto:norsiah_idris@moe.edu.sg">Mdm Norsiah Bte Idris</a></td>
+    <td><a href ="mailto:norsiah_idris@moe.edu.sg">Mdm Norsiah Bte Idris (FAJT)</a></td>
   </tr>
 	<tr>
-    <td><a href ="mailto:ng_ye_chin_sharon@moe.edu.sg">Mdm Sharon Ng Ye Chin</a></td>
+    <td><a href ="mailto:ng_ye_chin_sharon@moe.edu.sg">Mdm Sharon Ng Ye Chin (HOD/PE & CCA)</a></td>
   </tr>
 	<tr>
-    <td><a href ="mailto:tan_hugue_hwan_stefane@moe.edu.sg">Mdm Tan Hugue Hwan Stefane</a></td>
+    <td><a href ="mailto:tan_hugue_hwan_stefane@moe.edu.sg">Mdm Tan Hugue Hwan Stefane (YH PP3 & P5)</a></td>
   </tr>
 	<tr>
     <td><a href ="mailto:tan_soon_choon@moe.edu.sg">Mdm Tan Soo Choon Sharon</a></td>
-  </tr>
-	<tr>
-    <td><a href ="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a></td>
   </tr>
 	<tr>
     <td><a href ="mailto:wong_hwee_kim@moe.edu.sg">Mdm Wong Hwee Kim</a></td>
@@ -283,18 +280,18 @@ description: ""
 ####  Allied Educators
 <table style="width:100%">
   <tr>
-    <td><a href ="mailto:abdul_latheef_nareeman@moe.edu.sg">Mdm Abdul Latheef Nareeman</a></td>
+    <td><a href ="mailto:abdul_latheef_nareeman@moe.edu.sg">Ms Abdul Latheef Nareeman</a></td>
   </tr>
 	<tr>
-    <td><a href ="mailto:zulkarnai_zulkifli@moe.edu.sg">Miss Jalilah Bte Jalihan</a></td>
+    <td><a href ="mailto:zulkarnai_zulkifli@moe.edu.sg">Miss Jalilah Bte Jalihan (AED T&L)</a></td>
   </tr>
 	<tr>
-    <td><a href ="mailto:jalilah_jalihan@moe.edu.sg">Mdm Janine Ng Jinning</a></td>
+    <td><a href ="mailto:jalilah_jalihan@moe.edu.sg">Mdm Janine Ng Jinning (School Counsellor)</a></td>
   </tr>
   <tr>
-    <td><a href ="mailto:kong_marn_moy@moe.edu.sg">Mdm Kong Marn Moy</a></td>
+    <td><a href ="mailto:kong_marn_moy@moe.edu.sg">Mdm Kong Marn Moy (Special Education Needs Officer)</a></td>
   </tr>
 	<tr>
-    <td><a href ="mailto:sharifah_samihah@moe.edu.sg">Mdm Sharifah Samihah</a></td>
+    <td><a href ="mailto:sharifah_samihah@moe.edu.sg">Mdm Sharifah Samihah (Special Education Needs Officer)</a></td>
   </tr>
 </table>

@@ -4,8 +4,8 @@ permalink: /the-meridian-experience/student-development/character-n-citizenship-
 description: ""
 third_nav_title: Student Development
 ---
-![](/images/Our%20Staff/CCE%20Department.jpg)
-<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2021</p>
+![](/images/Our%20Staff/2022%20Dept%20Photo/CCE.jpg)
+<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2022</p>
 <hr>
 
 
