@@ -15,13 +15,17 @@ third_nav_title: School Information
     <td>What is the school hours during term time?</td>
     <td><ul>
 			<li>Mondays to Fridays:  7.30 a.m. to 1.30 p.m.</li>
-			<li>Wednesday:  7.30 a.m. to 2.30 p.m. for P4 to P6</li>
+			<li>Wednesday:  7.30 a.m. to 2.30 p.m. for Primary 4 to Primary 6</li>
 	</ul></td>
   </tr>
   <tr>
     <td>2</td>
     <td>What time is recess for the students in the school?</td>
-    <td>10</td>
+    <td><ul>
+			<li>Primary 1 & Primary 4: 9:00 a.m. to 9:30 a.m.</li>
+			<li>Primary 2 & Primary 5: 9:30 a.m. to 10:00 a.m.</li>
+			<li>Primary 3 & Primary 6: 10:00 a.m. to 10:30 a.m.</li>
+	</ul></td>
   </tr>
 	<tr>
     <td>3</td>
