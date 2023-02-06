@@ -32,4 +32,9 @@ third_nav_title: School Information
 			<li>Blue Gate:  7.00 a.m. to 5.00 p.m.</li>
 	</ul></td>
   </tr>
+	<tr>
+    <td>4</td>
+    <td>Can my child bring mobile phone to school?</td>
+    <td>At Meridian Primary, we believe firmly that students should develop holistically at this age, engaging in healthy online and offline activities.  As such, students in Meridian Primary are not to bring their mobile phones to school.  The purpose is to encourage them to interact with their friends and classmates face-to-face; to prevent them from being distracted by the devices; and to avoid inappropriate use of technology.</td>
+  </tr>
 </table>
