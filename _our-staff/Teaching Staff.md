@@ -273,9 +273,6 @@ description: ""
     <td><a href ="mailto:tan_soon_choon@moe.edu.sg">Mdm Tan Soo Choon Sharon</a></td>
   </tr>
 	<tr>
-    <td><a href ="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a></td>
-  </tr>
-	<tr>
     <td><a href ="mailto:wong_hwee_kim@moe.edu.sg">Mdm Wong Hwee Kim</a></td>
   </tr>
 </table>
@@ -283,7 +280,7 @@ description: ""
 ####  Allied Educators
 <table style="width:100%">
   <tr>
-    <td><a href ="mailto:abdul_latheef_nareeman@moe.edu.sg">Mdm Abdul Latheef Nareeman</a></td>
+    <td><a href ="mailto:abdul_latheef_nareeman@moe.edu.sg">Ms Abdul Latheef Nareeman</a></td>
   </tr>
 	<tr>
     <td><a href ="mailto:zulkarnai_zulkifli@moe.edu.sg">Miss Jalilah Bte Jalihan (AED T&L)</a></td>
