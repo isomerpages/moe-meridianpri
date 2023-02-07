@@ -182,26 +182,21 @@ Some activities done during CCA:<br>
 \- Fitness HIIT<br>
 \- and many more!<br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%201.jpg" style="width:250px;height:350px;float:center"> <br>
+<table style="width:100%">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%202.jpg" style="width:250px;height:350px;float:center">
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%203.jpg" style="width:350px;height:250px;float:center">
-<br>
-
-
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%204.jpg" style="width:350px;height:250px;float:center">
-<br>
-
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%205.jpg" style="width:350px;height:250px;float:center">
-<br>
-
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%206.jpg" style="width:350px;height:250px;float:center">
-<br>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%201.jpg" style="width:250px;height:350px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%202.jpg" style="width:250px;height:350px;float:center"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%203.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%204.jpg" style="width:350px;height:250px;float:center"></td>
+  </tr>
+	<tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%205.jpg" style="width:350px;height:250px;float:center"></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%206.jpg" style="width:350px;height:250px;float:center"></td>
+  </tr>
+</table>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iMz5GF3sE40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
