@@ -143,7 +143,11 @@ Poomsae Category (Junior Division)
 	<li>Y7 individual boy: 7th position (Rehan Iqbal Khan)</li>
 </ul>
 
-
+Poomsae Category (Junior Division)
+<ul>
+	<li>Y7 individual boy: 5th position (Li Shaorong)</li>
+	<li>R8 individual girl: 8th position (Wee Zun Ya, Delfina)</li>
+</ul>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SaiTTpJWsqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
