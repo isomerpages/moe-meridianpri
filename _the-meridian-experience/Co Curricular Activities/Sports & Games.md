@@ -139,6 +139,8 @@ Poomsae Category (Junior Division)
 <br>Poomsae Category (Senior Division)
 <ul>
 	<li>Y8 individual girl: 3rd position (Naila Khalisya)</li>
+	<li>Y8 team girl: 3rd position (Naila Khalisya, Sakpal Tanishka & Jeevana Nandakumar)</li>
+	<li>Y7 individual boy: 7th position (Rehan Iqbal Khan)</li>
 </ul>
 
 
