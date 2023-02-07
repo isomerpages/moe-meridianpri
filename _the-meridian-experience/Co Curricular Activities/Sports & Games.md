@@ -31,10 +31,10 @@ third_nav_title: Co Curricular Activities
 
 For enquiries on the school’s Floorball CCA, please email:<br>
 * <a href="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Shahid Bin Ahmad</a>
-* <a href="mailto:zahrul_zaidin@moe.edu.sg">Mr Zahrul Zaidin</a>
+* <a href="mailto:foo_si_min@moe.edu.sg ">Ms Tracy Foo</a>
 * <a href="mailto:mark_chen@moe.edu.sg">Mr Mark Chen</a>
 * <a href="mailto:low_hwee_miang_a@moe.edu.sg">Mdm Low Hwee Miang</a>
-* <a href="mailto:vasanthi_mahalingam@moe.edu.sg">Mdm Vasnthi d/o Mahalingam</a>
+* <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jam</a>
 
 <hr>
 
