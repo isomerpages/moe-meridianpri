@@ -106,24 +106,20 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 
 <p align = "justify">Other than learning the technical skill of Taekwondo’s self-defense, students will more importantly learn life values such as respect and discipline through our training. Our training focuses on developing the character of a student in a fun and encouraging way as we strongly believe that good attitude and character will aid a child in his/her learning.</p>
 
+<table style="width:100%">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%203.png" style="width:350px;height:250px;float:center">
-
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%204.png" style="width:350px;height:250px;float:center">
-
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%205.jpeg" style="width:350px;height:250px;float:center">
-
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%206.jpeg" style="width:350px;height:250px;float:center">
-
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%207.jpeg" style="width:480px;height:350px;float:center"><br>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%203.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%204.png" style="width:350px;height:250px;float:center"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%205.jpeg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%206.jpeg" style="width:350px;height:250px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%207.jpeg" style="width:480px;height:350px;float:center"><br></td>
+  </tr>
+</table>
 
 <b>Highlights</b>
 
