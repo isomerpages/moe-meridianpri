@@ -69,15 +69,17 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 	<li>U9 SPSC-FAS Fiesta – Participation</li>
 </ul>    
 
-
 <u>2020</u>
-*   U12 Senior SPSCC Football Tournament - Participation
-*   U11 Junior SPSCC Football Tournament – Participation
+<ul>
+	<li>U12 Senior SPSCC Football Tournament - Participation</li>
+	<li>U11 Junior SPSCC Football Tournament – Participation</li>
+</ul>
 
 <u>2022</u>
-*   U12 Senior SPSCC Football Tournament - Participation
-*   U11 Junior SPSCC Football Tournament – Participation
-
+<ul>
+	<li>U12 Senior SPSCC Football Tournament - Participation</li>
+	<li> U11 Junior SPSCC Football Tournament – Participation</li>
+</ul>
 
 ![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Football/Soccer%20CCA.jpg)
 
