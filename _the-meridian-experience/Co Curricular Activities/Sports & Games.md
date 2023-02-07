@@ -91,7 +91,7 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 For enquiries on the school’s Floorball CCA, please email:<br>
 * <a href="mailto:zulkarnai_zulkifli@moe.edu.sg">Mr Zulkarnai Zulkifli</a>
 * <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a>
-* <a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu</a>
+* <a href="mailto:chua_ee_lyn@moe.edu.sg">Ms Chua Ee Lyn</a>
 * <a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Mohan</a>
 
 <hr>
