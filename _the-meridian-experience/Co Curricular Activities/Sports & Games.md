@@ -82,7 +82,7 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 </ul>
 
 <u>Training Sessions:</u>
-<p>Monday: 3:46 p.m. to 5:15 p.m. (for P4 to P6)</p>
+<p>Monday: 3:45 p.m. to 5:15 p.m. (for P4 to P6)</p>
 
 ![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Football/Soccer%20CCA.jpg)
 
