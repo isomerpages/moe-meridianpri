@@ -39,7 +39,7 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
 
   <tr>
     <td><iframe width="380" height="230" src="https://www.youtube.com/embed/w5PKPWxhsYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
-    <td></td>
+    <td><iframe width="380" height="230" src="https://www.youtube.com/embed/LaJVd27joyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
 	</tr>
 	
 </table>
