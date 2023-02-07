@@ -60,12 +60,15 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 </ul>    
 
 <u>2019</u>
-* U12 Senior SPSCC Football Tournament - Participation  
-* U11 Junior SPSCC Football Tournament – Participation  
-* U10 Temasek JC Invitational - Participation  
-* U10 East Zone Sports Carnival - Participation  
-* U10 FAS Futsal Challenge – 2nd  
-* U9 SPSC-FAS Fiesta – Participation
+<ul>
+  <li> U12 Senior SPSCC Football Tournament - Participation</li>
+  <li>U11 Junior SPSCC Football Tournament – Participation</li>
+  <li>U10 Temasek JC Invitational - Participation</li>
+	<li>U10 East Zone Sports Carnival - Participation</li>
+	<li>U10 FAS Futsal Challenge – 2nd</li>
+	<li>U9 SPSC-FAS Fiesta – Participation</li>
+</ul>    
+
 
 <u>2020</u>
 *   U12 Senior SPSCC Football Tournament - Participation
