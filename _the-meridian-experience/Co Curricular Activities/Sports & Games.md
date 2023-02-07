@@ -162,7 +162,7 @@ For enquiries on the school’s Taekwondo CCA, please email:<br>
 
 <hr>
 
-#### Sports Club
+<h4>Sports Club</h4>
 <br>
 <b>Sport Club</b> <i>(Boys and Girls Only)</i>
 
