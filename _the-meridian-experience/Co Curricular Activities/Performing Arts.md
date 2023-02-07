@@ -23,15 +23,15 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-2-.jpg" style="width:380px;height:250px;float:center"></td>
   </tr>
   <tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-4.jpg" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-5.jpg" style="width:380px;height:230px;float:center"></td>
+		 <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-5.jpg" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2023/chinese_dance3.jpg" style="width:380px;height:230px;float:center"></td>
   </tr>
 	<tr>
 		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2023/chinese_dance1.jpg" style="width:380px;height:230px;float:center"></td>
 		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2023/chinese_dance2.jpg" style="width:380px;height:230px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2023/chinese_dance2.jpg" style="width:380px;height:230px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-4.jpg" style="width:380px;height:230px;float:center"></td>
   </tr>
 </table>
 
