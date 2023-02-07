@@ -10,8 +10,19 @@ third_nav_title: Co Curricular Activities
 
 <p align = "justify">Team Meridian Floorball aims to develop not only the players’ skills and playing strategies, but also their character. Through the training programme, we hope to grow every member to become a confident, adaptable and resilient individual. At the same time, understanding the importance of care, respect and teamwork. This is done through the close guidance of the coaches and teachers. In addition to the usual training on Fridays, senior players who are preparing for the inter-school competition would be asked to attend another training session in the afternoon (from 3:30 pm to 5:00 pm) in the week.</p>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Floorball/floorball-1.jpg" style="width:350px;height:250px;float:center"><br>
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Floorball/floorball-2.jpg" style="width:350px;height:250px;float:center">
+<table style="width:100%">
+
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Floorball/floorball-1.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Floorball/floorball-2.jpg" style="width:350px;height:250px;float:center"></td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>14</td>
+  </tr>
+</table>
+
+
 
 **Highlights**
 <p align = "justify">Team Meridian Floorball takes part in the National Junior and Senior Tournaments every year to allow the players to have adequate exposure and competition experience.</p>
