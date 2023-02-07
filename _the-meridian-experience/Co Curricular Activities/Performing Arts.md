@@ -35,9 +35,14 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
   </tr>
 </table>
 
+<table style="width:100%">
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M0mH6ZjG9-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <tr>
+    <td><iframe width="560" height="315" src="https://www.youtube.com/embed/w5PKPWxhsYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+    <td></td>
+	</tr>
+	
+</table>
 
 For enquiries on the school’s Chinese Dance CCA, please email:<br>
 * <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a>
