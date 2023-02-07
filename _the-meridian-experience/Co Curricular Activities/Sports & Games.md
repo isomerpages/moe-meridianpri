@@ -145,8 +145,9 @@ Poomsae Category (Junior Division)
 
 Poomsae Category (Junior Division)
 <ul>
-	<li>Y7 individual boy: 5th position (Li Shaorong)</li>
-	<li>R8 individual girl: 8th position (Wee Zun Ya, Delfina)</li>
+	<li>Y7 individual boy: 5th position (Drake Ryder Lee)</li>
+	<li>W9 individual girl: 6th position (Keira Lim)</li>
+	<li>W9 individual boy: 8th position (Thaddeus Tay)</li>
 </ul>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SaiTTpJWsqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
