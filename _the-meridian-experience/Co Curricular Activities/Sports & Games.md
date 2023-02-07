@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 ---
 #### Floorball
 
-**Floorball** _(For Boys and Girls)_
+<b>Floorball</b> <i>(For Boys and Girls)</i>
 
 <p align = "justify">Team Meridian Floorball aims to develop not only the players’ skills and playing strategies, but also their character. Through the training programme, we hope to grow every member to become a confident, adaptable and resilient individual. At the same time, understanding the importance of care, respect and teamwork. This is done through the close guidance of the coaches and teachers. In addition to the usual training on Fridays, senior players who are preparing for the inter-school competition would be asked to attend another training session in the afternoon (from 3:30 pm to 5:00 pm) in the week.</p>
 
@@ -98,11 +98,11 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 
 #### Taekwondo 
 
-**Taekwondo** (For Boys and Girls)
+<b>Taekwondo</b> <i>(For Boys and Girls)</i>
 
 <p align = "justify">Taekwondo is an effective weaponless art of self-defense that originated from Korea and is one of the Asian martial arts included in the Olympic programme.<p>
 
-<p align = "justify">The Taekwondo CCA at Meridian Primary School aims to build students’ physical fitness and students’ foundation in both Taekwondo Pattern (Poomsae) and Sparring (Kyorugi). Taekwondo members will get a chance to participate in the annual competition such as the National Primary Schools Taekwondo Championship or perform during the Year End Prize Presentation ceremony to gain experience and confidence.  </p>
+<p align = "justify">The Taekwondo CCA at Meridian Primary School aims to build students’ physical fitness and students’ foundation in Taekwondo Pattern (Poomsae). Taekwondo members will get a chance to participate in the annual competition such as the National School Games Taekwondo Competition or perform during the Year End Prize Presentation ceremony to gain experience and confidence.  </p>
 
 <p align = "justify">Other than learning the technical skill of Taekwondo’s self-defense, students will more importantly learn life values such as respect and discipline through our training. Our training focuses on developing the character of a student in a fun and encouraging way as we strongly believe that good attitude and character will aid a child in his/her learning.</p>
 
