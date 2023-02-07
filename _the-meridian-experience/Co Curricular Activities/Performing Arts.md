@@ -16,15 +16,21 @@ We welcome students who have interest in dance, music and the Chinese culture to
 
 Students are given the opportunities to take part in the SYF Arts Presentation as well as in various community performances.
 
+<table style="width:100%">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-2-.jpg" style="width:350px;height:250px;float:center">
-<br>
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-2-.jpg" style="width:350px;height:250px;float:center">
-<br>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-2-.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-2-.jpg" style="width:350px;height:250px;float:center"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-4.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-5.jpg" style="width:350px;height:250px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
 
-![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-4.jpg)
-
-![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-5.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M0mH6ZjG9-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
