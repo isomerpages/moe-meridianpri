@@ -135,7 +135,11 @@ Poomsae Category (Junior Division)
 	<li>R8 individual girl: 8th position (Wee Zun Ya, Delfina)</li>
 </ul>
 
-
+<b>2022</b>
+<br>Poomsae Category (Senior Division)
+<ul>
+	<li>Y8 individual girl: 3rd position (Naila Khalisya)</li>
+</ul>
 
 
 
