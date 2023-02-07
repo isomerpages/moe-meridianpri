@@ -16,7 +16,6 @@ We welcome students who have interest in dance, music and the Chinese culture to
 
 Students are given the opportunities to take part in the SYF Arts Presentation as well as in various community performances.
 
-![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-1.jpg)
 
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-2-.jpg" style="width:350px;height:250px;float:center">
 <br>
