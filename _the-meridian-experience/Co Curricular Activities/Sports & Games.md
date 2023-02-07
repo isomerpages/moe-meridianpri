@@ -123,31 +123,21 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 
 <b>Highlights</b>
 
-<p>National Primary Schools Taekwondo Championships 2019</p>
+<p>National Schools Games (NSG) Taekwondo Competition</p>
 
-<u>Poomsae Category</u>
-<ul>
-  <li>Senior Division Blue Belt (Individual) – 4th position (Ai Bo Xuan)</li>
-  <li>Junior Division Green Tip Belt (Individual) – 8th position (Li Shaorong)</li>
-  <li>Junior Division Red Belt (Individual) – 8th position (Wee Zun Ya, Delfina)</li>
-</ul>
-
-
-<u>2022</u>
-
-Poomsae Category (Senior Division)
-<ul>
-  <li>Y8 individual girl: 3rd position (Naila Khalisya)</li>
-  <li>Y8 team girl: 3rd position (Naila Khalisya, Sakpal Tanishka & Jeevana Nandakumar)</li>
-  <li>Y7 individual boy: 7th position (Rehan Iqbal Khan)</li>
-</ul>
+<b>2019</b>
+<br>Poomsae Category (Senior Division)
+<ul><li>B4 individual boy 4th position (Ai Bo Xuan)</li></ul>
 
 Poomsae Category (Junior Division)
 <ul>
-  <li>Y7 individual boy: 5th position (Drake Ryder Lee)</li>
-  <li>W9 individual girl: 6th position (Keira Lim)</li>
-  <li>W9 individual boy: 8th position (Thaddeus Tay)</li>
+	<li>Y7 individual boy: 8th position (Li Shaorong)</li>
+	<li>R8 individual girl: 8th position (Wee Zun Ya, Delfina)</li>
 </ul>
+
+
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SaiTTpJWsqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
