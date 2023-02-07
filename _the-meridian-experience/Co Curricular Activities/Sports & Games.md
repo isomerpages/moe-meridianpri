@@ -40,25 +40,21 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 
 #### Football
 
-**Football** <i>(For Boys Only)</i>
+<b>Football</b> <i>(For Boys Only)</i>
 
-**Vision**
+<b>Vision</b>
 <p align = "justify">Role Models, on and off the pitch Our Football CCA inculcates strong values and character through different activities.  Team games create bonds and build lasting friendships.  When the tide is against us, we will move on and never give up.  Values are not just caught in Football CCA.  We make a conscientious effort to teach them in meaningful ways. Resilience. Teamwork. Respect. Responsibility. Perseverance.</p>
 
-**Highlights**
-
-<u>2017</u>
-* JR Participation in SPSSC Football Tournament  
-* Participation in FAS U10 Football Fiesta  
-* P3s and P4s Training Exposure under Tampines Rovers Coaches 
-* P5s Developmental Training under D2D  
-* U10 Temasek Youth Cup @ HYFA – 2nd  U12 Temasek Youth Cup @ HYFA – 2nd
+<b>Highlights</b>
 
 <u>2018</u>
-* Senior SPSCC Football Tournament - Participation  
-* Junior SPSCC Football Tournament - Participation  
-* U12 East Zone Sports Carnival - 3rd Position  
-* U11 East Zone Sports Carnival - Participation  
+<ul>
+  <li>Senior SPSCC Football Tournament - Participation</li>
+  <li>Junior SPSCC Football Tournament - Participation</li>
+  <li>U12 East Zone Sports Carnival - 3rd Position</li>
+	<li>U11 East Zone Sports Carnival - Participation</li>
+</ul>    
+
 * U12 HYFA Temasek Cup - Participation  
 * U10 SPSCC-FAS Inter School Futsall Challenge - Quarter Finalists 
 * U10 Junior Division Trials - 3rd Position  
