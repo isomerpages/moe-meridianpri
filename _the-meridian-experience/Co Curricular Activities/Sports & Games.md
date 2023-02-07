@@ -117,7 +117,7 @@ For enquiries on the school’s Floorball CCA, please email:<br>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%206.jpeg" style="width:350px;height:250px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%207.jpeg" style="width:480px;height:350px;float:center"><br></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%207.jpeg" style="width:580px;height:430px;float:center"><br></td>
   </tr>
 </table>
 
