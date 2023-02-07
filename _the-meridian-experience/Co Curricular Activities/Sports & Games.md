@@ -20,6 +20,9 @@ third_nav_title: Co Curricular Activities
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Floorball/2023/Floorball%201.jpg" style="width:350px;height:430px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Floorball/2023/Floorball%202.jpg" style="width:350px;height:430px;float:center"></td>
   </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Floorball/2023/Floorball%203.jpg" style="width:350px;height:430px;float:center"></td>
+  </tr>
 </table>
 
 
