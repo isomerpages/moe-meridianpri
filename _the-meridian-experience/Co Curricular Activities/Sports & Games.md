@@ -34,7 +34,7 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 * <a href="mailto:foo_si_min@moe.edu.sg ">Ms Tracy Foo</a>
 * <a href="mailto:mark_chen@moe.edu.sg">Mr Mark Chen</a>
 * <a href="mailto:low_hwee_miang_a@moe.edu.sg">Mdm Low Hwee Miang</a>
-* <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jam</a>
+* <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a>
 
 <hr>
 
