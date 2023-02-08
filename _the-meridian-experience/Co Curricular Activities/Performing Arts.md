@@ -78,7 +78,14 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
   </tr>
 </table>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xLcDKXd4GJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<table style="width:100%">
+
+  <tr>
+    <td><iframe width="380" height="230" src="https://www.youtube.com/embed/9hWPPa1niQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+    <td><iframe width="380" height="230" src="https://www.youtube.com/embed/SMTG7xx_Nsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+	</tr>
+	
+</table>
 
 For enquiries on the school’s Chinese Dance CCA, please email:<br>
 * <a href="mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiaolu</a>
