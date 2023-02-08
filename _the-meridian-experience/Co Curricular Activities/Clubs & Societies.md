@@ -20,13 +20,15 @@ third_nav_title: Co Curricular Activities
 *   Hydroponics planting (hi-tech farming)  
 *   Field-based bird monitoring and research
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%201.jpg" style="width:350px;height:250px;float:center">
 
-<p align = "center">Pupils in action doing Science experiments</p>
+<table style="width:100%">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%202.jpg" style="width:350px;height:250px;float:center">
-
-<p align = "center">Pupils in action doing Science experiments</p>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%203.jpg" style="width:350px;height:250px;float:center"><center>Pupils in action doing outdoor field-based research</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%204.jpg" style="width:350px;height:250px;float:center"><center>Pupils in action doing Science experiments</center></td>
+	</tr>
+	
+</table>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nmR69jel_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
