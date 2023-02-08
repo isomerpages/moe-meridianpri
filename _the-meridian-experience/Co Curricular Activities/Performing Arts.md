@@ -73,8 +73,8 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-2.jpg" style="width:350px;height:250px;float:center"></td>
   </tr>
   <tr>
-		 <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-3.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-4.jpg" style="width:350px;height:250px;float:center"></td>
+		 <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-3.jpg" style="width:350px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-4.jpg" style="width:350px;height:220px;float:center"></td>
   </tr>
 </table>
 
