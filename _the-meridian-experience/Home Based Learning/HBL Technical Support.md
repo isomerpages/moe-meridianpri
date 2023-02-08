@@ -11,4 +11,4 @@ School-Based Self-Help Tips for Students</h5>
 
 ![](/images/The%20Meridian%20Experience/SLS/SLS%20Helpline.png)
 
-<p>For more information and FAQ on SLS, parents and students may refer to this page</p>
+<p>For more information and FAQ on SLS, parents and students may refer to <a href = "https://www.meridianpri.moe.edu.sg/useful-links/learning-portals/singapore-student-learning-space/">this page</p>
