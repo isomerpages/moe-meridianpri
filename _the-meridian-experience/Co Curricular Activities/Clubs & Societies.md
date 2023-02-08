@@ -55,11 +55,17 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 <li>Application of Artificial Intelligence in mBlock</li>
 </ul>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%201.jpg" style="width:450px;height:350px;float:center">
-<br>
+<table style="width:100%">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%202.jpg" style="width:450px;height:250px;float:center">
-<br>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%203.jpg" style="width:450px;height:250px;float:center"><center>Student testing the code to see if it can sense the intensity of light accurately</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%204.jpg" style="width:450px;height:250px;float:center"><center>Student coding in mblock app to activate the light sensor to measure light intensty in mbot(robot)</center></td>
+	</tr>
+	
+</table>
+
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AIP-mk5-sF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
