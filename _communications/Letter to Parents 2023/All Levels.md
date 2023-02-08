@@ -30,6 +30,9 @@ third_nav_title: Letter to Parents 2023
 		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Primary%202/P2%20-%20P6%20use%20of%20ict.pdf" target="_blank">Primary 2 to Primary 6 Use of ICT for Learning</a> <font size = "2">(10 January 2023)</font>
 		</li>
 		<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Primary%205/Jan/Wits%20&%20Words%20Practice%20&%20Preliminary.pdf" target="_blank">Wits & Words Practice & Preliminary</a> <font size = "2">(19 January 2023)</font>
+		</li>
+			<li>
 		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/January/Bridging%20Programme%20(Semester%201).pdf" target="_blank">Bridging Programme (Semester 1)</a> <font size = "2">(20 January 2023)</font>
 		</li>
 				<li>
