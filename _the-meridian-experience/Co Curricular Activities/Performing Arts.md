@@ -157,15 +157,23 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 <li>The Young Talent Showcase @ Tampines Hub</li>
 <li>Pasir Ris West Chinese New Year Dinner</li>
 </ul>
-	
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%201.jpg" style="width:350px;height:250px;float:center">
-<br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%202.jpg" style="width:350px;height:250px;float:center">
-<br>
+<table style="width:100%">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%203.jpg" style="width:350px;height:250px;float:center">
-<p align = "center">Choir members practising the dance steps during the CCA sessions.</p>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%209.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%208.jpg" style="width:350px;height:250px;float:center"></td>
+  </tr>
+  <tr>
+		 <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%202.jpg" style="width:450px;height:350px;float:center"></td>
+  </tr>
+	<tr>
+		<td colspan = "2"><p align = "center">Choir members practising the dance steps during the CCA sessions.</p><td>
+	</tr>
+</table>
+
+
+
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%204.jpg" style="width:350px;height:250px;float:center">
 
 <p align = "center">Choir performance during 2019 Chinese New Year celebrations@Pasir Ris Elias CC.</p>
