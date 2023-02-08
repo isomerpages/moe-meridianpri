@@ -141,11 +141,15 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 
 **Highlights**  
 
-In school performances
-* Chinese New Year celebrations
-* P3-P6 Prize-giving Day
+<u>In school performances</u>
+<ul>
+<li>Chinese New Year Celebrations</li>
+<li>National Day Celebrations</li>
+<li>Deepavali Celebrations</li>
+<li>P3-P6 Prize-giving Day</li>
+</ul>
 
-Public performances
+<u>Public performances</u>
 
 *   Meridian Performing Arts Festival@Pasir Ris Public Library
 *   Cerebral Palsy Alliance Singapore as part of Values-In-Action
