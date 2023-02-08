@@ -4,7 +4,7 @@ permalink: /the-meridian-experience/home-based-learning/hbl-resource-kits/
 description: ""
 third_nav_title: Home Based Learning
 ---
-<p align = "justify">From 19 May 2021 to 28 May 2021, our children will be spending more time at home with the ongoing Full Home-Based Learning (Full HBL).</p>
+<p align = "justify">On 19 May 2021 to 28 May 2021, our children spendt time at home with the  Full Home-Based Learning (Full HBL).</p>
 
 <p align = "justify">For most of us, Full HBL is something we have experienced and learnt from last year. We did well in staying home, staying safe, and keeping our children positive in the process.</>
 
