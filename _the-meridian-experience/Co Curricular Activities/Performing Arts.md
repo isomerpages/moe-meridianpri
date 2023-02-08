@@ -53,9 +53,9 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 
 **Guzheng** _(For Boys and Girls)_
 
-<p align = "justify">Guzheng (古筝), is a Chinese musical instrument that has a history dating back to 500 B.C.  Playing the Guzheng is an excellent way to broaden pupils’ knowledge in the Chinese culture and history.</p>
+<p align = "justify">Guzheng (古筝), is a Chinese musical instrument that has a history dating back to 500 B.C. GU (古) in Chinese means, Old, long history. It is a  popular instrument all over the world because of the elegant  design. Learning Guzheng can help to develop the connection between left and right brain, because playing the Guzheng requires coordination of both the left hand and right hand. You can memorize better and be more attentive.</p>
 
-<p align = "justify">Guzheng CCA has performed in numerous school as well as external events. Through participation in the CCA, students pick up the technique of playing the instrument expressively.  At the same time, our school values on teamwork and passion are being inculcated in them.</p>
+<p align = "justify">As our Guzheng is played in an ensemble , we value teamwork, unity, discipline and commitment, encouraging every member to work together, forge friendships and gain skills that will last a lifetime.</p>
 
 **Highlights**  
 
