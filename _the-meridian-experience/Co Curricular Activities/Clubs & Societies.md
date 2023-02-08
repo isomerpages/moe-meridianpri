@@ -55,6 +55,16 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 <li>Application of Artificial Intelligence in mBlock</li>
 </ul>
 
+<table style="width:100%">
+
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%203.jpg" style="width:470px;height:320px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%204.jpg" style="width:470px;height:320px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%205.jpg" style="width:470px;height:320px;float:center"></td>
+  </tr>
+</table>
 
 
 <br>
