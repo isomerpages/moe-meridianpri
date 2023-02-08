@@ -71,5 +71,8 @@ To help you to reinforce Cyber Wellness education at home, you may access Cybe
 
 *   <p align = "justify">In line with MOE’s effort to nurture “Future-ready and Responsible Digital Learners”, the school organised “Coding with Micro:bit Workshop” for our P4 students to increase their exposure to coding.  Through the fun and hands-on workshop, the students will improve in their computational thinking, which is the ability to communicate their thoughts in a structured and logical way.  The workshop also encourages them to be creative and promotes thinking “out of the box”.</p>
 
+*   <p align = "justify">Our P6 students also take part in the Code-For-Fun programme as one iof their post PSLE activities to develop of core computational thinking and coding concepts through simple visual programming-based lessons.  They are also exposed to emerging technologies such as artificial intelligence in the 16-hours programme.</p>
+
+
 <p>For enquiries on the school’s ICT Department, please email:</p>
 <a href="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng (Head of Department)</a>
