@@ -79,7 +79,7 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 
 **Infocomm Technology (Media Production)** _(For Boys and Girls)_
 
-<p align = "justify">At the Photography & Videography Production CCA, students get to learn photography, videography and editing skills. Students are taught to use basic point & shoot cameras and DSLR cameras. Students also get to learn use software such as Corel Video Editor and Windows Movie Maker.</p>
+<p align = "justify">To provide a platform for our students to take good photos and product the good videos through our CCA, Media Production. At the Media Production CCA, students get to learn photography, videography and editing skills. They can take part in some competitions every year, for example, OSOS (MOE), National Primary Schools Photography Competition and National Photography Festival (Primary Schools).</p>
 
 **Highlights**
 
