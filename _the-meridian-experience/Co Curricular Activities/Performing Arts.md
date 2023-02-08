@@ -101,14 +101,17 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 
 **Highlights**  
 
-In school performances
-* Hari Raya celebrations
-* Racial Harmony
-* Prize-giving ceremonies
+<u>In school performances</u>
+<ul><li>Hari Raya celebrations</li>
+<li>Prize-giving ceremonies</li>
+</ul>
 
-Public performances
-* Pasir Ris Library during Meridian Performing Arts Festival
-* Singapore Youth Festival (SYF)
+<u>Public performances</u>
+<ul>
+<li>Pasir Ris Library during Meridian Performing Arts Festival</li>
+<li>Pasir Ris West Chinese New Year Dinner </li>
+<li>Singapore Youth Festival (SYF)</li>
+	</ul>
 
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%201.png" style="width:350px;height:250px;float:center">
 <br>
