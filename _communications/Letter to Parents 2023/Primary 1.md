@@ -15,5 +15,6 @@ third_nav_title: Letter to Parents 2023
 <details>
   <summary>January</summary>
   <ul>
+			<li><a href="/files/Communications/Letters%20to%20All%20Parents%202023/Primary%201/P1%20ict%20use.pdf" target="_blank">Primary 1 Use of ICT for Learning</a> <font size = "2">(10 January 2023)</font></li>
 	</ul>
 </details>
