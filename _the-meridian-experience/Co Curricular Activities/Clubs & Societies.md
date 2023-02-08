@@ -8,7 +8,7 @@ third_nav_title: Co Curricular Activities
 
 **Eco-Enviro Science Club** _(For Boys and Girls)_
 
-<p align = "justify">The Eco-Enviro Science Club provides students with the opportunity to learn Science through hands-on interaction. Students are exposed to topics such as environmental conservation, habitat reforestation and global warning. Students also get to learn topics such as friction, forces, magnetism and other topics which may or may not be in their Primary Science Syllabus.</p>
+<p align = "justify"> The Eco-Enviro Science Club provides students with the opportunity to learn Science through hands-on interaction. Students are exposed to topics such as environmental conservation, habitat reforestation and global warning. Students also get to learn extension to topics beyond the usual curriculum such as how volcanoes erupt and sublimation.</p>
 
 <p align = "justify">Students also conduct field research by monitoring the population of various bird species in the school compound. Through observation, investigation and research, students get to learn more about protecting our environment and the different ways to enhance our natural biodiversity.</p>
 
