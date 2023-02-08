@@ -89,12 +89,8 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 2.      National Primary Schools Photography Competition
 3.      National Photography Festival (Primary Schools)
 
-**Junior Photographer Accreditation**
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Tech%20(Media%20Production)/Merit%20Award%20(2).jpg" style="width:470px;height:320px;float:center">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Tech%20(Media%20Production)/clubs-and-societies-Photo-and-video-1-300x200.jpg" style="width:450px;height:250px;float:center">
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Tech%20(Media%20Production)/clubs-and-societies-Photo-and-video-2-300x200.jpg" style="width:450px;height:250px;float:center">
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QkFtyFj37kQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
