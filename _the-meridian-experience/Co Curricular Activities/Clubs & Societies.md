@@ -34,7 +34,7 @@ third_nav_title: Co Curricular Activities
 
 For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 <ul>
-<li><a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mr Tay Koon Guan</a></li>
+<li><a href="mailto:tay_koon_guan@moe.edu.sg ">Mr Tay Koon Guan</a></li>
 <li><a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a></li>
 <li><a href="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Peony Wong</a></li>
 </ul>
