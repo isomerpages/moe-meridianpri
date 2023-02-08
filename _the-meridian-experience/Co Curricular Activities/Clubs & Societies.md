@@ -33,9 +33,11 @@ third_nav_title: Co Curricular Activities
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nmR69jel_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
-* <a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a>
-* <a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan</a>
-*  <a href="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Peony Wong</a>
+<ul>
+<li><a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mr Tay Koon Guan</a></li>
+<li><a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a></li>
+<li><a href="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Peony Wong</a></li>
+</ul>
 <hr>
 
 #### Infocomm Technology (Computing) 
