@@ -49,10 +49,11 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 <p align = "justify">Technology is a huge part of children’s life today. It is essential for students to learn how to design, develop and communicate with digital technology. Learning to code allow learners to learn computational thinking which enables them to develop cognitive skills and to learn logical and sequential thought processes.</p>
 
 **Highlights**
-
-*   SCRATCH / Microbit Programming
-*   Drone Programming
-*   Robotics Programming (For advanced learners)
+<ul>
+<li>mBlock software</li>
+<li>mBot2 robots</li>
+<li>Application of Artificial Intelligence in mBlock</li>
+</ul>
 
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%201.jpg" style="width:450px;height:350px;float:center">
 <br>
