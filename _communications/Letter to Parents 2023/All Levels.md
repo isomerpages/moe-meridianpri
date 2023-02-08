@@ -7,11 +7,11 @@ third_nav_title: Letter to Parents 2023
 #### Letter to All Parents 2023
 
 <details>
-  <summary>Epcot Center</summary>
+  <summary>February</summary>
   <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
 </details>
 
 <details>
-  <summary>Epcot Center</summary>
+  <summary>January</summary>
   <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
 </details>
