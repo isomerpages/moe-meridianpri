@@ -10,7 +10,7 @@ third_nav_title: Letter to Parents 2023
   <summary>February</summary>
 <ul>
 	<li>
-		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/February/P6%20Assessment%20Plan%20.pdf" target="_blank">P6 Assessement Plan</a> (7 February 2023)</li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/February/P6%20Assessment%20Plan%20.pdf" target="_blank">P6 Assessement Plan</a><font size="3">(7 February 2023)</font></li>
 	</ul>
 </details>
 
