@@ -29,7 +29,7 @@ third_nav_title: Letter to Parents 2023
 		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Primary%202/P2%20-%20P6%20use%20of%20ict.pdf" target="_blank">Primary 2 to Primary 6 Use of ICT for Learning</a> <font size = "2">(10 January 2023)</font>
 		</li>
 			<li>
-		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Primary%202/P2%20-%20P6%20use%20of%20ict.pdf" target="_blank">Primary 3 School-based Dyslexia Remediation Programme Semester 1</a> <font size = "2">(11 January 2023)</font>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Primary%203/Jan/P3%20School-based%20Dyslexia%20Remediation%20programme.pdf" target="_blank">Primary 3 School-based Dyslexia Remediation Programme Semester 1</a> <font size = "2">(11 January 2023)</font>
 		</li>
 		<li>
 		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/January/Newspaper%20Subscription%20The%20Straits%20Times%20Little%20Red%20Dot.pdf" target="_blank">Newspaper Subscription: The Straits Times Little Red Dot</a> <font size = "2">(13 January 2023)</font>
