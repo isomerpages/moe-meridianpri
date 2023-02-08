@@ -198,5 +198,5 @@ For enquiries on the school’s Show Choir CCA, please email:<br>
 <ul>
 <li><a href="mailto:angel_huang@moe.edu.sg">Ms Angel Huang</a></li>
 <li><a href = "mailto:alwin_tien_der-we@moe.edu.sg">Mr Alwin Tien</a></li>
-<li><a href = "mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan Binte Abdul Wahab</a></li>
+<li><a href = "mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan Bte Abdul Wahab</a></li>
 </ul>
