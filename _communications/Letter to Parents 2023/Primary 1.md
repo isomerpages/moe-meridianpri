@@ -13,6 +13,5 @@ third_nav_title: Letter to Parents 2023
 <details>
   <summary>January</summary>
   <ul>
-		
 	</ul>
 </details>
