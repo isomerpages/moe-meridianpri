@@ -71,9 +71,9 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 
 For enquiries on the school’s Infocomm Technology (Computing), please email:<br>
 <ul>
-<a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi</a>
-<a href="mailto:tan_pei_ling_a@moe.edu.sg">Ms Tan Pei Ling</a>
-<a href="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah</a>
+<li><a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi</a></li>
+<li><a href="mailto:tan_pei_ling_a@moe.edu.sg">Ms Tan Pei Ling</a></li>
+<li><a href="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah</a></li>
 </ul>
 <hr>
 
