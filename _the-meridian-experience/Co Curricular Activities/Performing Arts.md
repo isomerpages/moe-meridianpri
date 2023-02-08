@@ -173,11 +173,15 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 	</tr>
 	<tr>
 		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%206.jpg" style="width:350px;height:220px;float:center"><center>Choir performance during Prize Giving Day 2019.</center></td>
-		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2010.jpg" style="width:350px;height:220px;float:center"><center>National Day performance in school (2022)</center></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2010.jpg" style="width:350px;height:220px;float:center"><center>National Day performance in school</center></td>
+	</tr>
+	<tr>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%207.jpeg" style="width:350px;height:250px;float:center"><center>External performance - The Young Talent Showcase at Our Tampines Hub</center></td>
+		<td></td>
 	</tr>
 </table>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%207.jpeg" style="width:350px;height:250px;float:center">
+
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YQdiFHXM7Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
