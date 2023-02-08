@@ -179,14 +179,17 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%207.jpeg" style="width:350px;height:250px;float:center"><center>External performance - The Young Talent Showcase at Our Tampines Hub</center></td>
 		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2011.jpg" style="width:350px;height:250px;float:center"><center>Deepavali performance in school - an arry of Indian ethnic clothing</center></td>
 	</tr>
+	<tr>
+	 <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2012.jpg" style="width:350px;height:250px;float:center"><center>Beautifully clad in blue for 2022 Prize-Giving Day</center></td>
+	</tr>
 <tr>
 	<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2013.jpg" style="width:350px;height:250px;float:center"></td>
 	<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2014.jpg" style="width:350px;height:250px;float:center"></td>
 </tr>
 	<tr>
-	 <td colspan="2"><center>Chinese New Year performance at Pasir Ris Elias Community Center Marquee</center></td></tr>
+	 <td colspan="2"><center>Chinese New Year performance at Pasir Ris Elias Community Center Marquee</center></td>
+	</tr>
 </table>
-
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YQdiFHXM7Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
