@@ -59,7 +59,7 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 
   <tr>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%203.jpg" style="width:450px;height:250px;float:center"><center>Student testing the code to see if it can sense the intensity of light accurately.<center></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%204.jpg" style="width:450px;height:250px;float:center"><center>Student coding in mblock app to activate the light sensor to measure light intensty in mbot(robot).</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%204.jpg" style="width:450px;height:250px;float:center"><center>Student coding in mblock app to activate the light sensor to measure light<br>intensty in mbot(robot).</center></td>
 	</tr>
 <td colspan = "2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%205.jpg" style="width:350px;height:250px;float:center"><center>Student learning how to program a game in mblock app.</center></td>
 </tr>
