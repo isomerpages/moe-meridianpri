@@ -5,12 +5,6 @@ description: ""
 third_nav_title: Letter to Parents 2023
 ---
 <details>
-  <summary>February</summary>
-<ul>
-	</ul>
-</details>
-
-<details>
   <summary>January</summary>
   <ul>
 		<li><a href="/files/Communications/Letters%20to%20All%20Parents%202023/Primary%203/Jan/P3%20RRR.pdf">P3 Reading Remediation Programme(RRR)</a> (11 January 2023)</li>
