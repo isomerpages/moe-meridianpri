@@ -180,7 +180,7 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2011.jpg" style="width:350px;height:250px;float:center"><center>Deepavali performance in school - an arry of Indian ethnic clothing</center></td>
 	</tr>
 	<tr>
-	 <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2012.jpg" style="width:350px;height:250px;float:center"><center>Beautifully clad in blue for 2022 Prize-Giving Day</center></td>
+	 <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2012.jpg" style="width:450px;height:280px;float:center"><center>Beautifully clad in blue for 2022 Prize-Giving Day</center></td>
 	</tr>
 <tr>
 	<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2013.jpg" style="width:350px;height:250px;float:center"></td>
