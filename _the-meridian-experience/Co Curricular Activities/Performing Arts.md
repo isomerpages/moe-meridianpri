@@ -172,14 +172,10 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%205.jpg" style="width:350px;height:250px;float:center"><center>Choir performance during 2019 Meridian Arts Festival@Pasir Ris Public Library.</center></td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%206.jpg" style="width:350px;height:250px;float:center"><center>Choir performance during Prize Giving Day 2019.</center></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2010.jpg" style="width:350px;height:250px;float:center"><center>National Day performance in school (2022)</center></td>
 	</tr>
 </table>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%206.jpg" style="width:350px;height:250px;float:center">
-
-<p align = "center">Choir performance during Prize Giving Day 2019.</p>
 
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%207.jpeg" style="width:350px;height:250px;float:center">
 <br>
