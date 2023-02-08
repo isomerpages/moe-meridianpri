@@ -4,7 +4,7 @@ permalink: /the-meridian-experience/home-based-learning/
 description: ""
 third_nav_title: Home Based Learning
 ---
-#### Home-based Learning for P5 (29 Sep 2022)
+#### Home-based Learning for P5 (Carried out on 29 Sep 2022)
 
 <p align = "justify">1. The school will be implementing Home-Based Learning for all Primary 5 students on Thursday, 29 September 2022. This will allow time for students to rest after their 3 days of outdoor activities at the P5 camp, while still embarking on self-directed learning at home.  P5 students will not report to school on that day. They will return to school on Friday, 30 September 2022.</p>
 

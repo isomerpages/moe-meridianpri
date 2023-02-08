@@ -8,7 +8,7 @@ third_nav_title: Co Curricular Activities
 
 **Eco-Enviro Science Club** _(For Boys and Girls)_
 
-<p align = "justify">The Eco-Enviro Science Club provides students with the opportunity to learn Science through hands-on interaction. Students are exposed to topics such as environmental conservation, habitat reforestation and global warning. Students also get to learn topics such as friction, forces, magnetism and other topics which may or may not be in their Primary Science Syllabus.</p>
+<p align = "justify"> The Eco-Enviro Science Club provides students with the opportunity to learn Science through hands-on interaction. Students are exposed to topics such as environmental conservation, habitat reforestation and global warning. Students also get to learn extension to topics beyond the usual curriculum such as how volcanoes erupt and sublimation.</p>
 
 <p align = "justify">Students also conduct field research by monitoring the population of various bird species in the school compound. Through observation, investigation and research, students get to learn more about protecting our environment and the different ways to enhance our natural biodiversity.</p>
 
@@ -20,20 +20,24 @@ third_nav_title: Co Curricular Activities
 *   Hydroponics planting (hi-tech farming)  
 *   Field-based bird monitoring and research
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%201.jpg" style="width:350px;height:250px;float:center">
 
-<p align = "center">Pupils in action doing Science experiments</p>
+<table style="width:100%">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%202.jpg" style="width:350px;height:250px;float:center">
-
-<p align = "center">Pupils in action doing Science experiments</p>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%203.jpg" style="width:350px;height:250px;float:center"><center>Pupils in action doing outdoor field-based research</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%204.jpg" style="width:350px;height:250px;float:center"><center>Pupils in action doing Science experiments</center></td>
+	</tr>
+	
+</table>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nmR69jel_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
-* <a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a>
-* <a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan</a>
-*  <a href="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Peony Wong</a>
+<ul>
+<li><a href="mailto:tay_koon_guan@moe.edu.sg ">Mr Tay Koon Guan</a></li>
+<li><a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a></li>
+<li><a href="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Peony Wong</a></li>
+</ul>
 <hr>
 
 #### Infocomm Technology (Computing) 
@@ -45,30 +49,40 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 <p align = "justify">Technology is a huge part of children’s life today. It is essential for students to learn how to design, develop and communicate with digital technology. Learning to code allow learners to learn computational thinking which enables them to develop cognitive skills and to learn logical and sequential thought processes.</p>
 
 **Highlights**
+<ul>
+<li>mBlock software</li>
+<li>mBot2 robots</li>
+<li>Application of Artificial Intelligence in mBlock</li>
+</ul>
 
-*   SCRATCH / Microbit Programming
-*   Drone Programming
-*   Robotics Programming (For advanced learners)
+<table style="width:100%">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%201.jpg" style="width:450px;height:350px;float:center">
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%203.jpg" style="width:370px;height:220px;float:center"><center>Student testing the code to see if it can sense the intensity of light accurately.</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%204.jpg" style="width:370px;height:220px;float:center"><center>Student coding in mblock app to activate the light sensor to measure<br>light intensity in mbot (robot)</center></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%205.jpg" style="width:470px;height:320px;float:center"></td>
+  </tr>
+</table>
+
+
 <br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%202.jpg" style="width:450px;height:250px;float:center">
-<br>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AIP-mk5-sF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
-* <a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi</a>
-* <a href="mailto:norhaida_kamaludin@moe.edu.sg">Mdm Norhaida Kamaludin</a>
-*  <a href="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah</a>
+For enquiries on the school’s Infocomm Technology (Computing), please email:<br>
+<ul>
+<li><a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi</a></li>
+<li><a href="mailto:tan_pei_ling_a@moe.edu.sg">Ms Tan Pei Ling</a></li>
+<li><a href="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah</a></li>
+</ul>
 <hr>
 
 #### Infocomm Technology (Media Production) 
 
 **Infocomm Technology (Media Production)** _(For Boys and Girls)_
 
-<p align = "justify">At the Photography & Videography Production CCA, students get to learn photography, videography and editing skills. Students are taught to use basic point & shoot cameras and DSLR cameras. Students also get to learn use software such as Corel Video Editor and Windows Movie Maker.</p>
+<p align = "justify">To provide a platform for our students to take good photos and product the good videos through our CCA, Media Production. At the Media Production CCA, students get to learn photography, videography and editing skills. They can take part in some competitions every year, for example, OSOS (MOE), National Primary Schools Photography Competition and National Photography Festival (Primary Schools).</p>
 
 **Highlights**
 
@@ -76,15 +90,20 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 2.      National Primary Schools Photography Competition
 3.      National Photography Festival (Primary Schools)
 
-**Junior Photographer Accreditation**
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Tech%20(Media%20Production)/Merit%20Award%20(2).jpg" style="width:470px;height:320px;float:center">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Tech%20(Media%20Production)/clubs-and-societies-Photo-and-video-1-300x200.jpg" style="width:450px;height:250px;float:center">
 <br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Tech%20(Media%20Production)/clubs-and-societies-Photo-and-video-2-300x200.jpg" style="width:450px;height:250px;float:center">
-<br>
+<table style="width:100%">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QkFtyFj37kQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <tr>
+    <td><iframe width="350" height="250" src="https://www.youtube.com/embed/QkFtyFj37kQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="350" height="250" src="https://www.youtube.com/embed/moC09M9LGgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+	</tr>
+	
+</table>
+
+
 
 For enquiries on the school’s Photography and Videography CCA, please email:<br>
 * <a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung</a>

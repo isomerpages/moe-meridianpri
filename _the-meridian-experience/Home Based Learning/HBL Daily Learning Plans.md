@@ -8,9 +8,6 @@ Dear Students
   
 Please select class from the drop-down menu below to retrieve your class' HBL Learning Plans
 
-Dear Students  
-  
-	     
 <b>For&nbsp;HBL on 29 September 2022</b>
  
 <table>

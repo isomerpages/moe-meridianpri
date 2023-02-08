@@ -53,27 +53,39 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 
 **Guzheng** _(For Boys and Girls)_
 
-<p align = "justify">Guzheng (古筝), is a Chinese musical instrument that has a history dating back to 500 B.C.  Playing the Guzheng is an excellent way to broaden pupils’ knowledge in the Chinese culture and history.</p>
+<p align = "justify">Guzheng (古筝), is a Chinese musical instrument that has a history dating back to 500 B.C. GU (古) in Chinese means, Old, long history. It is a  popular instrument all over the world because of the elegant  design. Learning Guzheng can help to develop the connection between left and right brain, because playing the Guzheng requires coordination of both the left hand and right hand. You can memorize better and be more attentive.</p>
 
-<p align = "justify">Guzheng CCA has performed in numerous school as well as external events. Through participation in the CCA, students pick up the technique of playing the instrument expressively.  At the same time, our school values on teamwork and passion are being inculcated in them.</p>
+<p align = "justify">As our Guzheng is played in an ensemble , we value teamwork, unity, discipline and commitment, encouraging every member to work together, forge friendships and gain skills that will last a lifetime.</p>
 
 **Highlights**  
 
-Accomplishment Award in the 2014 & 2016 SYF
+<ul>
+	<li>2012 Singapore Youth Festival Accomplishment Award</li>
+	<li>2014 Singapore Youth Festival Accomplishment Award</li>
+	<li>2016 Singapore Youth Festival Accomplishment Award</li>
+	<li>2018 Singapore Youth Festival Accomplishment Award</li>
+</ul>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-1.jpg" style="width:350px;height:250px;float:center">
-<br>
+<table style="width:100%">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-2.jpg" style="width:350px;height:250px;float:center">
-<br>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-1.jpg" style="width:350px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-2.jpg" style="width:350px;height:220px;float:center"></td>
+  </tr>
+  <tr>
+		 <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-3.jpg" style="width:350px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-4.jpg" style="width:350px;height:220px;float:center"></td>
+  </tr>
+</table>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-3.jpg" style="float:center;">
-<br>
+<table style="width:100%">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-4.jpg" style="float:center;">
-<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xLcDKXd4GJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <tr>
+    <td><iframe width="380" height="230" src="https://www.youtube.com/embed/9hWPPa1niQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+    <td><iframe width="380" height="230" src="https://www.youtube.com/embed/SMTG7xx_Nsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+	</tr>
+	
+</table>
 
 For enquiries on the school’s Chinese Dance CCA, please email:<br>
 * <a href="mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiaolu</a>
@@ -85,48 +97,40 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 
 <p align = "justify">Malay Dance CCA is a unique form of exercise because it provides the heart-healthy benefits of an aerobic exercise while also allowing you to have FUN! Dancing helps to reduce stress, increase energy, improve strength and increase muscle tone and coordination.</p>
 
-<p align = "justify">In the Malay Dance CCA, students learn and explore the traditional Malay performing arts. The CCA instils passion and appreciation of the performing arts in the students. It also helps the students to enhance their cultural awareness.</p>
-
-<p align = "justify">Malay Dance exposes students to a healthy and fun lifestyle by keeping fit with the dance moves and building friendship. Through the CCA, the students get to understand each other better and work with each other together to achieve the desired goals.</p>
-
-<p align = "justify">During the course of practice, students build their self-confidence through stage performances, develop team spirit and encourage multi-racial participation. Most importantly, students learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
+<p align = "justify">The Malay Dance CCA plays an important role in imparting the rich cultural Malay heritage, and developing grace, rhythm and discipline in our dancers through the performing arts. Through our CCA, members are nurtured to become confident and resilient individuals, who are also active team players and caring citizens. Members learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
 
 **Highlights**  
 
-In school performances
-* Hari Raya celebrations
-* Racial Harmony
-* Prize-giving ceremonies
+<u>In school performances</u>
+<ul><li>Hari Raya celebrations</li>
+<li>Prize-giving ceremonies</li>
+</ul>
 
-Public performances
-* Pasir Ris Library during Meridian Performing Arts Festival
-* Singapore Youth Festival (SYF)
+<u>Public performances</u>
+<ul>
+<li>Pasir Ris Library during Meridian Performing Arts Festival</li>
+<li>Pasir Ris West Chinese New Year Dinner </li>
+<li>Singapore Youth Festival (SYF)</li>
+	</ul>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%201.png" style="width:350px;height:250px;float:center">
-<br>
+<table style="width:100%">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%202.png" style="width:350px;height:250px;float:center">
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%203.png" style="width:350px;height:250px;float:center">
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%204.png" style="width:350px;height:250px;float:center">
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%205.png" style="width:350px;height:250px;float:center">
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%206.png" style="float:center;">
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%207.jpg" style="float:center;">
-<br>
-
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%201.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%202.png" style="width:350px;height:250px;float:center"></td>
+  </tr>
+  <tr>
+		 <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%207.jpg" style="width:350px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD8.jpg" style="width:350px;height:220px;float:center"></td>
+  </tr>
+</table>
 
 For enquiries on the school’s Malay Dance CCA, please email:<br>
-* <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a>
-* <a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a>
+<ul>
+	<li><a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a></li>
+	<li><a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu Bte Mohamed</a></li>
+	</ul>
+
 <hr>
 
 #### Show Choir
@@ -137,41 +141,62 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 
 **Highlights**  
 
-In school performances
-* Chinese New Year celebrations
-* P3-P6 Prize-giving Day
+<u>In school performances</u>
+<ul>
+<li>Chinese New Year Celebrations</li>
+<li>National Day Celebrations</li>
+<li>Deepavali Celebrations</li>
+<li>P3-P6 Prize-giving Day</li>
+</ul>
 
-Public performances
+<u>Public performances</u>
+<ul>
+<li>Meridian Performing Arts Festival@Pasir Ris Public Library</li>
+<li>Cerebral Palsy Alliance Singapore as part of Values-In-Action</li>
+<li>National Gallery as part of Sing50 event</li>
+<li>The Young Talent Showcase @ Tampines Hub</li>
+<li>Pasir Ris West Chinese New Year Dinner</li>
+</ul>
 
-*   Meridian Performing Arts Festival@Pasir Ris Public Library
-*   Cerebral Palsy Alliance Singapore as part of Values-In-Action
-*   National Gallery as part of Sing50 event
-*   The Young Talent Showcase @ Tampines Hub
+<table style="width:100%">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%201.jpg" style="width:350px;height:250px;float:center">
-<br>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%209.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%208.jpg" style="width:350px;height:250px;float:center"></td>
+  </tr>
+  <tr>
+		 <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%202.jpg" style="width:450px;height:350px;float:center"><center>Choir members practising the dance steps during the CCA sessions.</center></td>
+  </tr>
+	<tr>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%204.jpg" style="width:350px;height:250px;float:center"><center>Choir performance during 2019 Chinese New Year celebrations@Pasir Ris Elias CC.</center></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%205.jpg" style="width:350px;height:250px;float:center"><center>Choir performance during 2019 Meridian Arts Festival@Pasir Ris Public Library.</center></td>
+	</tr>
+	<tr>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%206.jpg" style="width:350px;height:220px;float:center"><center>Choir performance during Prize Giving Day 2019.</center></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2010.jpg" style="width:350px;height:220px;float:center"><center>National Day performance in school</center></td>
+	</tr>
+	<tr>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%207.jpeg" style="width:350px;height:250px;float:center"><center>External performance - The Young Talent Showcase at Our Tampines Hub</center></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2011.jpg" style="width:350px;height:250px;float:center"><center>Deepavali performance in school - an arry of Indian ethnic clothing</center></td>
+	</tr>
+	<tr>
+	 <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2012.jpg" style="width:460px;height:280px;float:center"><center>Beautifully clad in blue for 2022 Prize-Giving Day</center></td>
+	</tr>
+<tr>
+	<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2013.jpg" style="width:350px;height:250px;float:center"></td>
+	<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2014.jpg" style="width:350px;height:250px;float:center"></td>
+</tr>
+	<tr>
+	 <td colspan="2"><center>Chinese New Year performance at Pasir Ris Elias Community Center Marquee</center></td>
+	</tr>
+</table>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%202.jpg" style="width:350px;height:250px;float:center">
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%203.jpg" style="width:350px;height:250px;float:center">
-<p align = "center">Choir members practising the dance steps during the CCA sessions.</p>
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%204.jpg" style="width:350px;height:250px;float:center">
-
-<p align = "center">Choir performance during 2019 Chinese New Year celebrations@Pasir Ris Elias CC.</p>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%205.jpg" style="width:350px;height:250px;float:center">
-
-<p align = "center">Choir performance during 2019 Meridian Arts Festival@Pasir Ris Public Library.</p>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%206.jpg" style="width:350px;height:250px;float:center">
-
-<p align = "center">Choir performance during Prize Giving Day 2019.</p>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%207.jpeg" style="width:350px;height:250px;float:center">
-<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YQdiFHXM7Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For enquiries on the school’s Malay Dance CCA, please email:<br>
-* <a href="mailto:angel_huang@moe.edu.sg">Ms Angel Huang</a>
+For enquiries on the school’s Show Choir CCA, please email:<br>
+<ul>
+<li><a href="mailto:angel_huang@moe.edu.sg">Ms Angel Huang</a></li>
+<li><a href = "mailto:alwin_tien_der-we@moe.edu.sg">Mr Alwin Tien</a></li>
+<li><a href = "mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan Bte Abdul Wahab</a></li>
+</ul>

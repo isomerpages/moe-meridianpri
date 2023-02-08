@@ -17,7 +17,7 @@ sections:
           url: https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/resources-for-parents/
         - title: Recent Letters to Parents & Guardians
           description: ""
-          url: https://www.meridianpri.moe.edu.sg/communications/letters-to-parents/letter-to-all-parents-2023/
+          url: https://www.meridianpri.moe.edu.sg/communications/letter-to-all-parents-2023/all-levels/
         - title: Information on Sexuality Education in Schools
           description: ""
           url: https://www.meridianpri.moe.edu.sg/the-meridian-experience/student-development/sexuality-education/
@@ -29,4 +29,3 @@ sections:
         allowfullscreen></iframe>
       title: "The Meridian Experience "
 ---
-
