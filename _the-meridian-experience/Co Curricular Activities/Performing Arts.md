@@ -126,8 +126,11 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 </table>
 
 For enquiries on the school’s Malay Dance CCA, please email:<br>
-* <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a>
-* <a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a>
+<ul>
+	<li><a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a></li>
+	<li><a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu Bte Mohamed</a></li>
+	</ul>
+
 <hr>
 
 #### Show Choir
