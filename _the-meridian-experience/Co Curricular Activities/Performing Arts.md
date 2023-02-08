@@ -113,27 +113,17 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 <li>Singapore Youth Festival (SYF)</li>
 	</ul>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%201.png" style="width:350px;height:250px;float:center">
-<br>
+<table style="width:100%">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%202.png" style="width:350px;height:250px;float:center">
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%203.png" style="width:350px;height:250px;float:center">
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%204.png" style="width:350px;height:250px;float:center">
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%205.png" style="width:350px;height:250px;float:center">
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%206.png" style="float:center;">
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%207.jpg" style="float:center;">
-<br>
-
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%201.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%202.png" style="width:350px;height:250px;float:center"></td>
+  </tr>
+  <tr>
+		 <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%207.jpg" style="width:350px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD8.jpg" style="width:350px;height:220px;float:center"></td>
+  </tr>
+</table>
 
 For enquiries on the school’s Malay Dance CCA, please email:<br>
 * <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a>
