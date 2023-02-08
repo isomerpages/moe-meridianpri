@@ -13,7 +13,8 @@ third_nav_title: Learning Portals
 
 
 **SLS Self-Help Tips for Students**
-<p align="justify">Add inforgraphic here.</p>
+
+![](/images/The%20Meridian%20Experience/SLS/Step%20to%20login.png)
 
 
 **Frequently Asked Questions**
