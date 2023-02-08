@@ -59,7 +59,12 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 
 **Highlights**  
 
-Accomplishment Award in the 2014 & 2016 SYF
+<ul>
+	<li>2012 Singapore Youth Festival Accomplishment Award</li>
+	<li>2014 Singapore Youth Festival Accomplishment Award</li>
+	<li>2016 Singapore Youth Festival Accomplishment Award</li>
+	<li>2018 Singapore Youth Festival Accomplishment Award</li>
+</ul>
 
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-1.jpg" style="width:350px;height:250px;float:center">
 <br>
