@@ -97,11 +97,7 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 
 <p align = "justify">Malay Dance CCA is a unique form of exercise because it provides the heart-healthy benefits of an aerobic exercise while also allowing you to have FUN! Dancing helps to reduce stress, increase energy, improve strength and increase muscle tone and coordination.</p>
 
-<p align = "justify">In the Malay Dance CCA, students learn and explore the traditional Malay performing arts. The CCA instils passion and appreciation of the performing arts in the students. It also helps the students to enhance their cultural awareness.</p>
-
-<p align = "justify">Malay Dance exposes students to a healthy and fun lifestyle by keeping fit with the dance moves and building friendship. Through the CCA, the students get to understand each other better and work with each other together to achieve the desired goals.</p>
-
-<p align = "justify">During the course of practice, students build their self-confidence through stage performances, develop team spirit and encourage multi-racial participation. Most importantly, students learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
+<p align = "justify">The Malay Dance CCA plays an important role in imparting the rich cultural Malay heritage, and developing grace, rhythm and discipline in our dancers through the performing arts. Through our CCA, members are nurtured to become confident and resilient individuals, who are also active team players and caring citizens. Members learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
 
 **Highlights**  
 
