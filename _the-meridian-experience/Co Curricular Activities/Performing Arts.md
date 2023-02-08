@@ -66,17 +66,17 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 	<li>2018 Singapore Youth Festival Accomplishment Award</li>
 </ul>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-1.jpg" style="width:350px;height:250px;float:center">
-<br>
+<table style="width:100%">
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-2.jpg" style="width:350px;height:250px;float:center">
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-3.jpg" style="float:center;">
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-4.jpg" style="float:center;">
-<br>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-1.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-2.jpg" style="width:350px;height:250px;float:center"></td>
+  </tr>
+  <tr>
+		 <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-3.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-4.jpg" style="width:350px;height:250px;float:center"></td>
+  </tr>
+</table>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xLcDKXd4GJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
