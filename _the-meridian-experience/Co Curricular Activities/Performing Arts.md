@@ -150,12 +150,14 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 </ul>
 
 <u>Public performances</u>
-
-*   Meridian Performing Arts Festival@Pasir Ris Public Library
-*   Cerebral Palsy Alliance Singapore as part of Values-In-Action
-*   National Gallery as part of Sing50 event
-*   The Young Talent Showcase @ Tampines Hub
-
+<ul>
+<li>Meridian Performing Arts Festival@Pasir Ris Public Library</li>
+<li>Cerebral Palsy Alliance Singapore as part of Values-In-Action</li>
+<li>National Gallery as part of Sing50 event</li>
+<li>The Young Talent Showcase @ Tampines Hub</li>
+<li>Pasir Ris West Chinese New Year Dinner</li>
+</ul>
+	
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%201.jpg" style="width:350px;height:250px;float:center">
 <br>
 
