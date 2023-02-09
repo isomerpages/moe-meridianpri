@@ -21,7 +21,7 @@ third_nav_title: Resources For Parents
 <ul>
 	<li><a href = "https://www.schoolbag.edu.sg/" target="_blank">School Bag</a></li>
 	<li><a href = "https://www.seab.gov.sg/home/#" target = "_blank">SEAB Website - for PSLE related information</a></li>
-	<li>Group Personal Accident(GPA) Insurance for Student</li>
+	<li><a href = "/files/Useful%20Link/Product%20Fact%20Sheet%20Year%202023.pdf" target= "_blank">Group Personal Accident(GPA) Insurance for Student</a></li>
 	<li>Advisories:</li>
 		<ul class="square">  
 		<li>2022 Joint Advisory by the Singapore Force, Central Narcotics Bureau, National Crime Prevention Council and National Council Against Drug Abuse</li>  
