@@ -30,15 +30,6 @@ third_nav_title: Resources For Parents
 </ul>
 
 
-#### Resources for Parents and Guardians 
-
-<p align = "justify">“Every parent a supportive partner” is an important piece of MOE’s key theme “Towards Student-Centric, Values-Driven Education”. It emphasises the importance of partnerships between schools and parents in bringing out the best in every child.  At Meridian, we regularly share resources for parents with education news, resources and tips.  The most recent sharing is as follow:</p>
-
-**1) What's the right age for parents to get their kids a cell phone?**
-
-Parents need to consider whether their kids are ready to use their phones responsibly and respectfully.
-
-
 #### SchoolBag
 
 <p align = "justify">Schoolbag.sg  – MOE’s Education News Site – provides parents, educators and the general public with education news, school features and tips.</p>
