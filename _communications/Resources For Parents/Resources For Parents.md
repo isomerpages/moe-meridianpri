@@ -25,7 +25,7 @@ third_nav_title: Resources For Parents
 	<li>Advisories:</li>
 		<ul class="square">  
 		<li>2022 Joint Advisory by the Singapore Force, Central Narcotics Bureau, National Crime Prevention Council and National Council Against Drug Abuse</li>  
-		<li>Another Sub</li>  
+		<li>HPB HSA advisory in vaping</li>  
  </ul>
 </ul>
 
