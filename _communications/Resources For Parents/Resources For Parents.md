@@ -20,7 +20,7 @@ third_nav_title: Resources For Parents
 <h5>Parents may also keen to read the following:</h5>
 <ul>
 	<li><a href = "https://www.schoolbag.edu.sg/" target="_blank">School Bag</a></li>
-	<li>SEAB Website - for PSLE related information</li>
+	<li><a href = "https://www.seab.gov.sg/home/#" target = "_blank">SEAB Website - for PSLE related information</a></li>
 	<li>Group Personal Accident(GPA) Insurance for Student</li>
 	<li>Advisories:</li>
 		<ul class="square">  
