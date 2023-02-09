@@ -9,3 +9,11 @@ third_nav_title: Co Curriculum
 <p align = "justify">In keeping with the school's mission of providing a quality holistic education, the school organises a cohort camp annually. The 3D2N residential camp, a key school programme for our Primary 5 students leverages on the outdoor experience to help students discover more about themselves, their peers and the outdoors.</p>
 
 <img src="/images/The%20Meridian%20Experience/Outdoor%20Adventure%20Camp/2023/OAC.jpg" style="width:540px;height:320px;float:center">
+
+<b>Camp Objectives</b>
+
+<ul>
+	<li>To instill in the students the school values and to develop them in the 21st Century Competencies through experiential learning</li>
+	<li>To allow the students to discover their strengths through creative thinking and confidence building activities</li>
+	<li>To build teamwork amongst the level students in an outdoor adventure environment</li>
+</ul>
