@@ -34,6 +34,8 @@ Parents could set a good example at home in the use of technology and play an ac
   <summary>2022</summary>
 	<ul>
 		<li>Term 1 2022: Stay Safe Online Smart-ly <a href = "">(See Link)</a></li>
+		<li>Term 2 2022: Dr THINK and the 5 Golden Question! <a href = "">(See Link)</a></li>
+		<li>Term 3 2022: Beware of Fake News <a href = "">(See Link)</a></li>
 	</ul>
 </details>
 
