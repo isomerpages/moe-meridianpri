@@ -45,13 +45,6 @@ third_nav_title: Co Curriculum
     
 *   Swim Safer Programme
 
-<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-leadership-and-adventure-camp-1.jpg" style="width: 70%; height: 50%"/>
-<br>
-<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-gymnastics-lesson-pe-.jpg" style="width: 70%; height: 50%"/>
-<br>
-<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-health-for-life-week.jpg" style="width: 70%; height: 50%"/>
-<br>
-<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-swim-safer-programme.jpg" style="width: 70%; height: 50%"/>
 
 
 <p>For enquiries on the school’s Physical Education, please email:</p>
