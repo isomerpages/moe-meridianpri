@@ -33,21 +33,21 @@ third_nav_title: Co Curriculum
     <td><img src="/images/The%20Meridian%20Experience/Outdoor%20Adventure%20Camp/2023/OAC5.jpg" style="width:300px;height:350px;float:center"></td>
 	</tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%202.jpg" style="width:300px;height:350px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Outdoor%20Adventure%20Camp/2023/OAC2.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
 	<tr>
-    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%204.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20Play%202.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Outdoor%20Adventure%20Camp/2023/OAC3.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Outdoor%20Adventure%20Camp/2023/OAC4.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20Play%203.jpg" style="width:300px;height:350px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Outdoor%20Adventure%20Camp/2023/OAC6.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
 	<tr>
-    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20play%201.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Swimsafer%201.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Outdoor%20Adventure%20Camp/2023/OAC7.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Outdoor%20Adventure%20Camp/2023/OAC8.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Swimsafer%202.jpg" style="width:390px;height:250px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Outdoor%20Adventure%20Camp/2023/OAC9.jpg" style="width:390px;height:250px;float:center"></td>
 	</tr>
 	
 </table>
