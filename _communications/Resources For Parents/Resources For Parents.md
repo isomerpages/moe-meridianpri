@@ -8,45 +8,23 @@ third_nav_title: Resources For Parents
 
 <p align = "justify">At Meridian, we regularly share resources for parents and guardians with education news, resources and tips.</p>
 
-#### 2022 Joint Advisory Year End 
 
-To view 2022 joint advisory year end letter <a href = "/files/Communications/Resources%20for%20Parents/Joint%20Advisory%20Year%20End%202022.pdf">click here</a>
+<h4>1. Building Resilience in Children and Supporting Them Through Transitions</h4><a href = "https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/children-support/">Read more</a>
 
-#### HPB HSA advisory on vaping
+<h4>2. Cyber Wellness</h4>
+<a href = "https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/cyber-wellness/">Read more</a>
 
-To view HPB HSA advisory on vaping letter <a href = "/files/Communications/Resources%20for%20Parents/HPB%20HSA%20advisory%20on%20vaping.pdf">click here</a>
+<h4>3. A Collection of Tips and Resources</h4>
+<a href = "https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/a-collection-of-tips-and-resources/">Read more</a>
 
-#### Building Resilience in Children and Supporting Them Through Transitions
-
-MOE has developed the following resources to support parents on:
-
-*   build a supportive and caring home environment in supporting their children through transitions; and  
-    
-*   nurture the social and emotional skills that build up the resilience in their children
-
-<a href = "https://staging.dwna1etcg5x8g.amplifyapp.com/communications/resources-for-parents/">Read more</a>
-
-#### Cyber Wellness
-
-<p align = "justify">Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.</p>
-
-<a href = "https://staging.dwna1etcg5x8g.amplifyapp.com/communications/resources-for-parents/cyber-wellness/">Read more</a>
-
-#### Resources for Parents and Guardians 
-
-<p align = "justify">“Every parent a supportive partner” is an important piece of MOE’s key theme “Towards Student-Centric, Values-Driven Education”. It emphasises the importance of partnerships between schools and parents in bringing out the best in every child.  At Meridian, we regularly share resources for parents with education news, resources and tips.  The most recent sharing is as follow:</p>
-
-**1) What's the right age for parents to get their kids a cell phone?**
-
-Parents need to consider whether their kids are ready to use their phones responsibly and respectfully.
-
-
-#### SchoolBag
-
-<p align = "justify">Schoolbag.sg  – MOE’s Education News Site – provides parents, educators and the general public with education news, school features and tips.</p>
-
-<a href = "https://www.schoolbag.edu.sg/">Read more</a>
-
-#### STEPS
-
-To register to see STEPS user guide <a href = "/files/Communications/Resources%20for%20Parents/Annex%20C-%20Step%20By%20Step%20Guide%20for%20Internet%20Users.pdf">click here</a>
+<h5>Parents may also keen to read the following:</h5>
+<ul>
+	<li><a href = "https://www.schoolbag.edu.sg/" target="_blank">School Bag</a></li>
+	<li><a href = "https://www.seab.gov.sg/home/#" target = "_blank">SEAB Website - for PSLE related information</a></li>
+	<li><a href = "/files/Useful%20Link/Product%20Fact%20Sheet%20Year%202023.pdf" target= "_blank">Group Personal Accident(GPA) Insurance for Student</a></li>
+	<li>Advisories:</li>
+		<ul class="square">  
+		<li><a href = "/files/Communications/Resources%20for%20Parents/Joint%20Advisory%20Year%20End%202022.pdf" target = "_blank">2022 Joint Advisory by the Singapore Force, Central Narcotics Bureau, National Crime Prevention Council and National Council Against Drug Abuse</a></li>  
+		<li><a href = "/files/Communications/Resources%20for%20Parents/HPB%20HSA%20advisory%20on%20vaping.pdf" target = "_blank">HPB HSA advisory in vaping</a></li>  
+ </ul>
+</ul>

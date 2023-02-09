@@ -15,7 +15,8 @@ third_nav_title: Co Curriculum
 <p align = "justify">Develop independent learners with the knowledge, skills and attitude to meet complex challenges of our regional and global communities with confidence through lifelong learning and healthy living.</p>
 
 #### Approach
-![](/images/The%20Meridian%20Experience/PE%20Dept/PE-Approach-720x616.jpg)
+
+<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-Approach-720x616.jpg" style="width:490px;height:420px;float:center">
 
 #### Student Outcomes
 *   Goal 1: Acquire a range of <b>movement skills</b> to participate in a variety of physical activities.  
@@ -45,13 +46,31 @@ third_nav_title: Co Curriculum
     
 *   Swim Safer Programme
 
-<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-leadership-and-adventure-camp-1.jpg" style="width: 70%; height: 50%"/>
-<br>
-<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-gymnastics-lesson-pe-.jpg" style="width: 70%; height: 50%"/>
-<br>
-<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-health-for-life-week.jpg" style="width: 70%; height: 50%"/>
-<br>
-<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-swim-safer-programme.jpg" style="width: 70%; height: 50%"/>
+<table style="width:100%">
+
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%201.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%203.jpg" style="width:350px;height:250px;float:center"></td>
+	</tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%202.jpg" style="width:300px;height:350px;float:center"></td>
+	</tr>
+	<tr>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%204.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20Play%202.jpg" style="width:350px;height:250px;float:center"></td>
+	</tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20Play%203.jpg" style="width:300px;height:350px;float:center"></td>
+	</tr>
+	<tr>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20play%201.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Swimsafer%201.jpg" style="width:350px;height:250px;float:center"></td>
+	</tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Swimsafer%202.jpg" style="width:390px;height:250px;float:center"></td>
+	</tr>
+	
+</table>
 
 
 <p>For enquiries on the school’s Physical Education, please email:</p>
