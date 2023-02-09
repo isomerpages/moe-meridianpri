@@ -24,7 +24,7 @@ third_nav_title: Resources For Parents
 	<li><a href = "/files/Useful%20Link/Product%20Fact%20Sheet%20Year%202023.pdf" target= "_blank">Group Personal Accident(GPA) Insurance for Student</a></li>
 	<li>Advisories:</li>
 		<ul class="square">  
-		<li><a href = "/files/Communications/Resources%20for%20Parents/Joint%20Advisory%20Year%20End%202022.pdf">2022 Joint Advisory by the Singapore Force, Central Narcotics Bureau, National Crime Prevention Council and National Council Against Drug Abuse</a></li>  
-		<li><a href = "/files/Communications/Resources%20for%20Parents/HPB%20HSA%20advisory%20on%20vaping.pdf">HPB HSA advisory in vaping</a></li>  
+		<li><a href = "/files/Communications/Resources%20for%20Parents/Joint%20Advisory%20Year%20End%202022.pdf" target = "_blank">2022 Joint Advisory by the Singapore Force, Central Narcotics Bureau, National Crime Prevention Council and National Council Against Drug Abuse</a></li>  
+		<li><a href = "/files/Communications/Resources%20for%20Parents/HPB%20HSA%20advisory%20on%20vaping.pdf" target = "_blank">HPB HSA advisory in vaping</a></li>  
  </ul>
 </ul>
