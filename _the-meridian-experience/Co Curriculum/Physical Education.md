@@ -59,7 +59,7 @@ third_nav_title: Co Curriculum
     <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20Play%202.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%202.jpg" style="width:300px;height:350px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20Play%203.jpg" style="width:300px;height:350px;float:center"></td>
 	</tr>
 	
 </table>
