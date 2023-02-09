@@ -16,3 +16,8 @@ third_nav_title: Co Curricular Activities
 <p align = "justify">The Scouts also participates in meaningful conservation campaigns such as the World Water Day, the Earth Day and even tried gardening at our national parks as part of our scouting efforts to save the environment.</p>
 
 <p align = "justify">With such exposure, we hope to develop our scouts into motivated, independent, and adaptable individuals who are able to maintain gracious relationship with others and be a contributing member of the society.</p>
+
+<table width = "100%">
+	<tr>
+	<tr>
+</table>
