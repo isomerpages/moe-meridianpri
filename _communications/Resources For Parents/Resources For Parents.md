@@ -19,7 +19,7 @@ third_nav_title: Resources For Parents
 
 <h5>Parents may also keen to read the following:</h5>
 <ul>
-	<li><a href = "https://www.schoolbag.edu.sg/">School Bag</a></li>
+	<li><a href = "https://www.schoolbag.edu.sg/" target="_blank">School Bag</a></li>
 	<li>SEAB Website - for PSLE related information</li>
 	<li>Group Personal Accident(GPA) Insurance for Student</li>
 	<li>Advisories:</li>
@@ -28,14 +28,3 @@ third_nav_title: Resources For Parents
 		<li>HPB HSA advisory in vaping</li>  
  </ul>
 </ul>
-
-
-#### SchoolBag
-
-<p align = "justify">Schoolbag.sg  – MOE’s Education News Site – provides parents, educators and the general public with education news, school features and tips.</p>
-
-<a href = "https://www.schoolbag.edu.sg/" target="_blank">Read more</a>
-
-#### STEPS
-
-To register to see STEPS user guide <a href = "/files/Communications/Resources%20for%20Parents/Annex%20C-%20Step%20By%20Step%20Guide%20for%20Internet%20Users.pdf">click here</a>
