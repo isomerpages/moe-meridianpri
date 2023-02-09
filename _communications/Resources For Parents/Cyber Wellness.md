@@ -26,15 +26,9 @@ Parents could set a good example at home in the use of technology and play an ac
     
 *   Be mindful of your digital media use (or over-use).
 
-**Resources for Parents**<br>
-<p align = "justify">1.  To support all parents, there is a range of CW resources in MOE’s ICT Connection website.  These include:</p>
-*   [Introduction to CW – Cyber Wellness 101](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101)  
-    
-*   [CW Resources, Guides and Tips, and Useful Links](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents)  
-    
-*   [MOE’s Social Media Posts](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/social-media-posts)
+<b>Resources for Parents</b>
 
-<p align = "justify">2.  Since March 2017, the CW team at Meridian also initiated monthly CW messages for parents in the form of useful articles and/or tips.</p>
+<p align = "justify">To support all parents, there is a range of CW resources Since March 2017, the CW team at Meridian also initiated monthly CW messages for parents in the form of useful articles and/or tips.</p>
 
 <details> <summary>2021</summary> <ul>
   <li>Term 1 2021:  Parental controls. <a href = "/files/Communications/Resources%20for%20Parents/Cyber%20Wellness/Parental%20Control%20Resource_Term1_%202021.pdf">See guide</a></li>
