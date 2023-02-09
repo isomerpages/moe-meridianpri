@@ -17,7 +17,15 @@ third_nav_title: Co Curricular Activities
 
 <p align = "justify">With such exposure, we hope to develop our scouts into motivated, independent, and adaptable individuals who are able to maintain gracious relationship with others and be a contributing member of the society.</p>
 
-<table width = "100%">
+<table style="width:100%">
+
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/S1.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/S2.jpg" style="width:350px;height:250px;float:center"></td>
+	</tr>
 	<tr>
-	<tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/S3.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/S4.jpg" style="width:350px;height:250px;float:center"></td>
+	</tr>
+	
 </table>
