@@ -61,10 +61,17 @@ third_nav_title: Co Curriculum
 	<tr>
     <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20Play%203.jpg" style="width:300px;height:350px;float:center"></td>
 	</tr>
+	<tr>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20play%201.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Swimsafer%201.jpg" style="width:350px;height:250px;float:center"></td>
+	</tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20Play%203.jpg" style="width:300px;height:350px;float:center"></td>
+	</tr>
 	
 </table>
 
-
+![]()
 
 <p>For enquiries on the school’s Physical Education, please email:</p>
 <a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mrs Sharon Tng (Head of Department)</a>
