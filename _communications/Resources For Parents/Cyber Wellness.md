@@ -104,6 +104,6 @@ Parents could set a good example at home in the use of technology and play an ac
 <p align = "justify">For enquiries on the school’s Cyber Wellness programme, please email:
 <ul>
   <li><a href="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng (Head of Department)</a></li>
-	<li><a href="mailto:lee_huan_leng@moe.edu.sg">Mrs Stephanie Lim (Subject Head/CCE)</a></li>
-  <li><a href="mailto:foo_si_min@moe.edu.sg">Miss Tracy Foo Si Min</a></li>
+	<li><a href="mailto:tay_wan_boon@moe.edu.sg ">Mrs Stephanie Lim (Subject Head/CCE)</a></li>
+  <li><a href="mailto:foo_si_min@moe.edu.sg">Miss Tracy Foo Si Min (Cyber Wellness Co-ordinator)</a></li>
 </ul>
