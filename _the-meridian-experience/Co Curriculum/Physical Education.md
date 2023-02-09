@@ -45,6 +45,25 @@ third_nav_title: Co Curriculum
     
 *   Swim Safer Programme
 
+<table style="width:100%">
+
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%201.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%203.jpg" style="width:350px;height:250px;float:center"></td>
+	</tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%202.jpg" style="width:300px;height:350px;float:center"></td>
+	</tr>
+	<tr>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%204.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20Play%202.jpg" style="width:350px;height:250px;float:center"></td>
+	</tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%202.jpg" style="width:300px;height:350px;float:center"></td>
+	</tr>
+	
+</table>
+
 
 
 <p>For enquiries on the school’s Physical Education, please email:</p>
