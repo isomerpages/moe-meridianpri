@@ -14,8 +14,7 @@ third_nav_title: Learning Portals
 
 **SLS Self-Help Tips for Students**
 
-![](/images/The%20Meridian%20Experience/SLS/Step%20to%20login.png)
-
+<img src="/images/The%20Meridian%20Experience/SLS/Step%20to%20login.png" style="width:575px;height:400px;float:center">
 
 **Frequently Asked Questions**
 <p align="justify">Q1 : I have forgotten my password. What should I do?
