@@ -24,7 +24,7 @@ third_nav_title: Co Curriculum
 
 <p align = "justify">Here are some pictures from the Recent P5 Camp Discovery 2022</p>
 
-<table style = "100">
+<table style="width:100%">
 
 <tr>
     <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%201.jpg" style="width:350px;height:250px;float:center"></td>
