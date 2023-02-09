@@ -16,7 +16,7 @@ third_nav_title: Co Curriculum
 
 #### Approach
 
-<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-Approach-720x616.jpg" style="width:490px;height:320px;float:center">
+<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-Approach-720x616.jpg" style="width:490px;height:420px;float:center">
 
 #### Student Outcomes
 *   Goal 1: Acquire a range of <b>movement skills</b> to participate in a variety of physical activities.  
