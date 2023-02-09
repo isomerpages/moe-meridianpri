@@ -17,3 +17,5 @@ third_nav_title: Co Curriculum
 	<li>To allow the students to discover their strengths through creative thinking and confidence building activities</li>
 	<li>To build teamwork amongst the level students in an outdoor adventure environment</li>
 </ul>
+
+<p align = "justify">The camp programme includes a range of activities to meet the above objectives.  These include tent pitching, height-based activities (high elements/rock wall), water-based activities (dragon boating/kayaking), team-building activities, artificial caving, navigation-based activities, outdoor cooking and a campfire experience.</p>
