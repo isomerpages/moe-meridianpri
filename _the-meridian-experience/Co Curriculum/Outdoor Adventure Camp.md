@@ -21,3 +21,5 @@ third_nav_title: Co Curriculum
 <p align = "justify">The camp programme includes a range of activities to meet the above objectives.  These include tent pitching, height-based activities (high elements/rock wall), water-based activities (dragon boating/kayaking), team-building activities, artificial caving, navigation-based activities, outdoor cooking and a campfire experience.</p>
 
 <p align = "justify">Through the camp, the students also have the opportunity to live and work with one another as they develop and hone their social emotional learning skills.</p>
+
+<p align = "justify">Some Pictures from the Recent P5 Camp Discovery 2022</p>
