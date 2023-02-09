@@ -17,6 +17,18 @@ third_nav_title: Resources For Parents
 <h4>3. A Collection of Tips and Resources</h4>
 <a href = "https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/a-collection-of-tips-and-resources/">Read more</a>
 
+<h5>Parents may also keen to read the following:</h5>
+<ul>
+	<li>School Bag</li>
+	<li>SEAB Website - for PSLE related information</li>
+	<li>Group Personal Accident(GPA) Insurance for Student</li>
+	<li>Advisories:</li>
+		<ul class="square">  
+		<li>Sub of Second</li>  
+		<li>Another Sub</li>  
+ </ul>
+</ul>
+
 
 #### Resources for Parents and Guardians 
 
