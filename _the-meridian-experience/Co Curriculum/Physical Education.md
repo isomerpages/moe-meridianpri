@@ -15,7 +15,8 @@ third_nav_title: Co Curriculum
 <p align = "justify">Develop independent learners with the knowledge, skills and attitude to meet complex challenges of our regional and global communities with confidence through lifelong learning and healthy living.</p>
 
 #### Approach
-![](/images/The%20Meridian%20Experience/PE%20Dept/PE-Approach-720x616.jpg)
+
+<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-Approach-720x616.jpg" style="width:490px;height:320px;float:center">
 
 #### Student Outcomes
 *   Goal 1: Acquire a range of <b>movement skills</b> to participate in a variety of physical activities.  
