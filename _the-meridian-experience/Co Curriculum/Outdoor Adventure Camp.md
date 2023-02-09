@@ -24,11 +24,13 @@ third_nav_title: Co Curriculum
 
 <p align = "justify">Here are some pictures from the Recent P5 Camp Discovery 2022</p>
 
+
+
 <table style="width:100%">
 
 <tr>
-    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%201.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%203.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Outdoor%20Adventure%20Camp/2023/OAC1.jpg" style="width:300px;height:350px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Outdoor%20Adventure%20Camp/2023/OAC5.jpg" style="width:300px;height:350px;float:center"></td>
 	</tr>
 	<tr>
     <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%202.jpg" style="width:300px;height:350px;float:center"></td>
