@@ -8,23 +8,8 @@ third_nav_title: Resources For Parents
 
 <p align = "justify">At Meridian, we regularly share resources for parents and guardians with education news, resources and tips.</p>
 
-#### 2022 Joint Advisory Year End 
 
-To view 2022 joint advisory year end letter <a href = "/files/Communications/Resources%20for%20Parents/Joint%20Advisory%20Year%20End%202022.pdf">click here</a>
-
-#### HPB HSA advisory on vaping
-
-To view HPB HSA advisory on vaping letter <a href = "/files/Communications/Resources%20for%20Parents/HPB%20HSA%20advisory%20on%20vaping.pdf">click here</a>
-
-#### Building Resilience in Children and Supporting Them Through Transitions
-
-MOE has developed the following resources to support parents on:
-
-*   build a supportive and caring home environment in supporting their children through transitions; and  
-    
-*   nurture the social and emotional skills that build up the resilience in their children
-
-<a href = "https://staging.dwna1etcg5x8g.amplifyapp.com/communications/resources-for-parents/">Read more</a>
+<h4>Building Resilience in Children and Supporting Them Through Transitions</h4><a href = "https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/children-support/">Read more</a>
 
 #### Cyber Wellness
 
