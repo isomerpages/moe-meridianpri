@@ -97,12 +97,13 @@ Parents could set a good example at home in the use of technology and play an ac
 **Setting Parental Controls on ICT Devices**<br>
 <p align = "justify">In this digital age, it is common to see technological devices in the hands of our children.  As parents, we know that technology has become an integral part of their everyday life; and we need to support our children in harnessing it meaningfully.
 
-<p align = "justify">Having regular conversations with our children about the importance of safe, healthy and balanced use and role-modelling it are ways in which we can help them develop self-regulation.  At times, we may not be by their side when they surf the Internet or play computer games.  To complement your current parenting practices, you can use parental controls and Internet filters to safeguard your children from inappropriate websites and help them navigate the digital world safely. Please see <a href = "https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/parental-controls">link</a> for setting up parental controls on common operating systems and web browsers.
+<p align = "justify">Having regular conversations with our children about the importance of safe, healthy and balanced use and role-modelling it are ways in which we can help them develop self-regulation.  At times, we may not be by their side when they surf the Internet or play computer games.  To complement your current parenting practices, you can use parental controls and Internet filters to safeguard your children from inappropriate websites and help them navigate the digital world safely.
 
 <p align = "justify">We hope that you can help to reinforce these CW messages at home.
 
 <p align = "justify">For enquiries on the school’s Cyber Wellness programme, please email:
 <ul>
   <li><a href="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng (Head of Department)</a></li>
+	<li><a href="mailto:lee_huan_leng@moe.edu.sg">Mrs Stephanie Lim (Subject Head/CCE)</a></li>
   <li><a href="mailto:foo_si_min@moe.edu.sg">Miss Tracy Foo Si Min</a></li>
 </ul>
