@@ -24,7 +24,7 @@ third_nav_title: Resources For Parents
 	<li>Group Personal Accident(GPA) Insurance for Student</li>
 	<li>Advisories:</li>
 		<ul class="square">  
-		<li>Sub of Second</li>  
+		<li>2022 Joint Advisory by the Singapore Force, Central Narcotics Bureau, National Crime Prevention Council and National Council Against Drug Abuse</li>  
 		<li>Another Sub</li>  
  </ul>
 </ul>
