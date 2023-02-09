@@ -30,12 +30,11 @@ Parents could set a good example at home in the use of technology and play an ac
 
 <p align = "justify">To support all parents, there is a range of CW resources Since March 2017, the CW team at Meridian also initiated monthly CW messages for parents in the form of useful articles and/or tips.</p>
 
-[]()
 
 <details>
   <summary>2022</summary>
 	<ul>
-		<li>Term 1 2022: Stay Safe Online Smart-ly <a href = "">(See Link)</a></li>
+		<li>Term 1 2022: Stay Safe Online Smart-ly <a href = "https://www.betterinternet.sg/-/media/Resources/PDFs/Cybersafety/Staying-Safe-Online_PDF-format.pdf" target = "_blank">(See Link)</a></li>
 		<li>Term 2 2022: Dr THINK and the 5 Golden Question! <a href = "/files/Communications/Resources%20for%20Parents/Cyber%20Wellness/2022/Term%202%20CW%20Msg.pdf" target = "_blank">(See Link)</a></li>
 		<li>Term 3 2022: Beware of Fake News <a href = "/files/Communications/Resources%20for%20Parents/Cyber%20Wellness/2022/Term%203%20CW%20Msg_Beware%20of%20Fake%20News_.pdf" target = "_blank">(See Link)</a></li>
 	</ul>
