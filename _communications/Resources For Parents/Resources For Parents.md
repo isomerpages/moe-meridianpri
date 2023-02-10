@@ -14,7 +14,7 @@ third_nav_title: Resources For Parents
 <p>2. Cyber Wellness <a href = "https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/cyber-wellness/">Read more</a></p>
 
 
-<p>3. A Collection of Tips and Resources <a href = "https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/a-collection-of-tips-and-resources/">Read more</a></hp>
+<p>3. A Collection of Tips and Resources <a href = "https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/a-collection-of-tips-and-resources/">Read more</a></p>
 
 
 <h5>Parents may also keen to read the following:</h5>
