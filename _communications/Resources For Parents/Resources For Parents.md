@@ -9,7 +9,7 @@ third_nav_title: Resources For Parents
 <p align = "justify">At Meridian, we regularly share resources for parents and guardians with education news, resources and tips.</p>
 
 
-<p>1. Building Resilience in Children and Supporting Them Through Transitions <a href = "https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/children-support/"> (Read more)</a><p>
+<p>1. Building Resilience in Children and Supporting Them Through Transitions <a href = "https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/children-support/"> Read more</a><p>
 
 <p>2. Cyber Wellness <a href = "https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/cyber-wellness/">Read more</a></p>
 
