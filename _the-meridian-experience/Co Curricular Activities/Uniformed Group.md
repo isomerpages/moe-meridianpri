@@ -36,5 +36,5 @@ For enquiries on the school’s Scouts CCA, please email:<br>
 <ul>
 <li><a href="mailto:lee_song_sang@moe.edu.sg ">Mdm Lee Song Sang</a></li>
 <li><a href="mailto:abdul_wahid_abdul_wahab@moe.edu.sg">Mr Abdul Wahid</a></li>
-<li><a href="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Lim Chia Chia</a></li>
+<li><a href="mailto:lim_chia_chia@moe.edu.sg">Mdm Lim Chia Chia</a></li>
 </ul>
