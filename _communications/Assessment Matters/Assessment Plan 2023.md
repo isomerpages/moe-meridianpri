@@ -24,7 +24,7 @@ third_nav_title: Assessment Matters
 
 <iframe allowfullscreen="true" height="649" width="860" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0Vds7SWw3yL_B0eOUQsnCR4KX_LkU4KyLKYj5hkgfNXwUn5KgzvVy5xvLtjarq338Nr2Mmch3XchP/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-<p style="text-align:center"><a target="_blank" href="/files/Communications/Assessment%20Plan/2023/2023%20P3%20Assessment%20Plan.pdf">Download Assessment Plan for Primary 3</a></p>
+<p style="text-align:center"><a href="/files/Communications/Assessment%20Plan/2023/2023%20P3%20Assessment%20Plan%20.pdf" target="_blank">Download Assessment Plan for Primary 3</a></p>
 
 <hr>
 
