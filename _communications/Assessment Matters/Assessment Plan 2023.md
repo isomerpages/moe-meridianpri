@@ -16,7 +16,7 @@ third_nav_title: Assessment Matters
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSkEq2PHOKvf1-7_KunyuF51T1ZhaGptz6jGBMLulm-1PZw_FS3KIbjMCqSA78ft9P69RfqVbccDmRA/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="649" allowfullscreen="true"></iframe>
 
-<p style="text-align:center"><a target="_blank" href="/files/Communications/Assessment%20Plan/2023/2023%20P2%20Assessment%20Plan.pdf">Download Assessment Plan for Primary 2</a></p>
+<p style="text-align:center"><a href="/files/Communications/Assessment%20Plan/2023/2023%20P2%20Assesment%20Plan.pdf" target="_blank">Download Assessment Plan for Primary 2</a></p>
 
 <hr>
 
