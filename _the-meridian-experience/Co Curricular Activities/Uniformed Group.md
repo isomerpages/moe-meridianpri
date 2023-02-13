@@ -31,3 +31,10 @@ third_nav_title: Co Curricular Activities
 </table>
 
 <iframe width="350" height="250" src="https://www.youtube.com/embed/1Eg-gxwyJgQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+For enquiries on the school’s Scouts CCA, please email:<br>
+<ul>
+<li><a href="mailto:lee_song_sang@moe.edu.sg ">Mdm Lee Song Sang</a></li>
+<li><a href="mailto:abdul_wahid_abdul_wahab@moe.edu.sg">Mr Abdul Wahid</a></li>
+<li><a href="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Lim Chia Chia</a></li>
+</ul>
