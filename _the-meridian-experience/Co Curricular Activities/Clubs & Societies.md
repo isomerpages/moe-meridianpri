@@ -115,26 +115,75 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
 
 **Art and Craft** _(For Boys and Girls)_
 
-<p align = "justify">Art Club members enjoy the variety of Art activities conducted during sessions. Students experiment with a variety of materials and explore the possibilities of conventional materials like Batik dye, watercolour and recyclable materials. Our Art Club members have enjoyed activities such as tie and dye, fashion design using recyclable materials and sculpting using wires and papier mache.</p>
+<p align = "justify">Art Club members enjoy the variety of Art activities conducted during sessions. Students experiment with a variety of materials and explore the possibilities of conventional materials like Batik dye, watercolour and recyclable materials.</p>
+
+<p align = "justify">Our Art Club members have enjoyed activities such as tie and dye, fashion design using recyclable materials and sculpting using wires and paper mache.</p>
 
 **Highlights**  
 
-<p align = "justify">Art Club collaborates with Pasir Ris NLB in a yearly event, hoping to reach out to the public to share simple Art-making activities and at the same time, helping to promote the Art books available for loan at the library. Apart from that, Art Club members also have the opportunity to take part in the bi-annual Singapore Youth Festival (SYF) Art Competition. Our school has clinched the Certificate of Recognition and a Certificate of Participation in the 2019 SYF for the two Art works we submitted.</p>
+<p align = "justify">Art Club collaborates with Pasir Ris NLB in a yearly event, hoping to reach out to the public to share simple Art-making activities and at the same time, helping to promote the Art books available for loan at the library. Apart from that, Art Club members also have the opportunity to take part in the bi-annual Singapore Youth Festival (SYF) Art Competition.</p>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/AC%201.jpg" style="width:450px;height:280px;float:center">
+<table style="width:100%">
+
+  <tr><b>Our SYF Team 2022</b>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC1.jpg" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC2.jpg" style="width:370px;height:220px;float:center"></td>
+  </tr>
+	<tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC3.jpg" style="width:370px;height:220px;float:center"></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC4.jpg" style="width:370px;height:220px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC5.jpg" style="width:370px;height:220px;float:center"></td>
+  </tr>
+</table>
+
+<table style="width:100%">
+<h5>Our Art Activities</h5>
+  <tr><b>Quliling</b>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC6.jpg" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC8.jpg" style="width:370px;height:220px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC7.jpg" style="width:370px;height:230px;float:center"></td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr><b>iPAD Art</b>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC9.jpg" style="width:370px;height:350px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC10.jpg" style="width:370px;height:350px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC11.jpg" style="width:350px;height:350px;float:center"></td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr><b>Art Using Recycled Materials</b>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC12.jpg" style="width:360px;height:350px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC13.jpg" style="width:360px;height:350px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC14.jpg" style="width:360px;height:380px;float:center"></td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr><b>Wire Sculpture</b>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC15.jpg" style="width:360px;height:350px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC16.jpg" style="width:360px;height:350px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC17.jpg" style="width:360px;height:380px;float:center"></td>
+  </tr>
+</table>
 
 <br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/AC%202.jpg" style="width:450px;height:280px;float:center">
-
-<br>
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/AC%203.png" style="width:250px;height:350px;float:center">
-
-![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/AC%204.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C7HWyVEl6hs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For enquiries on the school’s  Art Club CCA, please email:<br>
 * <a href="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah</a>
-* <a href="mailto:siti_saleha_salleh_a@moe.edu.sg">Mdm Siti Saleha Bte Salleh</a>
+* <a href="mailto:norhaida_kamaludin@moe.edu.sg">Ms Norhaida</a>
 *  <a href="mailto:muhammad_raziz_abdul_razak@moe.edu.sg">Mr Muhammad Raziz</a>
