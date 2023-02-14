@@ -151,11 +151,11 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
 
 <table style="width:100%">
   <tr><b>iPAD Art</b>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC9.jpg" style="width:370px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC10.jpg" style="width:370px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC9.jpg" style="width:370px;height:350px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC10.jpg" style="width:370px;height:350px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC11.jpg" style="width:370px;height:280px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC11.jpg" style="width:350px;height:350px;float:center"></td>
   </tr>
 </table>
 
