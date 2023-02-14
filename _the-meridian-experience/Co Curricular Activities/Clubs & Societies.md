@@ -115,11 +115,13 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
 
 **Art and Craft** _(For Boys and Girls)_
 
-<p align = "justify">Art Club members enjoy the variety of Art activities conducted during sessions. Students experiment with a variety of materials and explore the possibilities of conventional materials like Batik dye, watercolour and recyclable materials. Our Art Club members have enjoyed activities such as tie and dye, fashion design using recyclable materials and sculpting using wires and papier mache.</p>
+<p align = "justify">Art Club members enjoy the variety of Art activities conducted during sessions. Students experiment with a variety of materials and explore the possibilities of conventional materials like Batik dye, watercolour and recyclable materials.</p>
+
+<p align = "justify">Our Art Club members have enjoyed activities such as tie and dye, fashion design using recyclable materials and sculpting using wires and paper mache.</p>
 
 **Highlights**  
 
-<p align = "justify">Art Club collaborates with Pasir Ris NLB in a yearly event, hoping to reach out to the public to share simple Art-making activities and at the same time, helping to promote the Art books available for loan at the library. Apart from that, Art Club members also have the opportunity to take part in the bi-annual Singapore Youth Festival (SYF) Art Competition. Our school has clinched the Certificate of Recognition and a Certificate of Participation in the 2019 SYF for the two Art works we submitted.</p>
+<p align = "justify">Art Club collaborates with Pasir Ris NLB in a yearly event, hoping to reach out to the public to share simple Art-making activities and at the same time, helping to promote the Art books available for loan at the library. Apart from that, Art Club members also have the opportunity to take part in the bi-annual Singapore Youth Festival (SYF) Art Competition.</p>
 
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/AC%201.jpg" style="width:450px;height:280px;float:center">
 
