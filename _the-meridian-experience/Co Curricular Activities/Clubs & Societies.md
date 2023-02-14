@@ -185,5 +185,5 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
 
 For enquiries on the school’s  Art Club CCA, please email:<br>
 * <a href="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah</a>
-* <a href="mailto:siti_saleha_salleh_a@moe.edu.sg">Mdm Siti Saleha Bte Salleh</a>
+* <a href="mailto:norhaida_kamaludin@moe.edu.sg">Ms Norhaida</a>
 *  <a href="mailto:muhammad_raziz_abdul_razak@moe.edu.sg">Mr Muhammad Raziz</a>
