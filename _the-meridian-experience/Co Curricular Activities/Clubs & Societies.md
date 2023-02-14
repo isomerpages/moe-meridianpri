@@ -139,7 +139,7 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
 </table>
 
 <table style="width:100%">
-<h4>Our Art Activities</h4>
+<h5>Our Art Activities</h5>
   <tr><p>Quliling</p>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC1.jpg" style="width:370px;height:220px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC2.jpg" style="width:370px;height:220px;float:center"></td>
