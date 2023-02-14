@@ -145,7 +145,7 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC8.jpg" style="width:370px;height:220px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC7.jpg" style="width:370px;height:250px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC7.jpg" style="width:370px;height:230px;float:center"></td>
   </tr>
 </table>
 
