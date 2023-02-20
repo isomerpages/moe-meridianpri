@@ -61,7 +61,7 @@ description: ""
 			<td colspan="3" style="text-align:center" >Mathematics Curriculum Sharing cum Parents' Workshops<br><a href = "/files/Communications/CFD%202023/Math/Synopsis_Math_Updated.pdf" target="_blank">Workshop Synopsis</a><br><a href = "/files/Communications/CFD%202023/Math/2023/2023%20CFD%20P5P6%20MA%20Sharing.pdf">P5 and P6 Sharing</a></td>
 	</tr>
 	<tr>
-		<td colspan="6" style="text-align:center" >Mathematics Curriculum Sharing cum Parents' Workshops<br><a href ="/files/Communications/CFD%202023/Math/Synopsis_Math_Updated.pdf" target="_blank">Workshop Synopsis</a><br><a href = "">P1 and P2 Sharing</a></td>
+		<td colspan="6" style="text-align:center" >Mathematics Curriculum Sharing cum Parents' Workshops<br><a href ="/files/Communications/CFD%202023/Math/Synopsis_Math_Updated.pdf" target="_blank">Workshop Synopsis</a><br><a href = "">P1 and P2 Sharing</a><br><a href = "">P3 and P4 Sharing</a></td>
 		<td colspan="3" style="text-align:center" >English Languages Curriculum Sharing cum Parents' Workshops<br><a href ="/files/Communications/CFD%202023/EL/EL_Synopsis.pdf" target="_blank">Workshop Synopsis</a><br></td>
 	</tr>
 	<tr>
