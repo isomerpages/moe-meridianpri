@@ -70,7 +70,7 @@ description: ""
 	</tr>
 	<tr>
 		<td colspan="3" style="text-align:center;background-color:Black;" ></td>
-		<td colspan="5" style="text-align:center" >Sharing by School Leaders on Subject-Based Banding, PSLE Scoring and Direct school Admission <br><a href = "/files/Communications/CFD%202023/SLs/2023%20CFD%20SBB%20Briefing.pdf">Subject-Based Banding Sharing</a><br><a href = "">PSLE Scoring Sharing</a><br><b>End of Programme (1.30 p.m.)</b></td>
+		<td colspan="5" style="text-align:center" >Sharing by School Leaders on Subject-Based Banding, PSLE Scoring and Direct school Admission <br><a href = "/files/Communications/CFD%202023/SLs/2023%20CFD%20SBB%20Briefing.pdf">Subject-Based Banding Sharing</a><br><a href = "/files/Communications/CFD%202023/SLs/2023%20CFD%20Revised%20PSLE%20Scoring%20and%20Sec%201%20Posting%20Briefing.pdf">PSLE Scoring Sharing</a><br><b>End of Programme (1.30 p.m.)</b></td>
 	</tr>
 	<tr>
 		<td></td>
