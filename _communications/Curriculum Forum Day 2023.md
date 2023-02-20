@@ -36,7 +36,7 @@ description: ""
 	<tr>
   <td style="text-align:center;vertical-align: middle;background-color:#FFCCCB;">Chinese Language<br><a href = "/files/Communications/CFD%202023/MTL/CL/2023%20CFD%20P1P2%20CL%20Sharing.pdf">P1 and P2 Sharing</a></td>
   <td style="text-align:center;vertical-align: middle;background-color:#FFCCCB;">Malay Language<br><a href = "/files/Communications/CFD%202023/MTL/ML/2023_CFD_P1P2_ML_Sharing.pdf">P1 and P2 Sharing</a></td>
-  <td style="text-align:center;background-color:#FFCCCB;">Non-native learners of<br>Chinese/Malay Language for P1 and P2 Parents</td>
+  <td style="text-align:center;background-color:#FFCCCB;">Non-native learners of<br>Chinese/Malay Language for P1 and P2 Parents<br><a href = "/files/Communications/CFD%202023/2023%20CFD%20%20Helping%20Children%20Develop%20the%20Love%20for%20the%20Chinese_Malay%20Language%20Sharing.pdf">Non-native Sharing</a></td>
 		<td style="text-align:center;vertical-align: middle;background-color:#90EE90;">Chinese Language<br><a href = "/files/Communications/CFD%202023/MTL/CL/2023_CFD_P3P4_CL_Sharing.pdf">P3 and P4 Sharing</a></td>
 		<td style="text-align:center;vertical-align: middle;background-color:#90EE90;">Malay Language<br><a href = "/files/Communications/CFD%202023/MTL/ML/2023_CFD_P3P4_ML_Sharing.pdf" >P3 and P4 Sharing</a></td>
 		<td style="text-align:center;vertical-align: middle;background-color:#55BBFD;">Chinese Language<br><a href = "/files/Communications/CFD%202023/MTL/CL/2023_CFD_P5P6_CL_Sharing.pdf">P5 and P6 Sharing</a></td>
