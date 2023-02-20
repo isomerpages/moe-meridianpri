@@ -66,7 +66,7 @@ description: ""
 	</tr>
 	<tr>
 		<td colspan="3" style="text-align:center;background-color:Black;" ></td>
-		<td colspan="5" style="text-align:center" >Science Curriculum Sharing cum Parents' Workshops <br><a href ="/files/Communications/CFD%202023/Science/Science_Synopsis.pdf" target="_blank">Workshop Synopsis</a><br></td>
+		<td colspan="5" style="text-align:center" >Science Curriculum Sharing cum Parents' Workshops <br><a href ="/files/Communications/CFD%202023/Science/Science_Synopsis.pdf" target="_blank">Workshop Synopsis</a><br><a href = "">P3 and P4 Sharing</a></td>
 	</tr>
 	<tr>
 		<td colspan="3" style="text-align:center;background-color:Black;" ></td>
