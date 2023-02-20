@@ -70,7 +70,7 @@ description: ""
 	</tr>
 	<tr>
 		<td colspan="3" style="text-align:center;background-color:Black;" ></td>
-		<td colspan="5" style="text-align:center" >Sharing by School Leaders on Subject-Based Banding, PSLE Scoring and Direct school Admission <br><b>End of Programme (1.30 p.m.)</b></td>
+		<td colspan="5" style="text-align:center" >Sharing by School Leaders on Subject-Based Banding, PSLE Scoring and Direct school Admission <br><a href = "">Subject-Based Banding Sharing</a><br><b>End of Programme (1.30 p.m.)</b></td>
 	</tr>
 	<tr>
 		<td></td>
