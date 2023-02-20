@@ -34,7 +34,7 @@ description: ""
 		<td colspan="8" style="text-align:center" >Mother Tongue Languages Curriculum Sharing cum Parents' Workshops<br><a href = "/files/Communications/CFD%202023/MTL/Synopsis%20for%20MTL%20Workshop%20CFD%202023_Updated_31%20Jan%202023.pdf" target="_blank">Workshop Synopsis</a> <br>(Refreshment will be provided)</td>
 	</tr>
 	<tr>
-  <td style="text-align:center;vertical-align: middle;background-color:#FFCCCB;">Chinese Language</td>
+  <td style="text-align:center;vertical-align: middle;background-color:#FFCCCB;">Chinese Language<br><a href = "/files/Communications/CFD%202023/MTL/CL/2023%20CFD%20P1P2%20CL%20Sharing.pdf">P1 and P2 Sharing</a></td>
   <td style="text-align:center;vertical-align: middle;background-color:#FFCCCB;">Malay Language</td>
   <td style="text-align:center;background-color:#FFCCCB;">Non-native learners of<br>Chinese/Malay Language for P1 and P2 Parents</td>
 		<td style="text-align:center;vertical-align: middle;background-color:#90EE90;">Chinese Language</td>
