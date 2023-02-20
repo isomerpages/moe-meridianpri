@@ -35,7 +35,7 @@ description: ""
 	</tr>
 	<tr>
   <td style="text-align:center;vertical-align: middle;background-color:#FFCCCB;">Chinese Language<br><a href = "/files/Communications/CFD%202023/MTL/CL/2023%20CFD%20P1P2%20CL%20Sharing.pdf">P1 and P2 Sharing</a></td>
-  <td style="text-align:center;vertical-align: middle;background-color:#FFCCCB;">Malay Language</td>
+  <td style="text-align:center;vertical-align: middle;background-color:#FFCCCB;">Malay Language<br><a href = "/files/Communications/CFD%202023/MTL/ML/2023_CFD_P1P2_ML_Sharing.pdf">P1 and P2 Sharing</a></td>
   <td style="text-align:center;background-color:#FFCCCB;">Non-native learners of<br>Chinese/Malay Language for P1 and P2 Parents</td>
 		<td style="text-align:center;vertical-align: middle;background-color:#90EE90;">Chinese Language</td>
 		<td style="text-align:center;vertical-align: middle;background-color:#90EE90;">Malay Language</td>
