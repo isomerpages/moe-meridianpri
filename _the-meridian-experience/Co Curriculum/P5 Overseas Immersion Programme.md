@@ -11,6 +11,7 @@ In Meridian, our students are provided with the opportunity to take part in over
 <ol>
 	<li>Develop a heightened awareness of <b>environmental issues</b> and to reflect on other ways to <b>promote ideas through green habits</b>.</li>
 	<li>Meet <b>elementary school children from the other countries</b> and immerse in their <b>local school lifestyles</b> via virtual platforms.</li>
+	<li>Develop <b>global awareness</b> and <b>cross-cultural skills</b> and sensitivities through cultural programme.</li>
 </ol>
 
 <p align = "justify">As the programme is usually linked to the school’s focus on eco-environment, the trip will also develop in the students a heightened awareness of environmental issues and to reflect on the other ways to promote ideas through green habits.</p>
