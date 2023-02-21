@@ -32,8 +32,8 @@ In Meridian, our students are provided with the opportunity to take part in over
 <table style="width:100%">
 
   <tr>
-    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP1.png" style="width:380px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP2.png" style="width:380px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP1.png" style="width:380px;height:250px;float:center"><center>Interacting students from China</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP2.png" style="width:380px;height:250px;float:center"><center>Interacting students from Thailand</center></td>
   </tr>
   <tr>
 		 <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-5.jpg" style="width:380px;height:230px;float:center"></td>
