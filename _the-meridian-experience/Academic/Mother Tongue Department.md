@@ -22,7 +22,7 @@ The department aims to:
 
 #### Approach - The Meridian Experience
 
-
+<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL1.png" style="width:500px;height:300px;float:center">
 
 
 #### Key Programmes
