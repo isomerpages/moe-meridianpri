@@ -8,9 +8,9 @@ third_nav_title: Co Curriculum
 
 In Meridian, our students are provided with the opportunity to take part in overseas immersion programme.  The aims are to:
 
-*   develop in the students global awareness and cross-cultural skills and sensitivities; and  
-    
-*   provide opportunities for the students to meet their counterparts in an elementary school and be immersed in their school lifestyles.
+<ol>
+	<li>Develop a heightened awareness of <b>environmental issues</b> and to reflect on other ways to <b>promote ideas through green habits</b>.</li>
+</ol>
 
 <p align = "justify">As the programme is usually linked to the school’s focus on eco-environment, the trip will also develop in the students a heightened awareness of environmental issues and to reflect on the other ways to promote ideas through green habits.</p>
 
