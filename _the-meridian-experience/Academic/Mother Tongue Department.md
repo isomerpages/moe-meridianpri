@@ -20,20 +20,10 @@ The department aims to:
     
 *   develop a love for the language
 
-#### Approach
-We adopt the <u>REACH</u> approach to engage our learners:
+#### Approach - The Meridian Experience
 
-*   Rich resources and Relevant content  
-    
-*   Effective strategies for teaching and learning  
-    
-*   Authentic learning activities  
-    
-*   Culture and values  
-    
-*   Holistic assessment
 
-![](/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MTL-Framework.jpg)
+
 
 #### Key Programmes
 <p align = "justify">1.   Festive Learning Journeys and Celebrations<br>
