@@ -31,6 +31,7 @@ The department aims to:
  <ol>
 <li>Secret Garden - Mother Tongue Language Advantures</li>
 		<p align = "justify">To nurture the joy of learning and promote the use of the Mother Tongue Languages (MTL), Meridian Primary School has turned the MTL room into a magical hideaway – “The Secret Garden”. This provides students with authentic experiences in learning their Mother Tongue Languages, as they engage and explore in a stimulating environment. Students immerse in activities such as “Shopping Day”, “My Hobbies Day” and “Recruitment Day”. These activities excite students about learning while cultivating their interest and love for Chinese Language.</p>
+	<p align = "justify">The MTL Secret Garden is the school’s signature programme. It is also featured in 2022 The Mother Tongue Languages Symposium (MTLS). Do visit the website below to view the learning adventures of the students:</p>
 </ol>
 
 <p align = "justify">1.   Festive Learning Journeys and Celebrations<br>
