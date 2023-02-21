@@ -39,15 +39,11 @@ The department aims to:
 	<li> Mother Tongue Language (MTL) Fortnight</li>
 		<p align = "justify">MTL Fortnight is conducted on a yearly basis to with the objective of providing students with different platforms to learn and gain better understanding and appreciation of our diverse cultural background and develop a love for the language.</p>
 	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL4.png" style="width:650px;height:320px;float:center"><br>
+	<li>Reading Programme</li>
+	<p align = "justify">Reading is important to enhance language skill.  We carry out a series of reading activities to encourage and cultivate the passion and habit of reading storybooks in our students.</p>
+	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL5.png" style="width:550px;height:390px;float:center"><br>
 </ol>
 
-
-
-<p align = "justify">3.    Reading Programme<br>
-Reading is important to enhance language skill.  We carry out a series of reading activities to encourage and cultivate the passion and habit of reading storybooks in our students.</p>
-
-<p align = "justify">4.   Conversational Chinese-Malay (CCM)<br>
-The Conversational Chinese-Malay programme (CCM) is introduced as an enrichment programme for non-Chinese and non-Malay students who are interested in learning Chinese or Malay language and culture. Communication through languages enhances social interaction. Learning Conversational Chinese-Malay would provide these students with the facility to communicate with native speakers, and to better understand and appreciate Chinese and Malay culture and values. It will also help students to enhance their rapport with their Chinese and Malay-speaking friends.  The CCM programme is non-examinable.</p>
 
 #### Highlights
 <img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT4.jpg" style="width: 70.5%; height: 50%"/>
