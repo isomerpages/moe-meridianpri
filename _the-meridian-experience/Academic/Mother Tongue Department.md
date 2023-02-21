@@ -39,7 +39,7 @@ The department aims to:
 	<b><li> Mother Tongue Language (MTL) Fortnight</li></b>
 		<p align = "justify">MTL Fortnight is conducted on a yearly basis to with the objective of providing students with different platforms to learn and gain better understanding and appreciation of our diverse cultural background and develop a love for the language.</p>
 	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL4.png" style="width:650px;height:320px;float:center"><br>
-	<li>Reading Programme</li>
+	<b><li>Reading Programme</li></b>
 	<p align = "justify">Reading is important to enhance language skill.  We carry out a series of reading activities to encourage and cultivate the passion and habit of reading storybooks in our students.</p>
 	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL5.png" style="width:550px;height:390px;float:center"><br>
 </ol>
