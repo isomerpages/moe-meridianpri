@@ -28,6 +28,11 @@ The department aims to:
 
 
 #### Key Programmes
+ <ol>
+<li>Secret Garden - Mother Tongue Language Advantures</li>
+		<p align = "justify">To nurture the joy of learning and promote the use of the Mother Tongue Languages (MTL), Meridian Primary School has turned the MTL room into a magical hideaway – “The Secret Garden”. This provides students with authentic experiences in learning their Mother Tongue Languages, as they engage and explore in a stimulating environment. Students immerse in activities such as “Shopping Day”, “My Hobbies Day” and “Recruitment Day”. These activities excite students about learning while cultivating their interest and love for Chinese Language.</p>
+</ol>
+
 <p align = "justify">1.   Festive Learning Journeys and Celebrations<br>
 In line with our School Motto of “To learn, To Love, To lead”, Festive celebration in Meridian is an event where students are actively involved in the planning and implementation. Learning Journey are carefully planned so that students can learn and appreciate about the culture of others; while CCE and Language student leaders are given the opportunity to enhance their leadership and language skills by taking the lead in the Learning Journey.  Platforms are also created for P4 to P6 students to take the lead in planning for actual day celebration and conducting the activities they plan with different levels.</p>
 
