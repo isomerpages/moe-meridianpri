@@ -16,4 +16,15 @@ In Meridian, our students are provided with the opportunity to take part in over
 
 <h5>2022's Virtual Overseas Trip</h5>
 
-<p align = "justify"></p>
+<p align = "justify">In 2022, due to the COVID situation then, Meridian Primary organised a 3 Day Virtual Overseas Immersion Trip to China and Thailand in May.  The 3 Day trip provided students with several learning opportunities which include:</p>
+
+<ul>
+	<li> Understanding more about China and Thailand</li>
+	<li> A virtual school exchange with students at JiangSu Primary School in China and Montfort ChiangMai School;</li>
+	<li>Live-streaming @Wetland (Red Crowned Crane) to understand more about conservation of endangered animals</li>
+	<li>Live-streaming @ Elephant Sanctuary in Chiang Mai to learn why and how the elephants are being protected.</li>
+	<li>Hands on Art and Crafts on paper cutting to appreciate local Chinese culture; and Umbrella painting to learn how environmentally friendly products are made in Chiang Mai;</li>
+	<li>Virtual Visits to Places of Interest in China and Thailand such as Great Wall of China, Tiananmen Square, West Lake, Yue Fei Temple, Chedi Luang Temple, Three-King Monument, Square at Tha Pae Gate, Doi Suthep and Doi Inthanon;</li>
+	<li>Food tasting of local cuisine from Thailand and China</li>
+	<li>Collaboration with peers to research and present about locally endangered animals</li>
+</ul>
