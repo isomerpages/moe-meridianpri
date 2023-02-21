@@ -44,27 +44,5 @@ The department aims to:
 	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL5.png" style="width:550px;height:390px;float:center"><br>
 </ol>
 
-
-#### Highlights
-<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT4.jpg" style="width: 70.5%; height: 50%"/>
-<p align = "center">MTL Fortnight language games supported by the PSG</p>
-
-<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT1-720x405.jpg" style="width: 70.5%; height: 50%"/>
-<p align = "center">Appreciation of Tea culture</p>
-
-<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT3.jpg" style="width: 70.5%; height: 50%"/>
-<p align = "center">Enjoying Indian cuisine for LJ to Little India</p>
-
-<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT5-720x540.jpg" style="width: 70.5%; height: 50%"/>
-<p align = "center">Story telling session by our Parent Volunteers</p>
-
-<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT2.jpg" style="width: 70.5%; height: 50%"/>
-<p align = "center">At a Learning Journey</p>
-
-<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT_CPES-1.jpg" style="width: 70.5%; height: 50%"/>
-
-<p align = "center">Students attending “Wizard of Oz” musical at the Singapore Chinese Cultural Centre. The educational play explores key themes of friendship, courage, love and teamwork, and inspires them to pursue 
-their dreams with perseverance</p>
-
 <p>For enquiries on the school’s Mother Tongue Department, please email:</p>
 <a href="mailto:anna_lim_lin_lin@moe.edu.sg">Mdm Anna Lim (Head of Department)</a>
