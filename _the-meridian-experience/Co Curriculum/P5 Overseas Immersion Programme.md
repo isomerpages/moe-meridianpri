@@ -43,8 +43,8 @@ In Meridian, our students are provided with the opportunity to take part in over
     <td colspan="2"><center>DIY Arts and Craft</center></td>
   </tr>
 	<tr>
-		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2023/chinese_dance1.jpg" style="width:380px;height:230px;float:center"></td>
-		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2023/chinese_dance2.jpg" style="width:380px;height:230px;float:center"></td>
+		<td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP5.png" style="width:380px;height:230px;float:center"></td>
+		<td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP6.png" style="width:380px;height:230px;float:center"></td>
   </tr>
 	<tr>
     <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-4.jpg" style="width:490px;height:330px;float:center"></td>
