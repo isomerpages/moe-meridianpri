@@ -32,11 +32,11 @@ The department aims to:
 <li>Secret Garden - Mother Tongue Language Advantures</li>
 		<p align = "justify">To nurture the joy of learning and promote the use of the Mother Tongue Languages (MTL), Meridian Primary School has turned the MTL room into a magical hideaway – “The Secret Garden”. This provides students with authentic experiences in learning their Mother Tongue Languages, as they engage and explore in a stimulating environment. Students immerse in activities such as “Shopping Day”, “My Hobbies Day” and “Recruitment Day”. These activities excite students about learning while cultivating their interest and love for Chinese Language.</p>
 	<p align = "justify">The MTL Secret Garden is the school’s signature programme. It is also featured in 2022 The Mother Tongue Languages Symposium (MTLS). Do visit the website below to view the learning adventures of the students:<br><a href = "https://www.mtls.edu.sg/meridian-pri-exhibition">https://www.mtls.edu.sg/meridian-pri-exhibition</a></p>
-	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL2.jpg" style="width:450px;height:330px;float:center">
+	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL2.jpg" style="width:450px;height:330px;float:center"><br>
+	<li> Festive Celebrations</li>
+		<p align = "justify"> In line with our School Motto of “To learn, To Love, To lead”, Festive celebration in Meridian is an event where students are actively involved in the planning and implementation. Platforms are also created for P4 to P6 students to take the lead in planning for actual day celebration and conducting the activities they plan with different levels.</p>
+	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL3.png" style="width:550px;height:330px;float:center"><br>
 </ol>
-
-<p align = "justify">1.   Festive Learning Journeys and Celebrations<br>
-In line with our School Motto of “To learn, To Love, To lead”, Festive celebration in Meridian is an event where students are actively involved in the planning and implementation. Learning Journey are carefully planned so that students can learn and appreciate about the culture of others; while CCE and Language student leaders are given the opportunity to enhance their leadership and language skills by taking the lead in the Learning Journey.  Platforms are also created for P4 to P6 students to take the lead in planning for actual day celebration and conducting the activities they plan with different levels.</p>
 
 <p align = "justify">2.   Mother Tongue Language (MTL) Fortnight<br>
 MTL Fortnight is conducted on a yearly basis to with the objective of providing students’ with different platforms to learn and gain better understanding and appreciation of our diverse cultural background and develop a love for the language.</p>
