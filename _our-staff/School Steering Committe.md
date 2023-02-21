@@ -14,16 +14,16 @@ description: ""
   <tr>
   </tr>
   <tr>
-    <td><a href="mailto:liza_rahmat@moe.edu.sg">Ms Liza Rahmat</a></td>
+    <td><a href="mailto:meridian_ps@moe.edu.sg">Ms Liza Rahmat</a></td>
     <td>Principal</td>
     
   </tr>
   <tr>
-    <td><a href="mailto:LIM_Kim_Min@moe.edu.sg">Mr Lim Kim Min</a></td>
+    <td><a href="mailto:meridian_ps@moe.edu.sg">Mr Lim Kim Min</a></td>
     <td>Vice Principal</td>
   </tr>
 	<tr>
-    <td><a href="mailto:david_wang@moe.edu.sg">Mr David Wang</a></td>
+    <td><a href="mailto:meridian_ps@moe.edu.sg">Mr David Wang</a></td>
     <td>Vice Principal (Admin)</td>
 		
   </tr>

@@ -8,30 +8,58 @@ third_nav_title: Co Curriculum
 
 In Meridian, our students are provided with the opportunity to take part in overseas immersion programme.  The aims are to:
 
-*   develop in the students global awareness and cross-cultural skills and sensitivities; and  
-    
-*   provide opportunities for the students to meet their counterparts in an elementary school and be immersed in their school lifestyles.
+<ol>
+	<li>Develop a heightened awareness of <b>environmental issues</b> and to reflect on other ways to <b>promote ideas through green habits</b>.</li>
+	<li>Meet <b>elementary school children from the other countries</b> and immerse in their <b>local school lifestyles</b> via virtual platforms.</li>
+	<li>Develop <b>global awareness</b> and <b>cross-cultural skills</b> and sensitivities through cultural programme.</li>
+</ol>
 
-<p align = "justify">As the programme is usually linked to the school’s focus on eco-environment, the trip will also develop in the students a heightened awareness of environmental issues and to reflect on the other ways to promote ideas through green habits.</p>
+<h5>2022's Virtual Overseas Trip</h5>
 
-#### 2017's Trip
+<p align = "justify">In 2022, due to the COVID situation then, Meridian Primary organised a 3 Day Virtual Overseas Immersion Trip to China and Thailand in May.  The 3 Day trip provided students with several learning opportunities which include:</p>
 
-In 2017, a group of students accompanied by teachers and a School Leader travelled to Taiwan in May.  The 4 Day-3 Night trip provided the students with several learning opportunities which include:
+<ul>
+	<li> Understanding more about China and Thailand</li>
+	<li> A virtual school exchange with students at JiangSu Primary School in China and Montfort ChiangMai School;</li>
+	<li>Live-streaming @Wetland (Red Crowned Crane) to understand more about conservation of endangered animals</li>
+	<li>Live-streaming @ Elephant Sanctuary in Chiang Mai to learn why and how the elephants are being protected.</li>
+	<li>Hands on Art and Crafts on paper cutting to appreciate local Chinese culture; and Umbrella painting to learn how environmentally friendly products are made in Chiang Mai;</li>
+	<li>Virtual Visits to Places of Interest in China and Thailand such as Great Wall of China, Tiananmen Square, West Lake, Yue Fei Temple, Chedi Luang Temple, Three-King Monument, Square at Tha Pae Gate, Doi Suthep and Doi Inthanon;</li>
+	<li>Food tasting of local cuisine from Thailand and China</li>
+	<li>Collaboration with peers to research and present about locally endangered animals</li>
+</ul>
 
-*   A formal visit and interaction with students at Sanhe Elementary School in the Jinshan District;  
-*   Visits to Danshui Old Streets, Hong Mao Castle and Taipei 101; 
-*   An exciting farm experience at Toucheng Leisure Farm in Yilan; 
-*   Visits to Yangmingshan National Park and Nei Hu Tzu Chi Recycling Centre; and  
-*   Xi Meng Ding and Pineapple Tarts-making in Taipei.
+<table style="width:100%">
 
-![](/images/The%20Meridian%20Experience/P5%20Overseas/overseas-immersion-Taiwan-2017-1.jpg)
-
-![](/images/The%20Meridian%20Experience/P5%20Overseas/overseas-immersion-Taiwan-2017-2.jpg)
-
-#### Student Reflections
-
-“I have learned to appreciate other culture, their food and practices” – _Myra_
-
-“The trip provided us a good opportunity to learn to take good care of each other.  We also worked as a team throughout the trip!” – _Jack Kent_
-
-“Despite that many of us have different habits, we learned to to adapt to each other.” – _Charlotte_
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP1.png" style="width:380px;height:250px;float:center"><center>Interacting students from China</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP2.png" style="width:380px;height:250px;float:center"><center>Interacting students from Thailand</center></td>
+  </tr>
+  <tr>
+		 <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP3.jpg" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP4.jpg" style="width:380px;height:230px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><center>DIY Arts and Craft</center></td>
+  </tr>
+	<tr>
+		<td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP5.png" style="width:380px;height:230px;float:center"></td>
+		<td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP6.png" style="width:380px;height:230px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><center>Live-streaming @ Wetland (Red Crown Crane)</center></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP7.png" style="width:380px;height:230px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><center>Live streaming @ Elephant Sanctuary</center></td>
+  </tr>
+	<tr>
+		<td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP8.jpg" style="width:380px;height:230px;float:center"></td>
+		<td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP9.jpg" style="width:380px;height:230px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><center>Research and sharing about locally endangered animals</center></td>
+  </tr>
+</table>

@@ -20,54 +20,29 @@ The department aims to:
     
 *   develop a love for the language
 
-#### Approach
-We adopt the <u>REACH</u> approach to engage our learners:
+#### Approach - The Meridian Experience
 
-*   Rich resources and Relevant content  
-    
-*   Effective strategies for teaching and learning  
-    
-*   Authentic learning activities  
-    
-*   Culture and values  
-    
-*   Holistic assessment
+<p align = "justify">To achieve the purpose and objective of learning MTLs, the MTL department designed a variety of Learning Experiences to build confidence and foster joy of learning MTL.</p>
 
-![](/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MTL-Framework.jpg)
+<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL1.png" style="width:500px;height:300px;float:center">
+
 
 #### Key Programmes
-<p align = "justify">1.   Festive Learning Journeys and Celebrations<br>
-In line with our School Motto of “To learn, To Love, To lead”, Festive celebration in Meridian is an event where students are actively involved in the planning and implementation. Learning Journey are carefully planned so that students can learn and appreciate about the culture of others; while CCE and Language student leaders are given the opportunity to enhance their leadership and language skills by taking the lead in the Learning Journey.  Platforms are also created for P4 to P6 students to take the lead in planning for actual day celebration and conducting the activities they plan with different levels.</p>
-
-<p align = "justify">2.   Mother Tongue Language (MTL) Fortnight<br>
-MTL Fortnight is conducted on a yearly basis to with the objective of providing students’ with different platforms to learn and gain better understanding and appreciation of our diverse cultural background and develop a love for the language.</p>
-
-<p align = "justify">3.    Reading Programme<br>
-Reading is important to enhance language skill.  We carry out a series of reading activities to encourage and cultivate the passion and habit of reading storybooks in our students.</p>
-
-<p align = "justify">4.   Conversational Chinese-Malay (CCM)<br>
-The Conversational Chinese-Malay programme (CCM) is introduced as an enrichment programme for non-Chinese and non-Malay students who are interested in learning Chinese or Malay language and culture. Communication through languages enhances social interaction. Learning Conversational Chinese-Malay would provide these students with the facility to communicate with native speakers, and to better understand and appreciate Chinese and Malay culture and values. It will also help students to enhance their rapport with their Chinese and Malay-speaking friends.  The CCM programme is non-examinable.</p>
-
-#### Highlights
-<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT4.jpg" style="width: 70.5%; height: 50%"/>
-<p align = "center">MTL Fortnight language games supported by the PSG</p>
-
-<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT1-720x405.jpg" style="width: 70.5%; height: 50%"/>
-<p align = "center">Appreciation of Tea culture</p>
-
-<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT3.jpg" style="width: 70.5%; height: 50%"/>
-<p align = "center">Enjoying Indian cuisine for LJ to Little India</p>
-
-<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT5-720x540.jpg" style="width: 70.5%; height: 50%"/>
-<p align = "center">Story telling session by our Parent Volunteers</p>
-
-<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT2.jpg" style="width: 70.5%; height: 50%"/>
-<p align = "center">At a Learning Journey</p>
-
-<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/MT_CPES-1.jpg" style="width: 70.5%; height: 50%"/>
-
-<p align = "center">Students attending “Wizard of Oz” musical at the Singapore Chinese Cultural Centre. The educational play explores key themes of friendship, courage, love and teamwork, and inspires them to pursue 
-their dreams with perseverance</p>
+ <ol>
+<b><li>Secret Garden - Mother Tongue Language Advantures</li></b>
+		<p align = "justify">To nurture the joy of learning and promote the use of the Mother Tongue Languages (MTL), Meridian Primary School has turned the MTL room into a magical hideaway – “The Secret Garden”. This provides students with authentic experiences in learning their Mother Tongue Languages, as they engage and explore in a stimulating environment. Students immerse in activities such as “Shopping Day”, “My Hobbies Day” and “Recruitment Day”. These activities excite students about learning while cultivating their interest and love for Chinese Language.</p>
+	<p align = "justify">The MTL Secret Garden is the school’s signature programme. It is also featured in 2022 The Mother Tongue Languages Symposium (MTLS). Do visit the website below to view the learning adventures of the students:<br><a href = "https://www.mtls.edu.sg/meridian-pri-exhibition">https://www.mtls.edu.sg/meridian-pri-exhibition</a></p>
+	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL2.jpg" style="width:450px;height:330px;float:center"><br>
+	<b><li> Festive Celebrations</li></b>
+		<p align = "justify"> In line with our School Motto of “To learn, To Love, To lead”, Festive celebration in Meridian is an event where students are actively involved in the planning and implementation. Platforms are also created for P4 to P6 students to take the lead in planning for actual day celebration and conducting the activities they plan with different levels.</p>
+	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL3.png" style="width:550px;height:330px;float:center"><br>
+	<b><li> Mother Tongue Language (MTL) Fortnight</li></b>
+		<p align = "justify">MTL Fortnight is conducted on a yearly basis to with the objective of providing students with different platforms to learn and gain better understanding and appreciation of our diverse cultural background and develop a love for the language.</p>
+	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL4.png" style="width:650px;height:320px;float:center"><br>
+	<b><li>Reading Programme</li></b>
+	<p align = "justify">Reading is important to enhance language skill.  We carry out a series of reading activities to encourage and cultivate the passion and habit of reading storybooks in our students.</p>
+	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL5.png" style="width:550px;height:390px;float:center"><br>
+</ol>
 
 <p>For enquiries on the school’s Mother Tongue Department, please email:</p>
 <a href="mailto:anna_lim_lin_lin@moe.edu.sg">Mdm Anna Lim (Head of Department)</a>
