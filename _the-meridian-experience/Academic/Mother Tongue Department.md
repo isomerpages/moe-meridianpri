@@ -22,6 +22,8 @@ The department aims to:
 
 #### Approach - The Meridian Experience
 
+<p align = "justify">To achieve the purpose and objective of learning MTLs, the MTL department designed a variety of Learning Experiences to build confidence and foster joy of learning MTL.</p>
+
 <img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL1.png" style="width:500px;height:300px;float:center">
 
 
