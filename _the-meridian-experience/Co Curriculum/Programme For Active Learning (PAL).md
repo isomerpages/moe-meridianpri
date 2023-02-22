@@ -75,6 +75,33 @@ third_nav_title: Co Curriculum
 	</tr>
 </table>
 
+<b>Primary 2</b>
+<table style="width:100%">
+	<tr>
+    <td colspan="3"><p><b>Learning Outcomes (LOs) for PAL (2022)</b></p></td>
+  </tr>
+	<tr>
+		<td><b>Developmental Milestones</b></td>
+		<td><b>Knowledge LO</b></td>
+		<td><b>Skills LO</b></td>
+	</tr>
+	<tr>
+		<td>Work in a respectful manner with others</td>
+		<td>Working together<br>
+			<ul><li>Understand the importance of working together</li>
+			<li>Know that people have different ideas and there can be disagreements in working together</li>
+			</ul></td>
+			<td>
+				Self-motivation
+			<ul><li>Demonstrate enthusiasm to learn new things</li></ul>
+				Positivity
+			<ul><li>Express thanks to the people around oneself</li></ul>
+				Self-reflection
+			<ul><li>Reflect on the experiences and people who help us learn and grow</li></ul>
+		</td>
+	</tr>
+</table>
+
 
 #### What are the characteristics of PAL modules?
 
