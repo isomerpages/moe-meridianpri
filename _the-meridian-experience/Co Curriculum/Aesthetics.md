@@ -27,17 +27,14 @@ third_nav_title: Co Curriculum
 *   To develop pupils’ awareness and appreciation of music
 
 #### Key Programmes
-*   Modular Music Programmes (Keyboard, Ukulele, Guitar)  
-    
-*   iPad projects (Using iPad applications to create Music)  
-    
-*   P1-P4 Music Creations Project  
-    
-*   Music Express (Platform for students with music talents to perform on stage)  
-    
-*   Meridian’s Got Talent  
-    
-*   P1-P4 Music Days
+
+<ul>
+	<li>Modular Music Programmes (Keyboard, Ukulele, Guitar)</li>
+	<li>iPad projects (Using iPad applications to learn and create Music)</li>
+	<li>PAM Express (Platform for students with music talents to perform on stage)</li>
+	<li>Meridian’s Got Talent</li>
+	<li>P1-P4 Music Days</li>
+</ul>
 
 ![](/images/The%20Meridian%20Experience/Aesthetics/aesthetics-Music-Express-2017-720x407.jpg)
 <p align = "center">P6 pupils playing different drum rhythmic patterns during the performance</p>
