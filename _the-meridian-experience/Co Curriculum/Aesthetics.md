@@ -170,6 +170,17 @@ P3 and P4 Music Day is a platform for our students to make music together as a w
 </table>
 
 
+<table style="width:100%">
+
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A19.jpg" style="width:340px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A20.jpg" style="width:340px;height:220px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A21.jpg" style="width:340px;height:220px;float:center"></td>
+  </tr>
+</table>
+
 
 <p>For enquiries on the school’s Aesthetics, please email:</p>
 <a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mrs Sharon Tng (Head of Department)</a>
