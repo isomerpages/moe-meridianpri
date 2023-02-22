@@ -160,3 +160,13 @@ PAL lessons are conducted on Fridays for 2 hours.  The schedule is as follow:
 <p align = "justify">Students will be engaged in reflection at the end of every PAL lesson. This allows them to see their growth, strength, proud moments, and areas to improve on. At the end of each term, PAL teachers will identify students who best display our school values (i.e. Respect, Responsibility, Resilience, Care, Teamwork, Integrity) and present to them the Awecome cards which are uniquely designed by our school to recognize their positive behaviors.</p>
 
 #### PAL in Action
+
+<table style="width:100%">
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL1.png" style="width:380px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL2.jpg" style="width:380px;height:250px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><center>P1 PAL Performing Arts</center></td>
+  </tr>
+</table>
