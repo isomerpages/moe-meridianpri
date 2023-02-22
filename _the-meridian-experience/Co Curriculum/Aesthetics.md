@@ -67,6 +67,12 @@ third_nav_title: Co Curriculum
   </tr>
 </table>
 
+<table style="width:100%">
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A7.jpg" style="width:490px;height:330px;float:center"><p align = "justify">We infuse technology in the learning of music. Our students use iPads to create and perform music. Music applications we use with the students include; Music Sparkles, Garage Band, and iGuzheng.</p></td>
+  </tr>
+</table>
+
 
 #### Visual Art
 <p>Every child an active learner of Art</p>
