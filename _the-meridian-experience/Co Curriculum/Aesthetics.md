@@ -45,9 +45,8 @@ third_nav_title: Co Curriculum
     <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A2.jpg" style="width:400px;height:220px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A2.jpg" style="width:490px;height:330px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A3.jpg" style="width:490px;height:330px;float:center"><center>Every student in Meridian has an opportunity to play classroom instruments such as the xylophones, metallophones, resonator bells, and percussion instruments. Playing musical instruments develop important skills such as listening and coordination. By participating in music-making activities, Meridians learn the importance of rhythmic and pitch accuracy in music. Our students are always eager to play instruments.</center></td>
   </tr>
- 
 </table>
 
 
