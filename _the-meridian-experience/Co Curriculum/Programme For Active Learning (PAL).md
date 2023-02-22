@@ -143,16 +143,16 @@ PAL lessons are conducted on Fridays for 2 hours.  The schedule is as follow:
   <tr>
     <td>P1</td>
     <td>Performing Arts</td>
-    <td>Outdoor-Education</td>
-		<td>Sports & Games</td>
-		<td>Visual Arts</td>
+    <td>Visual Arts</td>
+		<td>Sports and Games</td>
+		<td>Outdoors-Education</td>
   </tr>
 	 <tr>
     <td>P2</td>
 		 <td>Visual Arts</td>
-		 <td>Sports & Games</td>
-		 <td>Outdoor-Education</td>
 		 <td>Performing Arts</td>
+		 <td>Sports and Games</td>
+		 <td>Outdoor-Education</td>
   </tr>
 </table>
 
