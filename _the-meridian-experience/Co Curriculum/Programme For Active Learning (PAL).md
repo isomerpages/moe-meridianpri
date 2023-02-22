@@ -19,6 +19,14 @@ third_nav_title: Co Curriculum
 	<tr>
     <td colspan="2"><p><b>Objectives for Social-Emotional Learning in accordance to 21st CCE framework</b></p></td>
   </tr>
+	<tr>
+		<td>Self-Awareness:</td>
+		<td>Identifying and recognising emotions and needs; self-efficacy ; appreciate diversity</td>
+	</tr>
+	<tr>
+		<td>Self-Awareness:</td>
+		<td>Identifying and recognising emotions and needs; self-efficacy ; appreciate diversity</td>
+	</tr>
 </table>
 
 
