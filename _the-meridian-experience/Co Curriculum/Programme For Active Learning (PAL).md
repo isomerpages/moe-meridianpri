@@ -69,13 +69,8 @@ third_nav_title: Co Curriculum
 		<td>Working Together<ul><li>Recognise that everyone has something to contribute</li></ul>
 		<ul><li>Understand the importance of working together</li></ul>
 		</td>
-			<td>
-				Self-motivation
-			<ul><li>Demonstrate enthusiasm to learn new things</li></ul>
-				Positivity
-			<ul><li>Express thanks to the people around oneself</li></ul>
-				Self-reflection
-			<ul><li>Reflect on the experiences and people who help us learn and grow</li></ul>
+			<td>Interpersonal communication
+			<ul><li>Work cooperatively with others on a common task or for a common goal</li></ul>
 		</td>
 	</tr>
 </table>
