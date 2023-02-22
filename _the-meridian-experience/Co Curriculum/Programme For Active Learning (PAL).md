@@ -187,4 +187,7 @@ PAL lessons are conducted on Fridays for 2 hours.  The schedule is as follow:
     <td><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL8.jpg" style="width:380px;height:450px;float:center"><center>P2 PAL Visual Arts</center></td>
     <td><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL9.jpg" style="width:380px;height:450px;float:center"><center>P1 Sports and Games</center></td>
   </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL10.jpg" style="width:380px;height:250px;float:center"><center>P2 Sports and Games</center></td>
+  </tr>
 </table>
