@@ -13,11 +13,14 @@ third_nav_title: Co Curriculum
 <p align = "justify">At Meridian, PAL is offered to all P1 and P2 students. It consists of modules of activities in two broad areas: <b>Sports & Games</b> and <b>Outdoor Education</b>, and <b>Performing Arts</b> and <b>Visual Arts</b>.  Lessons are carried out within the curriculum time on every Friday morning.</p>
 
 #### What is the purpose/rationale of PAL?
-<p align = "justify">To encourage learning beyond the classroom, Programme for Active Learning (PAL) gives your child the chance to discover new interests, learn new skills and develop his character. Your child will have the opportunity during curriculum time to try out activities in sports and outdoor education, as well as in the performing and visual arts.</p>
+<p align = "justify">From 2022, PAL should be planned and enacted intentionally as one of the CCE lessons along with CCE (FTGP) and CCE (MTL) during curriculum time. At Meridian, PAL lessons are carefully curated to achieve the following knowledge and skills that have been specifically identified for PAL at primary 1 and 2 respectively:</p>
 
-<p align = "justify">PAL aims to raise primary education to a new level, focusing more on engaged learning and teaching the whole child via a strong teacher and pupil relationship, and equipping our young with the necessary skills and values to thrive in a fast-changing and globalised future.</p>
+<table style="width:100%">
+	<tr>
+    <td colspan="2"><p><b>Objectives for Social-Emotional Learning in accordance to 21st CCE framework</b></p></td>
+  </tr>
+</table>
 
-<p align = "justify">At Meridian, PAL is offered to all P1 and P2 students. It consists of modules of activities in two broad areas: <b>Sports & Games</b> and <b>Outdoor Education</b>, and <b>Performing Arts</b> and <b>Visual Arts</b>.  They are carried out within the curriculum time on every Friday simultaneous when the P3 to P6 pupils participate in the various Co-curricular Activities.</p>
 
 #### What are the characteristics of PAL modules?
 
