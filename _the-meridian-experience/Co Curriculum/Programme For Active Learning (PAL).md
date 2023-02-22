@@ -27,6 +27,10 @@ third_nav_title: Co Curriculum
 		<td>Self-Management:</td>
 		<td>Self-discipline and self-motivation</td>
 	</tr>
+	<tr>
+		<td>Social Awareness: </td>
+		<td>Perspective taking, respect for others</td>
+	</tr>
 </table>
 
 
