@@ -21,7 +21,7 @@ third_nav_title: Co Curriculum
   </tr>
 	<tr>
 		<td>Self-Awareness:</td>
-		<td>Identifying and recognising emotions and needs; self-efficacy ; appreciate diversity</td>
+		<td>Identifying and recognising emotions and needs; <br>self-efficacy ; appreciate diversity</td>
 	</tr>
 	<tr>
 		<td>Self-Management:</td>
@@ -33,7 +33,11 @@ third_nav_title: Co Curriculum
 	</tr>
 	<tr>
 		<td>Relationship Management: </td>
-		<td>Working cooperatively, communication, social engagement and relationship building</td>
+		<td>Working cooperatively, communication, <br>social engagement and relationship building</td>
+	</tr>
+	<tr>
+		<td>Responsible Decision-Making: </td>
+		<td>Personal responsibility</td>
 	</tr>
 </table>
 
