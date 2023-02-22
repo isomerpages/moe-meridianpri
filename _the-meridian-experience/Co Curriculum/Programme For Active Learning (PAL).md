@@ -172,19 +172,8 @@ PAL lessons are conducted on Fridays for 2 hours.  The schedule is as follow:
 </table>
 
 <table style="width:100%">
-	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL3.jpg" style="width:380px;height:260px;float:center"><center>P1 PAL Performing Arts</center></td>
-  </tr>
-</table>
-
-<table style="width:100%">
-	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL4.jpg" style="width:380px;height:260px;float:center"><center>P1 PAL Outdoor Education</center></td>
-  </tr>
-</table>
-
-<table style="width:100%">
-	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL5.jpg" style="width:380px;height:260px;float:center"><center>P2 PAL Outdoor Education</center></td>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL3.jpg" style="width:380px;height:250px;float:center"><center>P2 PAL Performing Arts</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL4.jpg" style="width:380px;height:250px;float:center"><center>P1 PAL Outdoor Education</center></td>
   </tr>
 </table>
