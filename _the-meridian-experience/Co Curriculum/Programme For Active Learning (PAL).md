@@ -31,6 +31,10 @@ third_nav_title: Co Curriculum
 		<td>Social Awareness: </td>
 		<td>Perspective taking, respect for others</td>
 	</tr>
+	<tr>
+		<td>Relationship Management: </td>
+		<td>Working cooperatively, communication, social engagement and relationship building</td>
+	</tr>
 </table>
 
 
