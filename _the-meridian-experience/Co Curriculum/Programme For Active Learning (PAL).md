@@ -66,8 +66,9 @@ third_nav_title: Co Curriculum
 	</tr>
 	<tr>
 		<td>Work in a respectful manner with others</td>
-		<td>Being curious<br>
-			<ul><li>Recognise that being curious encourages us to learn new things from people, our environment and our daily activities and experiences, and experience joy</li></ul></td>
+		<td>Working Together<ul><li>Recognise that everyone has something to contribute</li></ul>
+		<ul><li>Understand the importance of working together</li></ul>
+		</td>
 			<td>
 				Self-motivation
 			<ul><li>Demonstrate enthusiasm to learn new things</li></ul>
