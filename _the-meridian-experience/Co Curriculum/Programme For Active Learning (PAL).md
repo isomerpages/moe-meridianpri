@@ -24,8 +24,8 @@ third_nav_title: Co Curriculum
 		<td>Identifying and recognising emotions and needs; self-efficacy ; appreciate diversity</td>
 	</tr>
 	<tr>
-		<td>Self-Awareness:</td>
-		<td>Identifying and recognising emotions and needs; self-efficacy ; appreciate diversity</td>
+		<td>Self-Management:</td>
+		<td>Self-discipline and self-motivation</td>
 	</tr>
 </table>
 
