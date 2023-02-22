@@ -97,7 +97,9 @@ third_nav_title: Co Curriculum
 				<li>Use respectful ways to put different ideas together effectively to complete group tasks</li>
 			</ul>
 Self-reflection
-				
+				<ul>
+					<li>Reflect on how respectful speech and behaviours make receivers feel</li>
+					</ul>
 		</td>
 	</tr>
 </table>
