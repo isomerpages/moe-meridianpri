@@ -186,8 +186,8 @@ P3 and P4 Music Day is a platform for our students to make music together as a w
 <table style="width:100%">
 	<tr>
     <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A22.jpg" style="width:500px;height:320px;float:center"><p align = "justify">
-<b><u>Music Day for P3 and P4</u></b><br>
-P3 and P4 Music Day is a platform for our students to make music together as a whole group. Led by our very own music teachers, students have fun learning rudiments of music through the experience. Last year, our students learnt how to sing, cheer rhythmically, and perform a body percussion along with a song and school cheer created by our music teachers. We hope to develop confidence in our students and ignite their passion for the performing arts.</p></td>
+<b><u>Meridian Teacher Band – Seven One Street</u></b><br>
+Introducing our group of teachers who are passionate about music-making. Modeling the way is what we teachers do. We want to inspire our Meridian students to immerse themselves in music. Our teacher band was set up in 2022, and we have helmed certain events such as National Day Celebrations and Children’s Day Celebrations, to lead the whole school in singing as one big family. Hearing the chorus of our children’s voices greatly touched our hearts, and we strive to continue to keep the spirit of music alive through our example!</p></td>
   </tr>
 </table>
 
