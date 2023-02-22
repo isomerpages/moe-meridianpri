@@ -109,7 +109,9 @@ Family members are also encouraged to participate with their children as a famil
 </table>
 
 #### Visual Art
-<p>Every child an active learner of Art</p>
+<p align = "justify">The aim of our visual art education is to enable every student to be an active learner of Art, enjoy art-making processes, communicate visually, and make meaning through connecting with society and culture.</p>
+
+<p align = "justify">To help facilitate students’ learning, the following three focus areas are drawn up and covered at each level so that different themes, art genres and medium are fully explored.</p>
 
 #### Goals
 *   To enable every child to be visually literate and to appreciate art through the Art curriculum and modular programmes  
