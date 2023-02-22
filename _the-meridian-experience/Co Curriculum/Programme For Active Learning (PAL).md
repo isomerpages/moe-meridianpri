@@ -60,7 +60,20 @@ third_nav_title: Co Curriculum
 			<ul><li>Demonstrate enthusiasm to learn new things</li></ul>
 				Positivity
 			<ul><li>Express thanks to the people around oneself</li></ul>
-				self-reflection
+				Self-reflection
+			<ul><li>Reflect on the experiences and people who help us learn and grow</li></ul>
+		</td>
+	</tr>
+	<tr>
+		<td>Work in a respectful manner with others</td>
+		<td>Being curious<br>
+			<ul><li>Recognise that being curious encourages us to learn new things from people, our environment and our daily activities and experiences, and experience joy</li></ul></td>
+			<td>
+				Self-motivation
+			<ul><li>Demonstrate enthusiasm to learn new things</li></ul>
+				Positivity
+			<ul><li>Express thanks to the people around oneself</li></ul>
+				Self-reflection
 			<ul><li>Reflect on the experiences and people who help us learn and grow</li></ul>
 		</td>
 	</tr>
