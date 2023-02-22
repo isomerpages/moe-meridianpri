@@ -181,6 +181,15 @@ P3 and P4 Music Day is a platform for our students to make music together as a w
   </tr>
 </table>
 
+<br>
+
+<table style="width:100%">
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A22.jpg" style="width:500px;height:320px;float:center"><p align = "justify">
+<b><u>Music Day for P3 and P4</u></b><br>
+P3 and P4 Music Day is a platform for our students to make music together as a whole group. Led by our very own music teachers, students have fun learning rudiments of music through the experience. Last year, our students learnt how to sing, cheer rhythmically, and perform a body percussion along with a song and school cheer created by our music teachers. We hope to develop confidence in our students and ignite their passion for the performing arts.</p></td>
+  </tr>
+</table>
 
 <p>For enquiries on the school’s Aesthetics, please email:</p>
 <a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mrs Sharon Tng (Head of Department)</a>
