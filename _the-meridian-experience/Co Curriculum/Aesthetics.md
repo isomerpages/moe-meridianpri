@@ -120,9 +120,10 @@ Family members are also encouraged to participate with their children as a famil
 </ul>
 
 #### Goals
-*   To enable every child to be visually literate and to appreciate art through the Art curriculum and modular programmes  
-    
-*   To develop students’ awareness of Art and express their creativity through Art activities in school
+<ul>
+	<li>To enable every child to be visually literate and able to express their creativity through their termly Art projects and other school-wide Visual Art activities</li>
+	<li>To develop students’ awareness and appreciation of Art through the learning of selected local and international artworks within the syllabus.</li>
+</ul>
 
 #### Key Programmes
 *   Modular Art Programmes (Chinese Brush Painting, Batik Painting)
