@@ -101,12 +101,9 @@ PAM Express is a fortnightly PE & Aesthetics programme that provides our student
   </tr>
 	<tr>
     <td colspan="2"><p align = "justify"><b><u>Meridian’s Got Talent</u></b><br>
-Meridian’s Got Talent is an annual event organised for students to showcase their musical talents (singing, dancing, playing instruments, beatboxing, rapping) as part of our Children’s Day Celebrations. In this competition, Meridians are invited to submit their video auditions to the teacher-in-charge. There are two categories:
-
-Category A – Individual
-
-Category B – Group
-
+Meridian’s Got Talent is an annual event organised for students to showcase their musical talents (singing, dancing, playing instruments, beatboxing, rapping) as part of our Children’s Day Celebrations. In this competition, Meridians are invited to submit their video auditions to the teacher-in-charge. There are two categories:<br>
+Category A – Individual<br>
+Category B – Group<br>
 Family members are also encouraged to participate with their children as a family bonding activity. To date, we have had a few joint performances by parents and children.</p></td>
   </tr>
 </table>
