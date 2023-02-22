@@ -55,6 +55,12 @@ third_nav_title: Co Curriculum
   </tr>
 </table>
 
+<table style="width:100%">
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A5.jpg" style="width:490px;height:330px;float:center"><p align = "justify">Our Primary 5 students are given the opportunity to learn how to play the ukulele. They learn basic strumming patterns, and basic chords such as C major, A minor, F major and G major. They learn to strum the chords to simple songs. The students become proficient in strumming the ukulele. They are also able to strum and sing at the same time. We are very proud of them.</p></td>
+  </tr>
+</table>
+
 
 #### Visual Art
 <p>Every child an active learner of Art</p>
