@@ -8,16 +8,102 @@ third_nav_title: Co Curriculum
 
 <p align = "justify">To encourage learning beyond the classroom, Programme for Active Learning (PAL) gives your child the chance to discover new interests, learn new skills and develop his character. Your child will have the opportunity during curriculum time to try out activities in sports and outdoor education, as well as in the performing and visual arts.</p>
 
-<p align = "justify">PAL aims to raise primary education to a new level, focusing more on engaged learning and teaching the whole child via a strong teacher and pupil relationship, and equipping our young with the necessary skills and values to thrive in a fast-changing and globalised future.</p>
+<p align = "justify">The focus in PAL lessons is engaged learning and teaching the whole child via a strong teacher and pupil relationship, and equipping our young with the necessary skills and values to thrive in a fast-changing and globalised future.</p>
 
-<p align = "justify">At Meridian, PAL is offered to all P1 and P2 students. It consists of modules of activities in two broad areas: <b>Sports & Games</b> and <b>Outdoor Education</b>, and <b>Performing Arts</b> and <b>Visual Arts</b>.  They are carried out within the curriculum time on every Friday simultaneous when the P3 to P6 pupils participate in the various Co-curricular Activities.</p>
+<p align = "justify">At Meridian, PAL is offered to all P1 and P2 students. It consists of modules of activities in two broad areas: <b>Sports & Games</b> and <b>Outdoor Education</b>, and <b>Performing Arts</b> and <b>Visual Arts</b>.  Lessons are carried out within the curriculum time on every Friday morning.</p>
 
 #### What is the purpose/rationale of PAL?
-<p align = "justify">To encourage learning beyond the classroom, Programme for Active Learning (PAL) gives your child the chance to discover new interests, learn new skills and develop his character. Your child will have the opportunity during curriculum time to try out activities in sports and outdoor education, as well as in the performing and visual arts.</p>
+<p align = "justify">From 2022, PAL should be planned and enacted intentionally as one of the CCE lessons along with CCE (FTGP) and CCE (MTL) during curriculum time. At Meridian, PAL lessons are carefully curated to achieve the following knowledge and skills that have been specifically identified for PAL at primary 1 and 2 respectively:</p>
 
-<p align = "justify">PAL aims to raise primary education to a new level, focusing more on engaged learning and teaching the whole child via a strong teacher and pupil relationship, and equipping our young with the necessary skills and values to thrive in a fast-changing and globalised future.</p>
+<table style="width:100%">
+	<tr>
+    <td colspan="2"><p><b>Objectives for Social-Emotional Learning in accordance to 21st CCE framework</b></p></td>
+  </tr>
+	<tr>
+		<td>Self-Awareness:</td>
+		<td>Identifying and recognising emotions and needs; <br>self-efficacy ; appreciate diversity</td>
+	</tr>
+	<tr>
+		<td>Self-Management:</td>
+		<td>Self-discipline and self-motivation</td>
+	</tr>
+	<tr>
+		<td>Social Awareness: </td>
+		<td>Perspective taking, respect for others</td>
+	</tr>
+	<tr>
+		<td>Relationship Management: </td>
+		<td>Working cooperatively, communication, <br>social engagement and relationship building</td>
+	</tr>
+	<tr>
+		<td>Responsible Decision-Making: </td>
+		<td>Personal responsibility</td>
+	</tr>
+</table>
 
-<p align = "justify">At Meridian, PAL is offered to all P1 and P2 students. It consists of modules of activities in two broad areas: <b>Sports & Games</b> and <b>Outdoor Education</b>, and <b>Performing Arts</b> and <b>Visual Arts</b>.  They are carried out within the curriculum time on every Friday simultaneous when the P3 to P6 pupils participate in the various Co-curricular Activities.</p>
+<b>Primary 1</b>
+<table style="width:100%">
+	<tr>
+    <td colspan="3"><p><b>Learning Outcomes (LOs) for PAL (2022)</b></p></td>
+  </tr>
+	<tr>
+		<td><b>Developmental Milestones</b></td>
+		<td><b>Knowledge LO</b></td>
+		<td><b>Skills LO</b></td>
+	</tr>
+	<tr>
+		<td>Demonstrate a lively curiosity and find joy in the people and things around us.</td>
+		<td>Being curious<br>
+			<ul><li>Recognise that being curious encourages us to learn new things from people, our environment and our daily activities and experiences, and experience joy</li></ul></td>
+			<td>
+				Self-motivation
+			<ul><li>Demonstrate enthusiasm to learn new things</li></ul>
+				Positivity
+			<ul><li>Express thanks to the people around oneself</li></ul>
+				Self-reflection
+			<ul><li>Reflect on the experiences and people who help us learn and grow</li></ul>
+		</td>
+	</tr>
+	<tr>
+		<td>Work in a respectful manner with others</td>
+		<td>Working Together<ul><li>Recognise that everyone has something to contribute</li></ul>
+		<ul><li>Understand the importance of working together</li></ul>
+		</td>
+			<td>Interpersonal communication
+			<ul><li>Work cooperatively with others on a common task or for a common goal</li></ul>
+		</td>
+	</tr>
+</table>
+
+<b>Primary 2</b>
+<table style="width:100%">
+	<tr>
+    <td colspan="3"><p><b>Learning Outcomes (LOs) for PAL (2022)</b></p></td>
+  </tr>
+	<tr>
+		<td><b>Developmental Milestones</b></td>
+		<td><b>Knowledge LO</b></td>
+		<td><b>Skills LO</b></td>
+	</tr>
+	<tr>
+		<td>Work in a respectful manner with others</td>
+		<td>Working together<br>
+			<ul><li>Understand the importance of working together</li>
+			<li>Know that people have different ideas and there can be disagreements in working together</li>
+			</ul></td>
+			<td>Interpersonal Communication
+			<ul><li>Manage disagreements through appropriate words and actions that demonstrate respect to others and their ideas</li>
+				<li>Share our feelings, thoughts and views appropriately and respectfully with others</li>
+				<li>Use respectful ways to put different ideas together effectively to complete group tasks</li>
+			</ul>
+Self-reflection
+				<ul>
+					<li>Reflect on how respectful speech and behaviours make receivers feel</li>
+					</ul>
+		</td>
+	</tr>
+</table>
+
 
 #### What are the characteristics of PAL modules?
 
@@ -57,40 +143,58 @@ PAL lessons are conducted on Fridays for 2 hours.  The schedule is as follow:
   <tr>
     <td>P1</td>
     <td>Performing Arts</td>
-    <td>Outdoor-Education</td>
-		<td>Sports & Games</td>
-		<td>Visual Arts</td>
+    <td>Visual Arts</td>
+		<td>Sports and Games</td>
+		<td>Outdoors-Education</td>
   </tr>
 	 <tr>
     <td>P2</td>
 		 <td>Visual Arts</td>
-		 <td>Sports & Games</td>
-		 <td>Outdoor-Education</td>
 		 <td>Performing Arts</td>
+		 <td>Sports and Games</td>
+		 <td>Outdoor-Education</td>
   </tr>
 </table>
 
 #### Reflection
-<p align = "justify">Students will be engaged in reflection by completing a worksheet after each PAL lesson.  This allows them to see their growth, strength, proud moments, and areas to improve on.</p>
+<p align = "justify">Students will be engaged in reflection at the end of every PAL lesson. This allows them to see their growth, strength, proud moments, and areas to improve on. At the end of each term, PAL teachers will identify students who best display our school values (i.e. Respect, Responsibility, Resilience, Care, Teamwork, Integrity) and present to them the Awecome cards which are uniquely designed by our school to recognize their positive behaviors.</p>
 
 #### PAL in Action
-![](/images/The%20Meridian%20Experience/PAL/pal-P1_PA-720x540.jpg)
-<p align ="center">P1 Performing Arts</p>
 
-![](/images/The%20Meridian%20Experience/PAL/pal-Eco-Garden-720x960.jpg)
+<table style="width:100%">
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL1.png" style="width:380px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL2.jpg" style="width:380px;height:250px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><center>P1 PAL Performing Arts</center></td>
+  </tr>
+</table>
 
-![](/images/The%20Meridian%20Experience/PAL/pal-P2_VA1-720x960.jpg)
-
-![](/images/The%20Meridian%20Experience/PAL/pal-P2_VA3-720x540.jpg)
-
-![](/images/The%20Meridian%20Experience/PAL/pal-P2_VA2-720x540.jpg)
-
-<p align = "center">Visit to Eco-Gardens, P2 Visual Arts Making</p>
-
-![](/images/The%20Meridian%20Experience/PAL/pal-TB1-720x540.jpg)
-
-![](/images/The%20Meridian%20Experience/PAL/pal-TB2-720x540.jpg)
-<p align = "center">Team Building</p>
-
-![](/images/The%20Meridian%20Experience/PAL/pal-Reflection-1-720x960.jpg)
-<p align = "center">Reflection</p>
+<table style="width:100%">
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL3.jpg" style="width:380px;height:250px;float:center"><center>P2 PAL Performing Arts</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL4.jpg" style="width:380px;height:250px;float:center"><center>P1 PAL Outdoor Education</center></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL5.jpg" style="width:380px;height:250px;float:center"><center>P2 PAL Outdoor Education</center></td>
+  </tr>
+	<tr>
+    <td><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL6.jpg" style="width:380px;height:450px;float:center"><center>P1 PAL Visual Arts</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL7.jpg" style="width:380px;height:450px;float:center"><center>P2 PAL Visual Arts</center></td>
+  </tr>
+	<tr>
+    <td><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL8.jpg" style="width:380px;height:450px;float:center"><center>P2 PAL Visual Arts</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL9.jpg" style="width:380px;height:450px;float:center"><center>P1 Sports and Games</center></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL10.jpg" style="width:380px;height:250px;float:center"><center>P2 Sports and Games</center></td>
+  </tr>
+	<tr>
+    <td><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL11.jpg" style="width:380px;height:420px;float:center"><center>P2 Sports and Games</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL12.jpg" style="width:380px;height:420px;float:center"><center>Termly PAL reflection and recognition<br> of students who display school value</center></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PAL/2023/PAL13.jpg" style="width:380px;height:250px;float:center"><center>Termly PAL reflection and recognition<br> of students who display school value</center></td>
+  </tr>
+</table>
