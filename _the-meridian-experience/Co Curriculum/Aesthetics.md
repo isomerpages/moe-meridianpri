@@ -89,6 +89,27 @@ PAM Express is a fortnightly PE & Aesthetics programme that provides our student
   </tr>
 </table>
 
+<table style="width:100%">
+
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A12.jpg" style="width:300px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A13.jpg" style="width:300px;height:220px;float:center"></td>
+  </tr>
+	<tr>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A14.jpg" style="width:400px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A15.jpg" style="width:400px;height:220px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><p align = "justify"><b><u>Meridian’s Got Talent</u></b><br>
+Meridian’s Got Talent is an annual event organised for students to showcase their musical talents (singing, dancing, playing instruments, beatboxing, rapping) as part of our Children’s Day Celebrations. In this competition, Meridians are invited to submit their video auditions to the teacher-in-charge. There are two categories:
+
+Category A – Individual
+
+Category B – Group
+
+Family members are also encouraged to participate with their children as a family bonding activity. To date, we have had a few joint performances by parents and children.</p></td>
+  </tr>
+</table>
 
 #### Visual Art
 <p>Every child an active learner of Art</p>
