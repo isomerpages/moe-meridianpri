@@ -92,12 +92,12 @@ PAM Express is a fortnightly PE & Aesthetics programme that provides our student
 <table style="width:100%">
 
   <tr>
-    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A12.jpg" style="width:300px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A13.jpg" style="width:300px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A12.jpg" style="width:340px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A13.jpg" style="width:340px;height:220px;float:center"></td>
   </tr>
 	<tr>
-    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A14.jpg" style="width:400px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A15.jpg" style="width:400px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A14.jpg" style="width:340px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A15.jpg" style="width:340px;height:220px;float:center"></td>
   </tr>
 	<tr>
     <td colspan="2"><p align = "justify"><b><u>Meridian’s Got Talent</u></b><br>
@@ -126,53 +126,50 @@ Family members are also encouraged to participate with their children as a famil
 </ul>
 
 #### Key Programmes
-
-
-#### Highlights
-*   Art Express (Doodle Challenge)  
-*   SYF Art 2017 Exhibition  
-*   Exploring Ethnic Art forms
-
-#### Performing Art
-Every child a ‘Performer’
-
-#### Goals
-
-*   To enable pupils to develop the confidence to perform in front of an audience
-*   To enable pupils to learn and acquire the skills and art of performing
-
-#### Key Programmes
-
-1.   CCAs  
-
-*   Chinese Dance  
-    
-*   Malay Dance  
-    
-*   Guzheng  
-    
-*   Show Choir  
-    
-*   String Ensemble  
-    
-*   Drama Club  
-    
-
-  
-
-2.   Collaboration with stakeholders:  
-
-*   Pasir Ris Public Library (Meridian Arts Festival on 29/5/17 and 30/5/17)  
-    
-*   Sing50 Fund
+<ul>
+	<li>P5 Modular Art Programme (Chinese Painting)</li>
+	<li>P6 Modular Art Programme (Batik Painting)</li>
+	<li>P4 Museum-based Learning</li>
+	<li>Aesthetics Week</li>
+	<li>P.A.M. Express</li>
+	<li>Art Assembly Talk</li>
+</ul>
 
 #### Highlights
-![](/images/The%20Meridian%20Experience/Aesthetics/aesthetics-Performance-at-Pasir-Ris-Library-2016-720x480.jpg)
-<p align = "center">Performance at Pasir Ris Library 2016</p>
+<ul>
+	<li>Participation in SYF Art Competition</li>
+	<li>Participation in external Art competitions</li>
+	<li>Collaboration with Pasir Ris Public Library</li>
+	<li>Using ICT tools and applications in our Art curriculum</li>
+</ul>
 
-![](/images/The%20Meridian%20Experience/Aesthetics/aesthetics-Show-Choir-2016-720x480.jpg)
 
-<p align = "center">Show Chair Performance @National Gallery Singapore 2016</p>
+<table style="width:100%">
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A16.jpg" style="width:490px;height:330px;float:center"></td>
+  </tr>
+</table>
+
+<br>
+<table style="width:100%">
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A17.jpg" style="width:490px;height:330px;float:center"><p align = "justify">
+<b><u>Music Day for P1 and P2</u></b><br>
+P1 & P2 Music Day is a yearly event where our lower primary students are given the opportunity to perform as a class on stage through singing and movement.
+Through each performance, we aim to develop listening and ensemble performance skills in our students. At the same time, students gain self-confidence through performing on stage. Our students learn to respect their peers, look out for visual cues from their music teachers, and feel a sense of identity to the class.</p></td>
+  </tr>
+</table>
+
+<br>
+<table style="width:100%">
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A18.jpg" style="width:490px;height:330px;float:center"><p align = "justify">
+<b><u>Music Day for P3 and P4</u></b><br>
+P3 and P4 Music Day is a platform for our students to make music together as a whole group. Led by our very own music teachers, students have fun learning rudiments of music through the experience. Last year, our students learnt how to sing, cheer rhythmically, and perform a body percussion along with a song and school cheer created by our music teachers. We hope to develop confidence in our students and ignite their passion for the performing arts.</p></td>
+  </tr>
+</table>
+
+
 
 <p>For enquiries on the school’s Aesthetics, please email:</p>
 <a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mrs Sharon Tng (Head of Department)</a>
