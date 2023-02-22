@@ -55,7 +55,8 @@ third_nav_title: Co Curriculum
 		<td>Demonstrate a lively curiosity and find joy in the people and things around us.</td>
 		<td>Being curious<br>
 			<ul><li>Recognise that being curious encourages us to learn new things from people, our environment and our daily activities and experiences, and experience joy</li></ul></td>
-		<td>Skills LO</td>
+			<td>Self-motivation<br>
+			<ul><li>Demonstrate enthusiasm to learn new things</li></ul></td>
 	</tr>
 </table>
 
