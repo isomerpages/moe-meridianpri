@@ -58,8 +58,10 @@ third_nav_title: Co Curriculum
 			<td>
 				Self-motivation
 			<ul><li>Demonstrate enthusiasm to learn new things</li></ul>
-Positivity
+				Positivity
 			<ul><li>Express thanks to the people around oneself</li></ul>
+				self-reflection
+			<ul><li>Reflect on the experiences and people who help us learn and grow</li></ul>
 		</td>
 	</tr>
 </table>
