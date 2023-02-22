@@ -91,13 +91,13 @@ third_nav_title: Co Curriculum
 			<ul><li>Understand the importance of working together</li>
 			<li>Know that people have different ideas and there can be disagreements in working together</li>
 			</ul></td>
-			<td>
-				Self-motivation
-			<ul><li>Demonstrate enthusiasm to learn new things</li></ul>
-				Positivity
-			<ul><li>Express thanks to the people around oneself</li></ul>
-				Self-reflection
-			<ul><li>Reflect on the experiences and people who help us learn and grow</li></ul>
+			<td>Interpersonal Communication
+			<ul><li>Manage disagreements through appropriate words and actions that demonstrate respect to others and their ideas</li>
+				<li>Share our feelings, thoughts and views appropriately and respectfully with others</li>
+				<li>Use respectful ways to put different ideas together effectively to complete group tasks</li>
+			</ul>
+Self-reflection
+				
 		</td>
 	</tr>
 </table>
