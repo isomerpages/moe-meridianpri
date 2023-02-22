@@ -61,6 +61,12 @@ third_nav_title: Co Curriculum
   </tr>
 </table>
 
+<table style="width:100%">
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A6.jpg" style="width:490px;height:330px;float:center"><p align = "justify">Our Primary 6 students are given the opportunity to learn how to play the Classical guitar. They learn basic strumming patterns, and basic chords such as G major, E minor, C major and D major. We are also proud to say that the students are provided with our own Guitar Resource Booklet, to facilitate learning. Students are able to keep a copy, to practice the guitar at home.</p></td>
+  </tr>
+</table>
+
 
 #### Visual Art
 <p>Every child an active learner of Art</p>
