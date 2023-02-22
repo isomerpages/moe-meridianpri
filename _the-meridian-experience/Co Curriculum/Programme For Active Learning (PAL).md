@@ -47,9 +47,9 @@ third_nav_title: Co Curriculum
     <td colspan="3"><p><b>Learning Outcomes (LOs) for PAL (2022)</b></p></td>
   </tr>
 	<tr>
-		<td>Developmental Milestones</td>
-		<td>Knowledge LO</td>
-		<td>Skills LO</td>
+		<td><b>Developmental Milestones</b></td>
+		<td><b>Knowledge LO</b></td>
+		<td><b>Skills LO</b></td>
 	</tr>
 	<tr>
 		<td>Demonstrate a lively curiosity and find joy in the people and things around us.</td>
