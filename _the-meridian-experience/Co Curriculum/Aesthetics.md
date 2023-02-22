@@ -113,6 +113,12 @@ Family members are also encouraged to participate with their children as a famil
 
 <p align = "justify">To help facilitate students’ learning, the following three focus areas are drawn up and covered at each level so that different themes, art genres and medium are fully explored.</p>
 
+<ul>
+	<li>Self and Immediate Environment</li>
+	<li>Singapore Past, Present and Future</li>
+	<li>The World and Region We Live In</li>
+</ul>
+
 #### Goals
 *   To enable every child to be visually literate and to appreciate art through the Art curriculum and modular programmes  
     
