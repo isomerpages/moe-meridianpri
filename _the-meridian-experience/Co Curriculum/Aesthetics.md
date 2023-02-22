@@ -51,7 +51,7 @@ third_nav_title: Co Curriculum
 
 <table style="width:100%">
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A4.jpg" style="width:490px;height:330px;float:center"><center>The keyboard programme is conducted for all P3 and P4 students to equip them with basic keyboard skills. The lessons provide hands-on experience for students to learn basic piano skills such as finger positions, left hand chords, melody playing and the C Major scale. Our students enjoy this programme thoroughly.</center></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A4.jpg" style="width:490px;height:330px;float:center"><p align = "justify">The keyboard programme is conducted for all P3 and P4 students to equip them with basic keyboard skills. The lessons provide hands-on experience for students to learn basic piano skills such as finger positions, left hand chords, melody playing and the C Major scale. Our students enjoy this programme thoroughly.</p></td>
   </tr>
 </table>
 
