@@ -13,7 +13,7 @@ third_nav_title: Letter to Parents 2023
 		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Primary%205/March/P5%20Project%20Boost%20After%20School%20Programme%20(6%20March%2023).pdf">Primary 5 Project Boost: After School Programme</a><font size = "2"> (6 March 2023)</font>
 	</li>
 	<li>
-		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Primary%204/Feb/P4&5%20SwinSafer%20Progtamme%202023%20T3.pdf">Primary 4&5 SwimSafer Programme 2023 Term 3</a><font size = "2"> (23 February 2023)</font>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/March/End%20of%20Term%201%20Letter%20to%20Parents%202023%20(7%20Mar%202023).pdf">End of Term 1 Letter to Parents 2023</a><font size = "2"> (7 March 2023)</font>
 	</li>
 	</ul>
 </details>
