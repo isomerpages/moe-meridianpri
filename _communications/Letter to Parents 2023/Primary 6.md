@@ -5,6 +5,15 @@ description: ""
 third_nav_title: Letter to Parents 2023
 ---
 <details>
+  <summary>March</summary>
+<ul>
+	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Primary%206/March/Advisory%20Note%20on%20change%20in%20subject.pdf">Advisory Note on Change in Subject Combination</a><font size = "2"> (10 March 2023)</font>
+	</li>
+	</ul>
+</details>
+
+<details>
   <summary>February</summary>
 <ul>
 	<li><a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/February/P6%20Assessment%20Plan%20.pdf" target="_blank">P6 Assessement Plan</a><font size ="2"> (7 February 2023)</font></li>
