@@ -15,6 +15,9 @@ third_nav_title: Letter to Parents 2023
 	<li>
 		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/March/End%20of%20Term%201%20Letter%20to%20Parents%202023%20(7%20Mar%202023).pdf">End of Term 1 Letter to Parents 2023</a><font size = "2"> (7 March 2023)</font>
 	</li>
+	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Primary%206/March/Advisory%20Note%20on%20change%20in%20subject.pdf">Advisory Note on Change in Subject Combination</a><font size = "2"> (10 March 2023)</font>
+	</li>
 	</ul>
 </details>
 
