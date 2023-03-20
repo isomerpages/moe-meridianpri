@@ -25,6 +25,10 @@ third_nav_title: Student Development
   
 <p align = "justify">MPS strongly believes in developing students socially and morally in a Caring & Enabling School  environment that is rich in the culture of care. Guided by the school’s Mission, Vision, Values, Motto and Philosophy and Strategic Thrust 2, the school-based curriculum is customised to create positive student experiences and student engagement.</p>
 
+<p align = "justify">This is done through both the Instructional Programmes as well as the Co-Instructional Programmes for the holistic development of the child through learning platforms such as CCE Lessons, Key SDEs, school-based initiatives, and opportunities for personal application.. The school uses the Head, Heart and Hands approach to imparting values, where the students are engaged in knowledge (head), values (heart) and skills (hands).</p>
+
+<p align = "justify">The school also leverages on our partnership with parents and other stakeholders towards building a strong character foundation in our students. In Meridian primary, we believe in students, staff, parents and community partners coming together to benefit the child, just like how the saying goes: “It takes a whole village to raise a child”.</p>
+
 #### Key Programmes
 
 Character & Citizenship Education (EL/ MT) <br>
