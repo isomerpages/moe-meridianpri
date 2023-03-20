@@ -48,11 +48,11 @@ My Meridian Experience <br>
 <table style="width:100%">
 
   <tr>
-    <td><img src="/images/CCE/2023/NE1.png" style="width:350px;height:430px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Floorball/2023/Floorball%202.jpg" style="width:350px;height:430px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE2.png" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE3.png"  style="width:380px;height:230px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Floorball/2023/Floorball%203.jpg" style="width:350px;height:430px;float:center"></td>
+    <td colspan="2"><img src="/images/CCE/2023/NE1.png"  style="width:350px;height:430px;float:center"></td>
   </tr>
 </table>
 
