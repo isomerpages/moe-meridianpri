@@ -31,13 +31,17 @@ third_nav_title: Student Development
 
 #### Key Programmes
 
-Character & Citizenship Education (EL/ MT) <br>
-Form Teacher Guidance Period <br>
+CCE MTL  <br>
+CCE FTGP  <br>
 Education Career Guidance <br>
 Cyber Wellness Education <br>
-Sexuality Education <br>
+Sexuality Education  <br>
+Peer Support & Relationships <br>
 Assembly Period <br>
-Social Studies
+Social Skills <br>
+School Values Programme <br>
+Growth Mindset <br>
+My Meridian Experience <br>
 
 #### Highlights
 Meridian Values Matrix self-reflection<br>
