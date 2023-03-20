@@ -18,7 +18,8 @@ third_nav_title: Student Development
 <ul>
 	<li>build a strong character to know right from wrong, self-regulate, work as a team, fair, forgiving and honest</li>
 	<li> have a sense of gratitude and appreciation to make contribution to the community</li>
-	<li></li>
+	<li>have a resilient mindset to cope with life's ups and downs and be confident</li>
+	<li>take responsibility for oneself and for others as appropriate</li>
 </ul>
 </p>
   
