@@ -11,7 +11,7 @@ third_nav_title: Student Development
 
 #### Vision
 
-<p>To cultivate values and character in students to become Future Learners, Future Citizens and Future Leaders.</p>
+<p align = "justify">Students to have the knowledge, skills, values and attitudes to develop strong character (social well-being), strong mind (mental well-being) and strong bodies (physical well-being).</p>
 
 ### Approach
 <p align = "justify">In line with the school’s motto, To Learn, To Love and To Lead, the Character & Citizenship Education focuses on a school-wide approach through both the Instructional Programmes as well as the Co-Instructional Programmes for the holistic development of the child. The school believes in the Head, Heart and Hands approach to imparting values, where the students are engaged in knowledge (head), values (heart) and skills (hands). </p>
