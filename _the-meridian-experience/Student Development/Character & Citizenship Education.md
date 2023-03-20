@@ -23,7 +23,7 @@ third_nav_title: Student Development
 </ul>
 </p>
   
-<p align = "justify"></p>
+<p align = "justify">MPS strongly believes in developing students socially and morally in a Caring & Enabling School  environment that is rich in the culture of care. Guided by the school’s Mission, Vision, Values, Motto and Philosophy and Strategic Thrust 2, the school-based curriculum is customised to create positive student experiences and student engagement.</p>
 
 #### Key Programmes
 
