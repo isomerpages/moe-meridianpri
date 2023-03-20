@@ -43,22 +43,19 @@ School Values Programme <br>
 Growth Mindset <br>
 My Meridian Experience <br>
 
-#### Highlights
-Meridian Values Matrix self-reflection<br>
-Mystery Lesson<br>
-VIA partnership with CPAS and Pasir Ris West CC
+#### Photos for Education Career Guidance
 
-![](/images/CCE/CCE-1.jpg)
-<p align = "center">Going through the Meridian Values with students</p>
+<table style="width:100%">
 
-![](/images/CCE/CCE-2.jpg)
-<p align = "center">Reflections are done creatively with pictures and colour</p>
+  <tr>
+    <td><img src="/images/CCE/2023/NE1.png" style="width:350px;height:430px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Floorball/2023/Floorball%202.jpg" style="width:350px;height:430px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Floorball/2023/Floorball%203.jpg" style="width:350px;height:430px;float:center"></td>
+  </tr>
+</table>
 
-![](/images/CCE/CCE-3.jpg)
-<p align = "center">Students display their values through activities like the CNY food delivery</p>
-
-![](/images/CCE/CCE-4.jpg)
-<p align = "center">Learning to care for others</p>
 
 
 <p>For enquiries on the school’s CCE Programme, please email:</p>
