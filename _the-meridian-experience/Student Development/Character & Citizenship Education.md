@@ -184,10 +184,8 @@ After a week of on the job training with the OSOs during recess, the students re
 <table style="width:100%">
 
   <tr>
-		<b>Social Skills booklet for students to write down skill steps learnt and to monitor their progress</b>
-		<br>
-    <td><img src="/images/CCE/2023/NE25.png" style="width:300px;height:250px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE26.jpg"  style="width:300px;height:250px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE25.png" style="width:300px;height:230px;float:center"><b>Social Skills booklet for students to write down skill steps learnt and to monitor their progress</b></td>
+    <td><img src="/images/CCE/2023/NE26.jpg"  style="width:300px;height:230px;float:center"><b>Social Skills cards are translated in Mother Tongue languages</b></td>
   </tr>
 </table>
 
