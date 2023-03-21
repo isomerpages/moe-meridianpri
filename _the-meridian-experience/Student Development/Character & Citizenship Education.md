@@ -213,7 +213,19 @@ After a week of on the job training with the OSOs during recess, the students re
   </tr>
 </table>
 
-
+<table style="width:100%">
+	<tr>
+    <td colspan="2"><img src="/images/CCE/2023/NE31.png"  style="width:400px;height:250px;float:center"></td>
+  </tr>
+	<tr>
+		<br>
+    <td><img src="/images/CCE/2023/NE32.png" style="width:300px;height:330px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE33.png"  style="width:320px;height:330px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><p align = "justify">CyberWellness Advocates shared top tips during morning assembly and inspired conversations with their fellow school mates on ways to use technology responsibly and respectfully during their various recesses.</p></td>
+  </tr>
+</table>
 
 <p>For enquiries on the school’s CCE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
