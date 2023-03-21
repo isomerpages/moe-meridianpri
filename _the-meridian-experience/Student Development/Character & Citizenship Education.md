@@ -91,6 +91,21 @@ After a week of on the job training with the OSOs during recess, the students re
   </tr>
 </table>
 
+#### Photos for Peer Support & Relationships
+<br>
+
+<table style="width:100%">
+
+  <tr>
+		<b>P3 - Writing To Peers</b>
+		<br>
+    <td><img src="/images/CCE/2023/NE10.png" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE11.png"  style="width:380px;height:230px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/CCE/2023/NE12.png"  style="width:350px;height:230px;float:center"></td>
+  </tr>
+</table>
 
 <p>For enquiries on the school’s CCE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
