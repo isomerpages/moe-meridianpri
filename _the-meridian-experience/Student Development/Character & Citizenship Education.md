@@ -208,8 +208,8 @@ After a week of on the job training with the OSOs during recess, the students re
   </tr>
 	<tr>
 		<br>
-    <td><img src="/images/CCE/2023/NE18.png" style="width:320px;height:330px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE19.png"  style="width:320px;height:330px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE29.png" style="width:320px;height:330px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE30.png"  style="width:320px;height:330px;float:center"></td>
   </tr>
 </table>
 
