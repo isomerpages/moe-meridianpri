@@ -132,5 +132,20 @@ After a week of on the job training with the OSOs during recess, the students re
   </tr>
 </table>
 
+<br>
+
+<table style="width:100%">
+
+  <tr>
+		<b>P5 - Cheering P6s on for PSLE <br> Designing of Motivational Posters</b>
+		<br>
+    <td><img src="/images/CCE/2023/NE18.png" style="width:320px;height:330px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE19.png"  style="width:320px;height:330px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/CCE/2023/NE20.png"  style="width:300px;height:350px;float:center"></td>
+  </tr>
+</table>
+
 <p>For enquiries on the school’s CCE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
