@@ -38,8 +38,8 @@ National Education comprises a wide range of school efforts that help students e
   <tr>
 		<b>National Day</b>
 		<br>
-    <td><img src="/images/CCE/2023/NE41.jpg" style="width:250px;height:200px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE42.jpg"  style="width:250px;height:200px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE41.jpg" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE42.jpg"  style="width:380px;height:230px;float:center"></td>
   </tr>
 	<tr>
     <td colspan="2"><img src="/images/CCE/2023/NE40.jpg"  style="width:350px;height:430px;float:center"></td>
