@@ -61,5 +61,20 @@ National Education comprises a wide range of school efforts that help students e
   </tr>
 </table>
 
+<br>
+
+<table style="width:100%">
+
+  <tr>
+		<b>International Friendship Day</b>
+		<br>
+    <td><img src="/images/CCE/2023/NE44.png" style="width:350px;height:200px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE45.png"  style="width:350px;height:200px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/CCE/2023/NE43.png"  style="width:300px;height:430px;float:center"></td>
+  </tr>
+</table>
+
 <p>For enquiries on the school’s NE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
