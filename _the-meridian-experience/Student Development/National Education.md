@@ -11,7 +11,6 @@ National Education comprises a wide range of school efforts that help students e
 
 #### Key Programmes
 <ul>
-  <li>Social  Studies  </li>
   <li>NE Show  </li>
   <li>Total Defence Day </li>
 	<li>International Friendship Day</li>
@@ -19,11 +18,8 @@ National Education comprises a wide range of school efforts that help students e
 	<li>National Day</li>
 </ul>
 
-![](/images/CCE/NE/NE-1-720x481.jpg)
-<p align ="center">Celebrating NDP in Meridian</p>
 
-![](/images/CCE/NE/NE-2-720x476.jpg)
-<p align ="center">Taking the pledge on National Day</p>
+
 
 <p>For enquiries on the school’s NE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
