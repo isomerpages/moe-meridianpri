@@ -187,6 +187,10 @@ After a week of on the job training with the OSOs during recess, the students re
     <td><img src="/images/CCE/2023/NE25.png" style="width:300px;height:230px;float:center"><b>Social Skills booklet for students to write down skill steps learnt and to monitor their progress</b></td>
     <td><img src="/images/CCE/2023/NE26.jpg"  style="width:300px;height:230px;float:center"><b>Social Skills cards are translated in Mother Tongue languages</b></td>
   </tr>
+	<tr>
+    <td><img src="/images/CCE/2023/NE27.png" style="width:200px;height:230px;float:center"></td>
+    <td><b>Lesson packages include and align to</b></td>
+  </tr>
 </table>
 
 <p>For enquiries on the school’s CCE Programme, please email:</p>
