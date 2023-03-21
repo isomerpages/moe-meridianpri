@@ -18,6 +18,19 @@ National Education comprises a wide range of school efforts that help students e
 	<li>National Day</li>
 </ul>
 
+<table style="width:100%">
+
+  <tr>
+		<b>Racial Harmony Day</b>
+		<br>
+    <td><img src="/images/CCE/2023/NE36.png" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE37.png"  style="width:380px;height:230px;float:center"></td>
+  </tr>
+	<tr>
+    <td><img src="/images/CCE/2023/NE38.png" style="width:200px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE39.png"  style="width:380px;height:230px;float:center"></td>
+  </tr>
+</table>
 
 
 
