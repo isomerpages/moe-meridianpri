@@ -157,11 +157,12 @@ After a week of on the job training with the OSOs during recess, the students re
   <tr>
 		<b>P5 - Cheering P6s on for PSLE <br> Designing of Motivational Posters</b>
 		<br>
-    <td><img src="/images/CCE/2023/NE18.png" style="width:320px;height:330px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE19.png"  style="width:320px;height:330px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/CCE/2023/NE20.png"  style="width:300px;height:350px;float:center"></td>
+    <td colspan="2"><img src="/images/CCE/2023/NE21.png"  style="width:700px;height:250px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/CCE/2023/NE22.png"  style="width:700px;height:250px;float:center"></td>
   </tr>
 </table>
 
