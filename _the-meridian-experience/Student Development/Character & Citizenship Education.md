@@ -107,5 +107,18 @@ After a week of on the job training with the OSOs during recess, the students re
   </tr>
 </table>
 
+<table style="width:100%">
+
+  <tr>
+		<b>P4 – Empathy Map On Ways to Beautify The School</b>
+		<br>
+    <td><img src="/images/CCE/2023/NE13.png" style="width:320px;height:330px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE14.png"  style="width:320px;height:330px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/CCE/2023/NE15.png"  style="width:320px;height:330px;float:center"></td>
+  </tr>
+</table>
+
 <p>For enquiries on the school’s CCE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
