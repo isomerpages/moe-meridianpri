@@ -106,7 +106,9 @@ After a week of on the job training with the OSOs during recess, the students re
     <td colspan="2"><img src="/images/CCE/2023/NE12.png"  style="width:350px;height:230px;float:center"></td>
   </tr>
 </table>
+
 <br>
+
 <table style="width:100%">
 
   <tr>
