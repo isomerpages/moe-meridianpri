@@ -213,6 +213,8 @@ After a week of on the job training with the OSOs during recess, the students re
   </tr>
 </table>
 
+#### Photos for CyberWellness Education
+
 <table style="width:100%">
 	<tr>
     <td colspan="2"><img src="/images/CCE/2023/NE31.png"  style="width:400px;height:250px;float:center"></td>
