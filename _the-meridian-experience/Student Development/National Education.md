@@ -31,8 +31,19 @@ National Education comprises a wide range of school efforts that help students e
     <td><img src="/images/CCE/2023/NE39.png"  style="width:380px;height:230px;float:center"></td>
   </tr>
 </table>
+<br>
+<table style="width:100%">
 
-
+  <tr>
+		<b>National Day</b>
+		<br>
+    <td><img src="/images/CCE/2023/NE41.jpg" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE42.jpg"  style="width:380px;height:230px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/CCE/2023/NE40.jpg"  style="width:350px;height:430px;float:center"></td>
+  </tr>
+</table>
 
 <p>For enquiries on the school’s NE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
