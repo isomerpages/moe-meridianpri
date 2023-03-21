@@ -204,12 +204,12 @@ After a week of on the job training with the OSOs during recess, the students re
 
 <table style="width:100%">
 	<tr>
-    <td colspan="2"><img src="/images/CCE/2023/NE28.jpg"  style="width:700px;height:250px;float:center"></td>
+    <td colspan="2"><img src="/images/CCE/2023/NE28.jpg"  style="width:700px;height:250px;float:center"><b>Growth Mindset statement banners for each level</b></td>
   </tr>
 	<tr>
 		<br>
-    <td><img src="/images/CCE/2023/NE29.png" style="width:320px;height:330px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE30.png"  style="width:320px;height:330px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE29.png" style="width:320px;height:330px;float:center"><b>Growth Mindset statement posters for all classes</b></td>
+    <td><img src="/images/CCE/2023/NE30.png"  style="width:320px;height:330px;float:center"><b>Growth Mindset stairway</b></td>
   </tr>
 </table>
 
