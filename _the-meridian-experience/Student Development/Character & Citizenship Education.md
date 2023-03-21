@@ -155,7 +155,7 @@ After a week of on the job training with the OSOs during recess, the students re
 <table style="width:100%">
 
   <tr>
-		<b>P5 - Cheering P6s on for PSLE <br> Designing of Motivational Posters</b>
+		<b>Social Skills posters and cards in the classrooms</b>
 		<br>
   </tr>
 	<tr>
