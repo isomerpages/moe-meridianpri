@@ -54,6 +54,9 @@ My Meridian Experience <br>
 	<tr>
     <td colspan="2"><img src="/images/CCE/2023/NE1.png"  style="width:350px;height:430px;float:center"></td>
   </tr>
+	<tr>
+    <td colspan="2"><center>P1 ECG Programme – Trip To The Zoo</center></td>
+  </tr>
 </table>
 
 
