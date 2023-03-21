@@ -227,5 +227,16 @@ After a week of on the job training with the OSOs during recess, the students re
   </tr>
 </table>
 
+<table style="width:100%">
+	<tr>
+		<br>
+    <td><img src="/images/CCE/2023/NE34.png" style="width:300px;height:330px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE35.png"  style="width:320px;height:330px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><p align = "justify">Termly CW Message and tips were provided for parents and posted on social media platforms as one form of home-school engagement on cyber wellness.</p></td>
+  </tr>
+</table>
+
 <p>For enquiries on the school’s CCE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
