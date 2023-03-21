@@ -44,21 +44,33 @@ Growth Mindset <br>
 My Meridian Experience <br>
 
 #### Photos for Education Career Guidance
+<br>
 
 <table style="width:100%">
 
   <tr>
+		<b>P1 ECG Programme – Trip To The Zoo</b>
+		<br>
     <td><img src="/images/CCE/2023/NE2.png" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2023/NE3.png"  style="width:380px;height:230px;float:center"></td>
   </tr>
 	<tr>
     <td colspan="2"><img src="/images/CCE/2023/NE1.png"  style="width:350px;height:430px;float:center"></td>
   </tr>
+</table>
+<br>
+<table style="width:100%">
+
+  <tr>
+		<b>P2 ECG Programme – Trip To The Fire Station</b>
+		<br>
+    <td><img src="/images/CCE/2023/NE4.png" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2023/NE5.png"  style="width:380px;height:230px;float:center"></td>
+  </tr>
 	<tr>
-    <td colspan="2"><center>P1 ECG Programme – Trip To The Zoo</center></td>
+    <td colspan="2"><img src="/images/CCE/2023/NE6.png"  style="width:350px;height:430px;float:center"></td>
   </tr>
 </table>
-
 
 
 <p>For enquiries on the school’s CCE Programme, please email:</p>
