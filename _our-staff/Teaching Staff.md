@@ -125,7 +125,7 @@ description: ""
 	<tr>
     <td>3 Teamwork</td>
     <td>Form Teacher</td>
-    <td>	<a href ="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Peony Wong Mau Tan</a><br>
+    <td>	<a href ="mailto:nurliyana_omar@moe.edu.sg">Miss Nurliyana binte Omar</a><br>
 			<a href ="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Jeyamohan Ramasami </a><br>
 		</td>
   </tr>
@@ -142,7 +142,7 @@ description: ""
     <td>4 Care</td>
     <td>Form Teacher</td>
     <td><a href ="mailto:lim_lee_yong@moe.edu.sg">Miss Debbie Lim Lee Yong </a><br>
-		<a href ="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah Bte Jamal</a></td>
+		<a href ="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah bte Jamal</a></td>
   </tr>
 	<tr>
     <td>4 Responsibility</td>
@@ -209,7 +209,7 @@ description: ""
     <td>6 Care</td>
     <td>Form Teacher</td>
     <td><a href ="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg">Miss Kirenjit Kaur</a><br>
-		<a href ="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah bte </a></td>
+		<a href ="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah</a></td>
   </tr>
   <tr>
     <td>6 Responsibility</td>
