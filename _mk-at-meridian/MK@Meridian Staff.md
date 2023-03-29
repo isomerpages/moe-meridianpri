@@ -29,43 +29,43 @@ description: ""
     <td><a href="mailto:erny_mohd_yazid@moe.edu.sg">Ms Erny Bte Mohd Yazid</a></td>
     <td>English Language Teacher</td>
   </tr>
-  <tr>
-    <td>
-			<a href="mailto:nurdiyanah_shafiee@moe.edu.sg">Ms Nurdiyanah Bte Shafiee</a></td>
+	<tr>
+    <td><a href="mailto:khairun_atika_kamsan@moe.edu.sg">Ms Khairun Atika Bte Kamsan</a></td>
     <td>English Language Teacher</td>
   </tr>
-	<tr>
+		<tr>
     <td><a href="mailto:nur_afini_khairudin@moe.edu.sg">Ms Nur Afini Bte Khairudin</a></td>
     <td>English Language Teacher</td>
 		
   </tr>
-	<tr>
+		<tr>
     <td><a href="mailto:nur_irfanah_norisham@moe.edu.sg">Mds Nur Irfanah Bte Norisham</a></td>
     <td>English Language Teacher</td>
   </tr>
 	<tr>
-    <td><a href="mailto:khairun_atika_kamsan@moe.edu.sg">Mr Khairun Atika Bte Kamsan</a></td>
+    <td><a href="mailto:nurul_hani_effandi@moe.edu.sg">Ms Nurul Hani Bte Effandi</a></td>
     <td>English Language Teacher</td>
   </tr>
-	<tr>
-    <td><a href="mailto:ling_min@moe.edu.sg">Mdm Ling Min</a></td>
-    <td>Chinese Language Teacher</td>
+  <tr>
+    <td>
+			<a href="mailto:nurdiyanah_shafiee@moe.edu.sg">Ms Nurdiyanah Bte Shafiee</a></td>
+    <td>English Language Teacher</td>
+	</tr>
+		<tr>
+    <td><a href="mailto:rachael_lee_yu_kee@moe.edu.sg">Ms Rachael Lee Yu Kee</a></td>
+    <td>English Language Teacher</td>
   </tr>
 	<tr>
     <td><a href="mailto:chen_li_hua@moe.edu.sg">Mdm Chen Li Hua</a></td>
     <td>Chinese Language Teacher</td>
   </tr>
 	<tr>
-    <td><a href="mailto:rachael_lee_yu_kee@moe.edu.sg">Ms Rachael Lee Yu Kee</a></td>
+    <td><a href="mailto:ling_min@moe.edu.sg">Mdm Ling Min</a></td>
     <td>Chinese Language Teacher</td>
   </tr>
 	<tr>
     <td><a href="mailto:ye_hong@moe.edu.sg">Mdm Ye Hong</a></td>
     <td>Chinese Language Teacher</td>
-  </tr>
-		<tr>
-    <td><a href="mailto:nurul_hani_effandi@moe.edu.sg">Ms Nurul Hani Bte Effandi</a></td>
-    <td>Malay Language Teacher</td>
   </tr>
 	<tr>
     <td><a href="mailto:mohamad_firdaus_moliadi@moe.edu.sg">Mr Mohd Firdaus Bin Moliadi</a></td>
@@ -73,6 +73,10 @@ description: ""
   </tr>
 	<tr>
     <td><a href="mailto:nurul_ainn_rostan@moe.edu.sg">Ms Nurul Ainn Binte Rostan</a></td>
+    <td>Malay Language Teacher</td>
+  </tr>
+		<tr>
+    <td><a href="mailto:nurul_ainn_rostan@moe.edu.sg">Mdm Nurfarhana Binte Sabtu</a></td>
     <td>Malay Language Teacher</td>
   </tr>
 	
