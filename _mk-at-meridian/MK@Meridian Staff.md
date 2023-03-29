@@ -20,20 +20,19 @@ description: ""
     <td>Centre Head</td>
    
   </tr>
-  <tr>
-    <td>
-			<a href="mailto:nurdiyanah_shafiee@moe.edu.sg">Ms Nurdiyanah Bte Shafiee</a></td>
-    <td>English Language Teacher</td>
-  </tr>
-	<tr>
-    <td><a href="mailto:erny_mohd_yazid@moe.edu.sg">Ms Erny Bte Mohd Yazid</a></td>
-    <td>English Language Teacher</td>
-		
-  </tr>
 	<tr>
     <td><a href="mailto:bong_swee_tiang_angeline@moe.edu.sg">Mdm Angeline Bong Swee Tiang</a></td>
     <td>English Language Teacher</td>
 		
+  </tr>
+	<tr>
+    <td><a href="mailto:erny_mohd_yazid@moe.edu.sg">Ms Erny Bte Mohd Yazid</a></td>
+    <td>English Language Teacher</td>
+  </tr>
+  <tr>
+    <td>
+			<a href="mailto:nurdiyanah_shafiee@moe.edu.sg">Ms Nurdiyanah Bte Shafiee</a></td>
+    <td>English Language Teacher</td>
   </tr>
 	<tr>
     <td><a href="mailto:nur_afini_khairudin@moe.edu.sg">Ms Nur Afini Bte Khairudin</a></td>
