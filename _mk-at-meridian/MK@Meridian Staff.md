@@ -76,8 +76,8 @@ description: ""
     <td>Malay Language Teacher</td>
   </tr>
 		<tr>
-    <td><a href="mailto:nurul_ainn_rostan@moe.edu.sg">Mdm Nurfarhana Binte Sabtu</a></td>
-    <td>Malay Language Teacher</td>
+    <td><a href="mailto:nurfarhana_sabtu@moe.edu.sg">Mdm Nurfarhana Binte Sabtu</a></td>
+    <td>FAJT</td>
   </tr>
 	
 </table>
