@@ -79,5 +79,9 @@ description: ""
     <td><a href="mailto:nurfarhana_sabtu@moe.edu.sg">Mdm Nurfarhana Binte Sabtu</a></td>
     <td>FAJT</td>
   </tr>
+	<tr>
+    <td><a href="mailto:pamela_peh_yi_ning@moe.edu.sg">Mdm Pamela Peh Yi Ning</a></td>
+    <td>FAJT</td>
+  </tr>
 	
 </table>
