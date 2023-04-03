@@ -48,6 +48,6 @@ third_nav_title: Assessment Matters
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRwhLyte_XhaO_27VDusGYhO5j2shsCenYFlmq66tyFiSUdLhZyQhVPnmDNJ1xphPksVKQMKk05EnNk/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="649" allowfullscreen="true"></iframe>
 
-<p style="text-align:center"><a href="/files/Communications/Assessment%20Plan/2023/2023%20P6%20Assessment%20Plan.pdf" target="_blank">Download Assessment Plan for Primary 6</a></p>
+<p style="text-align:center"><a href="/files/Communications/Assessment%20Plan/2023/2023%20p6%20assessment%20plan_updated.pdf" target="_blank">Download Assessment Plan for Primary 6</a></p>
 
 <hr>
