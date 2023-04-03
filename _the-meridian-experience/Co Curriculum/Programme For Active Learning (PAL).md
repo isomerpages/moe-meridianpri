@@ -157,7 +157,7 @@ PAL lessons are conducted on Fridays for 2 hours.  The schedule is as follow:
 </table>
 
 #### Reflection
-<p align = "justify">Students will be engaged in reflection at the end of every PAL lesson. This allows them to see their growth, strength, proud moments, and areas to improve on. At the end of each term, PAL teachers will identify students who best display our school values (i.e. Respect, Responsibility, Resilience, Care, Teamwork, Integrity) and present to them the Awecome cards which are uniquely designed by our school to recognize their positive behaviors.</p>
+<p align = "justify">Students will be engaged in reflection at the end of every PAL lesson. This allows them to see their growth, strength, proud moments, and areas to improve on. At the end of each term, PAL teachers will identify students who best display our school values (i.e. Respect, Responsibility, Resilience, Care, Teamwork, Integrity) and present to them the Awesome cards which are uniquely designed by our school to recognize their positive behaviors.</p>
 
 #### PAL in Action
 
