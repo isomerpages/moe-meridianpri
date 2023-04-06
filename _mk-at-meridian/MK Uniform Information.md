@@ -20,11 +20,9 @@ Sun &amp; Public Holiday: Closed
 
 <b><u>Beau Voix Uniform</u></b> <br>
 2 Sims Close #03-08 Gemini@Sims, Singapore 387298  
-Tel: 6743 6645 
-Online Purchase:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/) <br>
-Email: <a href="mailto:mk@jeepsinguniform.com">mk@jeepsinguniform.com</a>
+Tel: 6743 6645 <br>
+Website:&nbsp;[www.beauvoix.com](http://www.beauvoix.com/) <br>
+Email: <a href="mailto:info@beauvoix.com.sg">info@beauvoix.com.sg</a>
 
 <b><u>Opening Hours:</u> </b><br>
-Mon - Fri : 10am to 6pm  
-Sat: 10am to 2pm  
-Sun &amp; Public Holiday: Closed
+Mon - Fri : 10am to 5.30pm  
