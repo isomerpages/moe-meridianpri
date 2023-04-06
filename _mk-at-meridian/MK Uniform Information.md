@@ -25,4 +25,4 @@ Website:&nbsp;[www.beauvoix.com](http://www.beauvoix.com/) <br>
 Email: <a href="mailto:info@beauvoix.com.sg">info@beauvoix.com.sg</a>
 
 <b><u>Opening Hours:</u> </b><br>
-Mon - Fri : 10am to 5.30pm  
+Mon - Fri : 10am to 5.30pm
