@@ -40,7 +40,7 @@ third_nav_title: Assessment Matters
 
 <iframe allowfullscreen="true" height="649" width="860" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQwokZirg6vEw0lfzwLwpfsLZiJAiNfIvDVRhqHTKMe5pvQCYDU6nU4RfwFclv-cG_e8ZFobrdv1yFD/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-<p style="text-align:center"><a href="/files/Communications/Assessment%20Plan/2023/2023%20P5%20Assessment%20Plan.pdf" target="_blank">Download Assessment Plan for Primary 5</a></p>
+<p style="text-align:center"><a href="/files/Communications/Assessment%20Plan/2023/2023%20p5%20assessment%20plan_update.pdf" target="_blank">Download Assessment Plan for Primary 5</a></p>
 
 <hr>
 
