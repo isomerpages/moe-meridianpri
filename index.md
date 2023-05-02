@@ -24,7 +24,7 @@ sections:
   - infobar:
       title: Open House 2023
       description: <img src="/images/Home%20Page/OpenHouse/open%20house%20banner.JPG"
-        style="width:4500px; height:250px;">
+        style="width:5500px; height:350px;">
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/hA_11fdyWXk" title="YouTube video
