@@ -28,4 +28,7 @@ sections:
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
       title: "The Meridian Experience "
+  - infobar:
+      title: Open House 2023
+      description: <img src="/images/Home%20Page/OpenHouse/open%20house%20banner.JPG">
 ---
