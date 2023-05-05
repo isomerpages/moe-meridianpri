@@ -28,7 +28,10 @@ third_nav_title: Letter to Parents 2023
 		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/April/p6%20step%20out%20step%20up%20learning%20week%202023.pdf">P6 Step out Step up Learning Week 2023</a><font size="2"> (14 April 2023)</font>
 	</li>
 	<li>
-		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/April/student%20councillor%20meeting%202023.pdf">Termination of School Bus Service by ComfortDelGro</a><font size="2"> (26 April 2023)</font>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/April/termination%20of%20school%20bus%20service.pdf">Termination of School Bus Service by ComfortDelGro</a><font size="2"> (26 April 2023)</font>
+	</li>
+	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/April/student%20councillor%20meeting%202023.pdf">Student Councillor Meeting 2023</a><font size="2"> (26 April 2023)</font>
 	</li>
 	</ul>
 </details>
