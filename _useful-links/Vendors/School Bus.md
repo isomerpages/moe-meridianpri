@@ -16,12 +16,12 @@ third_nav_title: Vendors
     
   </tr>
   <tr>
-   <td>Shah</td>
+   <td>Shah (Managing Director)</td>
     <td>87206583</td>
 		<td><a href="mailto:shah@shanztransportation.com.sg">shah@shanztransportation.com.sg</a></td>
   </tr>
   <tr>
-    <td>Jun</td>
+    <td>Jun (Operation Manager)</td>
     <td>89500274</td>
 		<td><a href="mailto:info@shanztransportation.com.sg">info@shanztransportation.com.sg</a></td>
   </tr>
