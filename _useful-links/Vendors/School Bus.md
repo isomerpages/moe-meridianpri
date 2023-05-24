@@ -23,7 +23,7 @@ third_nav_title: Vendors
   <tr>
     <td>Jun</td>
     <td>89500274</td>
-		<td></td>
+		<td><a href="mailto:info@shanztransportation.com.sg">info@shanztransportation.com.sg</a></td>
   </tr>
 		
 </tbody></table>
