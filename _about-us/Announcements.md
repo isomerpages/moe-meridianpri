@@ -19,7 +19,7 @@ We are OPEN and happy to invite you over for a visit to experience what school i
 
 <p style="color:red;"><strong>3)&nbsp; &nbsp;   Updates on Vaping</strong></p>
 
-<p align="justify"> To raise awareness about the harms and consequences of vaping, we would like to share collaterals from the Health Promotion Board (HPB) with parents HPB’s on the illegality of vaping and its harms.&nbsp; Read here.
+<p align="justify"> To raise awareness about the harms and consequences of vaping, we would like to share collaterals from the Health Promotion Board (HPB) with parents HPB’s on the illegality of vaping and its harms. <a href="">Read here.</a>
 </p>
 
 <p style="color:red;"><strong>4)&nbsp; &nbsp;MK @ Meridian Open House</strong> [Event Over]</p>
