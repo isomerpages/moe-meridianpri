@@ -12,16 +12,20 @@ third_nav_title: Vendors
   <tbody><tr>
     <th>Name</th>
     <th>Contact No.</th>
+		<th>Email</th>
     
+  </tr>
+  <tr>
+   <td>Shah</td>
+    <td>87206583</td>
+		<td></td>
   </tr>
   <tr>
     <td>Jun</td>
     <td>89500274</td>
+		<td></td>
   </tr>
-  <tr>
-    <td>Shah</td>
-    <td>87206583</td>
-  </tr>
+		
 </tbody></table>
 
 Address:&nbsp;  
