@@ -30,6 +30,6 @@ third_nav_title: Vendors
 
 Address:&nbsp;  
 60 Paya Lebar Rd, #06-33<br>
-Singapore 409051<br>
+Paya Lebar Square, Singapore 409051<br>
 
 Website: <a href="https://shanztransportation.com.sg">https://shanztransportation.com.sg</a>
