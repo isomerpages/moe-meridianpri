@@ -9,7 +9,7 @@ description: ""
 <hr>
 <br>
 <table style="width:100%">
-	 <tr>
+	 <tbody><tr>
     <td><a href="mailto:azila_farhana_mohd_raus@moe.edu.sg">Ms Aliza Farhana Binti Mohd Raus</a></td>
     <td>Administrative Manager</td>
   </tr>
@@ -19,7 +19,7 @@ description: ""
   </tr>
   <tr>
     <td><a href="mailto:azzilawaty_abdullah@moe.edu.sg">Miss Azzilawaty Binte Abdullah</a></td>
-    <td>ICT Associate</td>
+    <td>ICT Manager</td>
   </tr>
 	<tr>
     <td><a href="mailto:aishah_sarian@moe.edu.sg">Mdm Aishah Bte Sarian</a></td>
@@ -57,4 +57,4 @@ description: ""
     <td><a href="">Mdm Peozisyah Bte Rashid</a></td>
     <td>Operations Support Officer (OSO)</td>
   </tr>
-</table>
+</tbody></table>
