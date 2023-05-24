@@ -27,6 +27,6 @@ third_nav_title: Resources For Parents
 		<li>2022 Joint Advisory by the Singapore Force, Central Narcotics Bureau, National Crime Prevention Council and National Council Against Drug Abuse <a href="/files/Communications/Resources%20for%20Parents/Joint%20Advisory%20Year%20End%202022.pdf" target="_blank">Link</a></li>  
 		<li>HPB HSA advisory in vaping <a href="/files/Communications/Resources%20for%20Parents/HPB%20HSA%20advisory%20on%20vaping.pdf" target="_blank">Link</a></li>
 			<li>Updating on Vaping <a href="/files/Communications/Resources%20for%20Parents/updatingonvaping%20_dm_(may%202023).pdf" target="_blank">Link</a></li>
+				<li>   Advisories from SPF, CNB, NCPC and NCAD <a href="/files/Communications/Resources%20for%20Parents/spf_cnb.pdf" target="_blank">Link</a></li>
  </ul>
 </ul>
-
