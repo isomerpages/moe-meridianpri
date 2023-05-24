@@ -6,7 +6,7 @@ description: ""
 <p style="color:red;"><strong>1)&nbsp; &nbsp;   Meridian Primary Open House</strong></p>
 
 <p align="justify">   Calling all parents with children attending Primary 1 in 2024 and 2025:<br>
-We are OPEN and happy to invite you over for a visit to experience what school is like in Meridian Primary.<br>Be our guest and bring along your child to take a walk and immerse yourselves in our school environment, engage in varying learning activities and have some good fun as a family on 8 July between 9am- 12pm. Register your interest at the link below:</p>
+We are OPEN and happy to invite you over for a visit to experience what school is like in Meridian Primary.<br>Be our guest and bring along your child to take a walk and immerse yourselves in our school environment, engage in varying learning activities and have some good fun as a family on 8 July between 9am- 12pm. Register your interest at the <a href="https://form.gov.sg/64227025b69f640012ffd9b6">link</a> below:</p>
 
 
 <p style="color:red;"><strong>3)&nbsp; &nbsp;MK @ Meridian Open House</strong> [Event Over]</p>
