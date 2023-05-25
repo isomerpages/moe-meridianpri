@@ -6,10 +6,30 @@ third_nav_title: Vendors
 ---
 **School Transportation Service Contact**
 
-**ComfortDelGro Bus Pte Ltd** 
+**SHANZ Transportation &amp; Services**
 
-205 Braddell Road Singapore 579701
+<table style="width:100%">
+  <tbody><tr>
+    <th>Name</th>
+    <th>Contact No.</th>
+		<th>Email</th>
+    
+  </tr>
+  <tr>
+   <td>Shah (Managing Director)</td>
+    <td>87206583</td>
+		<td><a href="mailto:shah@shanztransportation.com.sg">shah@shanztransportation.com.sg</a></td>
+  </tr>
+  <tr>
+    <td>Jun (Operation Manager)</td>
+    <td>89500274</td>
+		<td><a href="mailto:info@shanztransportation.com.sg">info@shanztransportation.com.sg</a></td>
+  </tr>
+		
+</tbody></table>
 
-Tel: 6553 3838 Fax: 6456 0922
+Address:&nbsp;  
+60 Paya Lebar Rd, #06-33<br>
+Paya Lebar Square, Singapore 409051<br>
 
-Website:&nbsp;[comfortdelgrobus.com.sg](http://comfortdelgrobus.com.sg/)
+Website: <a href="https://shanztransportation.com.sg">https://shanztransportation.com.sg</a>
