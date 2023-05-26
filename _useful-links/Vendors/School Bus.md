@@ -33,3 +33,5 @@ Address:&nbsp;
 Paya Lebar Square, Singapore 409051<br>
 
 Website: <a href="https://shanztransportation.com.sg">https://shanztransportation.com.sg</a>
+
+Register Bus for Meridian Primary School : <a href="https://shanztransportation.com.sg/register-bus-for-school/">Form</a>
