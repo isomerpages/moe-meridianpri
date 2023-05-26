@@ -33,3 +33,7 @@ Address:&nbsp;
 Paya Lebar Square, Singapore 409051<br>
 
 Website: <a href="https://shanztransportation.com.sg">https://shanztransportation.com.sg</a>
+
+
+<p>Closing date for registration is on <b><u>31 May 2023</u></b></p>
+Registration for School Bus Service: <br><a href="https://shanztransportation.com.sg/register-bus-for-school">https://shanztransportation.com.sg/register-bus-for-school</a>

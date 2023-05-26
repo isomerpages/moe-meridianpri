@@ -11,6 +11,12 @@ third_nav_title: Letter to Parents 2023
   <summary>May</summary>
 <ul>
 	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/May/invitation%20to%20meridian%20open%20house.pdf">Invitation Cards for Meridian Primary Open House</a><font size="2"> (11 May 2023)</font>
+	</li>
+	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/May/change%20of%20subject.pdf">Advisory Note on Change in Subject Combination</a><font size="2"> (12 May 2023)</font>
+	</li>
+	<li>
 		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/May/end%20of%20term%202%20letter%20to%20parents%202023%20final.pdf">End of Term 2 Letters to Parents</a><font size="2"> (24 May 2023)</font>
 	</li>
 	</ul>
