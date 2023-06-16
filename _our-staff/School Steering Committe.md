@@ -11,7 +11,7 @@ description: ""
 ### School Leaders
 
 <table style="width:100%">
-  <tr>
+  <tbody><tr>
   </tr>
   <tr>
     <td><a href="mailto:meridian_ps@moe.edu.sg">Ms Liza Rahmat</a></td>
@@ -28,12 +28,12 @@ description: ""
 		
   </tr>
 	
-</table>
+</tbody></table>
 
 ### Year Heads/Assistant Year Heads
 
 <table style="width:100%">
-  <tr>
+  <tbody><tr>
   </tr>
   <tr>
     <td><a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Tang Tsin Ray </a></td>
@@ -55,12 +55,12 @@ description: ""
     <td>Assistant Year Head P6</td>
   </tr>
 	
-</table>
+</tbody></table>
 
 #### Heads of Department/Subject Heads/Level Head
 
 <table style="width:100%">
-  <tr>
+  <tbody><tr>
   </tr>
   <tr>
     <td><a href="mailto:neo_jia_hwee@moe.edu.sg">Ms Charlotte Neo Jia Hwee</a></td>
@@ -89,7 +89,7 @@ description: ""
   </tr>
 	<tr>
     <td><a href="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng</a></td>
-    <td>HOD/Information & Communications Technology</td>
+    <td>HOD/Information &amp; Communications Technology</td>
 	</tr>
 	<tr>
 	<td><a href="mailto:yeo_kim_chiau_benjamin@moe.edu.sg">Mr Benjamin Yeo Kin Chiau</a></td>
@@ -109,20 +109,20 @@ description: ""
   </tr>
 	<tr>
     <td><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah bte Md Nasir</a></td>
-    <td>Subject Head Malay (Covering)</td>
+    <td>Subject Head Malay</td>
   </tr>
 	<tr>
     <td><a href="mailto:noor_heryanti_abd_karim@moe.edu.sg">Mdm Noor Heryanti Abd Karim</a></td>
-    <td>Subject Head Maths (Covering)</td>
+    <td>Subject Head Maths</td>
   </tr>
 	
-</table>
+</tbody></table>
 
 ### Executive and Administrative Staff
 
 
 <table style="width:100%">
-  <tr>
+  <tbody><tr>
     <td><a href="mailto:aliza_farhana_mohd_raus@moe.edu.sg">Ms Aliza Farhana Binti Mohd Raus</a></td>
     <td>Administrative Manager</td>
     
@@ -132,4 +132,4 @@ description: ""
     <td>Operations Manager</td>
   </tr>
 	
-</table>
+</tbody></table>
