@@ -113,7 +113,7 @@ description: ""
   </tr>
 	<tr>
     <td><a href="mailto:noor_heryanti_abd_karim@moe.edu.sg">Mdm Noor Heryanti Abd Karim</a></td>
-    <td>Subject Head Maths</td>
+    <td>Level Head Maths</td>
   </tr>
 	
 </tbody></table>
