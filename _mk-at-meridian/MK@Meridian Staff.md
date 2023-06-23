@@ -11,7 +11,7 @@ description: ""
 -----------------
 
 <table style="width:100%">
-  <tr>
+  <tbody><tr>
 		<th>Name</th>
 		<th>Designation</th>
   </tr>
@@ -76,6 +76,10 @@ description: ""
     <td>Malay Language Teacher</td>
   </tr>
 		<tr>
+    <td><a href="mailto:murugesan_madhumitha@moe.edu.sg">Ms Murugesan Madhumitha</a></td>
+    <td>Tamil Language Teacher</td>
+  </tr>
+		<tr>
     <td><a href="mailto:nurfarhana_sabtu@moe.edu.sg">Mdm Nurfarhana Binte Sabtu</a></td>
     <td>FAJT</td>
   </tr>
@@ -84,4 +88,4 @@ description: ""
     <td>FAJT</td>
   </tr>
 	
-</table>
+</tbody></table>
