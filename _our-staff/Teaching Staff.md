@@ -252,6 +252,9 @@ description: ""
 	<tr>
     <td><a href="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng (HOD/ICT)</a></td>
   </tr>
+		<tr>
+    <td><a href="mailto:lester_ting_huong_san@moe.edu.sg">Mr Lester Huong San(FAJT)</a></td>
+  </tr>
 	<tr>
     <td><a href="mailto:lim_chee_ming@moe.edu.sg">Mr Lim Chee Ming (FAJT)</a></td>
   </tr>
