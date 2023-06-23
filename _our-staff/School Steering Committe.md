@@ -105,7 +105,7 @@ description: ""
   </tr>
 	<tr>
     <td><a href="mailto:vasanthi_mahalinggam@moe.edu.sg">Mdm Vasanthi d/o Mahalinggam</a></td>
-    <td>Subject Head English (Covering)</td>
+    <td>Level English (Covering)</td>
   </tr>
 	<tr>
     <td><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah bte Md Nasir</a></td>
