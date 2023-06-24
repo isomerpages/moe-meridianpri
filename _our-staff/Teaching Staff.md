@@ -125,7 +125,8 @@ description: ""
 	<tr>
     <td>3 Teamwork</td>
     <td>Form Teacher</td>
-    <td>	<a href="mailto:nurliyana_omar@moe.edu.sg">Miss Nurliyana binte Omar</a><br>
+    <td><a href="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Peony Wong</a><br>
+			<a href="mailto:nurliyana_omar@moe.edu.sg">Miss Nurliyana binte Omar</a><br>
 			<a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Jeyamohan Ramasami </a><br>
 		</td>
   </tr>
@@ -250,6 +251,9 @@ description: ""
   </tr>
 	<tr>
     <td><a href="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng (HOD/ICT)</a></td>
+  </tr>
+		<tr>
+    <td><a href="mailto:lester_ting_huong_san@moe.edu.sg">Mr Lester Huong San(FAJT)</a></td>
   </tr>
 	<tr>
     <td><a href="mailto:lim_chee_ming@moe.edu.sg">Mr Lim Chee Ming (FAJT)</a></td>

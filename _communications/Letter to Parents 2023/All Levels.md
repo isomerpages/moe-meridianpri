@@ -6,7 +6,14 @@ third_nav_title: Letter to Parents 2023
 ---
 #### Letter to All Parents 2023
 
-
+<details>
+  <summary>June</summary>
+<ul>
+	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/June/triple%20p%20l2%20seminar%20for%20pri%201-6.pdf">Triple P L2 Seminars for Primary 1-6</a><font size="2"> (23 June 2023)</font>
+	</li>
+	</ul>
+</details>
 <details>
   <summary>May</summary>
 <ul>
