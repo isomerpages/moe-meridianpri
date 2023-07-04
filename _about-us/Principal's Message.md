@@ -7,7 +7,7 @@ description: ""
 
 <table>
   <tbody><tr>
-    <td><br><br><br><br><br><img style="width:5490px; float:left" src="/images/About%20As/Liza%20Rahmat%20MPS.jpg"></td>
+    <td><br><br><br><br><img style="width:5490px; float:left" src="/images/About%20As/Liza%20Rahmat%20MPS.jpg"></td>
     <td><p align="justify"><br> At the start of each year, as part of our ‘Start Right, Start Bright’ Programme, I share my wish for Meridian Primary to our children. I wish for Meridian Primary to be a school where every child and adult feel welcomed, safe, cared for, respected, and empowered! My team and I are committed to ensuring that Meridian Primary is a caring and enabling school that provides varied opportunities, experiences, and support for our children to flourish so that they can become the very best that they can be.</p>
 		</td>
   </tr>
