@@ -1,5 +1,5 @@
 ---
-title: School Steering Committe
+title: School Steering Committee
 permalink: /our-staff/school-steering-committee/
 description: ""
 ---
