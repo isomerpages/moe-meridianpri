@@ -8,7 +8,7 @@ description: ""
 <table>
   <tbody><tr>
     <td><img style="width:4490px; float:left" src="/images/About%20As/Liza%20Rahmat%20MPS.jpg"></td>
-    <td><p align="justify"><br>At the start of each year, as part of our ‘Start Right, Start Bright’ Programme, I share my wish for Meridian Primary to our children. I wish for Meridian Primary to be a school where every child and adult feel welcomed, safe, cared for, respected, and empowered!</p>
+    <td><p align="justify"><br><br>At the start of each year, as part of our ‘Start Right, Start Bright’ Programme, I share my wish for Meridian Primary to our children. I wish for Meridian Primary to be a school where every child and adult feel welcomed, safe, cared for, respected, and empowered!</p>
 		</td>
   </tr>
 	</tbody></table>
