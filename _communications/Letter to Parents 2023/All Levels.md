@@ -15,6 +15,9 @@ third_nav_title: Letter to Parents 2023
 	<li>
 		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/July/preliminary%20oral%20examinations%202023.pdf">Preliminary Oral Examinations 2023</a><font size="2"> (7 July 2023)</font>
 	</li>
+	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/July/updates%20to%20project%20boost-%20after%20school%20programme%20for%20p4%20students.pdf">Updates to Project Boost- After School Programme for P4 Students</a><font size="2"> (10 July 2023)</font>
+	</li>
 	</ul>
 </details>
 <details>
