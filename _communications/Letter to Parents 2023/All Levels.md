@@ -10,7 +10,10 @@ third_nav_title: Letter to Parents 2023
   <summary>July</summary>
 <ul>
 	<li>
-		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/June/triple%20p%20l2%20seminar%20for%20pri%201-6.pdf">Triple P L2 Seminars for Primary 1-6</a><font size="2"> (23 June 2023)</font>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/July/chinese%20musical%20performance.pdf">Chinese Musical Performance</a><font size="2"> (6 July 2023)</font>
+	</li>
+	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/July/preliminary%20oral%20examinations%202023.pdf">Preliminary Oral Examinations 2023</a><font size="2"> (7 July 2023)</font>
 	</li>
 	</ul>
 </details>
