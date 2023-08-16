@@ -13,6 +13,14 @@ third_nav_title: Letter to Parents 2023
 	</ul>
 </details>
 <details>
+  <summary>July</summary>
+<ul>
+	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/July/preliminary%20oral%20examinations%202023.pdf">Preliminary Oral Examinations 2023</a><font size="2"> (7 July 2023)</font>
+	</li>
+	</ul>
+</details>
+<details>
   <summary>March</summary>
 <ul>
 	<li>
