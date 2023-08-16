@@ -27,6 +27,9 @@ third_nav_title: Letter to Parents 2023
 	<li>
 		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/July/national%20day(25%20july).pdf">National Day Celebration</a><font size="2"> (25 July 2023)</font>
 	</li>
+	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/July/meridian%20got%20talent(28%20july%202023).pdf">Meridian's Got Talent Audition 2023</a><font size="2"> (28 July 2023)</font>
+	</li>
 	</ul>
 </details>
 <details>
