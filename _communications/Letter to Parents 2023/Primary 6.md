@@ -21,6 +21,14 @@ third_nav_title: Letter to Parents 2023
 	</ul>
 </details>
 <details>
+  <summary>April</summary>
+<ul>
+	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/April/p6%20step%20out%20step%20up%20learning%20week%202023.pdf">P6 Step out Step up Learning Week 2023</a><font size="2"> (14 April 2023)</font>
+	</li>
+	</ul>
+</details>
+<details>
   <summary>March</summary>
 <ul>
 	<li>
