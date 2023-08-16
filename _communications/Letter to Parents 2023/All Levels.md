@@ -24,6 +24,9 @@ third_nav_title: Letter to Parents 2023
 	<li>
 		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/July/digitalaccess(17%20july%2023).pdf">DigitalAccess@Home Scheme</a><font size="2"> (17 July 2023)</font>
 	</li>
+	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/July/national%20day(25%20july).pdf">National Day Celebration</a><font size="2"> (25 July 2023)</font>
+	</li>
 	</ul>
 </details>
 <details>
