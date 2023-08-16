@@ -5,6 +5,17 @@ description: ""
 third_nav_title: Letter to Parents 2023
 ---
 <details>
+  <summary>August</summary>
+<ul>
+	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/Aug/p5%20fbl(4%20aug).pdf">P5 Field-based Learning (FBL) at National Museum of Singapore</a><font size="2"> (4 August 2023)</font>
+	</li>
+	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/Aug/p4&amp;5%20swimsafer(11%20aug).pdf">Primary 4&amp;5 SwimSafer Test 2023</a><font size="2"> (11 August 2023)</font>
+	</li>
+	</ul>
+</details>
+<details>
   <summary>July</summary>
 <ul>
 	<li>
