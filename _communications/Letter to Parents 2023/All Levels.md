@@ -18,6 +18,12 @@ third_nav_title: Letter to Parents 2023
 	<li>
 		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/July/updates%20to%20project%20boost-%20after%20school%20programme%20for%20p4%20students.pdf">Updates to Project Boost- After School Programme for P4 Students</a><font size="2"> (10 July 2023)</font>
 	</li>
+	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/July/p5learningjourney(14%20july).pdf">P5 Learning Journey To Science Center Singapore</a><font size="2"> (14 July 2023)</font>
+	</li>
+	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/July/digitalaccess(17%20july%2023).pdf">DigitalAccess@Home Scheme</a><font size="2"> (17 July 2023)</font>
+	</li>
 	</ul>
 </details>
 <details>
