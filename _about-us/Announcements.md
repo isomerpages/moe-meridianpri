@@ -5,9 +5,7 @@ description: ""
 ---
 <p style="color:red;"><strong>1)&nbsp; &nbsp;Teachers' Day Celebration 2023!</strong></p>
 
-<p align="justify">We are celebrating Teachers’ Day on 31 Aug this year! We know you have messages and words of appreciation for your teachers and staff for their heart-work and hard work! We have specially created a digital <a href="https://go.gov.sg/teachersday2023">Gratitude Wall</a> just for you to do that! Your teachers would be most happy to receive your messages for them!<br>
-
-A shout out to our alumni! Many of you would like to visit your teachers on this special occasion. Good news - we will be opening our ISH1, on 31 Aug, Thursday, from 11am to 12pm for you to catch up with your teachers! Do come in your current school uniform via our Orange Gate! We look forward to seeing you that day! <br>#Teachersday2023 &nbsp; #MPSfamily</p>
+<p align="justify">We are celebrating Teachers’ Day on 31 Aug this year! We know you have messages and words of appreciation for your teachers and staff for their heart-work and hard work! We have specially created a digital <a href="https://go.gov.sg/teachersday2023">Gratitude Wall</a> just for you to do that! Your teachers would be most happy to receive your messages for them!<br>A shout out to our alumni! Many of you would like to visit your teachers on this special occasion. Good news - we will be opening our ISH1, on 31 Aug, Thursday, from 11am to 12pm for you to catch up with your teachers! Do come in your current school uniform via our Orange Gate! We look forward to seeing you that day! <br>#Teachersday2023 &nbsp; #MPSfamily</p>
 
 <p style="color:red;"><strong>2)&nbsp; &nbsp;Meridian Primary Open House</strong> [Event Over]</p>
 
