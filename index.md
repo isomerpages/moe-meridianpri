@@ -22,7 +22,7 @@ sections:
           description: ""
           url: https://www.meridianpri.moe.edu.sg/the-meridian-experience/student-development/sexuality-education/
   - infobar:
-      title: Teachers' Day Celebration 2023!
+      title: Teachers' Day 2023!
       description: <img src="/images/Home%20Page/teachersday.jpeg"
         style="width:1050px; height:400px;">
   - infobar:
