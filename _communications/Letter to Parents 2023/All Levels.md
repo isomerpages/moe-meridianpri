@@ -18,6 +18,9 @@ third_nav_title: Letter to Parents 2023
 	<li>
 		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/Aug/p4&amp;5%20swimsafer(11%20aug).pdf">Primary 4&amp;5 SwimSafer Test 2023</a><font size="2"> (11 August 2023)</font>
 	</li>
+	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/Aug/end%20of%20term%203%20letter%20to%20parents%202023%2030%20aug%202023%20.pdf">End of Term 3 to Parents 2023</a><font size="2"> (30 August 2023)</font>
+	</li>
 	</ul>
 </details>
 <details>
