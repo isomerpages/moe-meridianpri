@@ -6,7 +6,7 @@ third_nav_title: Home Based Learning
 ---
 Dear P6 Students  
   
-Please select class from the drop-down menu below to retrieve your class Revision Plans.
+Please select class from the list below to retrieve your class Revision Plans.
 
 <b>For&nbsp;Study Break from 25 to 27 Sep 2023</b>
  
