@@ -15,7 +15,6 @@ Please select class from the drop-down menu below to retrieve your class Revisio
 <th style="width: 178px;">
   <p style="text-align: left;">Primary 6:</p>
   <select id="select">
- 
   <option value="">Class</option>
 		    <option value="6CA">6CA</option>
   <option value="/qql/slot/u143/Home Based Learning/2022/Sept/P5 RB HBL_29 Sep 2022.pdf">6RB</option>
