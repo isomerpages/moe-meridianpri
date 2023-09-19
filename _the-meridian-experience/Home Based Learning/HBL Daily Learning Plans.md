@@ -13,15 +13,13 @@ Please select class from the drop-down menu below to retrieve your class Revisio
 <table>
 <tbody><tr>
 <th style="width: 178px;">
-  <p style="text-align: left;">Primary 6:</p>
-  <select id="select">
-  <option value="">Class</option>
-		    <option value="6CA">6CA</option>
-  <option value="/qql/slot/u143/Home Based Learning/2022/Sept/P5 RB HBL_29 Sep 2022.pdf">6RB</option>
-  <option value="/qql/slot/u143/Home Based Learning/2022/Sept/P5 RS HBL_29 Sep 2022.pdf">6RS</option>
-  <option value="/qql/slot/u143/Home Based Learning/2022/Sept/P5 RT HBL_29 Sep 2022.pdf">6RT</option>
-  
-  </select>
-</th>
-</tr>
-</tbody></table>
+  <p style="text-align: left;">Primary 6: <br>
+</p><ul>	
+	<li>
+<a href="https://staging.dwna1etcg5x8g.amplifyapp.com/the-meridian-experience/home-based-learning/hbl-daily-learning-plans/">6CA</a></li>
+<li><a href="https://staging.dwna1etcg5x8g.amplifyapp.com/the-meridian-experience/home-based-learning/hbl-daily-learning-plans/">6RB</a></li>
+<li><a href="https://staging.dwna1etcg5x8g.amplifyapp.com/the-meridian-experience/home-based-learning/hbl-daily-learning-plans/">6RS</a></li>
+<li><a href="https://staging.dwna1etcg5x8g.amplifyapp.com/the-meridian-experience/home-based-learning/hbl-daily-learning-plans/">6RT</a></li>
+	<p></p>
+	</ul>
+  </th></tr></tbody></table>
