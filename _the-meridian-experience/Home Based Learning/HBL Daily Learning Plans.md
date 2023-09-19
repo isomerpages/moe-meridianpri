@@ -4,16 +4,16 @@ permalink: /the-meridian-experience/home-based-learning/hbl-daily-learning-plans
 description: ""
 third_nav_title: Home Based Learning
 ---
-Dear Students  
+Dear P6 Students  
   
-Please select class from the drop-down menu below to retrieve your class' HBL Learning Plans
+Please select class from the drop-down menu below to retrieve your class Revision Plans.
 
-<b>For&nbsp;HBL on 29 September 2022</b>
+<b>For&nbsp;Studty Break from 25 to 27 Sep 2023</b>
  
 <table>
 <tbody><tr>
 <th style="width: 178px;">
-  <p style="text-align: left;">Primary 5:</p>
+  <p style="text-align: left;">Primary 6:</p>
   <select id="select">
  
   <option value="">Class</option>
