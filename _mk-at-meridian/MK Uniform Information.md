@@ -21,7 +21,7 @@ Sun &amp; Public Holiday: Closed
 <b><u>Beau Voix Uniform</u></b> <br>
 2 Sims Close #03-08 Gemini@Sims, Singapore 387298  
 Tel: 6743 6645 <br>
-Website:&nbsp;[www.beauvoix.com](http://www.beauvoix.com/) <br>
+Website:&nbsp;[www.beauvoix.com.sg](http://www.beauvoix.com.sg/) <br>
 Email: <a href="mailto:info@beauvoix.com.sg">info@beauvoix.com.sg</a>
 
 <b><u>Opening Hours:</u> </b><br>
