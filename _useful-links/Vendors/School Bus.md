@@ -18,19 +18,19 @@ third_nav_title: Vendors
   <tr>
    <td>Shah (Managing Director)</td>
     <td>87206583</td>
-		<td><a href="mailto:shah@shanztransportation.com.sg">shah@shanztransportation.com.sg</a></td>
+		<td><a href="mailto:meridian@shanztransportation.com.sg">meridian@shanztransportation.com.sg</a></td>
   </tr>
   <tr>
     <td>Jun (Operation Manager)</td>
     <td>89500274</td>
-		<td><a href="mailto:info@shanztransportation.com.sg">info@shanztransportation.com.sg</a></td>
+		<td><a href="mailto:meridian@shanztransportation.com.sg">meridian@shanztransportation.com.sg</a></td>
   </tr>
 		
 </tbody></table>
 
 Address:&nbsp;  
-60 Paya Lebar Rd, #06-33<br>
-Paya Lebar Square, Singapore 409051<br>
+228 Changi Road, #01-05<br>
+icon@Changi, Singapore 419741<br>
 
 Website: <a href="https://shanztransportation.com.sg">https://shanztransportation.com.sg</a>
 
