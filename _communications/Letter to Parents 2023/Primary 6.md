@@ -8,7 +8,7 @@ third_nav_title: Letter to Parents 2023
   <summary>October</summary>
 <ul>
 	<li>
-		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Primary%206/Oct/post-psle%20programme%20parents%20letter.pdf">P6 Post-PSLE Programme</a><font size="2"> (12 September 2023)</font>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Primary%206/Oct/post-psle%20programme%20parents%20letter.pdf">P6 Post-PSLE Programme</a><font size="2"> (5 October 2023)</font>
 	</li>
 	</ul>
 </details>
