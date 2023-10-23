@@ -48,6 +48,7 @@ Tel: 6585 1337</td>
 </tbody></table>
 
 ##### 2024 Family Handbook
-<p>Please click here or the image to view 2024 Family Handbook</p>
+<p>Please click <a href="/files/MK/2023/mk%20family%20handbook%202023%20final.pdf">here</a> or the image to view 2024 Family Handbook</p>
 
 <img style="width:450px;height:500px;" src="/images/MK@Meridian/2023/family%20handbook.png">
+
