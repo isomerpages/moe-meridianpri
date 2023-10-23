@@ -16,7 +16,7 @@ description: ""
 		<th>Designation</th>
   </tr>
   <tr>
-    <td><a href="mailto:jamie_TAN@moe.edu.sg">Ms Jamie Tan</a></td>
+    <td><a href="mailto:jamie_tan@schools.gov.sg">Ms Jamie Tan</a></td>
     <td>Centre Head</td>
    
   </tr>
