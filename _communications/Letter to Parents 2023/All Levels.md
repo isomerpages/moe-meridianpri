@@ -10,6 +10,9 @@ third_nav_title: Letter to Parents 2023
   <summary>October</summary>
 <ul>
 	<li>
+		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/2024%20p1%20form.pdf">Administra Matters for Primary One (Year 2024)</a><font size="2"> (19 October 2023)</font>
+	</li>
+	<li>
 		<a href="/files/Communications/Letters%20to%20All%20Parents%202023/Primary%206/Oct/post-psle%20programme%20parents%20letter.pdf">P6 Post-PSLE Programme</a><font size="2"> (5 October 2023)</font>
 	</li>
 	</ul>
