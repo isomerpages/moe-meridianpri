@@ -2,6 +2,7 @@
 title: School Steering Committee
 permalink: /our-staff/school-steering-committee/
 description: ""
+variant: markdown
 ---
 ![](/images/Our%20Staff/2022%20Dept%20Photo/STEERING%20COMMITTEE.jpg)
 
@@ -112,7 +113,7 @@ description: ""
     <td>Subject Head Malay</td>
   </tr>
 	<tr>
-    <td><a href="mailto:noor_heryanti_abd_karim@moe.edu.sg">Mdm Noor Heryanti Abd Karim</a></td>
+    <td><a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Noor Heryanti Abd Karim</a></td>
     <td>Level Head Maths</td>
   </tr>
 	
