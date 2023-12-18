@@ -6,23 +6,23 @@ description: ""
 third_nav_title: Prize Giving Day 2023
 ---
 <h3>Photos</h3>
-![]()
+
 <table style="width:100%">
 	<tbody><tr>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/1CA.png" width="10">P1 Care</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/1CA.png" width="20">P1 Care</a></td>
         <td style="text-align:center"><a href="">
 	<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/1IN.png" width="20">P1 Integrity</a></td>
         <td style="text-align:center"><a href="">
-	<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/1RS.jpg" width="20">P1 Resilience</a></td>
+	<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/1RS.png" width="20">P1 Resilience</a></td>
     </tr>
     <tr>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/1TW.jpg" width="20">P1 Teamwork</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/1TW.png" width="20">P1 Teamwork</a></td>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2CA.jpg" width="20">P2 Care</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/1RB.png" width="20">P1 Responsibility</a></td>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2IN.jpg" width="20">P2 Integrity</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/1RT.png" width="20">P1 Respect</a></td>
     </tr>
 	<tr>
         <td style="text-align:center"><a href="">
