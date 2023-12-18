@@ -2,8 +2,6 @@ collections:
   the-meridian-experience:
     output: true
     order:
-      - Prize Giving Day 2023/P1 & P2 Prize Giving Day 2023.md
-      - Prize Giving Day 2023/.keep
       - 20th Anniversary.md
       - Signature Programmes/.keep
       - Signature Programmes/Applied Learning Programme (ALP).md
@@ -38,6 +36,8 @@ collections:
       - Prize Giving Day 2022/.keep
       - Prize Giving Day 2022/P1 & P2 Prize Giving Day 2022.md
       - Prize Giving Day 2022/P3 to P6 Prize Giving Day 2022.md
+      - Prize Giving Day 2023/.keep
+      - Prize Giving Day 2023/P1 & P2 Prize Giving Day 2023.md
       - Home Based Learning/.keep
       - Home Based Learning/Home Based Learning.md
       - Home Based Learning/HBL Daily Learning Plans.md
