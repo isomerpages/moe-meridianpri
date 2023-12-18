@@ -26,15 +26,15 @@ third_nav_title: Prize Giving Day 2023
     </tr>
 	<tr>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2RB.jpg" width="20">P2 Care</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/2CA.png" width="20">P2 Care</a></td>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2RS.jpg" width="20">P2 Integrity</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/2IN.png" width="20">P2 Integrity</a></td>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2RT.jpg" width="20">P2 Resilience</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/2RS.png" width="20">P2 Resilience</a></td>
     </tr>
 	<tr>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P1%20to%20P2%20Prize%20Giving%202022/2TW.jpg" width="20">P2 Teamwork</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/2TW.png" width="20">P2 Teamwork</a></td>
         <td></td>
         <td></td>
     </tr>
