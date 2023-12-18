@@ -10,9 +10,9 @@ third_nav_title: Prize Giving Day 2023
 <table style="width:100%">
 	<tbody><tr>
         <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipOwnWwSdI1eZueO4tFG2zYPDW_gN7QP5QdCuWwiMqH6A0EzGBX4kphidIXQfsH7jA/photo/AF1QipOQUrVn3UMXaf_SOG4qMGMmyJ5D7D-BLg4koudB?key=b0NwV2FrTnVPNWRZbWlPNjlHQjM5UFlRSWNqMzNB">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/3CA.jpg" width="20">P3 Care</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/3Care.png" width="20">P3 Care</a></td>
         <td style="text-align:center"><a href="https://photos.google.com/u/1/share/AF1QipMt9h0f1IKOMXra0s5ls8nvabiZ4i_-nBho44x6hrd2kdpEYA26RODjTe1dxfv79g/photo/AF1QipNwT39cRFSq8ahdaEMP8CuoqcZqtCyBRzH9jq4I?key=Yl9zTEpRN1dTa3NkUDVMM1NPZWlHOFdEVmNBaG9R">
-	<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/3RB.jpg" width="10">P3 Responsibility</a></td>
+	<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/3RB.png" width="10">P3 Responsibility</a></td>
         <td style="text-align:center"><a href="https://photos.google.com/u/1/share/AF1QipOdVjsS4lkaBGE92wEawBrLi5HVAxzXWLuDN7Z3D7qBqS9Kx7TC-aBw4hVeelNsNA/photo/AF1QipNcdvRY2l_pA46xOgeYYr7NtbQrkmRdU-k5GdFf?key=T255WkNldjBBcUtWd3A1LWVJSlJVNEkyYk94QjBR">
 	<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/3RS.jpg" width="20">P3 Resilience</a></td>
     </tr>
