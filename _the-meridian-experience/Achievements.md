@@ -40,4 +40,6 @@ The students' achievements would not be possible without the support and encoura
 <img src="/images/The%20Meridian%20Experience/Achievements/CCA_Photography_2___28_Aug_2022.jpg" style="width:450px;height:250px;float:center">
 <br><br>
 <img src="/images/The%20Meridian%20Experience/Achievements/CCA_Photography_3___28_Aug_2022.jpg" style="width:450px;height:250px;float:center">
+<br><br>
+<img src="/images/The%20Meridian%20Experience/Achievements/CCA_Photography_4___28_Aug_2022.jpg" style="width:450px;height:250px;float:center">
 </details>
