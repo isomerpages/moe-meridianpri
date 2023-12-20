@@ -46,19 +46,19 @@ third_nav_title: Prize Giving Day 2023
         <td style="text-align:center"><a href="">
 					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/6CA.png" width="20">P6 Care</a></td>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/6RT.jpg" width="20">P6 Respect</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/6RS.png" width="20">P6 Resilience</a></td>
     </tr>
 	<tr>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/6TW.jpg" width="20">P6 Teamwork</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/6RT.png" width="20">P6 Respect</a></td>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/Colours Award.jpg" width="20">Colours Award</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/6RB.png" width="20">P6 Responsibility</a></td>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/6RT.jpg" width="20">SYF Award</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/Model_Student.png" width="20">Model Student Award</a></td>
     </tr>
 	<tr>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/SPSSC.jpg" width="20">SPSSC<br>Sportsmanship<br>Award</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/Colours_Award.png" width="20">Colours Award</a></td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
