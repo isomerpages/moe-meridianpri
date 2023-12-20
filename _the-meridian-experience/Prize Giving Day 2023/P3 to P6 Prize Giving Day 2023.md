@@ -12,17 +12,17 @@ third_nav_title: Prize Giving Day 2023
         <td style="text-align:center"><a href="">
 					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/3Care.png" width="20">P3 Care</a></td>
         <td style="text-align:center"><a href="">
-	<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/3RB.png" width="10">P3 Responsibility</a></td>
+	<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/3IN.png" width="10">P3 Integrity</a></td>
         <td style="text-align:center"><a href="">
-	<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/3RS.jpg" width="20">P3 Resilience</a></td>
+	<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/3RS.png" width="20">P3 Resilience</a></td>
     </tr>
     <tr>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/4CA.jpg" width="20">P4 Care</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/3RB.png" width="20">P3 Responsibility</a></td>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/4IN.jpg" width="20">P4 Integrity</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/3TW.png" width="20">P3 Teamwork</a></td>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/4RB.jpg" width="20">P4 Responsibility</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/4CA.png" width="20">P4 Care</a></td>
     </tr>
 	<tr>
         <td style="text-align:center"><a href="">
