@@ -59,7 +59,8 @@ third_nav_title: Prize Giving Day 2023
 	<tr>
         <td style="text-align:center"><a href="">
 					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/Colours_Award.png" width="20">Colours Award</a></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="">
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/Spssc.png" width="20">SPSSC <br>Sportsmanship<br> Award</a></td>
         <td style="text-align:center"></td>
     </tr>
 </tbody></table>
