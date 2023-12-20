@@ -6,8 +6,10 @@ variant: markdown
 ---
 <details>
   <summary>2023</summary>
-	<p>test</p>
-	<p>test2</p>
+	<h4>Academic</h4>
+	<h5>Wits and Words National Debate Competition</h5>
+	<p align="justify">Our P5 Team Meridian Debaters have won both Round 1 &amp; Round 2 of the Wits and Words National Debate Competition! The team members demonstrated resilience, teamwork &amp; good sportsmanship. Go Team Meridian! You do us Proud.</p>
+	      <img src="/images/The%20Meridian%20Experience/Achievements/2023_Debate_Team.jpg" style="width:480px;height:350px;float:center">
 	<br>
 </details>
 <details>
