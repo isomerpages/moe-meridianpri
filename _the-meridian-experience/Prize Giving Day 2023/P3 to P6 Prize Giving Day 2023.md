@@ -26,25 +26,25 @@ third_nav_title: Prize Giving Day 2023
     </tr>
 	<tr>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/4RS.jpg" width="20">P4 Resilience</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/4RS.png" width="20">P4 Resilience</a></td>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/4RT.jpg" width="20">P4 Respect</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/4RB.png" width="20">P4 Responsibility</a></td>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/5CA.jpg" width="20">P5 Care</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/5CA.png" width="20">P5 Care</a></td>
     </tr>
 	<tr>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/5RB.jpg" width="20">P5 Responsibility</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/5IN.png" width="20">P5 Integrity</a></td>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/5RS.jpg" width="20">P5 Resilience</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/5RS.png" width="20">P5 Resilience</a></td>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/5RT.jpg" width="20">P5 Respect</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/5RB.png" width="20">P5 Responsibility</a></td>
     </tr>
 	<tr>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/6RB.jpg" width="20">P6 Responsibility</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/5TW.png" width="20">P5 Teamwork</a></td>
         <td style="text-align:center"><a href="">
-					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/6RS.jpg" width="20">P6 Resilience</a></td>
+					<img src="/images/The%20Meridian%20Experience/2023%20Prize%20Giving%20Day/6CA.png" width="20">P6 Care</a></td>
         <td style="text-align:center"><a href="">
 					<img src="/images/The%20Meridian%20Experience/2022%20Prize%20Giving%20Day/P3%20to%20P6%20Prize%20Giving%202022/6RT.jpg" width="20">P6 Respect</a></td>
     </tr>
