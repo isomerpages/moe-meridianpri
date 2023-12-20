@@ -27,4 +27,5 @@ A big thank you to our dedicated teachers and coaches, as well as our parents wh
 	<p align="justify">Swift, light, yet energetic, our Team Meridian’s Malay Dance put up a charming performance! We are so proud of our dancers. They practiced hard and worked as a team to put up the enchanting choreography.  
 A big thank you to our dedicated teachers, instructor as well as our parents who are our dancers’ greatest cheer leaders! 3 cheers for Team Meridian’s Malay Dance!</p>
 	      <img src="/images/The%20Meridian%20Experience/Achievements/Malay_Dance___22_July_2022.jpg" style="width:450px;height:250px;float:center">
+<h4>CCA - Photography</h4>
 </details>
