@@ -28,4 +28,14 @@ A big thank you to our dedicated teachers and coaches, as well as our parents wh
 A big thank you to our dedicated teachers, instructor as well as our parents who are our dancers’ greatest cheer leaders! 3 cheers for Team Meridian’s Malay Dance!</p>
 	      <img src="/images/The%20Meridian%20Experience/Achievements/Malay_Dance___22_July_2022.jpg" style="width:450px;height:250px;float:center">
 <h5>National Primary Schools Photography Competition</h5>
+<p align="justify">
+Drum roll please… 🥁<br>
+for we are delighted to reveal a piece of wonderful news!
+Our student Tan Hong Yu (5CA) from the Media Production Club emerged 2nd Runner-up in the Open Category in the National Primary Schools Photography Competition!<br>
+His winning shot was inspired by the artistic look and feel of the architectural design of this newly opened skyscraper, called CapitaSpring. The photo depicted a circular bird’s eye view or holistic view of the 17th floor of the skyscraper. Hong Yu wished to express his impressions of city in nature, by showcasing this unique view of lush greenery nestled in the heart of the Lion City.<br>
+We would also like to congratulate Alvi Adly (4CA), Schaffa Sahril (4CA) and Myesha Ambretta (5CA) for being shortlisted for the People's Choice Award. Their submissions depicted the Green Plan pillars of City in Nature and Sustainable Living. Thank you for casting your vote for them!<br>
+The students' achievements would not be possible without the support and encouragement from their parents, and their teachers who patiently guided not only in honing their photography skills but also inculcated in them school values such as resilience - which the kids clearly demonstrated. Once again, thank you for supporting our Budding Photographers!</p>
+<img src="/images/The%20Meridian%20Experience/Achievements/CCA_Photography_1___28_Aug_2022.jpg" style="width:450px;height:250px;float:center">
+	<br>
+<img src="/images/The%20Meridian%20Experience/Achievements/CCA_Photography_2___28_Aug_2022.jpg" style="width:450px;height:250px;float:center">
 </details>
