@@ -17,13 +17,18 @@ Under the guidance of our dedicated ML teachers, our students seized the opportu
 This remarkable experience has not only ignited a deeper passion for the Malay Language among our students but has also highlighted their talents in bringing to life the enchanting characters of Malay Folktales.<br>
 A heartfelt shoutout to School Leaders, Teachers and Parents who turned up to show their unwavering support and provided our students with a boost of confidence as they graced the stage. Your presence truly made a difference!<br><br>
 Well done, Meridians! Here's to more achievements and milestones ahead!</p>
-	      <img src="/images/The%20Meridian%20Experience/Achievements/2023_BM1.jpg" style="width:480px;height:350px;float:center">
-	<br><br>
-<img src="/images/The%20Meridian%20Experience/Achievements/2023_BM2.jpg" style="width:480px;height:350px;float:center">
-	<br><br>
-	<img src="/images/The%20Meridian%20Experience/Achievements/2023_BM3.jpg" style="width:480px;height:320px;float:center">
-	<br><br>
-<img src="/images/The%20Meridian%20Experience/Achievements/2023_BM4.jpg" style="width:480px;height:350px;float:center">
+	<table>
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/Achievements/2023_BM1.jpg" style="width:480px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Achievements/2023_BM2.jpg" style="width:480px;height:250px;float:center"></td>
+  </tr>
+</tbody></table>
+	<table>
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/Achievements/2023_BM3.jpg" style="width:480px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Achievements/2023_BM4.jpg" style="width:480px;height:250px;float:center"></td>
+  </tr>
+</tbody></table>
 	<br><br>
 <img src="/images/The%20Meridian%20Experience/Achievements/2023_BM5.jpg" style="width:480px;height:350px;float:center">
 	<br>
