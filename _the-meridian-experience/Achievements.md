@@ -44,6 +44,9 @@ variant: markdown
 	<br><br>
 <img src="/images/The%20Meridian%20Experience/Achievements/2023_BM5.jpg" style="width:480px;height:350px;float:center">
 	<br>
+	<h5>Karya Kreatif 2023 </h5>
+	      <img src="/images/The%20Meridian%20Experience/Achievements/2023_ML1.jpg" style="width:480px;height:350px;float:center">
+	<br>
 </details>
 <details>
   <summary><b>2022</b></summary>
