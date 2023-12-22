@@ -21,6 +21,10 @@ variant: markdown
 	<h5>International Chinese Language and Chinese Poetry Recitation Competition</h5>
 	      <img src="/images/The%20Meridian%20Experience/Achievements/2023_CL2.jpg" style="width:480px;height:350px;float:center">
 	<br>
+	<br>
+	<h5>6th National Text Recital Competition</h5>
+	      <img src="/images/The%20Meridian%20Experience/Achievements/2023_CL3.jpg" style="width:480px;height:350px;float:center">
+	<br>
 	<h5>Celebrating Success at Sayembara Bahasa Melayu 2023</h5>
 	<p align="justify">Under the guidance of our dedicated ML teachers, our students seized the opportunity to showcase their linguistic prowess and acting skills among five other Pasir Ris schools. We are incredibly thrilled to announce that we clinched 3rd place for P2, P4, and P6 levels, and not to mention, Consolation prizes for the remaining three levels.</p>
 	<table>
