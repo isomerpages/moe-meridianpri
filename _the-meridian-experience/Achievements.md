@@ -11,6 +11,16 @@ variant: markdown
 	<p align="justify">Our P5 Team Meridian Debaters have won both Round 1 &amp; Round 2 of the Wits and Words National Debate Competition! The team members demonstrated resilience, teamwork &amp; good sportsmanship. Go Team Meridian! You do us Proud.</p>
 	      <img src="/images/The%20Meridian%20Experience/Achievements/2023_Debate_Team.jpg" style="width:480px;height:350px;float:center">
 	<br>
+	<h5>National Mathematical Olympiad of Singapore 2023</h5>
+	      <img src="/images/The%20Meridian%20Experience/Achievements/2023_GROUP_Maths.jpg" style="width:480px;height:350px;float:center">
+	<br>
+	<h5>Chinese Language Good Progress Award</h5>
+	<p>This award shown the overall greatest improvement in the learning of Chinese Language. From the left Thaddeus Tay Jia Le (6RB), Won Zhe Kai (5IN) and Teo Pei Qing (4RB). </p>
+	      <img src="/images/The%20Meridian%20Experience/Achievements/2023_CL1.jpg" style="width:480px;height:350px;float:center">
+	<br>
+	<h5>Chinese Language Good Progress Award</h5>
+	      <img src="/images/The%20Meridian%20Experience/Achievements/2023_CL1.jpg" style="width:480px;height:350px;float:center">
+	<br>
 	<h5>Celebrating Success at Sayembara Bahasa Melayu 2023</h5>
 	<p align="justify">Huge applause to our remarkable Meridians who truly shined at the recent Sayembara Bahasa Melayu 2023, Malay Language (ML) Competition! Their exceptional performance on stage in front of a captivated audience left us all in awe!<br>
 Under the guidance of our dedicated ML teachers, our students seized the opportunity to showcase their linguistic prowess and acting skills among five other Pasir Ris schools. We are incredibly thrilled to announce that we clinched 3rd place for P2, P4, and P6 levels, and not to mention, Consolation prizes for the remaining three levels.<br>
@@ -32,9 +42,6 @@ Well done, Meridians! Here's to more achievements and milestones ahead!</p>
 	<br><br>
 <img src="/images/The%20Meridian%20Experience/Achievements/2023_BM5.jpg" style="width:480px;height:350px;float:center">
 	<br>
-	<h5>National Mathematical Olympiad of Singapore 2023</h5>
-	      <img src="/images/The%20Meridian%20Experience/Achievements/2023_GROUP_Maths.jpg" style="width:480px;height:350px;float:center">
-	<br><br>
 </details>
 <details>
   <summary><b>2022</b></summary>
