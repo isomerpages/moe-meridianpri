@@ -22,11 +22,7 @@ variant: markdown
 	      <img src="/images/The%20Meridian%20Experience/Achievements/2023_CL1.jpg" style="width:480px;height:350px;float:center">
 	<br>
 	<h5>Celebrating Success at Sayembara Bahasa Melayu 2023</h5>
-	<p align="justify">Huge applause to our remarkable Meridians who truly shined at the recent Sayembara Bahasa Melayu 2023, Malay Language (ML) Competition! Their exceptional performance on stage in front of a captivated audience left us all in awe!<br>
-Under the guidance of our dedicated ML teachers, our students seized the opportunity to showcase their linguistic prowess and acting skills among five other Pasir Ris schools. We are incredibly thrilled to announce that we clinched 3rd place for P2, P4, and P6 levels, and not to mention, Consolation prizes for the remaining three levels.<br>
-This remarkable experience has not only ignited a deeper passion for the Malay Language among our students but has also highlighted their talents in bringing to life the enchanting characters of Malay Folktales.<br>
-A heartfelt shoutout to School Leaders, Teachers and Parents who turned up to show their unwavering support and provided our students with a boost of confidence as they graced the stage. Your presence truly made a difference!<br><br>
-Well done, Meridians! Here's to more achievements and milestones ahead!</p>
+	<p align="justify">Under the guidance of our dedicated ML teachers, our students seized the opportunity to showcase their linguistic prowess and acting skills among five other Pasir Ris schools. We are incredibly thrilled to announce that we clinched 3rd place for P2, P4, and P6 levels, and not to mention, Consolation prizes for the remaining three levels.</p>
 	<table>
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/Achievements/2023_BM1.jpg" style="width:480px;height:250px;float:center"></td>
