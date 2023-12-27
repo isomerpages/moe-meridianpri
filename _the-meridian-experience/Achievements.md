@@ -68,6 +68,10 @@ variant: markdown
 	<p align="justify">Insert Text</p>
 	      <img src="/images/The%20Meridian%20Experience/Achievements/2022_Taekwondo.jpg" style="width:550px;height:350px;float:center">
 	<br>
+	<h5>Sports Club</h5>
+	<p align="justify">Insert Text</p>
+	      <img src="/images/The%20Meridian%20Experience/Achievements/2022_sports.jpg" style="width:550px;height:350px;float:center">
+	<br>
 	<h4>CCA - Performing &amp; Visual Arts</h4>
 	<h5>SYF Guzheng</h5>
 	<p align="justify">Team Meridian Guzheng! Months of hard work and effort have paid off, and we totally love the melodious performance that touched and moved us greatly. </p>
