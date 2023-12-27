@@ -110,5 +110,6 @@ We would also like to congratulate Alvi Adly (4CA), Schaffa Sahril (4CA) and Mye
     <td><img src="/images/The%20Meridian%20Experience/Achievements/2022_Scouts2.jpeg" style="width:550px;height:250px;float:center"></td>
   </tr>
 				 </tbody></table>
+	<img src="/images/The%20Meridian%20Experience/Achievements/2022_Scouts1.jpeg" style="width:350px;height:550px;float:center">
 	<br>
 </details>
