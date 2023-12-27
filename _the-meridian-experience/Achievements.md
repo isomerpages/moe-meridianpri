@@ -60,14 +60,13 @@ variant: markdown
 	<br>
 	<h4>CCA - Uniformed Group</h4>
 <h5>Scouts</h5>
-<p align="justify">our Cub Scouts was honoured with the Pennant Award by Singapore Scout Association, a testament to the school's remarkable attainment of the Frank Cooper Sands Award (Gold)<br></p>
+<p align="justify">our Cub Scouts was honoured with the Pennant Award by Singapore Scout Association, a testament to the school's remarkable attainment of the Frank Cooper Sands Award (Gold) and congratulations to Baroga Lexie Mae Benito and Lee Dong Zhe from 5 Resilience for receiving the Chief Commissioner’s Well-Done Badge<br></p>
 <table>
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Achievements/2023_CCA_Photo1.jpg" style="width:650px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Achievements/2023_CCA_Photo2.jpg" style="width:650px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Achievements/2023_Scouts1.jpg" style="width:650px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Achievements/2023_Scouts2.jpg" style="width:650px;height:250px;float:center"></td>
   </tr>
 	</tbody></table>
-	 <img src="/images/The%20Meridian%20Experience/Achievements/2023_CCA_Photo3.jpg" style="width:480px;height:350px;float:center">
 	<br>
 </details>
 <details>
