@@ -51,9 +51,13 @@ variant: markdown
 <details>
   <summary><b>2022</b></summary>
 	<h4>CCA - Games and Sports</h4>
-	<h5>SYF Guzheng</h5>
-	<p align="justify">Team Meridian Guzheng! Months of hard work and effort have paid off, and we totally love the melodious performance that touched and moved us greatly. </p>
-	      <img src="/images/The%20Meridian%20Experience/Achievements/Guzheng__1_July_.jpg" style="width:550px;height:350px;float:center">
+	<h5>Floor Ball</h5>
+	<p align="justify">Insert Text</p>
+	      <img src="/images/The%20Meridian%20Experience/Achievements/Floor_Ball__CCA_.jpg" style="width:550px;height:350px;float:center">
+	<br>
+	<h5>Soccer</h5>
+	<p align="justify">Insert Text</p>
+	      <img src="/images/The%20Meridian%20Experience/Achievements/2022_Soccer__CCA_.jpg" style="width:550px;height:350px;float:center">
 	<br>
 	<h4>CCA - Performing &amp; Visual Arts</h4>
 	<h5>SYF Guzheng</h5>
