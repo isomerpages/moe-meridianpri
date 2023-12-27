@@ -60,7 +60,7 @@ variant: markdown
 	<br>
 	<h4>CCA - Uniformed Group</h4>
 <h5>Scouts</h5>
-<p align="justify">our Cub Scouts was honoured with the Pennant Award by Singapore Scout Association, a testament to the school's remarkable attainment of the Frank Cooper Sands Award (Gold) and congratulations to Baroga Lexie Mae Benito and Lee Dong Zhe from 5 Resilience for receiving the Chief Commissioner’s Well-Done Badge<br></p>
+<p align="justify">Our Cub Scouts was honoured with the Pennant Award by Singapore Scout Association, a testament to the school's remarkable attainment of the Frank Cooper Sands Award (Gold) and congratulations to Baroga Lexie Mae Benito and Lee Dong Zhe from 5 Resilience for receiving the Chief Commissioner’s Well-Done Badge<br></p>
 <table>
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/Achievements/2023_Scouts1.jpg" style="width:650px;height:250px;float:center"></td>
@@ -73,16 +73,16 @@ variant: markdown
   <summary><b>2022</b></summary>
 	<h4>Academic</h4>
 	<h5>English Language: Junior Lexis 2022</h5>
-	<p align="justify">Insert Text</p>
+	<p align="justify"></p>
 	      <img src="/images/The%20Meridian%20Experience/Achievements/2023_EL.JPG" style="width:480px;height:350px;float:center">
 	<br>
 	<h4>CCA - Games and Sports</h4>
 	<h5>Floorball</h5>
-	<p align="justify">Insert Text</p>
+	<p align="justify">Team Meridian Floorball takes part in the National Junior to allow the players to have adequate exposure and competition experience</p>
 	      <img src="/images/The%20Meridian%20Experience/Achievements/Floor_Ball__CCA_.jpg" style="width:550px;height:350px;float:center">
 	<br>
 	<h5>Soccer</h5>
-	<p align="justify">Insert Text</p>
+	<p align="justify">The soccer boys participate in U12 Senior SPSCC Football Tournament</p>
 	      <img src="/images/The%20Meridian%20Experience/Achievements/2022_Soccer__CCA_.jpg" style="width:550px;height:350px;float:center">
 	<br>
 	<h5>Taekwondo</h5>
