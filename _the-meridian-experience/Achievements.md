@@ -124,7 +124,7 @@ We would also like to congratulate Alvi Adly (4CA), Schaffa Sahril (4CA) and Mye
 	</tbody></table>
 	<h4>CCA - Uniformed Group</h4>
 	<h5>Scouts</h5>
-	<p align="justify">Insert Text</p>
+	<p align="justify">Congratulations to Josh, Pak Yin, Ramnath Pandiyam and Lee Yan Hui for receiving the Chief Commissioner’s Well-Done Badge</p>
 	     <table>
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/Achievements/2022_Well_Done_Badge_Q3___Q4__Josh___Pak_Yin_.jpeg" style="width:550px;height:250px;float:center"></td>
