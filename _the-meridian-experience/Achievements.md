@@ -56,6 +56,7 @@ variant: markdown
     <td><img src="/images/The%20Meridian%20Experience/Achievements/2023_CCA_Photo2.jpg" style="width:550px;height:250px;float:center"></td>
   </tr>
 	</tbody></table>
+	 <img src="/images/The%20Meridian%20Experience/Achievements/2023_CCA_Photo3.jpg" style="width:480px;height:350px;float:center">
 	<br>
 </details>
 <details>
