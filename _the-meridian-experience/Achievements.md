@@ -50,6 +50,11 @@ variant: markdown
 </details>
 <details>
   <summary><b>2022</b></summary>
+	<h4>Academic</h4>
+	<h5>Junior Lexis 2022</h5>
+	<p align="justify">Insert Text</p>
+	      <img src="/images/The%20Meridian%20Experience/Achievements/2023_EL.JPG" style="width:480px;height:350px;float:center">
+	<br>
 	<h4>CCA - Games and Sports</h4>
 	<h5>Floor Ball</h5>
 	<p align="justify">Insert Text</p>
