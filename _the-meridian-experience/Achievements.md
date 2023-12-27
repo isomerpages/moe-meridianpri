@@ -51,7 +51,7 @@ variant: markdown
 <details>
   <summary><b>2022</b></summary>
 	<h4>Academic</h4>
-	<h5>Junior Lexis 2022</h5>
+	<h5>English Language: Junior Lexis 2022</h5>
 	<p align="justify">Insert Text</p>
 	      <img src="/images/The%20Meridian%20Experience/Achievements/2023_EL.JPG" style="width:480px;height:350px;float:center">
 	<br>
