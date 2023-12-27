@@ -101,7 +101,7 @@ We would also like to congratulate Alvi Adly (4CA), Schaffa Sahril (4CA) and Mye
     <td><img src="/images/The%20Meridian%20Experience/Achievements/CCA_Photography_4___28_Aug_2022.jpg" style="width:550px;height:250px;float:center"></td>
   </tr>
 	</tbody></table>
-	<h4>Uniformed Group</h4>
+	<h4>CCA - Uniformed Group</h4>
 	<h5>Scouts</h5>
 	<p align="justify">Insert Text</p>
 	     <table>
