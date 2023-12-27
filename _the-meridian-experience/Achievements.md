@@ -50,6 +50,11 @@ variant: markdown
 </details>
 <details>
   <summary><b>2022</b></summary>
+	<h4>CCA - Games and Sports</h4>
+	<h5>Floor Ball</h5>
+	<p align="justify"></p>
+	      <img style="/images/The%20Meridian%20Experience/Achievements/Floor_Ball__CCA_.jpg">
+	<br>
 	<h4>CCA - Performing &amp; Visual Arts</h4>
 	<h5>SYF Guzheng</h5>
 	<p align="justify">Team Meridian Guzheng! Months of hard work and effort have paid off, and we totally love the melodious performance that touched and moved us greatly. </p>
@@ -62,6 +67,7 @@ What a captivating performance by our Team Meridian's Chinese Dance at the SYF&n
 	<h5>SYF Malay Dance</h5>
 	<p align="justify">Our Team Meridian’s Malay Dance put up a charming performance at the SYF !</p>
 	      <img src="/images/The%20Meridian%20Experience/Achievements/Malay_Dance___22_July_2022.jpg" style="width:550px;height:350px;float:center">
+<h4>CCA - Clubs and Societies</h4>
 <h5>National Primary Schools Photography Competition</h5>
 <p align="justify">
 Our student Tan Hong Yu (5CA) from the Media Production Club emerged 2nd Runner-up in the Open Category in the National Primary Schools Photography Competition!<br>
