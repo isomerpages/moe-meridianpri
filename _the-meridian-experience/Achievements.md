@@ -52,16 +52,11 @@ variant: markdown
 <p align="justify">Let’s give a standing ovation to our photographers in the Open Category! Out of the 5 participants, Nurin Izzaty (4CA) and Lu Weiming (4RS) clinched the Merit Awards. Tan Hong Yu (6CA) was awarded the 1st Runner-up and Repeso Czarina (4CA) was declared Champion! Congratulations to all winners!<br></p>
 <table>
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Achievements/CCA_Photography_1___28_Aug_2022.jpg" style="width:550px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Achievements/CCA_Photography_2___28_Aug_2022.jpg" style="width:550px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Achievements/2023_CCA_Photo1.jpg" style="width:550px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Achievements/2023_CCA_Photo2.jpg" style="width:550px;height:250px;float:center"></td>
   </tr>
 	</tbody></table>
-	<table>
-  <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Achievements/CCA_Photography_3___28_Aug_2022.jpg" style="width:550px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Achievements/CCA_Photography_4___28_Aug_2022.jpg" style="width:550px;height:250px;float:center"></td>
-  </tr>
-	</tbody></table>
+	<br>
 </details>
 <details>
   <summary><b>2022</b></summary>
