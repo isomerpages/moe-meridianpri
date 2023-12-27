@@ -58,9 +58,9 @@ variant: markdown
 	</tbody></table>
 	 <img src="/images/The%20Meridian%20Experience/Achievements/2023_CCA_Photo3.jpg" style="width:480px;height:350px;float:center">
 	<br>
-	<h4>CCA - Clubs and</h4>
-<h5>11th National Primary Schools Photography Competition</h5>
-<p align="justify">Let’s give a standing ovation to our photographers in the Open Category! Out of the 5 participants, Nurin Izzaty (4CA) and Lu Weiming (4RS) clinched the Merit Awards. Tan Hong Yu (6CA) was awarded the 1st Runner-up and Repeso Czarina (4CA) was declared Champion! Congratulations to all winners!<br></p>
+	<h4>CCA - Uniformed Group</h4>
+<h5>Scouts</h5>
+<p align="justify">our Cub Scouts was honoured with the Pennant Award by Singapore Scout Association, a testament to the school's remarkable attainment of the Frank Cooper Sands Award (Gold)<br></p>
 <table>
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/Achievements/2023_CCA_Photo1.jpg" style="width:650px;height:250px;float:center"></td>
