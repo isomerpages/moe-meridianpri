@@ -82,15 +82,15 @@ variant: markdown
 	      <img src="/images/The%20Meridian%20Experience/Achievements/Floor_Ball__CCA_.jpg" style="width:550px;height:350px;float:center">
 	<br>
 	<h5>Soccer</h5>
-	<p align="justify">The soccer boys participate in U12 Senior SPSCC Football Tournament</p>
+	<p align="justify">Our soccer boys participate in U12 Senior SPSCC Football Tournament</p>
 	      <img src="/images/The%20Meridian%20Experience/Achievements/2022_Soccer__CCA_.jpg" style="width:550px;height:350px;float:center">
 	<br>
 	<h5>Taekwondo</h5>
-	<p align="justify">Insert Text</p>
+	<p align="justify">Our Taekwondo students participate in junior and senior Poomsae and manage to get 3rd, 5th, 6th, 7th, and 8th position.</p>
 	      <img src="/images/The%20Meridian%20Experience/Achievements/2022_Taekwondo.jpg" style="width:550px;height:350px;float:center">
 	<br>
 	<h5>Sports Club</h5>
-	<p align="justify">Insert Text</p>
+	<p align="justify"></p>
 	      <img src="/images/The%20Meridian%20Experience/Achievements/2022_sports.jpg" style="width:550px;height:350px;float:center">
 	<br>
 	<h4>CCA - Performing and Visual Arts</h4>
