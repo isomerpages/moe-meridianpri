@@ -2,6 +2,7 @@
 title: Teaching Staff
 permalink: /our-staff/teaching-staff/
 description: ""
+variant: markdown
 ---
 ## **Teaching Staff**
 
@@ -15,37 +16,43 @@ description: ""
   <tr>
     <td>1 Care</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:salina_a@moe.edu.sg">Mdm Salina bte Mohd Hassan</a><br>
-		<a href="mailto:zulkarnai_zulkifli@moe.edu.sg">Mr Zulkarnai Zulkifli</a></td>
+    <td><a href="mailto:tan_pei_ling_a@moe.edu.sg">Mdm Tan Pei Ling</a><br>
+		<a href="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah Binter Ali</a></td>
   </tr>
   <tr>
     <td>1 Integrity</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:fadhilatun_samsudin@moe.edu.sg">Mdm Fadhilatun bte Samsudin</a> <br>
-		<a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Tang Tsin Ray</a></td>
+    <td><a href="mailto:nurliyana_omar@moe.edu.sg">Miss Nurliyana Omar</a> <br>
+		<a href="mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiaolu</a></td>
+  </tr>
+		<tr>
+    <td>1 Passion</td>
+    <td>Form Teacher</td>
+    <td><a href="mailto:nazurah_norizan@moe.edu.sg">Miss Nazurah Bte Norizan</a> <br>
+		<a href="mailto:low_hwee_miang_a@moe.edu.sg">Mdm Low Hwee Miang</a></td>
   </tr>
 	<tr>
     <td>1 Responsibility</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:vasanthi_mahalinggam@moe.edu.sg">Mdm Vasanthi d/o Mahalinggam</a> <br>
-		<a href="mailto:lim_chia_chia@moe.edu.sg">Mdm Lim Chia Chia</a></td>
+    <td><a href="mailto:qiu_jie_zhi@moe.edu.sg">Mdm Jessi Qiu Jie Zhi</a> <br>
+		<a href="mailto:chen_chuangan_mark@moe.edu.sg">Mr Mark Chen Chuangan</a></td>
   </tr>
 	<tr>
     <td>1 Resilience</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:siti_saleha_salleh_a@moe.edu.sg">Mdm Siti Saleha bte Salleh </a><br>
-		<a href="mailto:norhaida_kamaludin@moe.edu.sg">Miss Norhaida Kamaludin</a></td>
+    <td><a href="mailto:zahirah_lyana_mohd_khir@moe.edu.sg">Mdm Zahirah Lyana Binte Mohd Khir </a><br>
+		<a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a></td>
   </tr>
 	<tr>
     <td>1 Respect</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:norsheleen_mohd_atan@moe.edu.sg">Mdm Norsheleen binte Mohd Atan</a><br>
-		<a href="mailto:lim_seow_wei@moe.edu.sg">Mdm Lim Seow Wei</a></td>
+    <td><a href="mailto:siti_saleha_salleh_a@moe.edu.sg">Mdm Siti Saleha Bte Salleh</a><br>
+		<a href="mailto:ananthi_chandramohan@moe.edu.sg">Mdm Ananthi Chandramohan</a></td>
   </tr>
 	<tr>
     <td>1 Teamwork</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:maslinda_ahmad@moe.edu.sg">Mdm Maslinda bte Ahmad</a><br>
+    <td><a href="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Peony Wong Mau Tan</a><br>
 		<a href="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a></td>
   </tr>
 </tbody></table>
