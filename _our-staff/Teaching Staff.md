@@ -228,7 +228,7 @@ variant: markdown
 	<tr>
     <td>6 Responsibility</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:tee_shou_fei@moe.edu.sg"></a>Mr Tee Shou Fei<br>
+    <td><a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
 		<a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi</a> <br>
 		<a href="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng</a></td>
   </tr>
