@@ -114,34 +114,21 @@ variant: markdown
   <tr>
     <td>3 Care </td>
     <td>Form Teacher</td>
-    <td><a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho </a><br>
-			<a href="mailto:tang_li_hwa@moe.edu.sg">Mdm Tang Li Hwa</a></td>
+    <td><a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Heryanti Abd Karim</a><br>
+			<a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung</a></td>
   </tr>
 	<tr>
     <td>3 Integrity </td>
     <td>Form Teacher</td>
-    <td><a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham </a><br>
-			<a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah bte Jem</a></td>
-  </tr>
-  <tr>
-    <td>3 Responsibility</td>
-    <td>Form Teacher</td>
-    <td>	<a href="mailto:chua_ee_lyn@moe.edu.sg">Miss Chua Ee Lyn</a><br>
-			<a href="mailto:abdul_wahid_abdul_wahab@moe.edu.sg">Mr Abd Wahid bin Abd Wahab</a></td>
+    <td><a href="mailto:lim_lee_yong@moe.edu.sg">Miss Debbie Lim Lee Yong </a><br>
+			<a href="mailto:alwin_tien_der-wei@moe.edu.sg">Mr Alwin Tien Der Wei</a></td>
   </tr>
 	<tr>
     <td>3 Resilience</td>
     <td>Form Teacher</td>
-    <td>	<a href="mailto:yeo_han_leng_david@moe.edu.sg">Mr David Yeo Han Leng</a><br>
-			<a href="mailto:lee_song_sang@moe.edu.sg">Mdm Lee Song Sang </a><br>
-		</td>
-  </tr>
-	<tr>
-    <td>3 Teamwork</td>
-    <td>Form Teacher</td>
-    <td><a href="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Peony Wong</a><br>
-			<a href="mailto:nurliyana_omar@moe.edu.sg">Miss Nurliyana binte Omar</a><br>
-			<a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Jeyamohan Ramasami </a><br>
+    <td>	<a href="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Nur Shahid Bin Ahmad</a><br>
+			<a href="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah Bte Jamal </a><br>
+			<a href="mailto:yeo_kim_chiau_benjamin@moe.edu.sg">Mr Yeo Kim Chiau Benjamin </a>
 		</td>
   </tr>
 </tbody></table>
