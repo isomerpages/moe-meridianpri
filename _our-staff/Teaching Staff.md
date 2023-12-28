@@ -143,21 +143,36 @@ variant: markdown
   <tr>
     <td>4 Care</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:lim_lee_yong@moe.edu.sg">Miss Debbie Lim Lee Yong </a><br>
-		<a href="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah bte Jamal</a></td>
+    <td><a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho </a><br>
+		<a href="mailto:yamuna_jathananthan@moe.edu.sg">Mdm Yamuna d/o Jathananthan</a><br>
+			<a href="mailto:muhammad_haziq_abdul_rahman@moe.edu.sg">Mr Md Haziq Bin Abd Rahman</a>
+		</td>
+  </tr>
+		<tr>
+    <td>4 Integrity</td>
+    <td>Form Teacher</td>
+    <td><a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a><br>
+		<a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a><br>
+			</td>
   </tr>
 	<tr>
     <td>4 Responsibility</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
-		<a href="mailto:nurrashidah_norman@moe.edu.sg">Ms Nurrashidah bte Norman</a><br>
+    <td><a href="mailto:chua_ee_lyn@moe.edu.sg">Miss Chua Ee Lyn</a><br>
+		<a href="mailto:abdul_wahid_abdul_wahab@moe.edu.sg">Mr Abd Wahid Bin Abd Wahad</a><br>
 			</td>
   </tr>
 	<tr>
     <td>4 Resilience</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:juliana_jalil@moe.edu.sg">Mdm Juliana bte Jalil </a><br>
-		<a href="mailto:chen_chuangan_mark@moe.edu.sg">Mr Mark Chen</a></td>
+    <td><a href="mailto:yeo_han_leng_david@moe.edu.sg">Mr David Yeo </a><br>
+		<a href="mailto:lee_song_sang@moe.edu.sg">Mdm Lee Song Sang</a></td>
+	</tr>
+		<tr>
+    <td>4 Teamwork</td>
+    <td>Form Teacher</td>
+    <td><a href="mailto:yeo_han_leng_david@moe.edu.sg">Mr David Yeo </a><br>
+		<a href="mailto:lee_song_sang@moe.edu.sg">Mdm Lee Song Sang</a></td>
 	</tr>
 </tbody></table>
 
