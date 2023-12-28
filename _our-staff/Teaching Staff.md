@@ -289,7 +289,7 @@ variant: markdown
 ####  Allied Educators
 <table style="width:100%">
   <tbody><tr>
-    <td><a href="mailto:abdul_latheef_nareeman@moe.edu.sg">Ms Abdul Latheef Nareeman</a></td>
+    <td><a href="mailto:abdul_latheef_nareeman@moe.edu.sg">Ms Abdul Latheef Nareeman (School Counsellor)</a></td>
   </tr>
 	<tr>
     <td><a href="mailto:jalilah_jalihan@moe.edu.sg">Miss Jalilah Bte Jalihan (AED T&amp;L)</a></td>
