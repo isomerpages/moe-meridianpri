@@ -67,32 +67,39 @@ variant: markdown
   <tr>
     <td>2 Care</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:nazurah_norizan@moe.edu.sg">Miss Nazurah bte Norizan</a> <br>
-		<a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a></td>
+    <td><a href="mailto:salina_a@moe.edu.sg">Mdm Salina Bte Mohd Hassan</a> <br>
+		<a href="mailto:zulkarnai_zulkifli@moe.edu.sg">Mr Zulkarnai Bin Zulkifli</a></td>
   </tr>
   <tr>
     <td>2 Integrity</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:tan_pei_ling_a@moe.edu.sg">Mdm Tan Pei Ling</a> <br>
-		<a href="mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiaolu</a></td>
+    <td><a href="mailto:fadhilatun_samsudin@moe.edu.sg">Mdm Fadhilatun Bte Samsudin</a> <br>
+		<a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Tang Tsin Ray</a></td>
   </tr>
 	<tr>
     <td>2 Responsibility</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:fadhilatun_samsudin@moe.edu.sg">Mdm Fadhilatun Bte Samsudin</a> <br>
+    <td><a href="mailto:vasanthi_mahalinggam@moe.edu.sg"></a>Mdm Vasanthi d/o Mahalingam<br>
 		<a href="mailto:lim_chia_chia@moe.edu.sg">Mdm Lim Chia Chia</a></td>
   </tr>
 	<tr>
     <td>2 Resilience</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:qiu_jie_zhi@moe.edu.sg">Mdm Jessi Qiu Jie Zhi</a><br>
-		<a href="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah binte Ali </a></td>
+    <td><a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
+		<a href="mailto:norhaida_kamaludin@moe.edu.sg">Mdm Norhaida Kamaludin </a></td>
+  </tr>
+		<tr>
+    <td>2 Respect</td>
+    <td>Form Teacher</td>
+    <td><a href="mailto:norsheleen_mohamed_atan@moe.edu.sg">Mdm Norsheleen Binte Mohd Atan</a><br>
+		<a href="mailto:lim_seow_wei@schools.gov.sg">Mdm Lim Seow Wei</a></td>
   </tr>
 	<tr>
     <td>2 Teamwork</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:zahirah_lyana_mohd_khir@moe.edu.sg">Mdm Zahirah Lyana binte Mohd Khir</a><br>
-		<a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a></td>
+    <td><a href="mailto:maslinda_ahmad@moe.edu.sg">Mdm Maslinda Bte Ahmad</a><br>
+		<a href="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a><br>
+		<a href="mailto:chou_shin_chieh@moe.edu.sg">Mdm Chou Shin Chieh</a></td>
   </tr>
 </tbody></table>
 
