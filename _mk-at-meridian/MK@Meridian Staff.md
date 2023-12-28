@@ -2,6 +2,7 @@
 title: MK@Meridian Staff
 permalink: /mk-at-meridian/mk-at-meridian-staff/
 description: ""
+variant: markdown
 ---
 ![](/images/Our%20Staff/2022%20Dept%20Photo/MOE%20KINDERGARTEN%20TEACHERS.jpg)
 <p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2022</p>
@@ -15,10 +16,13 @@ description: ""
 		<th>Name</th>
 		<th>Designation</th>
   </tr>
-  <tr>
+		<tr>
     <td><a href="mailto:jamie_tan@schools.gov.sg">Ms Jamie Tan</a></td>
     <td>Centre Head</td>
-   
+  </tr>
+		<tr>
+    <td><a href="mailto:siti_syazwani_mohd_kasbi@schools.gov.sg">Ms Siti Syazwani Bte Mohd Kasbi</a></td>
+    <td>Administrative Executive</td>
   </tr>
 	<tr>
     <td><a href="mailto:bong_swee_tiang_angeline@moe.edu.sg">Mdm Angeline Bong Swee Tiang</a></td>
@@ -83,9 +87,6 @@ description: ""
     <td><a href="mailto:nurfarhana_sabtu@moe.edu.sg">Mdm Nurfarhana Binte Sabtu</a></td>
     <td>FAJT</td>
   </tr>
-	<tr>
-    <td><a href="mailto:pamela_peh_yi_ning@moe.edu.sg">Mdm Pamela Peh Yi Ning</a></td>
-    <td>FAJT</td>
-  </tr>
+	
 	
 </tbody></table>

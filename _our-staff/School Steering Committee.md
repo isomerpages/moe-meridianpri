@@ -15,7 +15,7 @@ variant: markdown
   <tbody><tr>
   </tr>
   <tr>
-    <td><a href="mailto:meridian_ps@moe.edu.sg">Ms Liza Rahmat</a></td>
+    <td><a href="mailto:meridian_ps@moe.edu.sg">Mrs Lim-Chew Siang Jiun</a></td>
     <td>Principal</td>
     
   </tr>
@@ -37,25 +37,24 @@ variant: markdown
   <tbody><tr>
   </tr>
   <tr>
-    <td><a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Tang Tsin Ray </a></td>
-    <td>Assistant Year Head P1</td>
+    <td><a href="mailto:ananthi_chandramohan@moe.edu.sg">Mdm Ananthi Chandramohan</a></td>
+    <td>Year Head P1 and P4</td>
    
   </tr>
   <tr>
     <td>
 			<a href="mailto:chou_shin_chieh@moe.edu.sg">Mdm Chou Shin Chieh</a></td>
-    <td>Year Head P2 and P4</td>
+    <td>Year Head P2 and P5</td>
+  </tr>
+		<tr>
+    <td>
+			<a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Tang Tsin Ray</a></td>
+    <td>Assistant Year Head P2</td>
   </tr>
 	<tr>
     <td><a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg">Mdm Tan Hugue  Hwan Stefane</a></td>
-    <td>Year Head P3 and P5</td>
-		
+    <td>Year Head P3 and P6</td>
   </tr>
-	<tr>
-    <td><a href="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg">Miss Kirenjit Kaur</a></td>
-    <td>Assistant Year Head P6</td>
-  </tr>
-	
 </tbody></table>
 
 #### Heads of Department/Subject Heads/Level Head
@@ -77,7 +76,7 @@ variant: markdown
     <td>HOD/Maths</td>
   </tr>
 	<tr>
-    <td><a href="mailto:low_boon_khim@moe.edu.sg">Mr Clarence Low Boon Khim</a></td>
+    <td><a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi</a></td>
     <td>HOD/Science</td>
   </tr>
 	<tr>
@@ -85,7 +84,7 @@ variant: markdown
     <td>HOD/PE, CCA and Aesthetics</td>
   </tr>
 	<tr>
-    <td><a href="mailto:han_zi_rui@moe.edu.sg">Ms Han Zi Rui</a></td>
+    <td><a href="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg">Miss Kirenjit Kaur d/o Sulinder Singh</a></td>
     <td>HOD/Student Management</td>
   </tr>
 	<tr>
@@ -97,8 +96,8 @@ variant: markdown
     <td>School Staff Developer</td>
   </tr>
 	<tr>
-    <td><a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi</a></td>
-    <td>Level Head Science</td>
+    <td><a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Miss Chua Ee Lyn</a></td>
+    <td>Subject Head Science (Covering)</td>
   </tr>
 	<tr>
     <td><a href="mailto:tay_wan_boon@moe.edu.sg">Mdm Stephanie Tay Wan Boon</a></td>
@@ -106,7 +105,7 @@ variant: markdown
   </tr>
 	<tr>
     <td><a href="mailto:vasanthi_mahalinggam@moe.edu.sg">Mdm Vasanthi d/o Mahalinggam</a></td>
-    <td>Level English (Covering)</td>
+    <td>Level Head English (Covering)</td>
   </tr>
 	<tr>
     <td><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah bte Md Nasir</a></td>
