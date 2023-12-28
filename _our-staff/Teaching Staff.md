@@ -216,26 +216,35 @@ variant: markdown
   <tr>
     <td>6 Care</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg">Miss Kirenjit Kaur</a><br>
-		<a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah</a></td>
+    <td><a href="mailto:tay_wan_boon@moe.edu.sg">Mdm Stephanie Tay</a><br>
+		<a href="mailto:foo_si_min@moe.edu.sg">Miss Tracy Foo</a></td>
   </tr>
   <tr>
+    <td>6 Integrity</td>
+    <td>Form Teacher</td>
+    <td><a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay </a><br>
+		<a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu Bte Mohamed </a></td>
+  </tr>
+	<tr>
     <td>6 Responsibility</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Noor Heryanti Abd Karim </a><br>
-		<a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung </a></td>
+    <td><a href="mailto:tee_shou_fei@moe.edu.sg"></a>Mr Tee Shou Fei<br>
+		<a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi</a> <br>
+		<a href="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng</a></td>
   </tr>
 	<tr>
     <td>6 Resilience</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:tay_wan_boon@moe.edu.sg">Mdm Stephanie Tay</a><br>
-		<a href="mailto:yamuna_jathananthan@moe.edu.sg">Mdm Yamuna d/o Jathananthan</a> <br></td>
+    <td><a href="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen</a> <br>
+		<a href="mailto:muhammad_raziz_abdul_razak@moe.edu.sg">Mr Muhammad Raziz Bin Abdul Razak</a><br>
+		<a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mdm Sharon Ng</a></td>
   </tr>
-	<tr>
-    <td>6 Respect</td>
+		<tr>
+    <td>6 Teamwork</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi Hui Yee</a> <br>
-		<a href="mailto:low_hwee_miang_a@moe.edu.sg">Mdm Low Hwee Miang </a></td>
+    <td><a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan Binte Abd Wahab</a> <br>
+		<a href="mailto:angel_huang@moe.edu.sg">Mdm Angel Huang</a><br>
+		<a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg">Mdm Tan Hugue Hwan Stefane</a></td>
   </tr>
 </tbody></table>
 
