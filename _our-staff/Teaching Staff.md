@@ -184,35 +184,25 @@ variant: markdown
     <th></th>
     <th>Staff</th>
   </tr>
-  <tr>
-    <td>5 Care</td>
-    <td>Form Teacher</td>
-    <td><a href="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Nur Shahid bin Ahmad </a><br>
-		<a href="mailto:foo_si_min@moe.edu.sg">Ms Tracy Foo</a></td>
-  </tr>
 	 <tr>
     <td>5 Integrity</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu bte Mohamed </a><br>
-		<a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a></td>
-  </tr>
-  <tr>
-    <td>5 Responsibility</td>
-    <td>Form Teacher</td>
-    <td><a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah bte Shaffi </a><br>
-		<a href="mailto:alwin_tien_der-wei@moe.edu.sg">Mr Alwin Tien Der Wei</a></td>
+    <td><a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi Hui Yee </a><br>
+		<a href="mailto:juliana_jalil@moe.edu.sg">Mdm Juliana Bte Jalil</a><br>
+		 <a href="mailto:tang_li_hwa@moe.edu.sg">Mdm Tang Li Hwa</a></td>
   </tr>
 	<tr>
-    <td>5 Resilience</td>
+    <td>5 Respect</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen</a><br>
-		<a href="mailto:muhammad_raziz_abdul_razak@moe.edu.sg">Mr Muhammad Raziz bin Abdul Razak</a><br></td>
+    <td><a href="mailto:neo_jia_hwee@moe.edu.sg">Ms Charlotte Neo Jia Hwee</a><br>
+		<a href="mailto:wong_hoe_shyan@moe.edu.sg">Mr Wong Hoe Shyan Frankie</a><br></td>
   </tr>
 	<tr>
     <td>5 Teamwork</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:angel_huang@moe.edu.sg">Mdm Angel Huang </a><br>
-		<a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan binte Abd Wahab</a></td>
+    <td><a href="mailto:low_boon_khim@moe.edu.sg">Mr Low Boon Khim Clarence </a><br>
+		<a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fadilah Bte Md Nasir</a><br>
+		<a href="mailto:mastura_yaacob@moe.edu.sg">Mdm Mastura Bte Yaacob</a></td>
   </tr>
 </tbody></table>
 
