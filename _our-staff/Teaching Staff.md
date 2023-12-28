@@ -79,7 +79,7 @@ variant: markdown
 	<tr>
     <td>2 Responsibility</td>
     <td>Form Teacher</td>
-    <td><a href="mailto:vasanthi_mahalinggam@moe.edu.sg"></a>Mdm Vasanthi d/o Mahalingam<br>
+    <td><a href="mailto:vasanthi_mahalinggam@moe.edu.sg">Mdm Vasanthi d/o Mahalingam</a><br>
 		<a href="mailto:lim_chia_chia@moe.edu.sg">Mdm Lim Chia Chia</a></td>
   </tr>
 	<tr>
