@@ -96,8 +96,8 @@ variant: markdown
     <td>School Staff Developer</td>
   </tr>
 	<tr>
-    <td><a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi</a></td>
-    <td>Level Head Science</td>
+    <td><a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Miss Chua Ee Lyn</a></td>
+    <td>Subject Head Science (Covering)</td>
   </tr>
 	<tr>
     <td><a href="mailto:tay_wan_boon@moe.edu.sg">Mdm Stephanie Tay Wan Boon</a></td>
@@ -105,7 +105,7 @@ variant: markdown
   </tr>
 	<tr>
     <td><a href="mailto:vasanthi_mahalinggam@moe.edu.sg">Mdm Vasanthi d/o Mahalinggam</a></td>
-    <td>Level English (Covering)</td>
+    <td>Level Head English (Covering)</td>
   </tr>
 	<tr>
     <td><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah bte Md Nasir</a></td>
