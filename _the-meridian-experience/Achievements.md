@@ -5,262 +5,183 @@ description: ""
 variant: markdown
 ---
 
-<details>
 
-&nbsp; <summary><b>2023</b></summary>
+#### School Green Awards – Lotus Sustained Achievement Award
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h4>Academic</h4>
+<p align="justify">The school was recognised for its pro-environment efforts and was presented the Lotus Sustained Achievement Award&nbsp; by the National Environment Council.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>Wits and Words National Debate Competition</h5>
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-1.jpg" style="width:450px;height:350px;float:center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p align="justify">Our P5 Team Meridian Debaters have won both Round 1 &amp; Round 2 of the Wits and Words National Debate Competition! The team members demonstrated resilience, teamwork &amp; good sportsmanship. Go Team Meridian! You do us Proud.</p>
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/The%20Meridian%20Experience/Achievements/2023\_Debate\_Team.jpg" style="width:480px;height:350px;float:center">
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-2.jpg" style="width:450px;height:350px;float:center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>National Mathematical Olympiad of Singapore 2023</h5>
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-3.jpg" style="width:450px;height:650px;float:center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/The%20Meridian%20Experience/Achievements/2023\_GROUP\_Maths.jpg" style="width:480px;height:350px;float:center">
+#### Community in Bloom Awards
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+<p align="justify">The school was awarded the Diamond Award for Educational Institutions for the Community in Bloom Awards 2018 by National Parks Board (NParks) under the Excellence Category.&nbsp; The school also bagged the Platinum Banding for the Best Institution Community Gardens.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>Chinese Language Good Progress Award</h5>
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-4.jpg)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p>This award shown the overall greatest improvement in the learning of Chinese Language. From the left Thaddeus Tay Jia Le (6RB), Won Zhe Kai (5IN) and Teo Pei Qing (4RB). </p>
+#### Academic
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/The%20Meridian%20Experience/Achievements/2023\_CL1.jpg" style="width:480px;height:350px;float:center">
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-6.jpeg" style="width:450px;height:350px;float:center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>International Chinese Language and Chinese Poetry Recitation Competition</h5>
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-7.jpeg" style="width:450px;height:350px;float:center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/The%20Meridian%20Experience/Achievements/2023\_CL2.jpg" style="width:480px;height:350px;float:center">
+<p align="jusify">Team Meridian emerged champions &nbsp;in the Pi-Force Challenge organised by Yusof Ishak Secondary School and Punggol Cove Primary School. The competition integrated both math and science Well done!</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+#### Malay Language Ops Baca Competition 2019
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>6th National Text Recital Competition</h5>
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-8.jpeg" style="width:350px;height:550px;float:center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/The%20Meridian%20Experience/Achievements/2023\_CL3.jpg" style="width:480px;height:350px;float:center">
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-9.jpeg" style="width:650px;height:350px;float:center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>National Primary School Chinese Storytelling Competition</h5>
+<p align="justify">Our students clinched 2nd place in the Ops Baca Competition was organised by Malay Activity Executive Committees of Pasir Ris Elias CC. Congratulations!</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/The%20Meridian%20Experience/Achievements/2023\_CL4.png" style="width:380px;height:450px;float:center">
+#### National Malay Language Smart App Vocabulary Competition
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+<p align="justify">Sofea Nurbaqyah Binte Abdul Raman has brought pride to Meridian Primary School when she was featured in ‘Berita Harian’ as she won the 2nd place in the National Smart App Vocabulary Competition organised by Malay Language Centre Singapore. Sofea was among one of the 282 students from over 60 schools who participated in the annual competition.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>Celebrating Success at Sayembara Bahasa Melayu 2023</h5>
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-10.jpg)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p align="justify">Under the guidance of our dedicated ML teachers, our students seized the opportunity to showcase their linguistic prowess and acting skills among five other Pasir Ris schools. We are incredibly thrilled to announce that we clinched 3rd place for P2, P4, and P6 levels, and not to mention, Consolation prizes for the remaining three levels.</p>
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-11.jpg)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+#### National Creative Writing Using LEGO Competition
 
-&nbsp; 
+Ogranised by the Malay Language Learning and Promotion Committee, our students emerged runners-up in the annual Fiesta Bahasa competition.&nbsp; Congratulations!
 
-&nbsp;&nbsp;&nbsp; 
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-12.jpg" style="width:450px;height:550px;float:center">
 
-&nbsp;&nbsp;&nbsp; 
+<br>
 
-&nbsp; <table><tbody><tr><td><img src="/images/The%20Meridian%20Experience/Achievements/2023\_BM1.jpg" style="width:480px;height:250px;float:center"></td><td><img src="/images/The%20Meridian%20Experience/Achievements/2023\_BM2.jpg" style="width:480px;height:250px;float:center"></td></tr>
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-13.jpg" style="width:550px;height:350px;float:center">
 
-</tbody></table>
+The team comprises of Quzandria Qistina (5 RB), Nurin Jazima (5 CA) and Mohammad Naqib (5 RT)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+#### E1 Cluster Collaborative Group Tamil Language Competition
 
-&nbsp; 
+We are pleased to share the joy of our students below who emerged as winners in the above competition.
 
-&nbsp;&nbsp;&nbsp; 
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-14.jpg)
 
-&nbsp;&nbsp;&nbsp; 
+P1 – Srisahana, P2 – Neha, P3 – Niranjan, P4 – Bharathi, P5 – John Graceson &amp; P6 – Lakshmisurya
 
-&nbsp; <table><tbody><tr><td><img src="/images/The%20Meridian%20Experience/Achievements/2023\_BM3.jpg" style="width:480px;height:250px;float:center"></td><td><img src="/images/The%20Meridian%20Experience/Achievements/2023\_BM4.jpg" style="width:480px;height:250px;float:center"></td></tr>
+#### Speak Up! Kids 2017
 
-</tbody></table>
+<p align="justify">Speak Up! Kids is Singapore’s first national public speaking competition for primary level students. Organised by Speech Academy Asia and Sphere Exhibits, a subsidiary of Singapore Press Holdings, this competition serves as a public speaking platform for the young.&nbsp; &nbsp;Team Meridian emerged champions, impressing the judges with their props and choreography along the way.&nbsp; Well done!</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br><br>
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-15.jpg)
 
-<img src="/images/The%20Meridian%20Experience/Achievements/2023\_BM5.jpg" style="width:480px;height:350px;float:center">
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-16.jpg)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+#### Temasek CoSpace Challenge 2017
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>Karya Kreatif 2023 </h5>
+<p align="justify">The school represented by 8 Primary 5 students emerged overall third in the Temasek CoSpace Challenge 2017 organised by Temasek Primary School and Singapore Polytechnic’s Robotics and Maker Academy.&nbsp; The challenge, a robotics event that connects robotics in a real world with a 3D virtual-reality world in cyber-space, provides our pupils an opportunity to pick up programming skills to accomplish tasks based on Mathematical concept on 8-point compass.&nbsp; &nbsp;Well done, students!</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/The%20Meridian%20Experience/Achievements/2023\_ML1.jpg" style="width:480px;height:350px;float:center">
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-17.jpg)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+<hr>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h4>CCA - Clubs and Societies</h4>
+### CCA - Performing and Visual Arts
 
-<h5>11th National Primary Schools Photography Competition</h5>
+##### National Photography Festival (Primary Schools)
 
-<p align="justify">Let’s give a standing ovation to our photographers in the Open Category! Out of the 5 participants, Nurin Izzaty (4CA) and Lu Weiming (4RS) clinched the Merit Awards. Tan Hong Yu (6CA) was awarded the 1st Runner-up and Repeso Czarina (4CA) was declared Champion! Congratulations to all winners!<br></p>
+<p align="justify">The National Photography Festival aims to provide primary school students the opportunity to learn, apply and inspire others in the Art of Photography and inculcate a sense of appreciation for the community and environment.&nbsp; The theme for the 2017 competition is: Uniquely Geylang West.&nbsp; Team Meridian was awarded the&nbsp;<b>Special Mention Prize</b>&nbsp;for capturing the 4 best photos that capture the uniqueness of the Geylang West Community in the area of Nature, Landscape, People and Street Photography.&nbsp; Congratulations!</p>
 
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-18.jpg)
 
+Theme: Nature by Yu Chun Wei (6 PA)
 
-&nbsp; 
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-19.jpg)
 
-&nbsp;&nbsp;&nbsp; 
+Theme: Landscape by Yeo Jing Xuan (6 RT)
 
-&nbsp;&nbsp;&nbsp; 
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-20.jpg)
 
-&nbsp; 
+Theme: People Bonding by Andriele Fei Marquez Nini (6 PA)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <table><tbody><tr><td><img src="/images/The%20Meridian%20Experience/Achievements/2023\_CCA\_Photo1.jpg" style="width:650px;height:250px;float:center"></td><td><img src="/images/The%20Meridian%20Experience/Achievements/2023\_CCA\_Photo2.jpg" style="width:650px;height:250px;float:center"></td></tr></tbody></table>
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-21.jpg)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<img src="/images/The%20Meridian%20Experience/Achievements/2023\_CCA\_Photo3.jpg" style="width:480px;height:350px;float:center">
+Theme: People in the street&nbsp;by Neo Yue Xuan (5 RT)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+#### Singapore Youth Festival Art Exhibition 2019
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h4>CCA - Uniformed Group</h4>
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-22.jpeg)
 
-<h5>Scouts</h5>
+<p align="justify">A group of talented art students, including Meridians, participated in SYF Art Exhibition 2019. Their artworks were showcased at the National Museum.</p>
 
-<p align="justify">Our Cub Scouts was honoured with the Pennant Award by Singapore Scout Association, a testament to the school's remarkable attainment of the Frank Cooper Sands Award (Gold) and congratulations to Baroga Lexie Mae Benito and Lee Dong Zhe from 5 Resilience for receiving the Chief Commissioner’s Well-Done Badge<br></p>
+##### Singapore Youth Festival Art Exhibition 2017
 
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-23.jpg" style="width:350px;height:250px;float:center">
 
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-24.jpg" style="width:350px;height:250px;float:center">
 
-&nbsp; 
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-25.jpg" style="width:350px;height:250px;float:center">
 
-&nbsp;&nbsp;&nbsp; 
+##### DanceSport Competition for Primary Schools 2017
 
-&nbsp;&nbsp;&nbsp; 
+<p align="justify">The school shares the joy of our student, Yeo Jing Xuan, for emerging 1st in the Under 13 Jive Open Girl-Girl and 3rd in Jive Dance categories respectively.&nbsp; She also qualified for the semi-final in the Cha Cha category.&nbsp; Well done, Jing Xuan.</p>
 
-&nbsp; 
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-26.jpg" style="width:350px;height:450px;float:center"><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <table><tbody><tr><td><img src="/images/The%20Meridian%20Experience/Achievements/2023\_Scouts1.jpg" style="width:650px;height:250px;float:center"></td><td><img src="/images/The%20Meridian%20Experience/Achievements/2023\_Scouts2.jpg" style="width:650px;height:250px;float:center"></td></tr></tbody></table>
+<hr>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+#### CCA - Sports
 
-</details>
+##### Soccer – Temasek Cup 2017
 
-<details>
+Our soccer boys participated in this year Temasek Cup.&nbsp; With grit and determination, both the U10 and U12 teams emerged runners-up in their respective category.&nbsp; Goal!
 
-&nbsp; <summary><b>2022</b></summary>
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-27.jpg" style="width:450px;height:350px;float:center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h4>Academic</h4>
+<center>Meridian U10 Soccer Player</center>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>English Language: Junior Lexis 2022</h5>
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-28.jpg" style="width:450px;height:350px;float:center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p align="justify"></p>
+<center>Our U12 Boys</center>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/The%20Meridian%20Experience/Achievements/2023\_EL.JPG" style="width:480px;height:350px;float:center">
+<hr>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+#### CCA - Uniform Group
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h4>CCA - Games and Sports</h4>
+##### Akela Award
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>Floorball</h5>
+<p align="justify">We are pleased to share another good news! 4 students from the Meridian Cub Scouts were presented with the Akela Award, the top recognition for outstanding Cub Scouts.&nbsp; We are really proud of you!</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p align="justify">Team Meridian Floorball takes part in the National Junior to allow the players to have adequate exposure and competition experience</p>
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-29.jpg" style="width:550px;height:450px;float:center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/The%20Meridian%20Experience/Achievements/Floor\_Ball\_\_CCA\_.jpg" style="width:550px;height:350px;float:center">
+##### Frank Cooper Sands Awards – Gold
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+<p align="justify">We are pleased to announce that the Meridian Cub Scouts has been accorded the Gold Award in the Frank Cooper Sands Award. </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>Soccer</h5>
+<p align="justify">Created in 1995 in honour of the father of Scouting in Singapore, the Frank Cooper Sands Award is awarded annually to sectional scout units for unit excellence.&nbsp; The award is also known as the Best Unit Competition under the Co-Curricular Activities Branch of the Ministry of Education.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p align="justify">Our soccer boys participate in U12 Senior SPSCC Football Tournament</p>
+<p align="justify">The assessment for the award centres on Unit administration, Unit participation, Training and Development, International participation, Unit finances and Unit Initiatives.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/The%20Meridian%20Experience/Achievements/2022\_Soccer\_\_CCA\_.jpg" style="width:550px;height:350px;float:center">
+Well done, team!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-30.jpg)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>Taekwondo</h5>
+##### Cub Scouts Gang Show 2017
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p align="justify">Our Taekwondo students participate in junior and senior Poomsae and manage to get 3rd, 5th, 6th, 7th, and 8th position.</p>
+<p align="justify">10 cub scouts participated in the National Cub Scout Gang Show on the 12th August 2017. The Gang Show is a concert where cub scout groups from all over Singapore showcase talent performances such as songs, dances, skits etc. Our cub scouts are pleased to attain the silver award for our dance performance – the Meridian Roar.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/The%20Meridian%20Experience/Achievements/2022\_Taekwondo.jpg" style="width:550px;height:350px;float:center">
+![](/images/The%20Meridian%20Experience/Achievements/Achievements-31.jpg)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+<img src="/images/The%20Meridian%20Experience/Achievements/Achievements-32.jpg" style="width:450px;height:550px;float:center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>Sports Club</h5>
+Front row (from left: P3-PA Fitrilyana Quistina Binte Sadruddin,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p align="justify"></p>
+P3-CA Hiong Kai Sing, P3-PA Chow Wei Ming,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/The%20Meridian%20Experience/Achievements/2022\_sports.jpg" style="width:550px;height:350px;float:center">
+P4-RB Zayed Sameer Fo’ad Altway)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h4>CCA - Performing and Visual Arts</h4>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>SYF Guzheng</h5>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p align="justify">Team Meridian Guzheng! Months of hard work and effort have paid off, and we totally love the melodious performance that touched and moved us greatly. </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/The%20Meridian%20Experience/Achievements/Guzheng\_\_1\_July\_.jpg" style="width:550px;height:350px;float:center">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>SYF Chinese Dance</h5>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p align="justify">
-
-What a captivating performance by our Team Meridian's Chinese Dance at the SYF&nbsp;❤️ </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/The%20Meridian%20Experience/Achievements/Chinese\_Dance\_\_\_22\_July\_2022.jpg" style="width:550px;height:350px;float:center">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>SYF Malay Dance</h5>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p align="justify">Our Team Meridian’s Malay Dance put up a charming performance at the SYF !</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/The%20Meridian%20Experience/Achievements/Malay\_Dance\_\_\_22\_July\_2022.jpg" style="width:550px;height:350px;float:center">
-
-<h4>CCA - Clubs and Societies</h4>
-
-<h5>National Primary Schools Photography Competition</h5>
-
-<p align="justify">
-
-Our student Tan Hong Yu (5CA) from the Media Production Club emerged 2nd Runner-up in the Open Category in the National Primary Schools Photography Competition!<br>
-
-We would also like to congratulate Alvi Adly (4CA), Schaffa Sahril (4CA) and Myesha Ambretta (5CA) for being shortlisted for the People's Choice Award.<br></p>
-
-
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <table><tbody><tr><td><img src="/images/The%20Meridian%20Experience/Achievements/CCA\_Photography\_1\_\_\_28\_Aug\_2022.jpg" style="width:550px;height:250px;float:center"></td><td><img src="/images/The%20Meridian%20Experience/Achievements/CCA\_Photography\_2\_\_\_28\_Aug\_2022.jpg" style="width:550px;height:250px;float:center"></td></tr></tbody></table>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <table><tbody><tr><td><img src="/images/The%20Meridian%20Experience/Achievements/CCA\_Photography\_3\_\_\_28\_Aug\_2022.jpg" style="width:550px;height:250px;float:center"></td><td><img src="/images/The%20Meridian%20Experience/Achievements/CCA\_Photography\_4\_\_\_28\_Aug\_2022.jpg" style="width:550px;height:250px;float:center"></td></tr></tbody></table>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h4>CCA - Uniformed Group</h4>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>Scouts</h5>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p align="justify">Congratulations to Josh, Pak Yin, Ramnath Pandiyam and Lee Yan Hui for receiving the Chief Commissioner’s Well-Done Badge</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<table><tbody><tr><td><img src="/images/The%20Meridian%20Experience/Achievements/2022\_Well\_Done\_Badge\_Q3\_\_\_Q4\_\_Josh\_\_\_Pak\_Yin\_.jpeg" style="width:550px;height:250px;float:center"></td><td><img src="/images/The%20Meridian%20Experience/Achievements/2022\_Scouts2.jpeg" style="width:550px;height:250px;float:center"></td></tr></tbody></table>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/The%20Meridian%20Experience/Achievements/2022\_Scouts1.jpeg" style="width:350px;height:550px;float:center">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-
-</details>
+Back row (from left: P5-RB Shermaine Tan Li Ying, P5-RT Goh Tze Hian, Sherry, P4-PA Vijayasekar Hemasree, P4-PA Woo Jie Rui Ambrose, P4-CA Wong Yu Heng Rayan,&nbsp; &nbsp;P5-CA Tew Wei Hong)
