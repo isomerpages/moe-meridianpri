@@ -26,7 +26,8 @@ variant: markdown
 
 <p align="justify">I warmly welcome parents, students and partners to explore our website to find out more about education at Meridian Primary and invite you to join me in shaping the next chapters of our amazing Meridian Story.</p>
 
+<p align="justify">I wish you and your loved ones a wonderful and joyous 2024.</p>
 
-
-Liza Rahmat (Ms)<br>
+Your partner in education,<br>
+Lim-Chew Siang Jiun (Mrs)<br>
 Principal
