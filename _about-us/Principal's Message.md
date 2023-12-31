@@ -2,13 +2,14 @@
 title: Principal's Message
 permalink: /about-us/Principals-Message/
 description: ""
+variant: markdown
 ---
 # Principal's Message
 
 <table>
   <tbody><tr>
-    <td><img style="width:3485px; height:270px; float:left" src="/images/About%20As/Liza%20Rahmat%20MPS.jpg"></td>
-    <td><p align="justify"><br>At the start of each year, as part of our ‘Start Right, Start Bright’ Programme, I share my wish for Meridian Primary to our children. I wish for Meridian Primary to be a school where every child and adult feel welcomed, safe, cared for, respected, and empowered!</p>
+    <td><img style="width:4000px; height:390px; float:left" src="/images/About%20As/Mrs_Lim.jpeg"></td>
+    <td><p align="justify"><br>The Meridian Story is one shaped by our remarkable Meridians as well as a mission-driven team of teachers and administrative support staff who served with the able school leadership teams led by Mr Eric Lim, Mdm Tan Mei Ling, Mr Lim Meng Wei and Ms Liza Rahmat. </p>
 		</td>
   </tr>
 	</tbody></table>
