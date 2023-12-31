@@ -14,15 +14,19 @@ variant: markdown
   </tr>
 	</tbody></table>
 
-<p align="justify">My team and I are committed to ensuring that Meridian Primary is a caring and enabling school that provides varied opportunities, experiences, and support for our children to flourish so that they can become the very best that they can be.</p>
+<p align="justify">Through the years, we are also very thankful for the unyielding support provided by our School Advisory Committee, Parent Support Group, parents, alumni, and community partners. Importantly, each chapter of our Story is meaningful only because of our children. It is my privilege to have this opportunity to join the school and build on the good work contributed by past and present Meridian teams.</p>
 
-<p align="justify">In Meridian Primary, our children <b>Learn for Life</b> as we provide strong academic rigor to meet their learning needs without compromising on their joy of learning. We have seen significant improvements in our children’s academic performance in English, Mathematics, Science and Mother Tongue Languages. For our 2022 P6 cohort, like the previous cohorts before them, our children worked hard, did their best for their PSLE, and all of them are currently continuing their studies in different Secondary Schools.</p>
+<p align="justify">It is our belief in Meridian Primary that every child matters. We treasure each Meridian as a distinct individual who can learn and succeed and make use of what he or she learned to make a positive difference. This shared belief guides us in designing a Meridian Experience that helps our children enjoy learning in an environment that is motivating, safe and respectful. In their important formative years, Meridians can look forward to growing in a space that encourages them to love learning and embrace challenges without fear of being judged.&nbsp; As they learn how to learn, they also know more about themselves and the value they can bring to others.</p>
 
-<p align="justify">To develop our children holistically, we <b>Nurture Character and Strength</b> by ensuring that our children are grounded in strong values and equipped with competencies and skills that prepare them for life. We want our children to be empowered to <b>Lead and Inspire</b> and believe that they are never too young to make a positive difference to those around them.</p>
+<p align="justify">Our curriculum and co-curriculum pique our children’s natural curiosity, and provide them with varied opportunities to explore, reflect and relate their ideas and experiences, thereby developing important competencies like critical thinking, communication, and collaboration. Apart from developing strong character and values like resilience, respect, responsibility, care, integrity, and teamwork, they also learn how to be grateful as well as have appreciation for their parents and others around them.</p>
 
-<p align="justify">What we have achieved thus far as a school is the result of the hard work and heart work of the whole Meridian family, including our School Advisory Committee, parents and community partners. I am every grateful to the tremendous support and encouragement we receive as a school and will continue to work hard with my team to provide our children that amazing Meridian Experience.</p>
+<p align="justify">The Meridian team is committed to deliver an academically robust curriculum that takes into account our children’s strengths and learning readiness, while enabling them to experience the joy of learning in the process. Across the years, we have seen significant improvements in our children’s academic performance in English, Mathematics, Science and Mother Tongue Languages. We are immensely proud of our 2023 Primary 6 cohort who, like their seniors, worked hard and did their best for their PSLE. All of them are currently furthering their education in various secondary schools.</p>
 
-<p align="justify"> I look forward to an exciting 2023 as together, we continue to nurture Future Learners, Future Citizens and Future Leaders in Meridian Primary!</p>
+<p align="justify">The Meridian Experience enables our children to Learn for Life as well as be Nurtured in Character and Strength so that they can, in turn, Lead and Inspire others. Much like my deepest wish for my two children, it is my endeavour to work with my team to enable each and every Meridian to acquire strong fundamentals and possess values-anchored character so that he or she has what it takes to seek and live a purposeful life.</p>
+
+<p align="justify">I warmly welcome parents, students and partners to explore our website to find out more about education at Meridian Primary and invite you to join me in shaping the next chapters of our amazing Meridian Story.</p>
+
+
 
 Liza Rahmat (Ms)<br>
 Principal
