@@ -1,0 +1,28 @@
+collections:
+  communications:
+    output: true
+    order:
+      - Letter to Parents 2024/.keep
+      - Letter to Parents 2024/All Levels.md
+      - Letter to Parents 2024/Primary 1.md
+      - Letter to Parents 2024/Primary 2.md
+      - Letter to Parents 2024/Primary 3.md
+      - Letter to Parents 2024/Primary 4.md
+      - Letter to Parents 2024/Primary 5.md
+      - Letter to Parents 2024/Primary 6.md
+      - Resources For Parents/.keep
+      - Resources For Parents/Resources For Parents.md
+      - Resources For Parents/Building Resilience In Children And Support Them
+        Through Transistions.md
+      - Resources For Parents/Cyber Wellness.md
+      - Resources For Parents/A Collection of Tips and Resources.md
+      - Assessment Matters/.keep
+      - Assessment Matters/School Policy & Practice On Assessment Matters.md
+      - Assessment Matters/Assessment Plan 2023.md
+      - Curriculum Forum Day 2023.md
+      - Newsletters   Meridian Times/.keep
+      - Newsletters   Meridian Times/2017 Semester 1.md
+      - Newsletters   Meridian Times/2017 Semester 2.md
+      - Newsletters   Meridian Times/2018 Semester 1.md
+      - Newsletters   Meridian Times/2019 Semester 1.md
+      - School Calendar.md

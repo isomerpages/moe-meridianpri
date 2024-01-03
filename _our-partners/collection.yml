@@ -1,0 +1,6 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - Parents Support Group.md
+      - PSG Newsletters.md
