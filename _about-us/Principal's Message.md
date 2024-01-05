@@ -4,15 +4,16 @@ permalink: /about-us/Principals-Message/
 description: ""
 variant: markdown
 ---
-# Principal's Message
 
 
 <table>
 <tbody><tr>
+	<td><h1>Principal's Message</h1></td>
 	<td><img src="/images/About%20As/Mrs_Lim.jpeg"></td>
-	<td><p align="justify"><br>The Meridian Story is one shaped by our remarkable <br> Meridians as well as a mission-driven team of <br>teachers  and administrative support staff who served with the able school leadership teams led <br>by Mr Eric Lim, Mdm Tan Mei Ling, Mr Lim Meng Wei and Ms Liza Rahmat. </p></td>
 </tr>
 </tbody></table>
+
+<p align="justify"><br>The Meridian Story is one shaped by our remarkable Meridians as well as a mission-driven team of teachers  and administrative support staff who served with the able school leadership teams led by Mr Eric Lim, Mdm Tan Mei Ling, Mr Lim Meng Wei and Ms Liza Rahmat. </p>
 
 <p align="justify">Through the years, we are also very thankful for the unyielding support provided by our School Advisory Committee, Parent Support Group, parents, alumni, and community partners. </p>
 
@@ -32,9 +33,3 @@ variant: markdown
 Your partner in education,<br>
 Lim-Chew Siang Jiun (Mrs)<br>
 Principal
-
-
-
-
-
-
