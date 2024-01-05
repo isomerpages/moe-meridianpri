@@ -31,3 +31,5 @@ variant: markdown
 			<li>Updating on Vaping <a href="/files/Communications/Resources%20for%20Parents/updatingonvaping%20_dm_(may%202023).pdf" target="_blank">Link</a></li>
  </ul>
 </ul>
+
+[](/files/Communications/Letters%20to%20All%20Parents%202023/Letters%20to%20all%20Parents/January/2023%20Start%20of%20Year%20Letter%20to%20Parents_Final.pdf)
