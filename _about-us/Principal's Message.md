@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 ---
 
-
 <table>
 <tbody><tr>
 	<td><h1>Principal's Message</h1></td>
@@ -13,9 +12,7 @@ variant: markdown
 </tr>
 </tbody></table>
 
-<p align="justify"><br>The Meridian Story is one shaped by our remarkable Meridians as well as a mission-driven team of teachers  and administrative support staff who served with the able school leadership teams led by Mr Eric Lim, Mdm Tan Mei Ling, Mr Lim Meng Wei and Ms Liza Rahmat. </p>
-
-<p align="justify">Through the years, we are also very thankful for the unyielding support provided by our School Advisory Committee, Parent Support Group, parents, alumni, and community partners. </p>
+<p align="justify"><br>The Meridian Story is one shaped by our remarkable Meridians as well as a mission-driven team of teachers  and administrative support staff who served with the able school leadership teams led by Mr Eric Lim, Mdm Tan Mei Ling, Mr Lim Meng Wei and Ms Liza Rahmat. Through the years, we are also very thankful for the unyielding support provided by our School Advisory Committee, Parent Support Group, parents, alumni, and community partners. </p>
 
 <p align="justify">Importantly, each chapter of our Story is meaningful only because of our children. It is my privilege to have this opportunity to join the school and build on the good work contributed by past and present Meridian teams.</p>
 <p align="justify">It is our belief in Meridian Primary that every child matters. We treasure each Meridian as a distinct individual who can learn and succeed and make use of what he or she learned to make a positive difference. This shared belief guides us in designing a Meridian Experience that helps our children enjoy learning in an environment that is motivating, safe and respectful. In their important formative years, Meridians can look forward to growing in a space that encourages them to love learning and embrace challenges without fear of being judged.&nbsp; As they learn how to learn, they also know more about themselves and the value they can bring to others.</p>
