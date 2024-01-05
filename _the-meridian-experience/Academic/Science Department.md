@@ -3,26 +3,28 @@ title: Science Department
 permalink: /the-meridian-experience/academic/science-department/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
-![](/images/Our%20Staff/2022%20Dept%20Photo/SCIENCE.jpg)
-<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2022</p>
+![](/images/Our%20Staff/2023%20Dept%20Photos/Science__Formal_min.jpg)
+
+<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2023</p>
 <hr>
 
 #### Vision
 
-<p align = "justify">The Science Department’s vision is to develop young citizens who have a heart of care for their living environment.  Our students are motivated to learn more about Science, are curious and are able to use a repertoire of Science  process skills for making effective decisions.</p>
+<p align="justify">The Science Department’s vision is to develop young citizens who have a heart of care for their living environment.&nbsp; Our students are motivated to learn more about Science, are curious and are able to use a repertoire of Science&nbsp; process skills for making effective decisions.</p>
 
 #### Approach
 ![](/images/The%20Meridian%20Experience/Science%20Dept/Science_Website-V2.jpg)
 
-<p align = "justify">The Science programme at Meridian takes direction from the Singapore’s Primary Science Syllabus.  The framework of the Science Department’s activities and programmes are represented by three round organic spheres, namely, Knowledge, Understanding and Application; Skills and processes; and Ethics and Attitudes.  Like molecules in life, these spheres are vibrant in the academic and non-academic areas at Meridian.</p>
+<p align="justify">The Science programme at Meridian takes direction from the Singapore’s Primary Science Syllabus.&nbsp; The framework of the Science Department’s activities and programmes are represented by three round organic spheres, namely, Knowledge, Understanding and Application; Skills and processes; and Ethics and Attitudes.&nbsp; Like molecules in life, these spheres are vibrant in the academic and non-academic areas at Meridian.</p>
 
 #### Goals
 To provide our students with the:
 
-*   <p align = "justify">experiences which build on their interest in and stimulate their curiousity about the environment we live in</p>
+*   <p align="justify">experiences which build on their interest in and stimulate their curiousity about the environment we live in</p>
     
-*  <p align = "justify"> scientific knowledge and concepts to help them understand the world around them</p>
+*  <p align="justify"> scientific knowledge and concepts to help them understand the world around them</p>
     
 *   opportunities and platforms to develop skills, habits of mind and attitudes for scientific inquiry  
     
