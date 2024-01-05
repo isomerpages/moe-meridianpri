@@ -4,8 +4,8 @@ permalink: /mk-at-meridian/mk-at-meridian-staff/
 description: ""
 variant: markdown
 ---
-![](/images/Our%20Staff/2022%20Dept%20Photo/MOE%20KINDERGARTEN%20TEACHERS.jpg)
-<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2022</p>
+![](/images/Our%20Staff/2023%20Dept%20Photos/MKE__Formal_min.jpg)
+<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2023</p>
 <hr>
 
 #### MK@Meridian Staff

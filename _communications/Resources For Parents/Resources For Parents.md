@@ -3,6 +3,7 @@ title: Resources For Parents
 permalink: /communications/resources-for-parents/resources-for-parents/
 description: ""
 third_nav_title: Resources For Parents
+variant: markdown
 ---
 <p align="justify">“Every parent a supportive partner” is an important piece of MOE’s key theme “Towards Student-Centric, Values-Driven Education”. It emphasises the importance of partnerships between schools and parents in bringing out the best in every child, and also the key role of the community in supporting our children on diverse pathways towards success.</p>
 
@@ -21,7 +22,7 @@ third_nav_title: Resources For Parents
 <ul>
 	<li>School Bag <a href="https://www.schoolbag.edu.sg/" target="_blank">Link</a></li>
 	<li>SEAB Website - for PSLE related information <a href="https://www.seab.gov.sg/home/#" target="_blank">Link</a></li>
-	<li>Group Personal Accident(GPA) Insurance for Student <a href="/files/Useful%20Link/Product%20Fact%20Sheet%20Year%202023.pdf" target="_blank">Link</a></li>
+	<li>Group Personal Accident(GPA) Insurance for Student <a href="/files/Useful%20Link/productfactsheetyear2023.pdf" target="_blank">Link</a></li>
 	<li>Advisories:</li>
 		<ul class="square">  
 		<li>2022 Joint Advisory by the Singapore Force, Central Narcotics Bureau, National Crime Prevention Council and National Council Against Drug Abuse <a href="/files/Communications/Resources%20for%20Parents/Joint%20Advisory%20Year%20End%202022.pdf" target="_blank">Link</a></li>  
