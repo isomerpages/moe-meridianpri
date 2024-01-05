@@ -31,7 +31,7 @@ variant: markdown
 	
 </tbody></table>
 
-### Year Heads/Assistant Year Heads
+### Year Head/Assistant Year Head
 
 <table style="width:100%">
   <tbody><tr>
@@ -46,18 +46,18 @@ variant: markdown
 			<a href="mailto:chou_shin_chieh@moe.edu.sg">Mdm Chou Shin Chieh</a></td>
     <td>Year Head P2 and P5</td>
   </tr>
-		<tr>
-    <td>
-			<a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Tang Tsin Ray</a></td>
-    <td>Assistant Year Head P2</td>
-  </tr>
 	<tr>
     <td><a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg">Mdm Tan Hugue  Hwan Stefane</a></td>
     <td>Year Head P3 and P6</td>
   </tr>
+			<tr>
+    <td>
+			<a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Tang Tsin Ray</a></td>
+    <td>Assistant Year Head P2</td>
+  </tr>
 </tbody></table>
 
-#### Heads of Department/Subject Heads/Level Head
+#### Head of Department/Subject Head/Level Head
 
 <table style="width:100%">
   <tbody><tr>
@@ -96,24 +96,24 @@ variant: markdown
     <td>School Staff Developer</td>
   </tr>
 	<tr>
-    <td><a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Miss Chua Ee Lyn</a></td>
-    <td>Subject Head Science (Covering)</td>
-  </tr>
-	<tr>
     <td><a href="mailto:tay_wan_boon@moe.edu.sg">Mdm Stephanie Tay Wan Boon</a></td>
     <td>Subject Head/ Character and Citizenship Education</td>
   </tr>
-	<tr>
-    <td><a href="mailto:vasanthi_mahalinggam@moe.edu.sg">Mdm Vasanthi d/o Mahalinggam</a></td>
-    <td>Level Head English (Covering)</td>
-  </tr>
-	<tr>
+			<tr>
     <td><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah bte Md Nasir</a></td>
     <td>Subject Head Malay</td>
   </tr>
 	<tr>
+    <td><a href="mailto:vasanthi_mahalinggam@moe.edu.sg">Mdm Vasanthi d/o Mahalinggam</a></td>
+    <td>Level Head English</td>
+		</tr>
+	<tr>
     <td><a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Noor Heryanti Abd Karim</a></td>
     <td>Level Head Maths</td>
+  </tr>
+		<tr>
+    <td><a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Miss Chua Ee Lyn</a></td>
+    <td>Subject Head Science (Covering)</td>
   </tr>
 	
 </tbody></table>
