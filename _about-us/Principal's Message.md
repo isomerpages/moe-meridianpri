@@ -6,7 +6,7 @@ variant: markdown
 ---
 <table style="width:100%">
 <tbody><tr>
-	<td><img style="float:left; width: 300px; height: 400px;" alt="" src="/images/About As/Mrs_Lim.jpeg"><p align="justify">The Meridian Story is one shaped by our remarkable Meridians as well as a mission-driven team of teachers  and administrative support staff who served with the able school leadership teams led by Mr Eric Lim, Mdm Tan Mei Ling, Mr Lim Meng Wei and Ms Liza Rahmat. Through the years, we are also very thankful for the unyielding support provided by our School Advisory Committee, Parent Support Group, parents, alumni, and community partners. </p></td>
+	<td><img style="float:left; width: 300px; height: 400px; border: 5px solid white;" alt="" src="/images/About As/Mrs_Lim.jpeg"><p align="justify">The Meridian Story is one shaped by our remarkable Meridians as well as a mission-driven team of teachers  and administrative support staff who served with the able school leadership teams led by Mr Eric Lim, Mdm Tan Mei Ling, Mr Lim Meng Wei and Ms Liza Rahmat. Through the years, we are also very thankful for the unyielding support provided by our School Advisory Committee, Parent Support Group, parents, alumni, and community partners. </p></td>
 </tr>
 </tbody></table>
 
