@@ -2,10 +2,11 @@
 title: Non Teaching Staff
 permalink: /our-staff/non-teaching-staff/
 description: ""
+variant: markdown
 ---
-![](/images/Our%20Staff/2022%20Dept%20Photo/EXECUTIVE%20AND%20ADMINISTRATIVE%20STAFF.jpg)
 
-<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2022</p>
+![](/images/Our%20Staff/2023%20Dept%20Photos/EAS_Team__Formal_min.jpg)
+<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2023</p>
 <hr>
 <br>
 <table style="width:100%">
