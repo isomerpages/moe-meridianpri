@@ -22,7 +22,7 @@ variant: markdown
 <ul>
 	<li>School Bag <a href="https://www.schoolbag.edu.sg/" target="_blank">Link</a></li>
 	<li>SEAB Website - for PSLE related information <a href="https://www.seab.gov.sg/home/#" target="_blank">Link</a></li>
-	<li>Group Personal Accident(GPA) Insurance for Student <a href="/files/Useful%20Link/productfactsheetyear2023.pdf" target="_blank">Link</a></li>
+	<li>Group Personal Accident(GPA) Insurance for Student <a href="/files/Communications/Resources%20for%20Parents/MOE_Student_Product_Fact_Sheet_Year_2024.pdf" target="_blank">Link</a></li>
 	<li>Advisories:</li>
 		<ul class="square">  
 		<li>2022 Joint Advisory by the Singapore Force, Central Narcotics Bureau, National Crime Prevention Council and National Council Against Drug Abuse <a href="/files/Communications/Resources%20for%20Parents/Joint%20Advisory%20Year%20End%202022.pdf" target="_blank">Link</a></li>  
