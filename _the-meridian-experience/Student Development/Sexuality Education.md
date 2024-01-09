@@ -39,16 +39,13 @@ variant: markdown
 <br>
 <li>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.</li>
 
-**At Meridian, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2023</u>:**
+**At Meridian, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2024</u>:**
 	
-<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2023/Sexuality%20Education%201.png">
+<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2024_Sexuality_Education_1.png">
 	<br>
-<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2023/Sexuality%20Education%202.png">
+<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2024_Sexuality_Education_2.png">
 	<br>
-<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2023/Sexuality%20Education%203.png">
-	<br>
-<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2023/Sexuality%20Education%204.png">
-	
+<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2024_Sexuality_Education_3.png">
 <b>Important Information for Parents</b>
 	
 <li> Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
