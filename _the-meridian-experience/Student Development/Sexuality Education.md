@@ -35,9 +35,9 @@ variant: markdown
 	
 <p><u><b>Sexuality Education Lesson:</b></u>&nbsp;</p>
 	
-<li>The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.</li>
+<li>The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require close guidance so that they can respond with discernment to the sexual messages in the media and other sources.</li>
 <br>
-<li>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</li>
+<li>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.</li>
 
 **At Meridian, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2023</u>:**
 	
@@ -51,12 +51,11 @@ variant: markdown
 	
 <b>Important Information for Parents</b>
 	
-<li>Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality&nbsp;education programmes by MOE-approved external providers.</li>
+<li> Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
 	
-<li>Parents who wish to opt their children out of the Sexuality Education lesson&nbsp;need to complete an&nbsp;opt-out form. This form will be distributed to parents at the start of the year and also downloadable <a href="https://form.gov.sg/61e91d296c89fd0012e045f0">here</a> or scan the QR Code to complete the opt-out form. The completed opt-out form is to be submitted by 07/02/2022</li>
+<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form via the QR code below. The completed opt-out form is to be submitted by 19/01/2024.</li>
 	
-<li>Parents can contact the school at Tel: 6583 2125 or email&nbsp;<a href="mailto: tay_wan_boon@moe.edu.sg">Mdm Tay Wan Boon Stephanie</a> or&nbsp;<a href="mailto: nor_fardilah_md_nasir@moe.edu.sg">Mdm Fardilah bte Mohd Nasir </a>for discussion or to seek clarification about the school’s sexuality&nbsp;education programme.</li>
+<li>Parents can contact the school at Tel: 6583 2125 or email&nbsp;<a href="mailto: tay_wan_boon@moe.edu.sg">Mdm Tay Wan Boon Stephanie</a> or&nbsp;<a href="mailto: lee_song_sang@moe.edu.sg">Mdm Lee Song Sang </a>for discussion or to seek clarification about the school’s sexuality&nbsp;education programme.</li>
 
-<li>Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</li>
 
 </ol>
