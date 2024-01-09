@@ -16,14 +16,14 @@ variant: markdown
 		<dd>(c) Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</dd>
 	</li>
 	
-  <li>The <b>key messages</b> of Sexuality Education are:</li>
-	<dd>a ) Love and respect yourself as you love and respect others;</dd>
-		<dd>b) Build positive relationships based on love and respect (which are the foundation for strong families);</dd>
-		<dd>c) Make responsible decisions for yourself, your family and society; and</dd>
-		<dd>d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</dd>
+  <li>The <b>Key Messages</b> of Sexuality Education are:</li>
+	<dd>(a) Love and respect yourself as you love and respect others;</dd>
+		<dd>(b) Build positive relationships based on love and respect (which are the foundation for strong families);</dd>
+		<dd>(c) Make responsible decisions for yourself, your family and society; and</dd>
+		<dd>(d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</dd>
 
 
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education.</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education](https://go.gov.sg/moe-sexuality-education)">here</a> for more information on MOE Sexuality Education.</p>
 
 <b>Meridian's SEd Programme</b>
 	
