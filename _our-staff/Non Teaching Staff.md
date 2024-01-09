@@ -4,7 +4,6 @@ permalink: /our-staff/non-teaching-staff/
 description: ""
 variant: markdown
 ---
-
 ![](/images/Our%20Staff/2023%20Dept%20Photos/EAS_Team__Formal_min.jpg)
 <p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2023</p>
 <hr>
@@ -31,7 +30,7 @@ variant: markdown
     <td>Corporate Support Officer (CSO)</td>
   </tr>
 	<tr>
-    <td><a href="mailto:noorini_nordin@moe.edu.sg">Mdm Noorini Bte Nordin</a></td>
+    <td><a href="mailto:Sohana_Abd_halim@moe.edu.sg">Mdm Soraya Abd Halim</a></td>
     <td>Corporate Support Officer (CSO)</td>
   </tr>
 	<tr>
