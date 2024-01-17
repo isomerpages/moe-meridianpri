@@ -20,7 +20,7 @@ variant: markdown
 
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/About%20As/InkedInsta.jpg" style="width:400px;height:500px;float:center"></td>
+    <td><br><img src="/images/About%20As/InkedInsta.jpg" style="width:350px;height:500px;float:center"></td>
     <td><br><br><br><br><br><br><br><p style="font-size:20px"><b><a href="https://www.instagram.com/meridianpri_official/">@meridianpri_official</a></b></p><img width="80" height="80" src="/images/About%20As/IG.png">
 		</td>
   </tr>
