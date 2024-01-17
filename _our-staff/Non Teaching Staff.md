@@ -4,10 +4,10 @@ permalink: /our-staff/non-teaching-staff/
 description: ""
 variant: markdown
 ---
-![](/images/Our%20Staff/2023%20Dept%20Photos/EAS_Team__Formal_min.jpg)
+<img src="/images/Our%20Staff/2023%20Dept%20Photos/EAS_Team__Formal_min.jpg" style="width:530px;height:355px;float:center">
 <p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2023</p>
 <hr>
-<br>
+
 <table style="width:100%">
 	 <tbody><tr>
     <td><a href="mailto:azila_farhana_mohd_raus@moe.edu.sg">Ms Aliza Farhana Binti Mohd Raus</a></td>
