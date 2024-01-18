@@ -26,23 +26,31 @@ The Committee comprises of:
     
   </tr>
   <tr>
-    <td>Mdm Anna Han</td>
-    <td>&nbsp;Chairman</td> 
+    <td> Mdm Sonia Singh</td>
+    <td>Chairman</td> 
   </tr>
   <tr>
-    <td>Mdm Siti Rodiah</td>
+    <td>Mdm Stephanie Chu</td>
     <td>Vice Chairman</td>
   </tr>
 	<tr>
-    <td>Mrs Hema Menon</td>
-    <td>Secretary</td>
+    <td> Mdm Sakinah Abdat</td>
+    <td>Accounts &amp; Admin Matters</td>
   </tr>
 	<tr>
-    <td>Mdm Winnie Ho</td>
-    <td>Treasurer</td>
+    <td>Mdm Heidi Kan</td>
+    <td>Operations &amp; Admin Matters</td>
   </tr>
 	<tr>
-    <td>Mdm Angeline Ooi</td>
-    <td>Communications Liaison</td>
+    <td>Mdm Gunjan Chandaki</td>
+    <td>Operations</td>
+  </tr>
+		<tr>
+    <td> Mdm Shee</td>
+    <td>Admin Matters</td>
+  </tr>
+		<tr>
+    <td>Mdm Annie Chang</td>
+    <td>Public Relations &amp; Operations</td>
   </tr>
 </tbody></table>
