@@ -32,8 +32,8 @@ The virtual overseas trip was indeed a memorable and enriching experience for Me
 <table style="width:100%">
 
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP1.png" style="width:380px;height:250px;float:center"><center>Interacting students from China</center></td>
-    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP2.png" style="width:380px;height:250px;float:center"><center>Interacting students from Thailand</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023Overseas_1.jpg" style="width:380px;height:250px;float:center"><center>Our Meridians having Thai food and western fish and chips from New Zealand!</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023Overseas_2.jpg" style="width:380px;height:250px;float:center"><center>         Virtual school exchange with our counterparts in Thailand and New Zealand</center></td>
   </tr>
   <tr>
 		 <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP3.jpg" style="width:380px;height:230px;float:center"></td>
