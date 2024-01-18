@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Academic
 variant: markdown
 ---
-
 <img src="/images/Our%20Staff/2023%20Dept%20Photos/English__Formal_min.jpg" style="width:530px;height:355px;float:center">
 <p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2023</p>
 <hr>
@@ -82,4 +81,4 @@ The department adopts the STELLAR (<b>S</b>trategies for&nbsp;<b>E</b>nglish&nbs
 
 
 <p>For enquiries on the school’s English Language Department, please email:</p>
-* <a href="mailto:neo_jia_hwee@moe.edu.sg">Ms Charlotte Neo Jia Hwee (Head of Department)</a>
+<a href="mailto:neo_jia_hwee@moe.edu.sg">Ms Charlotte Neo Jia Hwee (Head of Department)</a>

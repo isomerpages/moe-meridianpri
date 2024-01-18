@@ -2,51 +2,56 @@
 title: Parents Support Group
 permalink: /our-partners/parents-support-group/
 description: ""
+variant: markdown
 ---
-<p align = "justify">The Meridian Parents Support Group (PSG) comprises of a group of enthusiastic parents who share a common goal with the school – to create an environment that best supports the children’s learning and development.</p>
 
-![](/images/Our%20Partners/PSG_15-Feb-2017a-720x540.jpg)
-<p align = "center">PSG Member at A Get-Together</p>
 
-<p align = "justify">The group has been actively working with and supporting the school on several initiatives, some of them are as listed below:</p>
+<p align="justify">The Parent Support Group (PSG) is a great opportunity for parents to be closer to their children, understand them better and help them in their education journey. The children also benefit when&nbsp; the parents are more active in the school environment.</p>
 
-*   Breakfast With Parents and School re-opening in January  
-*   Eco-Environment Projects  
-	*   Green Fingers Project
-	*   Eco Jumbo Sales
-*   Wellness Programmes  
-	*   Cyber Wellness Week
-	*   Health Week
-*   Learning and Enichment  
-	*   CCE during recess (Craftwork)
-	*   Learning Journey
-	*   Reading Programme
-	*   Swimming Programme
+![](/images/PSG_2023.png)
+
+<i>Some of our treasured Parent Volunteers with our school leaders and teachers during an activity conducted by parents for the parents</i>
+
+<p align="justify">The PSG complements the school by aligning itself with the school’s objectives, supporting and strengthening the school’s programmes to improve our children’s well-being and learning.</p>
+	
+<p align="justify">The PSG listens to parents’ feedback on school operations, practices and programmes, and provides these feedback to the school. The PSG also facilitates the school’s communication to parents.</p>
+
+<p align="justify">Parents who are actively involved in the PSG are better able to reach out to other parents and involve them in school activities. Over time, more parents can contribute to make the school environment an even more conducive place for learning.</p>
+
+<p align="justify">The parent volunteers have been contributing their time, talents and thoughts to help make the school a safer place for our children to learn in, making school life more vibrant and exciting.</p>
 
 The Committee comprises of:
 
 <table style="width:100%">
-  <tr>
+  <tbody><tr>
     
   </tr>
   <tr>
-    <td>Mdm Anna Han</td>
-    <td> Chairman</td> 
+    <td> Mdm Sonia Singh</td>
+    <td>Chairman</td> 
   </tr>
   <tr>
-    <td>Mdm Siti Rodiah</td>
+    <td>Mdm Stephanie Chu</td>
     <td>Vice Chairman</td>
   </tr>
 	<tr>
-    <td>Mrs Hema Menon</td>
-    <td>Secretary</td>
+    <td> Mdm Sakinah Abdat</td>
+    <td>Accounts &amp; Admin Matters</td>
   </tr>
 	<tr>
-    <td>Mdm Winnie Ho</td>
-    <td>Treasurer</td>
+    <td>Mdm Heidi Kan</td>
+    <td>Operations &amp; Admin Matters</td>
   </tr>
 	<tr>
-    <td>Mdm Angeline Ooi</td>
-    <td>Communications Liaison</td>
+    <td>Mdm Gunjan Chandaki</td>
+    <td>Operations</td>
   </tr>
-</table>
+		<tr>
+    <td> Mdm Shee</td>
+    <td>Admin Matters</td>
+  </tr>
+		<tr>
+    <td>Mdm Annie Chang</td>
+    <td>Public Relations &amp; Operations</td>
+  </tr>
+</tbody></table>
