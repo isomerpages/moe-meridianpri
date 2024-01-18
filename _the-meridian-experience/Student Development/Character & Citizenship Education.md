@@ -47,8 +47,8 @@ My Meridian Experience <br>
 #### Photos for Education Career Guidance
 <br>
 
-<b>P1 ECG Programme – Trip To The Zoo</b><br><table style="width:100%">
-
+<b>P1 ECG Programme – Trip To The Zoo</b><br>
+<table style="width:100%">
   <tbody><tr>
     <td><img src="/images/CCE/2023/NE2.png" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2023/NE3.png" style="width:380px;height:230px;float:center"></td>
@@ -59,8 +59,8 @@ My Meridian Experience <br>
 </tbody></table>
 
 <br>
-<b>P2 ECG Programme – Trip To The Fire Station</b><br><table style="width:100%">
-
+<b>P2 ECG Programme – Trip To The Fire Station</b><br>
+<table style="width:100%">
   <tbody><tr>
     <td><img src="/images/CCE/2023/NE4.png" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2023/NE5.png" style="width:380px;height:230px;float:center"></td>
@@ -71,8 +71,8 @@ My Meridian Experience <br>
 </tbody></table>
 
 <br>
-<b>P3 ECG Programme – Appreciation of OSOs</b><br><table style="width:100%">
-
+<b>P3 ECG Programme – Appreciation of OSOs</b><br>
+<table style="width:100%">
   <tbody><tr>
 		</tr><tr>
     <td colspan="2"><p align="justify">Students "encourage the heart" by affirming our OSOs&nbsp;through the presentation of the class' gratitude board.
@@ -89,8 +89,8 @@ After a week of on the job training with the OSOs during recess, the students re
 #### Photos for Peer Support &amp; Relationships
 <br>
 
-<b>P3 - Writing To Peers</b><br><table style="width:100%">
-
+<b>P3 - Writing To Peers</b><br>
+<table style="width:100%">
   <tbody><tr>
     <td><img src="/images/CCE/2023/NE10.png" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2023/NE11.png" style="width:380px;height:230px;float:center"></td>
@@ -102,8 +102,8 @@ After a week of on the job training with the OSOs during recess, the students re
 
 <br>
 
-<b>P4 – Empathy Map On Ways to Beautify The School</b><br><table style="width:100%">
-
+<b>P4 – Empathy Map On Ways to Beautify The School</b><br>
+<table style="width:100%">
   <tbody><tr>
     <td><img src="/images/CCE/2023/NE13.png" style="width:320px;height:330px;float:center"></td>
     <td><img src="/images/CCE/2023/NE14.png" style="width:320px;height:330px;float:center"></td>
@@ -139,8 +139,8 @@ After a week of on the job training with the OSOs during recess, the students re
 #### Social Skills
 <br>
 
-<b>Social Skills posters and cards in the classrooms</b><br><table style="width:100%">
-
+<b>Social Skills posters and cards in the classrooms</b><br>
+<table style="width:100%">
   <tbody><tr>
   </tr>
 	<tr>
@@ -153,8 +153,8 @@ After a week of on the job training with the OSOs during recess, the students re
 
 <br>
 
-<b>Social Skills booklet for students to write down skill steps learnt and to monitor their progress</b><br><table style="width:100%">
-
+<b>Social Skills booklet for students to write down skill steps learnt and to monitor their progress</b><br>
+<table style="width:100%">
   <tbody><tr>
     <td><img src="/images/CCE/2023/NE23.png" style="width:300px;height:350px;float:center"></td>
     <td><img src="/images/CCE/2023/NE24.png" style="width:300px;height:350px;float:center"></td>
@@ -165,7 +165,6 @@ After a week of on the job training with the OSOs during recess, the students re
 <br>
 
 <table style="width:100%">
-
   <tbody><tr>
     <td><img src="/images/CCE/2023/NE25.png" style="width:300px;height:230px;float:center"><b>Social Skills booklet for students to write down skill steps learnt and to monitor their progress</b></td>
     <td><img src="/images/CCE/2023/NE26.jpg" style="width:300px;height:230px;float:center"><b>Social Skills cards are translated in Mother Tongue languages</b></td>
@@ -185,7 +184,8 @@ After a week of on the job training with the OSOs during recess, the students re
 
 #### Growth Mindset
 
-<br><table style="width:100%">
+<br>
+<table style="width:100%">
 	<tbody><tr>
     <td colspan="2"><img src="/images/CCE/2023/NE28.jpg" style="width:700px;height:250px;float:center"><b>Growth Mindset statement banners for each level</b></td>
   </tr>
@@ -197,7 +197,8 @@ After a week of on the job training with the OSOs during recess, the students re
 
 #### Photos for CyberWellness Education
 
-<br><table style="width:100%">
+<br>
+<table style="width:100%">
 	<tbody><tr>
     <td colspan="2"><img src="/images/CCE/2023/NE31.png" style="width:400px;height:250px;float:center"></td>
   </tr>
@@ -210,7 +211,8 @@ After a week of on the job training with the OSOs during recess, the students re
   </tr>
 </tbody></table>
 
-<br><table style="width:100%">
+<br>
+<table style="width:100%">
 	<tbody><tr>
     <td><img src="/images/CCE/2023/NE34.png" style="width:300px;height:330px;float:center"></td>
     <td><img src="/images/CCE/2023/NE35.png" style="width:320px;height:330px;float:center"></td>
@@ -218,7 +220,8 @@ After a week of on the job training with the OSOs during recess, the students re
 	<tr>
     <td colspan="2"><p align="justify">Termly CW Message and tips were provided for parents and posted on social media platforms as one form of home-school engagement on cyber wellness.</p></td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 <p>For enquiries on the school’s CCE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
