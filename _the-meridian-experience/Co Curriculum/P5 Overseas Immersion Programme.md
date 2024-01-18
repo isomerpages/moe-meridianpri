@@ -35,31 +35,9 @@ The virtual overseas trip was indeed a memorable and enriching experience for Me
     <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023Overseas_1.jpg" style="width:380px;height:250px;float:center"><center>Our Meridians having Thai food and western fish and chips from New Zealand!</center></td>
     <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023Overseas_2.jpg" style="width:380px;height:250px;float:center"><center>         Virtual school exchange with our counterparts in Thailand and New Zealand</center></td>
   </tr>
-  <tr>
-		 <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP3.jpg" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP4.jpg" style="width:380px;height:230px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><center>DIY Arts and Craft</center></td>
-  </tr>
-	<tr>
-		<td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP5.png" style="width:380px;height:230px;float:center"></td>
-		<td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP6.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><center>Live-streaming @ Wetland (Red Crown Crane)</center></td>
-  </tr>
-	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP7.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><center>Live streaming @ Elephant Sanctuary</center></td>
-  </tr>
-	<tr>
-		<td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP8.jpg" style="width:380px;height:230px;float:center"></td>
-		<td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP9.jpg" style="width:380px;height:230px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><center>Research and sharing about locally endangered animals</center></td>
+		<tr>
+    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023Overseas_3.jpg" style="width:380px;height:250px;float:center"><center>Students getting up and close with sheep from New Zealand.</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023Overseas_4.jpg" style="width:380px;height:250px;float:center"><center>Our Meridians learning about elephant protection.</center></td>
   </tr>
 </tbody></table>
+
