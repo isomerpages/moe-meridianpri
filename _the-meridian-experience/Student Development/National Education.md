@@ -19,8 +19,8 @@ National Education comprises a wide range of school efforts that help students e
 	<li>National Day</li>
 </ul>
 
-<b>Racial Harmony Day</b><br><table style="width:100%">
-
+<b>Racial Harmony Day</b><br>
+<table style="width:100%">
   <tbody><tr>
     <td><img src="/images/CCE/2023/NE36.png" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2023/NE37.png" style="width:380px;height:230px;float:center"></td>
@@ -32,8 +32,8 @@ National Education comprises a wide range of school efforts that help students e
 </tbody></table>
 <br>
 
-<b>National Day</b><br><table style="width:100%">
-
+<b>National Day</b><br>
+<table style="width:100%">
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/NE/536A9878.jpg" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/NE/NE2.jpg" style="width:380px;height:230px;float:center"></td>
@@ -45,8 +45,8 @@ National Education comprises a wide range of school efforts that help students e
 
 <br>
 
-<b>Total Defence Day</b><br><table style="width:100%">
-
+<b>Total Defence Day</b><br>
+<table style="width:100%">
   <tbody><tr>
     <td><img src="/images/CCE/2023/NE44.png" style="width:350px;height:200px;float:center"></td>
     <td><img src="/images/CCE/2023/NE45.png" style="width:350px;height:200px;float:center"></td>
@@ -58,8 +58,8 @@ National Education comprises a wide range of school efforts that help students e
 
 <br>
 
-<b>International Friendship Day</b><br><br><table style="width:100%">
-
+<b>International Friendship Day</b><br><br>
+<table style="width:100%">
   <tbody><tr>
     <td><img src="/images/CCE/2023/NE46.png" style="width:350px;height:200px;float:center"></td>
     <td><img src="/images/CCE/2023/NE47.png" style="width:350px;height:200px;float:center"></td>
