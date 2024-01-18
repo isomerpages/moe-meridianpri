@@ -2,7 +2,6 @@ collections:
   the-meridian-experience:
     output: true
     order:
-      - 20th Anniversary.md
       - Signature Programmes/.keep
       - Signature Programmes/Applied Learning Programme (ALP).md
       - Signature Programmes/Secret Garden (MTL).md
@@ -15,7 +14,6 @@ collections:
       - Student Development/Student Well Being.md
       - Academic/.keep
       - Academic/English Department.md
-      - Academic/Meridian Primary Recommended Books.md
       - Academic/Mathematics Department.md
       - Academic/Mother Tongue Department.md
       - Academic/Science Department.md
@@ -33,9 +31,6 @@ collections:
       - Co Curricular Activities/Clubs & Societies.md
       - Co Curricular Activities/Uniformed Group.md
       - Achievements.md
-      - Prize Giving Day 2022/.keep
-      - Prize Giving Day 2022/P1 & P2 Prize Giving Day 2022.md
-      - Prize Giving Day 2022/P3 to P6 Prize Giving Day 2022.md
       - Prize Giving Day 2023/.keep
       - Prize Giving Day 2023/P1 & P2 Prize Giving Day 2023.md
       - Prize Giving Day 2023/P3 to P6 Prize Giving Day 2023.md
