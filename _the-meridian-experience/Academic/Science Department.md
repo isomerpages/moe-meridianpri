@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Academic
 variant: markdown
 ---
-![](/images/Our%20Staff/2023%20Dept%20Photos/Science__Formal_min.jpg)
+
+<img src="/images/Our%20Staff/2023%20Dept%20Photos/Science__Formal_min.jpg" style="width:530px;height:355px;float:center">
 
 <p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2023</p>
 <hr>
