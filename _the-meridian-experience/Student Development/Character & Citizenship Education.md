@@ -115,7 +115,9 @@ After a week of on the job training with the OSOs during recess, the students re
 
 <br>
 
-<b>P5 - Cheering P6s on for PSLE  <br> Recording and Compiling of Encouragement Videos</b><br><table style="width:100%">
+<b>P5 - Cheering P6s on for PSLE  <br> Recording and Compiling of Encouragement Videos</b>
+<br>
+<table style="width:100%">
   <tbody>
 		<tr>
     <td><img src="/images/CCE/2023/NE16.png" style="width:320px;height:230px;float:center"></td>
