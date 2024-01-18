@@ -3,10 +3,11 @@ title: P5 Overseas Immersion Programme
 permalink: /the-meridian-experience/co-curriculum/p5-overseas-immersion-programme/
 description: ""
 third_nav_title: Co Curriculum
+variant: markdown
 ---
 #### Objectives
 
-In Meridian, our students are provided with the opportunity to take part in overseas immersion programme.  The aims are to:
+In Meridian, our students are provided with the opportunity to take part in overseas immersion programme.&nbsp; The aims are to:
 
 <ol>
 	<li>Develop a heightened awareness of <b>environmental issues</b> and to reflect on other ways to <b>promote ideas through green habits</b>.</li>
@@ -14,24 +15,23 @@ In Meridian, our students are provided with the opportunity to take part in over
 	<li>Develop <b>global awareness</b> and <b>cross-cultural skills</b> and sensitivities through cultural programme.</li>
 </ol>
 
-<h5>2022's Virtual Overseas Trip</h5>
+<h5>2023's Virtual Overseas Trip</h5>
 
-<p align = "justify">In 2022, due to the COVID situation then, Meridian Primary organised a 3 Day Virtual Overseas Immersion Trip to China and Thailand in May.  The 3 Day trip provided students with several learning opportunities which include:</p>
+<p align="justify">Our Primary 5 students started their June holidays with much fun and excitement as they embarked on a Virtual Overseas Immersion Trip to New Zealand and Thailand from 29 May to 31 May 2023!</p>
 
-<ul>
-	<li> Understanding more about China and Thailand</li>
-	<li> A virtual school exchange with students at JiangSu Primary School in China and Montfort ChiangMai School;</li>
-	<li>Live-streaming @Wetland (Red Crowned Crane) to understand more about conservation of endangered animals</li>
-	<li>Live-streaming @ Elephant Sanctuary in Chiang Mai to learn why and how the elephants are being protected.</li>
-	<li>Hands on Art and Crafts on paper cutting to appreciate local Chinese culture; and Umbrella painting to learn how environmentally friendly products are made in Chiang Mai;</li>
-	<li>Virtual Visits to Places of Interest in China and Thailand such as Great Wall of China, Tiananmen Square, West Lake, Yue Fei Temple, Chedi Luang Temple, Three-King Monument, Square at Tha Pae Gate, Doi Suthep and Doi Inthanon;</li>
-	<li>Food tasting of local cuisine from Thailand and China</li>
-	<li>Collaboration with peers to research and present about locally endangered animals</li>
-</ul>
+<p align="justify">Meridians first “flew” to New Zealand, where they learnt about the history of New Zealand and the Maori culture. The students also designed their own Maori masks. They also visited Arthur’s Farm where they saw many sheep and learnt many interesting facts about them!</p>
+
+<p align="justify">After the visit to New Zealand, our Meridians then “flew” to Chiang Mai, where they not only learnt about the local Thai culture and history but also designed and painted their very own Thai umbrellas! Meridians also ‘encountered’ Asian elephants via live streaming from an elephant sanctuary. From a mahout, Meridians learnt more about the elephants and the ongoing conservation efforts.</p>
+
+<p align="justify">Meridians also had school exchanges with students from Rosmini College, Green Bay School and Monfort Chiangmai School. Through virtual platforms, Meridians and their counterparts from the two countries engaged in a fruitful sharing of their daily school life and exchanged ideas about environmental conservation efforts!</p>
+
+<p align="justify">On the final day of their virtual trip, Meridians took the opportunity to reflect on their learning and worked in teams to promote animal protection and environmental conservation. Some created posters while others promoted these green habits through and presentations.
+
+The virtual overseas trip was indeed a memorable and enriching experience for Meridians!</p>
 
 <table style="width:100%">
 
-  <tr>
+  <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP1.png" style="width:380px;height:250px;float:center"><center>Interacting students from China</center></td>
     <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023/OIP2.png" style="width:380px;height:250px;float:center"><center>Interacting students from Thailand</center></td>
   </tr>
@@ -62,4 +62,4 @@ In Meridian, our students are provided with the opportunity to take part in over
 	<tr>
     <td colspan="2"><center>Research and sharing about locally endangered animals</center></td>
   </tr>
-</table>
+</tbody></table>
