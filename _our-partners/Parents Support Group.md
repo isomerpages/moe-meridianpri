@@ -10,7 +10,7 @@ variant: markdown
 
 ![](/images/PSG_2023.png)
 
-<p style="font-size: 15px;">Some of our treasured Parent Volunteers with our school leaders and teachers during an activity conducted by parents for the parents</p>
+<i>Some of our treasured Parent Volunteers with our school leaders and teachers during an activity conducted by parents for the parents</i>
 
 <p align="justify">The PSG complements the school by aligning itself with the school’s objectives, supporting and strengthening the school’s programmes to improve our children’s well-being and learning.</p>
 	
