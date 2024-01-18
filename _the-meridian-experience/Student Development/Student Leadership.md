@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Student Development
 variant: markdown
 ---
-
 <img src="/images/Our%20Staff/2023%20Dept%20Photos/Student_Management__Formal_min.jpg" style="width:530px;height:355px;float:center">
 <p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2023</p>
 <hr>
@@ -46,4 +45,4 @@ Festive Learning Journeys, where Student Leaders serve as guides for their fello
 <p align="center">Students leaders guide their schoolmates in how to brew tea during the CNY Learning Journey</p>
 
 <p>For enquiries on the school’s Student Leadership Programme, please email:</p>
-<a href="mailto:han_zi_rui@moe.edu.sg">Ms Han Zi Rui (HOD/Student Management)</a>
+<a href="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg">Miss Kirenjit Kaur d/o Sulinder Singh (HOD/Student Management)</a>
