@@ -35,11 +35,11 @@ National Education comprises a wide range of school efforts that help students e
 <b>National Day</b><br><table style="width:100%">
 
   <tbody><tr>
-    <td><img src="/images/CCE/2023/NE41.jpg" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE42.jpg" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/NE/536A9878.jpg" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/NE/NE2.jpg" style="width:380px;height:230px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/CCE/2023/NE40.jpg" style="width:350px;height:430px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/NE/NE3.jpg" style="width:380px;height:250px;float:center"></td>
   </tr>
 </tbody></table>
 
