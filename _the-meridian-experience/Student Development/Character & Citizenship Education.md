@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Student Development
 variant: markdown
 ---
-
 <img src="/images/Our%20Staff/2023%20Dept%20Photos/CCE__Formal_min.jpg" style="width:530px;height:355px;float:center">
 <p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2023</p>
 <hr>
@@ -51,8 +50,6 @@ My Meridian Experience <br>
 <b>P1 ECG Programme – Trip To The Zoo</b><br><table style="width:100%">
 
   <tbody><tr>
-		
-		
     <td><img src="/images/CCE/2023/NE2.png" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2023/NE3.png" style="width:380px;height:230px;float:center"></td>
   </tr>
@@ -65,8 +62,6 @@ My Meridian Experience <br>
 <b>P2 ECG Programme – Trip To The Fire Station</b><br><table style="width:100%">
 
   <tbody><tr>
-		
-		
     <td><img src="/images/CCE/2023/NE4.png" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2023/NE5.png" style="width:380px;height:230px;float:center"></td>
   </tr>
@@ -79,8 +74,6 @@ My Meridian Experience <br>
 <b>P3 ECG Programme – Appreciation of OSOs</b><br><table style="width:100%">
 
   <tbody><tr>
-		
-		
 		</tr><tr>
     <td colspan="2"><p align="justify">Students "encourage the heart" by affirming our OSOs&nbsp;through the presentation of the class' gratitude board.
 After a week of on the job training with the OSOs during recess, the students reflect on how they can "model the way" by helping their teachers/peers in school or their family members at home.</p></td>
@@ -99,8 +92,6 @@ After a week of on the job training with the OSOs during recess, the students re
 <b>P3 - Writing To Peers</b><br><table style="width:100%">
 
   <tbody><tr>
-		
-		
     <td><img src="/images/CCE/2023/NE10.png" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2023/NE11.png" style="width:380px;height:230px;float:center"></td>
   </tr>
@@ -114,8 +105,6 @@ After a week of on the job training with the OSOs during recess, the students re
 <b>P4 – Empathy Map On Ways to Beautify The School</b><br><table style="width:100%">
 
   <tbody><tr>
-		
-		
     <td><img src="/images/CCE/2023/NE13.png" style="width:320px;height:330px;float:center"></td>
     <td><img src="/images/CCE/2023/NE14.png" style="width:320px;height:330px;float:center"></td>
   </tr>
@@ -129,8 +118,6 @@ After a week of on the job training with the OSOs during recess, the students re
 <b>P5 - Cheering P6s on for PSLE  <br> Recording and Compiling of Encouragement Videos</b><br><table style="width:100%">
 
   <tbody><tr>
-		
-		
     <td><img src="/images/CCE/2023/NE16.png" style="width:320px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2023/NE17.png" style="width:320px;height:230px;float:center"></td>
   </tr>
@@ -141,8 +128,6 @@ After a week of on the job training with the OSOs during recess, the students re
 <b>P5 - Cheering P6s on for PSLE <br> Designing of Motivational Posters</b><br><table style="width:100%">
 
   <tbody><tr>
-		
-		
     <td><img src="/images/CCE/2023/NE18.png" style="width:320px;height:330px;float:center"></td>
     <td><img src="/images/CCE/2023/NE19.png" style="width:320px;height:330px;float:center"></td>
   </tr>
@@ -157,8 +142,6 @@ After a week of on the job training with the OSOs during recess, the students re
 <b>Social Skills posters and cards in the classrooms</b><br><table style="width:100%">
 
   <tbody><tr>
-		
-		
   </tr>
 	<tr>
     <td colspan="2"><img src="/images/CCE/2023/NE21.png" style="width:700px;height:250px;float:center"></td>
@@ -173,8 +156,6 @@ After a week of on the job training with the OSOs during recess, the students re
 <b>Social Skills booklet for students to write down skill steps learnt and to monitor their progress</b><br><table style="width:100%">
 
   <tbody><tr>
-		
-		
     <td><img src="/images/CCE/2023/NE23.png" style="width:300px;height:350px;float:center"></td>
     <td><img src="/images/CCE/2023/NE24.png" style="width:300px;height:350px;float:center"></td>
   </tr>
@@ -209,7 +190,6 @@ After a week of on the job training with the OSOs during recess, the students re
     <td colspan="2"><img src="/images/CCE/2023/NE28.jpg" style="width:700px;height:250px;float:center"><b>Growth Mindset statement banners for each level</b></td>
   </tr>
 	<tr>
-		
     <td><img src="/images/CCE/2023/NE29.png" style="width:320px;height:330px;float:center"><b>Growth Mindset statement posters for all classes</b></td>
     <td><img src="/images/CCE/2023/NE30.png" style="width:320px;height:330px;float:center"><b>Growth Mindset stairway</b></td>
   </tr>
@@ -222,7 +202,6 @@ After a week of on the job training with the OSOs during recess, the students re
     <td colspan="2"><img src="/images/CCE/2023/NE31.png" style="width:400px;height:250px;float:center"></td>
   </tr>
 	<tr>
-		
     <td><img src="/images/CCE/2023/NE32.png" style="width:300px;height:330px;float:center"></td>
     <td><img src="/images/CCE/2023/NE33.png" style="width:320px;height:330px;float:center"></td>
   </tr>
@@ -233,7 +212,6 @@ After a week of on the job training with the OSOs during recess, the students re
 
 <br><table style="width:100%">
 	<tbody><tr>
-		
     <td><img src="/images/CCE/2023/NE34.png" style="width:300px;height:330px;float:center"></td>
     <td><img src="/images/CCE/2023/NE35.png" style="width:320px;height:330px;float:center"></td>
   </tr>
