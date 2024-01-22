@@ -93,10 +93,9 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 
 **Highlights**  
 
-<u>In school performances</u>
-<ul><li>Hari Raya celebrations</li>
+<u>School-based Performance</u>
 <li>Prize-giving ceremonies</li>
-</ul>
+
 
 <u>Public performances</u>
 <ul>
