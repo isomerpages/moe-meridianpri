@@ -87,7 +87,7 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 #### Malay Dance
 **Malay Dance**&nbsp;_(For Boys and Girls)_
 
-<p align="justify">Malay Dance CCA is a unique form of exercise because it provides the heart-healthy benefits of an aerobic exercise while also allowing you to have FUN! Dancing helps to reduce stress, increase energy, improve strength and increase muscle tone and coordination.</p>
+<p align="justify"> Dancing is a unique form of exercise because it provides the heart-healthy benefits of an aerobic exercise while also allowing one to have fun. Dancing also helps to reduce stress, increase energy, improve strength and increase muscle tone and coordination.</p>
 
 <p align="justify">The Malay Dance CCA plays an important role in imparting the rich cultural Malay heritage, and developing grace, rhythm and discipline in our dancers through the performing arts. Through our CCA, members are nurtured to become confident and resilient individuals, who are also active team players and caring citizens. Members learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
 
