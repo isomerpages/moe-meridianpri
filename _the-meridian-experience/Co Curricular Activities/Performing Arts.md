@@ -17,33 +17,19 @@ We welcome students who have interest in dance, music and the Chinese culture to
 
 Students are given the opportunities to take part in the SYF Arts Presentation as well as in various community performances.
 
-<table style="width:100%">
+<p><u>School Performances in 2023</u></p>
+<ul>
+  <li>National Day Celebrations</li>
+	<li>Prize Giving Day Performance</li>
+</ul>  
 
-  <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-2-.jpg" style="width:380px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-3-.jpg" style="width:380px;height:250px;float:center"></td>
-  </tr>
-  <tr>
-		 <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-5.jpg" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2023/chinese_dance3.jpg" style="width:380px;height:230px;float:center"></td>
-  </tr>
-	<tr>
-		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2023/chinese_dance1.jpg" style="width:380px;height:230px;float:center"></td>
-		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2023/chinese_dance2.jpg" style="width:380px;height:230px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-4.jpg" style="width:490px;height:330px;float:center"></td>
-  </tr>
-</tbody></table>
+<p>SYF 2022</p>
 
-<table style="width:100%">
 
-  <tbody><tr>
-    <td><iframe width="380" height="230" src="https://www.youtube.com/embed/w5PKPWxhsYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
-    <td><iframe width="380" height="230" src="https://www.youtube.com/embed/LaJVd27joyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
-	</tr>
-	
-</tbody></table>
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-4.jpg" style="width:350px;height:220px;">
+
+
+
 
 For enquiries on the school’s Chinese Dance CCA, please email:<br>
 * <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a>
