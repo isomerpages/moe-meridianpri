@@ -55,9 +55,6 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 **Highlights**  
 
 <ul>
-	<li>2012 Singapore Youth Festival Accomplishment Award</li>
-	<li>2014 Singapore Youth Festival Accomplishment Award</li>
-	<li>2016 Singapore Youth Festival Accomplishment Award</li>
 	<li>2018 Singapore Youth Festival Accomplishment Award</li>
 </ul>
 
