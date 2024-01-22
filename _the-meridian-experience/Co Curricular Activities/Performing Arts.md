@@ -26,11 +26,18 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
 <p>SYF 2022</p>
 
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-4.jpg" style="width:350px;height:220px;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-4.jpg" style="width:450px;height:320px;">
 
 <br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_3_min.jpg" style="width:350px;height:220px;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_2.JPG" style="width:450px;height:300px;">
+
+<p>Prize Giving Day Performance</p>
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_3_min.jpg" style="width:450px;height:320px;">
+
+<p>National  Day Celebration</p>
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_4.jpg" style="width:350px;height:420px;">
+
 
 For enquiries on the school’s Chinese Dance CCA, please email:<br>
 * <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a>
