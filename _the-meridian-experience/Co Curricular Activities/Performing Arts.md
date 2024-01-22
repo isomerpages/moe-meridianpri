@@ -134,20 +134,17 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 
 **Highlights**  
 
-<u>In school performances</u>
+<u>School Performances in 2023</u>
 <ul>
-<li>Chinese New Year Celebrations</li>
 <li>National Day Celebrations</li>
-<li>Deepavali Celebrations</li>
-<li>P3-P6 Prize-giving Day</li>
+<li>Meridian Primary School Open House</li>
+<li>Children's Day and P3-P6 Prize-giving Day</li>
 </ul>
 
-<u>Public performances</u>
+<u>Public Performances in 2023</u>
 <ul>
-<li>Meridian Performing Arts Festival@Pasir Ris Public Library</li>
 <li>Cerebral Palsy Alliance Singapore as part of Values-In-Action</li>
-<li>National Gallery as part of Sing50 event</li>
-<li>The Young Talent Showcase @ Tampines Hub</li>
+<li>Green Oval Park Residents' Network Hari Raya Event</li>
 <li>Pasir Ris West Chinese New Year Dinner</li>
 </ul>
 
