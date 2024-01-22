@@ -27,6 +27,7 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
 
 
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-4.jpg" style="width:350px;height:220px;">
+
 <br>
 
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_3_min.jpg" style="width:350px;height:220px;">
