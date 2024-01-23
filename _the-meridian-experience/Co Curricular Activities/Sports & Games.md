@@ -138,8 +138,7 @@ Poomsae Category (Junior Division)
 
 Poomsae Category (Junior Division)
 <ul>
-	<li>Y7 individual boy: 8th position (Li Shaorong)</li>
-	<li>R8 individual girl: 8th position (Wee Zun Ya, Delfina)</li>
+	<li>Achievement Pin: Ariq Putra, Das Nirvana, Justin Toh, Tiago</li>
 </ul>
 <br>
 
