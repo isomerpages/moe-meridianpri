@@ -113,19 +113,7 @@ For enquiries on the school’s Football CCA, please email:<br>
   </tr>
 </tbody></table>
 
-<b>Highlights</b>
-
-<p>National Schools Games (NSG) Taekwondo Competition</p>
-
-<b>2019</b>
-<br>Poomsae Category (Senior Division)
-<ul><li>B4 individual boy 4th position (Ai Bo Xuan)</li></ul>
-
-Poomsae Category (Junior Division)
-<ul>
-	<li>Y7 individual boy: 8th position (Li Shaorong)</li>
-	<li>R8 individual girl: 8th position (Wee Zun Ya, Delfina)</li>
-</ul>
+<b>Highlights (National Schools Games Taekwondo Competition)</b>
 
 <b>2022</b>
 <br>Poomsae Category (Senior Division)
@@ -140,6 +128,18 @@ Poomsae Category (Junior Division)
 	<li>Y7 individual boy: 5th position (Drake Ryder Lee)</li>
 	<li>W9 individual girl: 6th position (Keira Lim)</li>
 	<li>W9 individual boy: 8th position (Thaddeus Tay)</li>
+</ul>
+
+<b>2023</b>
+<br>Poomsae Category (Senior Division)
+<ul><li>W9 individual girl: 2nd position (Aryshakie)</li>
+<li>W9 individual boy: 7th position (Hamizan)</li>
+</ul>
+
+Poomsae Category (Junior Division)
+<ul>
+	<li>Y7 individual boy: 8th position (Li Shaorong)</li>
+	<li>R8 individual girl: 8th position (Wee Zun Ya, Delfina)</li>
 </ul>
 <br>
 
