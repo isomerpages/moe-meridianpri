@@ -148,6 +148,7 @@ Through each performance, we aim to develop listening and ensemble performance s
 <ul>
 	<li>To enable every child to be visually literate and able to express their creativity through their termly Art projects and other school-wide Visual Art activities</li>
 	<li>To develop students’ awareness and appreciation of Art through the learning of selected local and international artworks within the syllabus.</li>
+	<li>Modular Art Programmes (Chinese Brush Painting, Batik Painting)</li>
 </ul>
 
 #### Key Programmes
@@ -168,51 +169,19 @@ Through each performance, we aim to develop listening and ensemble performance s
 	<li>Using ICT tools and applications in our Art curriculum</li>
 </ul>
 
-
 <table style="width:100%">
-	<tbody><tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A16.jpg" style="width:490px;height:330px;float:center"></td>
+  <tbody>
+		<tr>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A10.jpg" style="width:400px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A11.jpg" style="width:400px;height:220px;float:center"></td>
   </tr>
-</tbody></table>
-
-<br>
-<table style="width:100%">
-	<tbody><tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A17.jpg" style="width:490px;height:330px;float:center"><p align="justify">
-<b><u>Music Day for P1 and P2</u></b><br>
-P1 &amp; P2 Music Day is a yearly event where our lower primary students are given the opportunity to perform as a class on stage through singing and movement.
-Through each performance, we aim to develop listening and ensemble performance skills in our students. At the same time, students gain self-confidence through performing on stage. Our students learn to respect their peers, look out for visual cues from their music teachers, and feel a sense of identity to the class.</p></td>
+		<tr>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A12.jpg" style="width:400px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A13.jpg" style="width:400px;height:220px;float:center"></td>
   </tr>
-</tbody></table>
-
-<br>
-<table style="width:100%">
-	<tbody><tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A18.jpg" style="width:490px;height:330px;float:center"><p align="justify">
-<b><u>Music Day for P3 and P4</u></b><br>
-P3 and P4 Music Day is a platform for our students to make music together as a whole group. Led by our very own music teachers, students have fun learning rudiments of music through the experience. Last year, our students learnt how to sing, cheer rhythmically, and perform a body percussion along with a song and school cheer created by our music teachers. We hope to develop confidence in our students and ignite their passion for the performing arts.</p></td>
-  </tr>
-</tbody></table>
-
-
-<table style="width:100%">
-
-  <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A19.jpg" style="width:340px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A20.jpg" style="width:340px;height:220px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A21.jpg" style="width:340px;height:220px;float:center"></td>
-  </tr>
-</tbody></table>
-
-<br>
-
-<table style="width:100%">
-	<tbody><tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A22.jpg" style="width:500px;height:320px;float:center"><p align="justify">
-<b><u>Meridian Teacher Band – Seven One Street</u></b><br>
-Introducing our group of teachers who are passionate about music-making. Modeling the way is what we teachers do. We want to inspire our Meridian students to immerse themselves in music. Our teacher band was set up in 2022, and we have helmed certain events such as National Day Celebrations and Children’s Day Celebrations, to lead the whole school in singing as one big family. Hearing the chorus of our children’s voices greatly touched our hearts, and we strive to continue to keep the spirit of music alive through our example!</p></td>
+		<tr>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A14.jpg" style="width:200px;height:230px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A15.jpg" style="width:400px;height:220px;float:center"></td>
   </tr>
 </tbody></table>
 
