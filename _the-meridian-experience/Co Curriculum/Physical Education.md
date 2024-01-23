@@ -53,11 +53,11 @@ variant: markdown
     <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20Play%203.jpg" style="width:400px;height:550px;float:center"></td>
 	</tr>
 	<tr>
-    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20play%201.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Swimsafer%201.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20play%201.jpg" style="width:450px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE5.png" style="width:450px;height:250px;float:center"></td>
 	</tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Swimsafer%202.jpg" style="width:390px;height:250px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE6.png" style="width:390px;height:250px;float:center"></td>
 	</tr>
 	
 </tbody></table>
