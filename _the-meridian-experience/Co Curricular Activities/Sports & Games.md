@@ -97,9 +97,7 @@ For enquiries on the school’s Football CCA, please email:<br>
 
 <b>Taekwondo</b>&nbsp;<i>(For Boys and Girls)</i>
 
-<p align="justify">Taekwondo is an effective weaponless art of self-defense that originated from Korea and is one of the Asian martial arts included in the Olympic programme.</p><p>
-
-</p><p align="justify">The Taekwondo CCA at Meridian Primary School aims to build students’ physical fitness and students’ foundation in Taekwondo Pattern (Poomsae). Taekwondo members will get a chance to participate in the annual competition such as the National School Games Taekwondo Competition or perform during the Year End Prize Presentation ceremony to gain experience and confidence.  </p>
+<p align="justify">The Taekwondo CCA at Meridian Primary School aims to build students’ physical fitness and students’ foundation in Taekwondo Pattern (Poomsae). Taekwondo members will get a chance to participate in the annual competition such as the National School Games Taekwondo Competition or perform during the Year End Prize Presentation ceremony to gain experience and confidence. </p>
 
 <p align="justify">Other than learning the technical skill of Taekwondo’s self-defense, students will more importantly learn life values such as respect and discipline through our training. Our training focuses on developing the character of a student in a fun and encouraging way as we strongly believe that good attitude and character will aid a child in his/her learning.</p>
 
@@ -146,9 +144,6 @@ Poomsae Category (Junior Division)
 	<li>W9 individual girl: 6th position (Keira Lim)</li>
 	<li>W9 individual boy: 8th position (Thaddeus Tay)</li>
 </ul>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SaiTTpJWsqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
 <br>
 
 For enquiries on the school’s Taekwondo CCA, please email:<br>
