@@ -3,16 +3,17 @@ title: Clubs & Societies
 permalink: /the-meridian-experience/co-curricular-activities/clubs-n-societies/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 #### Eco-Enviro Science Club
 
-**Eco-Enviro Science Club** _(For Boys and Girls)_
+**Eco-Enviro Science Club**&nbsp;_(For Boys and Girls)_
 
-<p align = "justify"> The Eco-Enviro Science Club provides students with the opportunity to learn Science through hands-on interaction. Students are exposed to topics such as environmental conservation, habitat reforestation and global warning. Students also get to learn extension to topics beyond the usual curriculum such as how volcanoes erupt and sublimation.</p>
+<p align="justify"> The Eco-Enviro Science Club provides students with the opportunity to learn Science through hands-on interaction. Students are exposed to topics such as environmental conservation, habitat reforestation and global warning. Students also get to learn extension to topics beyond the usual curriculum such as how volcanoes erupt and sublimation.</p>
 
-<p align = "justify">Students also conduct field research by monitoring the population of various bird species in the school compound. Through observation, investigation and research, students get to learn more about protecting our environment and the different ways to enhance our natural biodiversity.</p>
+<p align="justify">Students also conduct field research by monitoring the population of various bird species in the school compound. Through observation, investigation and research, students get to learn more about protecting our environment&nbsp;and the different ways to enhance our natural biodiversity.</p>
 
-<p align = "justify">By exposing students to a wide range of Science topics, we believe that students will grow up to be one who enjoys learning Science and cares for the environment.</p>
+<p align="justify">By exposing students to a wide range of Science topics, we believe that students will grow up to be one who enjoys learning Science and cares for the environment.</p>
 
 **Highlights**
 
@@ -23,30 +24,30 @@ third_nav_title: Co Curricular Activities
 
 <table style="width:100%">
 
-  <tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%203.jpg" style="width:350px;height:250px;float:center"><center>Pupils in action doing outdoor field-based research</center></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Eco%20Enviro%20Science%20Club/Eco%204.jpg" style="width:350px;height:250px;float:center"><center>Pupils in action doing Science experiments</center></td>
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Eco%20Enviro%20Science%20Club/Eco%203.jpg" style="width:350px;height:250px;float:center"><center>Pupils in action doing outdoor field-based research</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Eco%20Enviro%20Science%20Club/Eco%204.jpg" style="width:350px;height:250px;float:center"><center>Pupils in action doing Science experiments</center></td>
 	</tr>
 	
-</table>
+</tbody></table>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2nmR69jel_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2nmR69jel_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 <ul>
-<li><a href="mailto:tay_koon_guan@moe.edu.sg ">Mr Tay Koon Guan</a></li>
+<li><a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a></li>
 <li><a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a></li>
-<li><a href="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Peony Wong</a></li>
+<li><a href="mailto:low_boon_khim@moe.edu.sg">Mr Clarence Low</a></li>
 </ul>
 <hr>
 
-#### Infocomm Technology (Computing) 
+#### Infocomm Technology (Computing)&nbsp;
 
-**Infocomm Technology (Computing)** _(For Boys and Girls)_
+**Infocomm Technology (Computing)**&nbsp;_(For Boys and Girls)_
 
-<p align = "justify">Infocomm Technology (Computing) aims to excite students about technology in an engaging and meaningful way by helping them to learn coding skills and to cultivate leadership and entrepreneurship capabilities at an early age.</p>
+<p align="justify">Infocomm Technology (Computing) aims to excite students about technology in an engaging and meaningful way by helping them to learn coding skills and to cultivate leadership and entrepreneurship capabilities at an early age.</p>
 
-<p align = "justify">Technology is a huge part of children’s life today. It is essential for students to learn how to design, develop and communicate with digital technology. Learning to code allow learners to learn computational thinking which enables them to develop cognitive skills and to learn logical and sequential thought processes.</p>
+<p align="justify">Technology is a huge part of children’s life today. It is essential for students to learn how to design, develop and communicate with digital technology. Learning to code allow learners to learn computational thinking which enables them to develop cognitive skills and to learn logical and sequential thought processes.</p>
 
 **Highlights**
 <ul>
@@ -57,18 +58,18 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 
 <table style="width:100%">
 
-  <tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%203.jpg" style="width:370px;height:220px;float:center"><center>Student testing the code to see if it can sense the intensity of light accurately.</center></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%204.jpg" style="width:370px;height:220px;float:center"><center>Student coding in mblock app to activate the light sensor to measure<br>light intensity in mbot (robot)</center></td>
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/RC%203.jpg" style="width:370px;height:220px;float:center"><center>Student testing the code to see if it can sense the intensity of light accurately.</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/RC%204.jpg" style="width:370px;height:220px;float:center"><center>Student coding in mblock app to activate the light sensor to measure<br>light intensity in mbot (robot)</center></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Technology%20(Computing)/RC%205.jpg" style="width:470px;height:320px;float:center"><center>Student learning how to program a game in mblock app.</center></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/RC%205.jpg" style="width:470px;height:320px;float:center"><center>Student learning how to program a game in mblock app.</center></td>
   </tr>
-</table>
+</tbody></table>
 
 
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AIP-mk5-sF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AIP-mk5-sF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 For enquiries on the school’s Infocomm Technology (Computing), please email:<br>
 <ul>
@@ -78,30 +79,30 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 </ul>
 <hr>
 
-#### Infocomm Technology (Media Production) 
+#### Infocomm Technology (Media Production)&nbsp;
 
-**Infocomm Technology (Media Production)** _(For Boys and Girls)_
+**Infocomm Technology (Media Production)**&nbsp;_(For Boys and Girls)_
 
-<p align = "justify">To provide a platform for our students to take good photos and product the good videos through our CCA, Media Production. At the Media Production CCA, students get to learn photography, videography and editing skills. They can take part in some competitions every year, for example, OSOS (MOE), National Primary Schools Photography Competition and National Photography Festival (Primary Schools).</p>
+<p align="justify">To provide a platform for our students to take good photos and product the good videos through our CCA, Media Production. At the Media Production CCA, students get to learn photography, videography and editing skills. They can take part in some competitions every year, for example, OSOS (MOE), National Primary Schools Photography Competition and National Photography Festival (Primary Schools).</p>
 
 **Highlights**
 
-1.      SMDA (Singapore Media Digital Awards)
-2.      National Primary Schools Photography Competition
-3.      National Photography Festival (Primary Schools)
+1. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SMDA (Singapore Media Digital Awards)
+2. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Primary Schools Photography Competition
+3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Photography Festival (Primary Schools)
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Info%20Tech%20(Media%20Production)/Merit%20Award%20(2).jpg" style="width:470px;height:320px;float:center">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/Merit%20Award%20(2).jpg" style="width:470px;height:320px;float:center">
 
 <br>
 
 <table style="width:100%">
 
-  <tr>
-    <td><iframe width="350" height="250" src="https://www.youtube.com/embed/QkFtyFj37kQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td><iframe width="350" height="250" src="https://www.youtube.com/embed/moC09M9LGgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+  <tbody><tr>
+    <td><iframe width="350" height="250" src="https://www.youtube.com/embed/QkFtyFj37kQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+    <td><iframe width="350" height="250" src="https://www.youtube.com/embed/moC09M9LGgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
 	</tr>
 	
-</table>
+</tbody></table>
 
 
 
@@ -113,77 +114,77 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
 
 #### Art Club
 
-**Art and Craft** _(For Boys and Girls)_
+**Art and Craft**&nbsp;_(For Boys and Girls)_
 
-<p align = "justify">Art Club members enjoy the variety of Art activities conducted during sessions. Students experiment with a variety of materials and explore the possibilities of conventional materials like Batik dye, watercolour and recyclable materials.</p>
+<p align="justify">Art Club members enjoy the variety of Art activities conducted during sessions. Students experiment with a variety of materials and explore the possibilities of conventional materials like Batik dye, watercolour and recyclable materials.</p>
 
-<p align = "justify">Our Art Club members have enjoyed activities such as tie and dye, fashion design using recyclable materials and sculpting using wires and paper mache.</p>
+<p align="justify">Our Art Club members have enjoyed activities such as tie and dye, fashion design using recyclable materials and sculpting using wires and paper mache.</p>
 
 **Highlights**  
 
-<p align = "justify">Art Club collaborates with Pasir Ris NLB in a yearly event, hoping to reach out to the public to share simple Art-making activities and at the same time, helping to promote the Art books available for loan at the library. Apart from that, Art Club members also have the opportunity to take part in the bi-annual Singapore Youth Festival (SYF) Art Competition.</p>
+<p align="justify">Art Club collaborates with Pasir Ris NLB in a yearly event, hoping to reach out to the public to share simple Art-making activities and at the same time, helping to promote the Art books available for loan at the library. Apart from that, Art Club members also have the opportunity to take part in the bi-annual Singapore Youth Festival (SYF) Art Competition.</p>
 
-<table style="width:100%">
+<b>Our SYF Team 2022</b><table style="width:100%">
 
-  <tr><b>Our SYF Team 2022</b>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC1.jpg" style="width:370px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC2.jpg" style="width:370px;height:220px;float:center"></td>
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC1.jpg" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC2.jpg" style="width:370px;height:220px;float:center"></td>
   </tr>
 	<tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC3.jpg" style="width:370px;height:220px;float:center"></td>
-		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC4.jpg" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC3.jpg" style="width:370px;height:220px;float:center"></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC4.jpg" style="width:370px;height:220px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC5.jpg" style="width:370px;height:220px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC5.jpg" style="width:370px;height:220px;float:center"></td>
   </tr>
-</table>
+</tbody></table>
 
-<table style="width:100%">
-<h5>Our Art Activities</h5>
-  <tr><b>Quliling</b>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC6.jpg" style="width:370px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC8.jpg" style="width:370px;height:220px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC7.jpg" style="width:370px;height:230px;float:center"></td>
-  </tr>
-</table>
+<h5>Our Art Activities</h5><b>Quliling</b><table style="width:100%">
 
-<table style="width:100%">
-  <tr><b>iPAD Art</b>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC9.jpg" style="width:370px;height:350px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC10.jpg" style="width:370px;height:350px;float:center"></td>
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC6.jpg" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC8.jpg" style="width:370px;height:220px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC11.jpg" style="width:350px;height:350px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC7.jpg" style="width:370px;height:230px;float:center"></td>
   </tr>
-</table>
+</tbody></table>
 
-<table style="width:100%">
-  <tr><b>Art Using Recycled Materials</b>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC12.jpg" style="width:360px;height:350px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC13.jpg" style="width:360px;height:350px;float:center"></td>
+<b>iPAD Art</b><table style="width:100%">
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC9.jpg" style="width:370px;height:350px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC10.jpg" style="width:370px;height:350px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC14.jpg" style="width:360px;height:380px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC11.jpg" style="width:350px;height:350px;float:center"></td>
   </tr>
-</table>
+</tbody></table>
 
-<table style="width:100%">
-  <tr><b>Wire Sculpture</b>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC15.jpg" style="width:360px;height:350px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC16.jpg" style="width:360px;height:350px;float:center"></td>
+<b>Art Using Recycled Materials</b><table style="width:100%">
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC12.jpg" style="width:360px;height:350px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC13.jpg" style="width:360px;height:350px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Societies/Art%20Club/2023/AC17.jpg" style="width:360px;height:380px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC14.jpg" style="width:360px;height:380px;float:center"></td>
   </tr>
-</table>
+</tbody></table>
+
+<b>Wire Sculpture</b><table style="width:100%">
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC15.jpg" style="width:360px;height:350px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC16.jpg" style="width:360px;height:350px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC17.jpg" style="width:360px;height:380px;float:center"></td>
+  </tr>
+</tbody></table>
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C7HWyVEl6hs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C7HWyVEl6hs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-For enquiries on the school’s  Art Club CCA, please email:<br>
+For enquiries on the school’s &nbsp;Art Club CCA, please email:<br>
 * <a href="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah</a>
 * <a href="mailto:norhaida_kamaludin@moe.edu.sg">Ms Norhaida</a>
 *  <a href="mailto:muhammad_raziz_abdul_razak@moe.edu.sg">Mr Muhammad Raziz</a>
