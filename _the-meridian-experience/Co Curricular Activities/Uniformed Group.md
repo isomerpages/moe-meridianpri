@@ -16,17 +16,17 @@ variant: markdown
 
 <p align="justify"> Cub Scouts meetings are opportunities for adventures, learning life skills, hikes, outdoor cooking, camps, knotting, craftwork and other scouting skills – all while making new friends.</p>
 
-<p align="justify">  Cub Scouts learn about the environment and regularly participate in meaningful projects to improve their surroundings. They are helpers in their homes and communities. The Scout Law and Promise guides them to do their best to be of service to others.</p>
+<p align="justify">Cub Scouts learn about the environment and regularly participate in meaningful projects to improve their surroundings. They are helpers in their homes and communities. The Scout Law and Promise guides them to do their best to be of service to others.</p>
 
 <table style="width:100%">
 
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/S1.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/S2.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S1.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S2.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
 	<tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/S3.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/S4.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S3.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S4.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
 	
 </tbody></table>
