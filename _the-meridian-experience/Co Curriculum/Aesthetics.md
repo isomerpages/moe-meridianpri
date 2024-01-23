@@ -100,6 +100,13 @@ Senior Category – Individual/Group<br>
 Junior Category – Individual/Group<br>
 Family members are also encouraged to participate with their children as a family bonding activity. To date, we have had a few joint performances by parents and children.</p></td>
   </tr>
+		<tr>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A3.jpg" style="width:400px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A4.jpg" style="width:400px;height:220px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A5.jpg" style="width:490px;height:330px;float:center"></td>
+  </tr>
 </tbody></table>
 
 #### Visual Art
