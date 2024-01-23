@@ -101,18 +101,15 @@ For enquiries on the school’s Football CCA, please email:<br>
 
 <p align="justify">Other than learning the technical skill of Taekwondo’s self-defense, students will more importantly learn life values such as respect and discipline through our training. Our training focuses on developing the character of a student in a fun and encouraging way as we strongly believe that good attitude and character will aid a child in his/her learning.</p>
 
-<table style="width:100%">
 
-  <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/TKD%203.png" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/TKD%204.png" style="width:350px;height:250px;float:center"></td>
-  </tr>
+<table style="width:100%">
+  <tbody>
   <tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/TKD%205.jpeg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/TKD%206.jpeg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/2024_TKD_1.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/2024_TKD_2.png" style="width:350px;height:250px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/TKD%207.jpeg" style="width:580px;height:430px;float:center"><br></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/2024_TKD_3.png" style="width:680px;height:400px;float:center"><br></td>
   </tr>
 </tbody></table>
 
