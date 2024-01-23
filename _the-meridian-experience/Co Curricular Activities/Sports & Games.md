@@ -60,16 +60,10 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 
 
 
-<u>2018</u>
+<u>2020</u>
 <ul>
-  <li>Senior SPSCC Football Tournament - Participation</li>
-  <li>Junior SPSCC Football Tournament - Participation</li>
-  <li>U12 East Zone Sports Carnival - 3rd Position</li>
-	<li>U11 East Zone Sports Carnival - Participation</li>
-	<li>U12 HYFA Temasek Cup - Participation</li>
-	<li>U10 SPSCC-FAS Inter School Futsall Challenge - Quarter Finalists</li>
-	<li>U10 Junior Division Trials - 3rd Position</li>
-	<li>U11 FAS-SPSCC Fiesta - Participation</li>
+  <li>U12 Senior SPSCC Football Tournament - Participation</li>
+  <li>U11 Junior SPSCC Football Tournament – Participation</li>
 </ul>    
 
 <u>2019</u>
