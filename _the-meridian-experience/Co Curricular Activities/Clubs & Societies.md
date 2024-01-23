@@ -83,15 +83,17 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 
 **Infocomm Technology (Media Production)**&nbsp;_(For Boys and Girls)_
 
-<p align="justify">To provide a platform for our students to take good photos and product the good videos through our CCA, Media Production. At the Media Production CCA, students get to learn photography, videography and editing skills. They can take part in some competitions every year, for example, OSOS (MOE), National Primary Schools Photography Competition and National Photography Festival (Primary Schools).</p>
+<p align="justify">To provide a platform for our students to take good photos and product the good videos through our CCA, Media Production. At the Media Production CCA, students get to learn photography, videography and editing skills. They can take part in some competitions every year, for example, SDMA (MOE), National Primary Schools Photography Competition and National Photography Festival (Primary Schools).</p>
 
-**Highlights**
+**Award**
 
 1. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SMDA (Singapore Media Digital Awards)
 2. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Primary Schools Photography Competition
 3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Photography Festival (Primary Schools)
 
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/Merit%20Award%20(2).jpg" style="width:470px;height:320px;float:center">
+
+
 
 <br>
 
