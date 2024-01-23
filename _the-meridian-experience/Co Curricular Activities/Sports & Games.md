@@ -56,6 +56,10 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 
 <b>Highlights</b>
 
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Football/2023_Football1.png" style="width:490px;height:350px;float:center">
+
+
+
 <u>2018</u>
 <ul>
   <li>Senior SPSCC Football Tournament - Participation</li>
