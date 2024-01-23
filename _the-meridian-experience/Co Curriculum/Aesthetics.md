@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Co Curriculum
 variant: markdown
 ---
-
 <img src="/images/Our%20Staff/2023%20Dept%20Photos/PAM__Formal_min.jpg" style="width:530px;height:355px;float:center">
 <p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2023</p>
 <hr>
@@ -17,8 +16,10 @@ variant: markdown
 <p>To develop Meridians to become passionate and appreciative of the Arts.</p>
 
 #### Approach and Framework
-![](/images/The%20Meridian%20Experience/Aesthetics/MPS-Aesthetics-Department-Framework.jpg)
-<hr>
+
+<img src="/images/The%20Meridian%20Experience/Aesthetics/MPS-Aesthetics-Department-Framework.jpg" style="width:550px;height:320px;float:center"><hr>
+
+
 
 #### Music
 <p>Every child an active learner of Music</p>
