@@ -58,7 +58,6 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 </ul>
 
 <table style="width:100%">
-
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/RC%203.jpg" style="width:370px;height:220px;float:center"><center>Student testing the code to see if it can sense the intensity of light accurately.</center></td>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/2024_RC1.jpg" style="width:370px;height:220px;float:center"><center>Students were taught to code <br> “scissors, paper, stone” game in mblock. <br>In the picture shown above, students can be <br>seen capturing images of their fingers in different orientation to train the AI system<br>to recognise object representing scissors.</center></td>
@@ -87,13 +86,26 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 
 **Award**
 
-1. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SMDA (Singapore Media Digital Awards)
-2. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Primary Schools Photography Competition
-3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Photography Festival (Primary Schools)
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/Merit%20Award%20(2).jpg" style="width:470px;height:320px;float:center">
-
-
+<table style="width:100%">
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/2024_IT1.jpg" style="width:470px;height:290px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/2024_IT2.jpg" style="width:470px;height:290px;float:center">
+</td>
+  </tr>
+		<tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/2024_IT3.jpg" style="width:470px;height:290px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/2024_IT4.jpg" style="width:470px;height:290px;float:center">
+</td>
+  </tr>
+		<tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/2024_IT5.jpg" style="width:470px;height:290px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/2024_IT6.jpg" style="width:470px;height:290px;float:center">
+</td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/2024_IT7.jpg" style="width:470px;height:300px;float:center"></td>
+  </tr>
+</tbody></table>
 
 <br>
 
