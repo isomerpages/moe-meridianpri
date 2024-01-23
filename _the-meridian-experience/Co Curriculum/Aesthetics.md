@@ -123,6 +123,14 @@ Through each performance, we aim to develop listening and ensemble performance s
 <br>
 <img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A8.jpg" style="width:490px;height:330px;float:center">
 
+<br>
+<table style="width:100%">
+  <tbody>
+	<tr>
+    <td colspan="2"><p align="justify"><b><u>Meridian Teacher Band - Seven One Street</u></b><br> Introducing our group of teachers who are passionate about music-making. Modeling the way is what we teachers do. We want to inspire our Meridian students to immerse themselves in music. Our teacher band was set up in 2022, and we have helmed certain events such as National Day Celebrations and Children’s Day Celebrations, to lead the whole school in singing as one big family. Hearing the chorus of our children’s voices greatly touched our hearts, and we strive to continue to keep the spirit of music alive through our example!</p></td>
+  </tr>
+</tbody></table>
+
 #### Visual Art
 <p align="justify">The aim of our visual art education is to enable every student to be an active learner of Art, enjoy art-making processes, communicate visually, and make meaning through connecting with society and culture.</p>
 
