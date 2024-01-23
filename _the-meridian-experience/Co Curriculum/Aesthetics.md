@@ -84,11 +84,12 @@ PAM Express is a fortnightly PE &amp; Aesthetics programme that provides our stu
   </tr>
 </tbody></table>
 
-<img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A1.jpg" style="width:400px;height:400px;float:center">
+<img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A1.jpg" style="width:400px;height:400px;float:center"><br>
+
+<img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A2.jpg" style="width:600px;height:300px;float:center"><br>
 
 
 <table style="width:100%">
-
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A12.jpg" style="width:340px;height:220px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A13.jpg" style="width:340px;height:220px;float:center"></td>
