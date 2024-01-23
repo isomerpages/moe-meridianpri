@@ -13,28 +13,28 @@ variant: markdown
   <tbody><tr>
     <th>Name</th>
     <th>Contact No.</th>
-		<th>Email</th>
+		
     
   </tr>
   <tr>
    <td>Shah (Managing Director)</td>
     <td>87206583</td>
-		<td><a href="mailto:meridian@shanztransportation.com.sg">meridian@shanztransportation.com.sg</a></td>
   </tr>
   <tr>
     <td>Jun (Operation Manager)</td>
     <td>89500274</td>
-		<td><a href="mailto:meridian@shanztransportation.com.sg">meridian@shanztransportation.com.sg</a></td>
   </tr>
-		
+		 <tr>
+    <td>Jasleena (Operation Admin)</td>
+    <td>87964807</td>
+  </tr>
 </tbody></table>
 
 Address:&nbsp;  
 228 Changi Road, #01-05<br>
 icon@Changi, Singapore 419741<br>
 
+Email: <a href="meridian@shanztransportation.com.sg">meridian@shanztransportation.com.sg</a><br>
 Website: <a href="https://shanztransportation.com.sg">https://shanztransportation.com.sg</a>
 
-
-<p>Closing date for registration is on <b><u>31 May 2023</u></b></p>
 Registration for School Bus Service: <br><a href="https://shanztransportation.com.sg/register-bus-for-school">https://shanztransportation.com.sg/register-bus-for-school</a>
