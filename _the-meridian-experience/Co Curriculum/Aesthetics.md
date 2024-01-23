@@ -183,6 +183,18 @@ Through each performance, we aim to develop listening and ensemble performance s
     <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A14.jpg" style="width:200px;height:230px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A15.jpg" style="width:400px;height:220px;float:center"></td>
   </tr>
+		<tr>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A16.jpg" style="width:400px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A17.jpg" style="width:200px;height:230px;float:center"></td>
+  </tr>
+		<tr>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A18.jpg" style="width:400px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A19.png" style="width:400px;height:220px;float:center"></td>
+  </tr>
+		<tr>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A20.jpg" style="width:200px;height:230px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A21.jpg" style="width:200px;height:230px;float:center"></td>
+  </tr>
 </tbody></table>
 
 <p>For enquiries on the school’s Aesthetics, please email:</p>
