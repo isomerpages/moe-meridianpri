@@ -24,13 +24,20 @@ variant: markdown
 
 
 **Highlights**
-<p align="justify">Team Meridian Floorball takes part in the National Junior and Senior Tournaments every year to allow the players to have adequate exposure and competition experience.</p>
+<p align="justify">Team Meridian Floorball takes part in the National School Games every year to allow the players to have adequate exposure and competition experience.</p>
+
+<table style="width:100%">
+  <tbody>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB4.jpg" style="width:450px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB5.jpg" style="width:450px;height:250px;float:center"></td>
+  </tr>
+</tbody></table>
 
 For enquiries on the school’s Floorball CCA, please email:<br>
-* <a href="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Shahid Bin Ahmad</a>
+* <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a>
 * <a href="mailto:foo_si_min@moe.edu.sg">Ms Tracy Foo</a>
 * <a href="mailto:mark_chen@moe.edu.sg">Mr Mark Chen</a>
-* <a href="mailto:low_hwee_miang_a@moe.edu.sg">Mdm Low Hwee Miang</a>
 * <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a>
 
 <hr>
