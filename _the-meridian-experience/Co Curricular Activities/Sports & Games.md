@@ -18,7 +18,7 @@ variant: markdown
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB2.jpg" style="width:450px;height:250px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023/Floorball%203.jpg" style="width:350px;height:430px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB3.jpg" style="width:450px;height:330px;float:center"></td>
   </tr>
 </tbody></table>
 
