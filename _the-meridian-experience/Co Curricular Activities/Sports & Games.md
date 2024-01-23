@@ -50,6 +50,10 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 
 <p align="justify"> In the face of challenges and setbacks, our team exemplifies <b>resilience</b>. The boys understand that the path to success is not always smooth, but it's the ability to bounce back and persevere that defines us. Whether trailing in a game or facing tough opponents, our players will show unwavering determination, never giving up until the final whistle. Resilience is a mindset that we cultivate within every member of our football family.</p>
 
+<p align="justify">Those boys in football CCA are not just athletes; they are ambassadors of sportsmanship, <b>integrity</b> and fair play. Our players understand the importance of representing our school with pride and honor.</p>
+
+<p align="justify">Join us in celebrating the values that define our football team – a brotherhood built on teamwork, resilience, and responsibility. Together, we strive for excellence and aim to leave a lasting legacy that extends far beyond the football field. Go Team Meridian!</p>
+
 <b>Highlights</b>
 
 <u>2018</u>
