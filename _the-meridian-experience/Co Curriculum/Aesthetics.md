@@ -88,13 +88,10 @@ PAM Express is a fortnightly PE &amp; Aesthetics programme that provides our stu
 
 <img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A2.jpg" style="width:600px;height:300px;float:center"><br>
 
-
 <table style="width:100%">
   <tbody>
 	<tr>
     <td colspan="2"><p align="justify"><b><u>Meridian’s Got Talent</u></b><br>
-        
-
 Meridian’s Got Talent is an annual event organised for students to showcase their musical talents (singing, dancing, playing instruments, beatboxing, rapping) as part of our Children’s Day Celebrations. In this competition, Meridians are invited to submit their video auditions to the teacher-in-charge. There are two categories:<br>
 Senior Category – Individual/Group<br>
 Junior Category – Individual/Group<br>
@@ -106,6 +103,17 @@ Family members are also encouraged to participate with their children as a famil
   </tr>
 	<tr>
     <td colspan="2"><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A5.jpg" style="width:490px;height:330px;float:center"></td>
+  </tr>
+</tbody></table>
+
+<table style="width:100%">
+  <tbody>
+	<tr>
+    <td colspan="2"><p align="justify"><b><u>Music Day for P1 and P2</u></b><br>P1 &amp; P2 Music Day is a yearly event where our lower primary students are given the opportunity to perform as a class on stage through singing and movement.
+Through each performance, we aim to develop listening and ensemble performance skills in our students. At the same time, students gain self-confidence through performing on stage. Our students learn to respect their peers, look out for visual cues from their music teachers, and feel a sense of identity to the class.</p></td>
+  </tr>
+		<tr>
+    <td colspan="2"><p align="justify"><b><u>Music Day for P3 and P4</u></b><br>P3 and P4 Music Day is a platform for our students to make music together as a whole group. Led by our very own music teachers, students have fun learning rudiments of music through the experience. Last year, our students learnt how to sing, cheer rhythmically, and perform a body percussion along with a song and school cheer created by our music teachers. We hope to develop confidence in our students and ignite their passion for the performing arts.</p></td>
   </tr>
 </tbody></table>
 
