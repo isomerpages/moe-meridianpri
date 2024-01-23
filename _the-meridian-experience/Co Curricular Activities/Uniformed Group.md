@@ -21,12 +21,12 @@ variant: markdown
 <table style="width:100%">
 
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S1.jpg" style="width:450px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S2.jpg" style="width:450px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S1.jpg" style="width:450px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S2.jpg" style="width:450px;height:220px;float:center"></td>
 	</tr>
 	<tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S3.jpg" style="width:450px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S4.jpg" style="width:450px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S3.jpg" style="width:450px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S4.jpg" style="width:450px;height:220px;float:center"></td>
 	</tr>
 	
 </tbody></table>
