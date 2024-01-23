@@ -46,6 +46,9 @@ variant: markdown
 	<tr>
     <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE1.png" style="width:500px;height:390px;float:center"></td>
 	</tr>
+		<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE2.png" style="width:520px;height:490px;float:center"><center>P5 Camp Discovery</center></td>
+	</tr>
 	<tr>
     <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/MGD%204.jpg" style="width:350px;height:250px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20Play%202.jpg" style="width:350px;height:250px;float:center"></td>
