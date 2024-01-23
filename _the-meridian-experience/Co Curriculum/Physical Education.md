@@ -32,19 +32,13 @@ variant: markdown
     
 
 #### Key Programmes
-*   Leadership and Adventure Camp  
-    
-*   Junior Sports and CCA Leadership  
-    
-*   Meridian Games  
-    
+*   P5 Camp  
+*   Meridian Games  Day
 *   NAPFA Test  
-    
-*   Health for Life Week  
-    
+*   Health Week  
 *   Inter-class Games  
-    
-*   Swim Safer Programme
+*   SwimSafer Programme
+*   Sports Leaders Development
 
 <table style="width:100%">
 
