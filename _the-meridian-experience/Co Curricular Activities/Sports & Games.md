@@ -48,6 +48,8 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 
 <p align="justify">At the heart of our football team is a strong sense of <b>teamwork</b>. We believe that individual talent can only take us so far, but when combined with the collective effort of each player, we can achieve greatness. On the field, we move as one unit, supporting and encouraging each other to reach our common goals. Our victories are a testament to the power of teamwork, demonstrating that together, we are stronger.</p>
 
+<p align="justify"> In the face of challenges and setbacks, our team exemplifies <b>resilience</b>. The boys understand that the path to success is not always smooth, but it's the ability to bounce back and persevere that defines us. Whether trailing in a game or facing tough opponents, our players will show unwavering determination, never giving up until the final whistle. Resilience is a mindset that we cultivate within every member of our football family.</p>
+
 <b>Highlights</b>
 
 <u>2018</u>
