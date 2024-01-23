@@ -192,8 +192,8 @@ Through each performance, we aim to develop listening and ensemble performance s
     <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A19.png" style="width:400px;height:220px;float:center"></td>
   </tr>
 		<tr>
-    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A20.jpg" style="width:200px;height:230px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A21.jpg" style="width:200px;height:230px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A20.jpg" style="width:220px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A21.jpg" style="width:220px;height:250px;float:center"></td>
   </tr>
 </tbody></table>
 
