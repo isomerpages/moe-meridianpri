@@ -117,6 +117,12 @@ Through each performance, we aim to develop listening and ensemble performance s
   </tr>
 </tbody></table>
 
+<img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A6.jpg" style="width:490px;height:430px;float:center">
+<br>
+<img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A7.jpg" style="width:490px;height:330px;float:center">
+<br>
+<img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A8.jpg" style="width:490px;height:330px;float:center">
+
 #### Visual Art
 <p align="justify">The aim of our visual art education is to enable every student to be an active learner of Art, enjoy art-making processes, communicate visually, and make meaning through connecting with society and culture.</p>
 
