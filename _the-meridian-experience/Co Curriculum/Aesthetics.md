@@ -77,20 +77,15 @@ variant: markdown
 </tbody></table>
 
 <table style="width:100%">
-
-  <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A8.png" style="width:400px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A9.png" style="width:400px;height:220px;float:center"></td>
-  </tr>
-	<tr>
-    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A10.png" style="width:400px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Aesthetics/2023/A11.png" style="width:400px;height:220px;float:center"></td>
-  </tr>
+  <tbody>
 	<tr>
     <td colspan="2"><p align="justify"><b><u>PAM Express</u></b><br>
 PAM Express is a fortnightly PE &amp; Aesthetics programme that provides our students the platform to showcase their interests and passion in sports, visual arts and music. Occasionally, we have special guest appearances by members of staff from our school including teachers and administrative staff. One of our aims is to inspire our Meridian family to engage in sports, art and music. Students are welcomed to approach their relevant PE, Art and Music teachers should they be interested to showcase themselves participating actively in sports, engaging in visual arts and performing music.</p></td>
   </tr>
 </tbody></table>
+
+<img src="/images/The%20Meridian%20Experience/Aesthetics/2024_A1.jpg" style="width:400px;height:400px;float:center">
+
 
 <table style="width:100%">
 
