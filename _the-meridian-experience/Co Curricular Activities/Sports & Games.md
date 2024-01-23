@@ -66,32 +66,22 @@ For enquiries on the school’s Floorball CCA, please email:<br>
   <li>U11 Junior SPSCC Football Tournament – Participation</li>
 </ul>    
 
-<u>2019</u>
-<ul>
-  <li> U12 Senior SPSCC Football Tournament - Participation</li>
-  <li>U11 Junior SPSCC Football Tournament – Participation</li>
-  <li>U10 Temasek JC Invitational - Participation</li>
-	<li>U10 East Zone Sports Carnival - Participation</li>
-	<li>U10 FAS Futsal Challenge – 2nd</li>
-	<li>U9 SPSC-FAS Fiesta – Participation</li>
-</ul>    
-
-<u>2020</u>
+<u>2022</u>
 <ul>
 	<li>U12 Senior SPSCC Football Tournament - Participation</li>
 	<li>U11 Junior SPSCC Football Tournament – Participation</li>
 </ul>
 
-<u>2022</u>
+<u>2023</u>
 <ul>
-	<li>U12 Senior SPSCC Football Tournament - Participation</li>
-	<li> U11 Junior SPSCC Football Tournament – Participation</li>
+	<li>U12 Senior NSG Football Tournament - Participation</li>
+	<li>U11 Junior NSG Football Tournament – 1st Classification Round</li>
+	<li>U11 Junior NSG Football Tournament – 3rd Tiered Round</li>
 </ul>
 
-<u>Training Sessions:</u>
-<p>Monday: 3:45 p.m. to 5:15 p.m. (for P4 to P6)</p>
+<u>Training Sessions:</u><br>
+Monday: 3:45 p.m. to 5:15 p.m. (for P4 to P6)
 
-![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Football/Soccer%20CCA.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jeisTTDw68E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
