@@ -51,6 +51,7 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 
 **Highlights**
 <ul>
+<li>SCRATCH</li>
 <li>mBlock software</li>
 <li>mBot2 robots</li>
 <li>Application of Artificial Intelligence in mBlock</li>
@@ -60,7 +61,7 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/RC%203.jpg" style="width:370px;height:220px;float:center"><center>Student testing the code to see if it can sense the intensity of light accurately.</center></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/RC%204.jpg" style="width:370px;height:220px;float:center"><center>Student coding in mblock app to activate the light sensor to measure<br>light intensity in mbot (robot)</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/2024_RC1.jpg" style="width:370px;height:220px;float:center"><center>Students were taught to code <br> “scissors, paper, stone” game in mblock. <br>In the picture shown above, students can be <br>seen capturing images of their fingers in different orientation to train the AI system<br>to recognise object representing scissors.</center></td>
   </tr>
 	<tr>
     <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/RC%205.jpg" style="width:470px;height:320px;float:center"><center>Student learning how to program a game in mblock app.</center></td>
