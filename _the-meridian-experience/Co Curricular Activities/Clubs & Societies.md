@@ -130,9 +130,14 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
 
 **Art and Craft**&nbsp;_(For Boys and Girls)_
 
-<p align="justify">Art Club members enjoy the variety of Art activities conducted during sessions. Students experiment with a variety of materials and explore the possibilities of conventional materials like Batik dye, watercolour and recyclable materials.</p>
+<p align="justify"> The Art club takes a comprehensive approach towards learning and appreciation of art such as holistic</p>
 
-<p align="justify">Our Art Club members have enjoyed activities such as tie and dye, fashion design using recyclable materials and sculpting using wires and paper mache.</p>
+<p align="justify">We provide pupils ample opportunities to discover their own niche within the wide array of <b>medium</b>.</p>
+
+<p align="justify">The Art Club members enjoy the variety of Art activities conducted during sessions. Students experiment with a variety of materials and explore the possibilities of conventional materials like Batik dye, watercolour and recyclable materials.</p>
+
+<p align="justify"> Our Art Club members have enjoyed activities such as tie and dye, fashion design using recyclable materials and sculpting using wires and paper mache.</p>
+
 
 **Highlights**  
 
