@@ -3,35 +3,32 @@ title: Sports & Games
 permalink: /the-meridian-experience/co-curricular-activities/sports-n-games/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 #### Floorball
 
-<b>Floorball</b> <i>(For Boys and Girls)</i>
+<b>Floorball</b>&nbsp;<i>(For Boys and Girls)</i>
 
-<p align = "justify">Team Meridian Floorball aims to develop not only the players’ skills and playing strategies, but also their character. Through the training programme, we hope to grow every member to become a confident, adaptable and resilient individual. At the same time, understanding the importance of care, respect and teamwork. This is done through the close guidance of the coaches and teachers. In addition to the usual training on Fridays, senior players who are preparing for the inter-school competition would be asked to attend another training session in the afternoon (from 3:30 pm to 5:00 pm) in the week.</p>
+<p align="justify">Team Meridian Floorball aims to develop not only the players’ skills and playing strategies, but also their character.&nbsp;Through the training programme, we hope to grow every member to become a confident, adaptable and resilient individual.&nbsp;At the same time, understanding the importance of care, respect and teamwork. This is done through the close guidance of the coaches and teachers.</p>
 
 <table style="width:100%">
-
+  <tbody>
   <tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Floorball/floorball-1.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Floorball/floorball-2.jpg" style="width:350px;height:250px;float:center"></td>
-  </tr>
-  <tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Floorball/2023/Floorball%201.jpg" style="width:350px;height:430px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Floorball/2023/Floorball%202.jpg" style="width:350px;height:430px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB1.jpg" style="width:450px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB2.jpg" style="width:450px;height:250px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Floorball/2023/Floorball%203.jpg" style="width:350px;height:430px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023/Floorball%203.jpg" style="width:350px;height:430px;float:center"></td>
   </tr>
-</table>
+</tbody></table>
 
 
 **Highlights**
-<p align = "justify">Team Meridian Floorball takes part in the National Junior and Senior Tournaments every year to allow the players to have adequate exposure and competition experience.</p>
+<p align="justify">Team Meridian Floorball takes part in the National Junior and Senior Tournaments every year to allow the players to have adequate exposure and competition experience.</p>
 
 For enquiries on the school’s Floorball CCA, please email:<br>
 * <a href="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Shahid Bin Ahmad</a>
-* <a href="mailto:foo_si_min@moe.edu.sg ">Ms Tracy Foo</a>
+* <a href="mailto:foo_si_min@moe.edu.sg">Ms Tracy Foo</a>
 * <a href="mailto:mark_chen@moe.edu.sg">Mr Mark Chen</a>
 * <a href="mailto:low_hwee_miang_a@moe.edu.sg">Mdm Low Hwee Miang</a>
 * <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a>
@@ -40,10 +37,10 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 
 #### Football
 
-<b>Football</b> <i>(For Boys Only)</i>
+<b>Football</b>&nbsp;<i>(For Boys Only)</i>
 
 <b>Vision</b>
-<p align = "justify">Role Models, on and off the pitch Our Football CCA inculcates strong values and character through different activities.  Team games create bonds and build lasting friendships.  When the tide is against us, we will move on and never give up.  Values are not just caught in Football CCA.  We make a conscientious effort to teach them in meaningful ways. Resilience. Teamwork. Respect. Responsibility. Perseverance.</p>
+<p align="justify">Role Models, on and off the pitch Our Football CCA inculcates strong values and character through different activities.&nbsp; Team games create bonds and build lasting friendships.&nbsp; When the tide is against us, we will move on and never give up.&nbsp; Values are not just caught in Football CCA.&nbsp; We make a conscientious effort to teach them in meaningful ways.&nbsp;Resilience. Teamwork. Respect. Responsibility. Perseverance.</p>
 
 <b>Highlights</b>
 
@@ -84,9 +81,9 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 <u>Training Sessions:</u>
 <p>Monday: 3:45 p.m. to 5:15 p.m. (for P4 to P6)</p>
 
-![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Football/Soccer%20CCA.jpg)
+![](/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Football/Soccer%20CCA.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jeisTTDw68E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jeisTTDw68E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 For enquiries on the school’s Football CCA, please email:<br>
 * <a href="mailto:zulkarnai_zulkifli@moe.edu.sg">Mr Zulkarnai Zulkifli</a>
@@ -96,30 +93,30 @@ For enquiries on the school’s Football CCA, please email:<br>
 
 <hr>
 
-#### Taekwondo 
+#### Taekwondo&nbsp;
 
-<b>Taekwondo</b> <i>(For Boys and Girls)</i>
+<b>Taekwondo</b>&nbsp;<i>(For Boys and Girls)</i>
 
-<p align = "justify">Taekwondo is an effective weaponless art of self-defense that originated from Korea and is one of the Asian martial arts included in the Olympic programme.<p>
+<p align="justify">Taekwondo is an effective weaponless art of self-defense that originated from Korea and is one of the Asian martial arts included in the Olympic programme.</p><p>
 
-<p align = "justify">The Taekwondo CCA at Meridian Primary School aims to build students’ physical fitness and students’ foundation in Taekwondo Pattern (Poomsae). Taekwondo members will get a chance to participate in the annual competition such as the National School Games Taekwondo Competition or perform during the Year End Prize Presentation ceremony to gain experience and confidence.  </p>
+</p><p align="justify">The Taekwondo CCA at Meridian Primary School aims to build students’ physical fitness and students’ foundation in Taekwondo Pattern (Poomsae). Taekwondo members will get a chance to participate in the annual competition such as the National School Games Taekwondo Competition or perform during the Year End Prize Presentation ceremony to gain experience and confidence.  </p>
 
-<p align = "justify">Other than learning the technical skill of Taekwondo’s self-defense, students will more importantly learn life values such as respect and discipline through our training. Our training focuses on developing the character of a student in a fun and encouraging way as we strongly believe that good attitude and character will aid a child in his/her learning.</p>
+<p align="justify">Other than learning the technical skill of Taekwondo’s self-defense, students will more importantly learn life values such as respect and discipline through our training. Our training focuses on developing the character of a student in a fun and encouraging way as we strongly believe that good attitude and character will aid a child in his/her learning.</p>
 
 <table style="width:100%">
 
-  <tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%203.png" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%204.png" style="width:350px;height:250px;float:center"></td>
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/TKD%203.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/TKD%204.png" style="width:350px;height:250px;float:center"></td>
   </tr>
   <tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%205.jpeg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%206.jpeg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/TKD%205.jpeg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/TKD%206.jpeg" style="width:350px;height:250px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Taekwondo/TKD%207.jpeg" style="width:580px;height:430px;float:center"><br></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/TKD%207.jpeg" style="width:580px;height:430px;float:center"><br></td>
   </tr>
-</table>
+</tbody></table>
 
 <b>Highlights</b>
 
@@ -139,7 +136,7 @@ Poomsae Category (Junior Division)
 <br>Poomsae Category (Senior Division)
 <ul>
 	<li>Y8 individual girl: 3rd position (Naila Khalisya)</li>
-	<li>Y8 team girl: 3rd position (Naila Khalisya, Sakpal Tanishka & Jeevana Nandakumar)</li>
+	<li>Y8 team girl: 3rd position (Naila Khalisya, Sakpal Tanishka &amp; Jeevana Nandakumar)</li>
 	<li>Y7 individual boy: 7th position (Rehan Iqbal Khan)</li>
 </ul>
 
@@ -150,7 +147,7 @@ Poomsae Category (Junior Division)
 	<li>W9 individual boy: 8th position (Thaddeus Tay)</li>
 </ul>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SaiTTpJWsqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SaiTTpJWsqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <br>
 
@@ -164,9 +161,9 @@ For enquiries on the school’s Taekwondo CCA, please email:<br>
 
 <h4>Sports Club</h4>
 <br>
-<b>Sport Club</b> <i>(Boys and Girls Only)</i>
+<b>Sport Club</b>&nbsp;<i>(Boys and Girls Only)</i>
 
-<p align = "justify">The sports club is a modular CCA. It aims to expose students to a variety of sports including mini-tennis, modified basketball, badminton, and other recreational activities. There are many sports activities to keep the students motivated in staying physically active. From time to time, selected students will also be given the platform to showcase their skills and abilities through learn-to-play workshops and inter-school competitions.</p>
+<p align="justify">The sports club is a modular CCA. It aims to expose students to a variety of sports including mini-tennis, modified basketball, badminton, and other recreational activities.&nbsp;There are many sports activities to keep the students motivated in staying physically active. From time to time, selected students will also be given the platform to showcase their skills and abilities through learn-to-play workshops and inter-school competitions.</p>
 
 Some activities done during CCA:<br>
 \- Inline-skating<br>
@@ -184,21 +181,21 @@ Some activities done during CCA:<br>
 
 <table style="width:100%">
 
-  <tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%201.jpg" style="width:250px;height:350px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%202.jpg" style="width:250px;height:350px;float:center"></td>
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Sports%20Club/SC%201.jpg" style="width:250px;height:350px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Sports%20Club/SC%202.jpg" style="width:250px;height:350px;float:center"></td>
   </tr>
   <tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%203.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%204.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Sports%20Club/SC%203.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Sports%20Club/SC%204.jpg" style="width:350px;height:250px;float:center"></td>
   </tr>
 	<tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%205.jpg" style="width:350px;height:250px;float:center"></td>
-		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&%20Games/Sports%20Club/SC%206.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Sports%20Club/SC%205.jpg" style="width:350px;height:250px;float:center"></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Sports%20Club/SC%206.jpg" style="width:350px;height:250px;float:center"></td>
   </tr>
-</table>
+</tbody></table>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iMz5GF3sE40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iMz5GF3sE40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <br>
 
