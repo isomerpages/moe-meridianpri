@@ -291,11 +291,11 @@ variant: markdown
   <tbody><tr>
     <td><a href="mailto:abdul_latheef_nareeman@moe.edu.sg">Ms Abdul Latheef Nareeman (School Counsellor)</a></td>
   </tr>
-	<tr>
-    <td><a href="mailto:jalilah_jalihan@moe.edu.sg">Miss Jalilah Bte Jalihan (AED T&amp;L)</a></td>
+		<tr>
+    <td><a href="mailto:ng_jinning_janine@moe.edu.sg">Mdm Janine Ng Jinning (School Counsellor)</a></td>
   </tr>
 	<tr>
-    <td><a href="mailto:ng_jinning_janine@moe.edu.sg">Mdm Janine Ng Jinning (School Counsellor)</a></td>
+    <td><a href="mailto:jalilah_jalihan@moe.edu.sg">Miss Jalilah Bte Jalihan (AED T&amp;L)</a></td>
   </tr>
   <tr>
     <td><a href="mailto:kong_marn_moy@moe.edu.sg">Mdm Kong Marn Moy (Special Education Needs Officer)</a></td>
