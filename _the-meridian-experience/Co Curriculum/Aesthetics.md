@@ -17,9 +17,9 @@ variant: markdown
 
 #### Approach and Framework
 
-<img src="/images/The%20Meridian%20Experience/Aesthetics/MPS-Aesthetics-Department-Framework.jpg" style="width:550px;height:320px;float:center"><hr>
+<img src="/images/The%20Meridian%20Experience/Aesthetics/MPS-Aesthetics-Department-Framework.jpg" style="width:550px;height:320px;float:center"><br>
 
-
+<hr>
 
 #### Music
 <p>Every child an active learner of Music</p>
