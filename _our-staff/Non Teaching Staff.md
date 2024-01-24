@@ -8,6 +8,7 @@ variant: markdown
 <p style="line-height:0.5em; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
 
 
+<hr>
 <table style="width:100%">
 	 <tbody><tr>
     <td><a href="mailto:azila_farhana_mohd_raus@moe.edu.sg">Ms Aliza Farhana Binti Mohd Raus</a></td>
