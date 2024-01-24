@@ -25,6 +25,10 @@ variant: markdown
 	<li>
 		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/Student_meeting_19_Jan.pdf">Student Council Meeting</a><font size="2"> (19 January 2024)</font>
 	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%203/P3_Public_Speaking_22_Jan.pdf">English Enrichment Programme: Public Speaking for Primary 3</a><font size="2"> (22 January 2024)</font>
+	</li>
 	</ul>
 </details>
+
 
