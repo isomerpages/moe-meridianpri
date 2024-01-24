@@ -294,13 +294,13 @@ variant: markdown
 		<tr>
     <td><a href="mailto:ng_jinning_janine@moe.edu.sg">Mdm Janine Ng Jinning (School Counsellor)</a></td>
   </tr>
-	<tr>
-    <td><a href="mailto:jalilah_jalihan@moe.edu.sg">Miss Jalilah Bte Jalihan (AED T&amp;L)</a></td>
-  </tr>
   <tr>
     <td><a href="mailto:kong_marn_moy@moe.edu.sg">Mdm Kong Marn Moy (Special Education Needs Officer)</a></td>
   </tr>
 	<tr>
     <td><a href="mailto:sharifah_samihah@moe.edu.sg">Mdm Sharifah Samihah (Special Education Needs Officer)</a></td>
+  </tr>
+		<tr>
+    <td><a href="mailto:jalilah_jalihan@moe.edu.sg">Miss Jalilah Bte Jalihan (AED T&amp;L)</a></td>
   </tr>
 </tbody></table>
