@@ -5,7 +5,8 @@ description: ""
 variant: markdown
 ---
 <img src="/images/Our%20Staff/2023%20Dept%20Photos/Steering_Committee__Formal_min.jpg" style="width:650px;height:455px;float:center">
-&nbsp;<p style="line-height:0.5em; font-size: 12px;" align="center">*Photo taken in 2023</p>
+
+<p style="line-height:0.5em; font-size: 12px;" align="center">*Photo taken in 2023</p>
 <hr>
 
 
