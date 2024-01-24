@@ -4,8 +4,9 @@ permalink: /our-staff/non-teaching-staff/
 description: ""
 variant: markdown
 ---
-<img src="/images/Our%20Staff/2023%20Dept%20Photos/EAS_Team__Formal_min.jpg" style="width:530px;height:355px;float:center">
-<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2023</p>
+<img src="/images/Our%20Staff/2023%20Dept%20Photos/EAS_Team__Formal_min.jpg" style="width:650px;height:455px;float:center">
+<p style="line-height:0.5em; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
+<hr>
 <hr>
 
 <table style="width:100%">
