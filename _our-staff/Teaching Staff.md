@@ -11,7 +11,7 @@ variant: markdown
   <tbody><tr>
     <th>Class</th>
     <th></th>
-    <th>Staff</th>
+    <th>Form Teacher</th>
   </tr>
   <tr>
     <td>1 Care</td>
