@@ -32,12 +32,11 @@ The virtual overseas trip was indeed a memorable and enriching experience for Me
 <table style="width:100%">
 
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023Overseas_1.jpg" style="width:380px;height:250px;float:center"><center>Our Meridians having Thai food and western fish and chips from New Zealand!</center></td>
-    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023Overseas_2.jpg" style="width:380px;height:250px;float:center"><center>         Virtual school exchange with our counterparts in Thailand and New Zealand</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023Overseas_1.jpg" style="width:380px;height:250px;float:center"><p style="line-height:1.2em; font-size: 14px; text-align:center;">Our Meridians having Thai food and western fish and chips from New Zealand!</p></td>
+    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023Overseas_2.jpg" style="width:380px;height:250px;float:center"><p style="line-height:1.2em; font-size: 14px; text-align:center;">Virtual school exchange with our counterparts in Thailand and New Zealand</p></td>
   </tr>
 		<tr>
-    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023Overseas_3.jpg" style="width:380px;height:250px;float:center"><center>Students getting up and close with sheep from New Zealand.</center></td>
-    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023Overseas_4.jpg" style="width:380px;height:250px;float:center"><center>Our Meridians learning about elephant protection.</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023Overseas_3.jpg" style="width:380px;height:250px;float:center"><p style="line-height:1.2em; font-size: 14px; text-align:center;">Students getting up and close with sheep from New Zealand.</p></td>
+    <td><img src="/images/The%20Meridian%20Experience/P5%20Overseas/2023Overseas_4.jpg" style="width:380px;height:250px;float:center"><p style="line-height:1.2em; font-size: 14px; text-align:center;">Our Meridians learning about elephant protection.</p></td>
   </tr>
 </tbody></table>
-

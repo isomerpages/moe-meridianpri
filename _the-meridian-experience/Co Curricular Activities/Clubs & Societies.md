@@ -59,11 +59,11 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/RC%203.jpg" style="width:370px;height:220px;float:center"><center>Student testing the code to see if it can sense the intensity of light accurately.</center></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/2024_RC1.jpg" style="width:370px;height:220px;float:center"><center>Students were taught to code <br> “scissors, paper, stone” game in mblock. <br>In the picture shown above, students can be <br>seen capturing images of their fingers in different orientation to train the AI system<br>to recognise object representing scissors.</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/RC%203.jpg" style="width:370px;height:220px;float:center"><p style="line-height:1.2em; font-size: 14px; text-align:center;">Student testing the code to see if it can sense the intensity of light accurately.</p></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/2024_RC1.jpg" style="width:370px;height:220px;float:center"><p style="line-height:1em; font-size: 12px; text-align: center;">Students were taught to code “scissors, paper, stone”<br> game in mblock. In the picture shown above, students <br>can be seen capturing  images of their fingers in<br> different orientationto train the AI system to<br> recognise object representing scissors.</p></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/2024_RC2.jpg" style="width:370px;height:420px;float:center"><center>Students learnt to code the robots to ensure they can avoid collision using sensors; robots are able to sense the colours on the ground to move accordingly.</center></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/2024_RC2.jpg" style="width:370px;height:420px;float:center"><p style="line-height:1.2em; font-size: 14px; text-align:center;">Students learnt to code the robots to ensure they can avoid collision using sensors; robots are able to sense the colours on the ground to move accordingly.</p></td>
   </tr>
 </tbody></table>
 
@@ -143,8 +143,9 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
 
 <p align="justify">Art Club collaborates with Pasir Ris NLB in a yearly event, hoping to reach out to the public to share simple Art-making activities and at the same time, helping to promote the Art books available for loan at the library. Apart from that, Art Club members also have the opportunity to take part in the bi-annual Singapore Youth Festival (SYF) Art Competition.</p>
 
-<b>Our SYF Team 2022</b><table style="width:100%">
+<b>Our SYF Team 2022</b>
 
+<table style="width:100%">
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC1.jpg" style="width:370px;height:220px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC2.jpg" style="width:370px;height:220px;float:center"></td>
@@ -158,8 +159,9 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
   </tr>
 </tbody></table>
 
-<h5>Our Art Activities</h5><b>Quliling</b><table style="width:100%">
+<h5>Our Art Activities</h5><b>Quliling</b>
 
+<table style="width:100%">
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC6.jpg" style="width:370px;height:220px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC8.jpg" style="width:370px;height:220px;float:center"></td>
@@ -169,7 +171,9 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
   </tr>
 </tbody></table>
 
-<b>iPAD Art</b><table style="width:100%">
+<b>iPAD Art</b>
+
+<table style="width:100%">
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC9.jpg" style="width:370px;height:350px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC10.jpg" style="width:370px;height:350px;float:center"></td>
@@ -179,7 +183,9 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
   </tr>
 </tbody></table>
 
-<b>Art Using Recycled Materials</b><table style="width:100%">
+<b>Art Using Recycled Materials</b>
+
+<table style="width:100%">
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC12.jpg" style="width:360px;height:350px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC13.jpg" style="width:360px;height:350px;float:center"></td>
@@ -189,7 +195,9 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
   </tr>
 </tbody></table>
 
-<b>Wire Sculpture</b><table style="width:100%">
+<b>Wire Sculpture</b>
+
+<table style="width:100%">
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC15.jpg" style="width:360px;height:350px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC16.jpg" style="width:360px;height:350px;float:center"></td>

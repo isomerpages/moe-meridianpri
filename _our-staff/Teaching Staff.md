@@ -11,7 +11,7 @@ variant: markdown
   <tbody><tr>
     <th>Class</th>
     <th></th>
-    <th>Staff</th>
+    <th>Form Teacher</th>
   </tr>
   <tr>
     <td>1 Care</td>
@@ -291,10 +291,7 @@ variant: markdown
   <tbody><tr>
     <td><a href="mailto:abdul_latheef_nareeman@moe.edu.sg">Ms Abdul Latheef Nareeman (School Counsellor)</a></td>
   </tr>
-	<tr>
-    <td><a href="mailto:jalilah_jalihan@moe.edu.sg">Miss Jalilah Bte Jalihan (AED T&amp;L)</a></td>
-  </tr>
-	<tr>
+		<tr>
     <td><a href="mailto:ng_jinning_janine@moe.edu.sg">Mdm Janine Ng Jinning (School Counsellor)</a></td>
   </tr>
   <tr>
@@ -302,5 +299,8 @@ variant: markdown
   </tr>
 	<tr>
     <td><a href="mailto:sharifah_samihah@moe.edu.sg">Mdm Sharifah Samihah (Special Education Needs Officer)</a></td>
+  </tr>
+		<tr>
+    <td><a href="mailto:jalilah_jalihan@moe.edu.sg">Miss Jalilah Bte Jalihan (AED T&amp;L)</a></td>
   </tr>
 </tbody></table>
