@@ -6,7 +6,7 @@ variant: markdown
 ---
 <h4 align="center">MK @ Meridian Open House</h4>
 <br>
-<img src="/images/MK@Meridian/MK_Open_House_poster_25_Jan.jpg" style="width: 430px;height:650px;">
+<img src="/images/MK@Meridian/MK_Open_House_poster_25_Jan.jpg" style="width: 400px;height:650px;">
 
 <p align="justify">Join us at our Open House on 3 February 2024 for a tour of our kindergarten premises and engagement with our MK@Meridian team to find out more about our MK curriculum. We look forward to seeing you! 😊</p>
 
@@ -17,4 +17,3 @@ variant: markdown
 
 <p align="justify">Should you require more information or clarifications, you are welcome to contact us via:<br>
 Tel: 6583 2125 or email: <a href="mailto:mk_meridian@moe.edu.sg">mk_meridian@moe.edu.sg</a></p>
-
