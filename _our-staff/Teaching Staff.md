@@ -62,7 +62,7 @@ variant: markdown
   <tbody><tr>
     <th>Class</th>
     <th></th>
-    <th>Staff</th>
+    <th>Form Teacher</th>
   </tr>
   <tr>
     <td>2 Care</td>
@@ -109,7 +109,7 @@ variant: markdown
   <tbody><tr>
     <th>Class</th>
     <th></th>
-    <th>Staff</th>
+    <th>Form Teacher</th>
   </tr>
   <tr>
     <td>3 Care </td>
@@ -138,7 +138,7 @@ variant: markdown
   <tbody><tr>
     <th>Class</th>
     <th></th>
-    <th>Staff</th>
+    <th>Form Teacher</th>
   </tr>
   <tr>
     <td>4 Care</td>
@@ -182,7 +182,7 @@ variant: markdown
   <tbody><tr>
     <th>Class</th>
     <th></th>
-    <th>Staff</th>
+    <th>Form Teacher</th>
   </tr>
 	 <tr>
     <td>5 Integrity</td>
@@ -211,7 +211,7 @@ variant: markdown
   <tbody><tr>
     <th>Class</th>
     <th></th>
-    <th>Staff</th>
+    <th>Form Teacher</th>
   </tr>
   <tr>
     <td>6 Care</td>
