@@ -11,7 +11,7 @@ variant: markdown
 <p align="justify">Join us at our Open House on 3 February 2024 for a tour of our kindergarten premises and engagement with our MK@Meridian team to find out more about our MK curriculum. We look forward to seeing you! 😊</p>
 
 
-<p align="justify"> Please click <a href="">here</a> for more information.</p>
+<p align="justify"> Please click <a href="/files/MK/2024_MK_Letter.pdf">here</a> for more information.</p>
 
 <a href="https://form.gov.sg/654c2c4128c6d00011d38319">Sign Up</a> for the Open House now!  You can also find out more on Open House <a href="https://www.moe.gov.sg/preschool/moe-kindergarten?utm_source=pmk&amp;utm_medium=email&amp;utm_campaign=openhouse">here</a> .
 
