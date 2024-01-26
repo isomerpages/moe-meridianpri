@@ -8,7 +8,7 @@ variant: markdown
 <br>
 <img src="/images/MK@Meridian/2023/MK%20Open%20House.jpg" style="width: 590px;height:400px;">
 
-<p align="justify">Join us at our Open House for a tour of our kindergarten and speak with our team to find out more about our MK curriculum. We have specially curated some fun and engaging activities for your little ones!</p>
+<p align="justify">Join us at our Open House on 3 February 2024 for a tour of our kindergarten premises and engagement with our MK@Meridian team to find out more about our MK curriculum. We look forward to seeing you! 😊</p>
 
 
 <p align="justify"> Please click <a href="/files/MK/2023/2023%20MK%20Open%20House%20-%20Letter%20to%20Parents_.pdf">here</a> for more information.</p>
