@@ -12,12 +12,12 @@ variant: markdown
 
 #### Vision
 
-<p align="justify">The Science Department’s vision is to develop young citizens who have a heart of care for their living environment.&nbsp; Our students are motivated to learn more about Science, are curious and are able to use a repertoire of Science&nbsp; process skills for making effective decisions.</p>
+<p align="justify">A Confident and Caring Scientist in every Meridian.</p>
 
 #### Approach
-![](/images/The%20Meridian%20Experience/Science%20Dept/Science_Website-V2.jpg)
 
-<p align="justify">The Science programme at Meridian takes direction from the Singapore’s Primary Science Syllabus.&nbsp; The framework of the Science Department’s activities and programmes are represented by three round organic spheres, namely, Knowledge, Understanding and Application; Skills and processes; and Ethics and Attitudes.&nbsp; Like molecules in life, these spheres are vibrant in the academic and non-academic areas at Meridian.</p>
+<img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci1.png" style="width:455px;height:460px;float:center">
+
 
 #### Goals
 To provide our students with the:
