@@ -38,7 +38,7 @@ variant: markdown
 <h5>Objective are achieved through a multi-faceted and multi-disciplinary approach:</h5>
 <p align="justify">Tier 1: For all pupils – Developing Knowledge, Interest and Care towards the environment<br>• Learning Journey integrated within the curriculum</p>
 
-
+<img src="/images/Signature%20Programme/2024%20APL/2024_APL1.png" style="width:690px;height:455px;float:center">
 
 
 #### Highlights
