@@ -31,15 +31,15 @@ variant: markdown
 
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL4.png" style="width:370px;height:220px;float:center"><center>Student Council</center></td>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL5.png" style="width:370px;height:220px;float:center"><center>Student Council Meeting</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL4.png" style="width:470px;height:220px;float:center"><center>Student Council</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL5.png" style="width:470px;height:220px;float:center"><center>Student Council Meeting</center></td>
   </tr>
 	<tr>
     <td colspan="2"><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL6.png" style="width:420px;height:310px;float:center"><center>Student Council Investiture</center></td>
   </tr>
 		<tr>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL7.png" style="width:370px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL8.png" style="width:370px;height:220px;float:center">
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL7.png" style="width:390px;height:290px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL8.png" style="width:390px;height:290px;float:center">
 		</td>
   </tr>
 </tbody></table>
@@ -48,24 +48,24 @@ variant: markdown
 
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL9.png" style="width:370px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL10.png" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL9.png" style="width:390px;height:290px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL10.png" style="width:390px;height:290px;float:center"></td>
   </tr>
 </tbody></table>
 <center> P4 Bully-free Campaign</center>
 
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL11.png" style="width:370px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL12.png" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL11.png" style="width:370px;height:290px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL12.png" style="width:370px;height:290px;float:center"></td>
   </tr>
 </tbody></table>
 <center> P5 Beach Clean-Up</center>
 
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL13.png" style="width:370px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL14.png" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL13.png" style="width:370px;height:290px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL14.png" style="width:370px;height:290px;float:center"></td>
   </tr>
 </tbody></table>
 <center> P6 Visit to Enabling Village</center>
