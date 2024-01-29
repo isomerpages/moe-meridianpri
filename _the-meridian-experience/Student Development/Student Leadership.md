@@ -9,7 +9,7 @@ variant: markdown
 <p style="line-height:0.5em; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
 <hr>
 <br>
-<h6><b>At Meridian Primary School, we truly believe that Every Child, A Leader.</b></h6>
+<b>At Meridian Primary School, we truly believe that Every Child, A Leader.</b>
 
 <p align="justify">Inspired by Kouzes and Posner’s The Five Practices of Exemplary Leadership, the school provides a range of class-based, level-wide, CCA-based and school-wide leadership trainings and opportunities for our students to hone their leadership skills based on the following five practices:</p>
 
