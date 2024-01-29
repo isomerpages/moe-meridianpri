@@ -101,7 +101,8 @@ variant: markdown
 	
 </tbody></table>
 
-<p align="justify">• Learning Journey integrated within the curriculum</p>
+<p align="justify">• Eco-environment Activities</p>
+<img src="/images/Signature%20Programme/2024%20APL/2024_APL16.png" style="width:650px;height:350px;float:center">
 
 <p>For enquiries on the school’s Applied Learning Programme, please email:</p>
 <a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
