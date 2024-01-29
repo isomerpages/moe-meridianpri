@@ -11,4 +11,4 @@ variant: markdown
 
 <p style="color:red;"><strong>2)&nbsp; &nbsp;MK Open House</strong></p>
 
-<p align="justify">Join us at our Open House on 3 February 2024 for a tour of our kindergarten premises and engagement with our MK@Meridian team.  For find out more, please <a href="https://www.meridianpri.moe.edu.sg/mk-at-meridian/announcements/">click here. </a><br></p>
+<p align="justify">Join us at our Open House on 3 February 2024 for a tour of our kindergarten premises and engagement with our MK@Meridian team.  To find out more, please <a href="https://www.meridianpri.moe.edu.sg/mk-at-meridian/announcements/">click here. </a><br></p>
