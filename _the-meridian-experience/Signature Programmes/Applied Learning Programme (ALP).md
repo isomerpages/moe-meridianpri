@@ -5,15 +5,7 @@ description: ""
 third_nav_title: Signature Programmes
 variant: markdown
 ---
-<table style="width:100%">
-
-  <tbody><tr>
-		</tr></tbody><caption><b>P1 Learning Journey to the Zoo and creating dioramas</b></caption>
-    <tbody><tr><td><img src="/images/Signature%20Programme/2024%20APL/2024_APL2.png" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL3.png" style="width:350px;height:250px;float:center"></td>
-	</tr>
-	
-</tbody></table>#### Our ALP Journey
+#### Our ALP Journey
 
 <p align="justify">The school identified Eco-Environment as a niche programme to promote environmental awareness. Through its unique ways of teaching, the school aimed to incorporate ecological and environmental education in its school-wide curricula. The proposal was endorsed by the Ministry and the school was granted funding from MOE in 2012 to implement the plans. To provide students with different learning experiences, the school also forged close collaborations with key stakeholders and strategic partners. The niche programme was transited to an ALP in 2014.</p>
 
