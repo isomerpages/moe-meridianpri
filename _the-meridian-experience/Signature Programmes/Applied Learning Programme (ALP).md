@@ -101,6 +101,8 @@ variant: markdown
 	
 </tbody></table>
 
+<p align="justify">• Learning Journey integrated within the curriculum</p>
+
 <p>For enquiries on the school’s Applied Learning Programme, please email:</p>
 <a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
 <a href="mailto:Low_Boon_Khim@moe.edu.sg">Mr Clarence Low (Head of Department)</a>
