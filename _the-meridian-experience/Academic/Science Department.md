@@ -34,25 +34,34 @@ To provide our students with the:
 
 #### Multi-faceted and Multi-disciplinary Approach
 <span>Tier 1: For all pupils – Developing Interest, Knowledge, and Skills in Science</span>
-*   Laboratory lessons  
+* Experimental Investigation through Laboratory Lessons and Sparkle Kits  
+* Appreciating and learning about Nature through Science Trails
+* Linking scientific knowledge to real-world applications through Learning Journeys
+* Stretching students’ interest in Science through the Young Scientist Badge Scheme
+
+<br>
+
+<table style="width:100%">
+
+  <tbody><tr>
+		</tr></tbody><caption><b>Experimental Investigation</b></caption>
+    <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci2.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci3.png" style="width:350px;height:250px;float:center"></td>
+	</tr>
+	
+</tbody></table>
+<br>
+<table style="width:100%">
+
+  <tbody><tr>
+		</tr></tbody><caption><b>Learning Journey at Science Centre</b></caption>
+    <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci4.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci5.png" style="width:350px;height:250px;float:center"></td>
+	</tr>
+	
+</tbody></table>
     
-*   Practical and fieldwork  
-    
-*   Projects and Show and Tell Sessions  
-    
-*   IT-based lessons  
-    
-*   Learning Journeys (including APBL trips)  
-    
-*   Young Scientist Cards/Badges  
-    
-*   Competitions and Quizzes (internal and external)  
-    
-*   Science Practical Tests  
-    
-*   Meridian Thrift Store  
-    
-*   Sony Creative Toys Competition
+
 
 <p>For enquiries on the school’s Science Department, please email:</p>
 <a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi (Head of Department)</a>
