@@ -131,6 +131,10 @@ variant: markdown
 	
 </tbody></table>
 
+<p align="justify">Tier 2: For selected students – Providing leadership platforms for students to drive eco-environment efforts and initiatives<br>• Eco-environment ambassadors</p>
+
+<img src="/images/Signature%20Programme/2024%20APL/2024_APL18.png" style="width:650px;height:350px;float:center">
+
 <p>For enquiries on the school’s Applied Learning Programme, please email:</p>
 <a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
-<a href="mailto:Low_Boon_Khim@moe.edu.sg">Mr Clarence Low (Head of Department)</a>
+<a href="mailto:Low_Boon_Khim@moe.edu.sg">Mr Clarence Low</a>
