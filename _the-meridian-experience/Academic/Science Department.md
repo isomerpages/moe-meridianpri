@@ -24,15 +24,16 @@ variant: markdown
 #### Goals
 To provide our students with the:
 
-*   <p align="justify">experiences which build on their interest in and stimulate their curiousity about the environment we live in</p>
+*   <p align="justify">Experiences which build on their interest in and stimulate their curiousity about the environment we live in</p>
     
-*  <p align="justify"> scientific knowledge and concepts to help them understand the world around them</p>
+*  <p align="justify"> Scientific knowledge and concepts to help them understand the world around them</p>
     
-*   opportunities and platforms to develop skills, habits of mind and attitudes for scientific inquiry  
+*   Opportunities and platforms to develop skills, habits of mind and attitudes for scientific inquiry  
     
-*   view of appreciating how science and technology has influenced and affected our way of life
+*   View of appreciating how science and technology has influenced and affected our way of life
 
 #### Multi-faceted and Multi-disciplinary Approach
+<span>Tier 1: For all pupils – Developing Interest, Knowledge, and Skills in Science</span>
 *   Laboratory lessons  
     
 *   Practical and fieldwork  
