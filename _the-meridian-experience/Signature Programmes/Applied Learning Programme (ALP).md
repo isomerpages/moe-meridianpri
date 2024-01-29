@@ -110,9 +110,8 @@ variant: markdown
 <table style="width:100%">
 
   <tbody><tr>
-		</tr></tbody><caption><b>P5 Advocating Environmental Causes</b></caption>
-    <tbody><tr><td><img src="/images/Signature%20Programme/2024%20APL/2024_APL8.png" style="width:250px;height:350px;float:center"></td>
-    <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL9.png" style="width:250px;height:350px;float:center"></td>
+    <td><center>Music Instrument Recycling Project</center><img src="/images/Signature%20Programme/2024%20APL/2024_APL12.png" style="width:350px;height:250px;float:center"></td>
+    <td><center>Hydroponics Cultivation</center><img src="/images/Signature%20Programme/2024%20APL/2024_APL13.png" style="width:350px;height:250px;float:center"></td>
 	</tr>
 	
 </tbody></table>
