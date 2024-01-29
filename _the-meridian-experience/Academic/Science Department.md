@@ -18,6 +18,8 @@ variant: markdown
 
 <img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci1.png" style="width:455px;height:460px;float:center">
 
+<p align="justify">The Science programme in Meridian takes direction from the Singapore’s Primary Science Syllabus. The Science curriculum aims to enthuse and nurture all students to be scientifically literate and provide strong science fundamentals for them to innovate and pursue STEM for future learning and work.</p>
+
 
 #### Goals
 To provide our students with the:
