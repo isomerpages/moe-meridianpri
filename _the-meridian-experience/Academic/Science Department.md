@@ -81,5 +81,19 @@ To provide our students with the:
 * Competition and Quizzes
 <br>
 
+<table style="width:100%">
+
+  <tbody><tr>
+		</tr></tbody><caption><b>Excellence 200 (E2K) Science Programme</b></caption>
+    <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci10.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci11.png" style="width:350px;height:250px;float:center"></td>
+	</tr>
+	<tr>
+		</tr></tbody>
+    <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci12.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci13.png" style="width:350px;height:250px;float:center"></td>
+	</tr>
+</tbody></table>
+
 <p>For enquiries on the school’s Science Department, please email:</p>
 <a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi (Head of Department)</a>
