@@ -31,8 +31,8 @@ variant: markdown
 
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL4.png" style="width:470px;height:220px;float:center"><center>Student Council</center></td>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL5.png" style="width:470px;height:220px;float:center"><center>Student Council Meeting</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL4.png" style="width:590px;height:290px;float:center"><center>Student Council</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL5.png" style="width:590px;height:290px;float:center"><center>Student Council Meeting</center></td>
   </tr>
 	<tr>
     <td colspan="2"><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL6.png" style="width:420px;height:310px;float:center"><center>Student Council Investiture</center></td>
