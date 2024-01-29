@@ -40,9 +40,6 @@ variant: markdown
 
 
 
-#### Overview
-
-![](/images/Signature%20Programme/APL/ALP-1.jpg)
 
 #### Highlights
 ![](/images/Signature%20Programme/APL/ALP-2.jpg)
