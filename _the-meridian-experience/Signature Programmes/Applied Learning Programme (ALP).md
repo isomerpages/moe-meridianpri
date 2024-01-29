@@ -116,6 +116,12 @@ variant: markdown
 	
 </tbody></table>
 
+<p align="justify">• School-Wide Initiative and Project</p>
+<img src="/images/Signature%20Programme/2024%20APL/2024_APL17.png" style="width:650px;height:300px;float:center">
+
+<br>
+<br>
+
 <p>For enquiries on the school’s Applied Learning Programme, please email:</p>
 <a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
 <a href="mailto:Low_Boon_Khim@moe.edu.sg">Mr Clarence Low (Head of Department)</a>
