@@ -104,6 +104,19 @@ variant: markdown
 <p align="justify">• Eco-environment Activities</p>
 <img src="/images/Signature%20Programme/2024%20APL/2024_APL16.png" style="width:650px;height:350px;float:center">
 
+<br>
+<br>
+
+<table style="width:100%">
+
+  <tbody><tr>
+		</tr></tbody><caption><b>P5 Advocating Environmental Causes</b></caption>
+    <tbody><tr><td><img src="/images/Signature%20Programme/2024%20APL/2024_APL8.png" style="width:250px;height:350px;float:center"></td>
+    <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL9.png" style="width:250px;height:350px;float:center"></td>
+	</tr>
+	
+</tbody></table>
+
 <p>For enquiries on the school’s Applied Learning Programme, please email:</p>
 <a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
 <a href="mailto:Low_Boon_Khim@moe.edu.sg">Mr Clarence Low (Head of Department)</a>
