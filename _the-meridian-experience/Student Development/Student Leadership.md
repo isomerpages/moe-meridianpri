@@ -35,7 +35,11 @@ variant: markdown
     <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL5.png" style="width:370px;height:220px;float:center"><center>Student Council Meeting</center></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/2024_RC2.jpg" style="width:370px;height:420px;float:center"><p style="line-height:1.2em; font-size: 14px; text-align:center;">Students learnt to code the robots to ensure they can avoid collision using sensors; robots are able to sense the colours on the ground to move accordingly.</p></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL6.png" style="width:420px;height:310px;float:center"><center>Student Council Investiture</center></td>
+  </tr>
+		<tr>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL7.png" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL8.png" style="width:370px;height:220px;float:center"></td>
   </tr>
 </tbody></table>
 
