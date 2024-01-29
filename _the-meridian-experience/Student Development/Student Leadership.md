@@ -39,9 +39,36 @@ variant: markdown
   </tr>
 		<tr>
     <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL7.png" style="width:370px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL8.png" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL8.png" style="width:370px;height:220px;float:center">
+		</td>
   </tr>
 </tbody></table>
+<center> 3s Appreciating our OSOs and PVs</center>
+
+
+<table style="width:100%">
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL9.png" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL10.png" style="width:370px;height:220px;float:center"></td>
+  </tr>
+</tbody></table>
+<center> P4 Bully-free Campaign</center>
+
+<table style="width:100%">
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL11.png" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL12.png" style="width:370px;height:220px;float:center"></td>
+  </tr>
+</tbody></table>
+<center> P5 Beach Clean-Up</center>
+
+<table style="width:100%">
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL13.png" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL14.png" style="width:370px;height:220px;float:center"></td>
+  </tr>
+</tbody></table>
+<center> P6 Visit to Enabling Village</center>
 
 <p>For enquiries on the school’s Student Leadership Programme, please email:</p>
 <a href="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg">Miss Kirenjit Kaur d/o Sulinder Singh (HOD/Student Management)</a>
