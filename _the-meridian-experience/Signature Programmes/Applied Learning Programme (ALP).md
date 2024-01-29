@@ -41,6 +41,7 @@ variant: markdown
 <img src="/images/Signature%20Programme/2024%20APL/2024_APL1.png" style="width:690px;height:455px;float:center">
 
 <br>
+<br>
 
 <table style="width:100%">
 
