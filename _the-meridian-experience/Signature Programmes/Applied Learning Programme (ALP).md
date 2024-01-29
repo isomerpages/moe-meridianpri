@@ -5,7 +5,15 @@ description: ""
 third_nav_title: Signature Programmes
 variant: markdown
 ---
-#### Our ALP Journey
+<table style="width:100%">
+
+  <tbody><tr>
+		</tr></tbody><caption><b>P1 Learning Journey to the Zoo and creating dioramas</b></caption>
+    <tbody><tr><td><img src="/images/Signature%20Programme/2024%20APL/2024_APL2.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL3.png" style="width:350px;height:250px;float:center"></td>
+	</tr>
+	
+</tbody></table>#### Our ALP Journey
 
 <p align="justify">The school identified Eco-Environment as a niche programme to promote environmental awareness. Through its unique ways of teaching, the school aimed to incorporate ecological and environmental education in its school-wide curricula. The proposal was endorsed by the Ministry and the school was granted funding from MOE in 2012 to implement the plans. To provide students with different learning experiences, the school also forged close collaborations with key stakeholders and strategic partners. The niche programme was transited to an ALP in 2014.</p>
 
@@ -53,7 +61,45 @@ variant: markdown
 	
 </tbody></table>
 
+<table style="width:100%">
 
+  <tbody><tr>
+		</tr></tbody><caption><b>P3 Learning Journey to Kok Fah Technology Farm</b></caption>
+    <tbody><tr><td><img src="/images/Signature%20Programme/2024%20APL/2024_APL4.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL5.png" style="width:350px;height:250px;float:center"></td>
+	</tr>
+	
+</tbody></table>
+
+<table style="width:100%">
+
+  <tbody><tr>
+		</tr></tbody><caption><b>P5 Beach Clean Up</b></caption>
+    <tbody><tr><td><img src="/images/Signature%20Programme/2024%20APL/2024_APL6.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL7.png" style="width:250px;height:350px;float:center"></td>
+	</tr>
+	
+</tbody></table>
+
+<table style="width:100%">
+
+  <tbody><tr>
+		</tr></tbody><caption><b>P5 Advocating Environmental Causes</b></caption>
+    <tbody><tr><td><img src="/images/Signature%20Programme/2024%20APL/2024_APL8.png" style="width:250px;height:350px;float:center"></td>
+    <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL9.png" style="width:250px;height:350px;float:center"></td>
+	</tr>
+	
+</tbody></table>
+
+<table style="width:100%">
+
+  <tbody><tr>
+		</tr></tbody><caption><b>P5 Environmental-themed Overseas Learning Journey (Virtual during COVID Years)</b></caption>
+    <tbody><tr><td><img src="/images/Signature%20Programme/2024%20APL/2024_APL8.png" style="width:250px;height:350px;float:center"></td>
+    <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL9.png" style="width:250px;height:350px;float:center"></td>
+	</tr>
+	
+</tbody></table>
 
 <p>For enquiries on the school’s Applied Learning Programme, please email:</p>
 <a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
