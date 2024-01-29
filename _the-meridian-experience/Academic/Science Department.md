@@ -60,8 +60,28 @@ To provide our students with the:
 	</tr>
 	
 </tbody></table>
-    
+<br>
+<table style="width:100%">
 
+  <tbody><tr>
+		</tr></tbody><caption><b>Science Trails</b></caption>
+    <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci6.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci7.png" style="width:350px;height:250px;float:center"></td>
+	</tr>
+	<tr>
+		</tr></tbody>
+    <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci8.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci9.png" style="width:350px;height:250px;float:center"></td>
+	</tr>
+</tbody></table>
+
+<span>Tier 1: For all pupils – Developing Interest, Knowledge, and Skills in Science</span>
+* Experimental Investigation through Laboratory Lessons and Sparkle Kits  
+* Appreciating and learning about Nature through Science Trails
+* Linking scientific knowledge to real-world applications through Learning Journeys
+* Stretching students’ interest in Science through the Young Scientist Badge Scheme
+
+<br>
 
 <p>For enquiries on the school’s Science Department, please email:</p>
 <a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi (Head of Department)</a>
