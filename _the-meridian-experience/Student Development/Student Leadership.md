@@ -14,5 +14,9 @@ variant: markdown
 
 <p align="justify">Inspired by Kouzes and Posner’s The Five Practices of Exemplary Leadership, the school provides a range of class-based, level-wide, CCA-based and school-wide leadership trainings and opportunities for our students to hone their leadership skills based on the following five practices:</p>
 
+<img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL1.png" style="width:650px;height:155px;float:center">
+
+
+
 <p>For enquiries on the school’s Student Leadership Programme, please email:</p>
 <a href="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg">Miss Kirenjit Kaur d/o Sulinder Singh (HOD/Student Management)</a>
