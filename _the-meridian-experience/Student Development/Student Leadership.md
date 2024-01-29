@@ -8,41 +8,67 @@ variant: markdown
 <img src="/images/Our%20Staff/2023%20Dept%20Photos/Student_Management__Formal_min.jpg" style="width:650px;height:455px;float:center">
 <p style="line-height:0.5em; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
 <hr>
+<br>
+<br>
+<b>At Meridian Primary School, we truly believe that Every Child, A Leader.</b>
 
-<p align="justify">In line with the School Motto, “To Learn, To Love, To Lead”, we believe that every child is a leader. As part of their Meridian experience, every student will have the opportunity to have a lead while they are in the school.</p>
+<p align="justify">Inspired by Kouzes and Posner’s The Five Practices of Exemplary Leadership, the school provides a range of class-based, level-wide, CCA-based and school-wide leadership trainings and opportunities for our students to hone their leadership skills based on the following five practices:</p>
 
-#### Approach
+<img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL1.png" style="width:650px;height:155px;float:center">
 
-<p align="justify">The school focuses on three specific leadership skills pitched at different skill levels for all children.&nbsp; They are:
+<p>We strongly encourage our students to put these 5 practices frequently into actions to grow as a leader.</p>
 
-*   Communication Skills  
-    
-*   Teambuilding Skills  
-    
-*   Decision Making Skills  
-    
+<h5>The Leadership Training Domains</h5>
 
-The students learn to use cooperative learning strategies and are exposed to authentic problem-based learning and experiential learning experiences as they hone their leadership skills in varying capacities.</p>
+<img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL2.png" style="width:750px;height:355px;float:center">
 
-#### Key Programmes
-Student Council<br>
-Cohort Leadership Programmes<br>
-Structured Leadership Training<br>
+<h5>The Leadership Training and Opportunities are as follows:</h5>
 
-#### Highlights
-Festive Learning Journeys, where Student Leaders serve as guides for their fellow schoolmates.
+<img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL3.png" style="width:750px;height:255px;float:center">
 
-*   Chinese New Year  
-    
-*   Hari Raya  
-    
-*   Deepavali
+<br>
+<br>
 
-![](/images/CCE/NE/SL-1-720x540.jpg)
-<p align="center">Student leaders guide their school mates in making traditional cakes during Hari Raya</p>
+<table style="width:100%">
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL4.png" style="width:590px;height:290px;float:center"><center>Student Council</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL5.png" style="width:590px;height:290px;float:center"><center>Student Council Meeting</center></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL6.png" style="width:420px;height:310px;float:center"><center>Student Council Investiture</center></td>
+  </tr>
+		<tr>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL7.png" style="width:390px;height:290px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL8.png" style="width:390px;height:290px;float:center">
+		</td>
+  </tr>
+</tbody></table>
+<center> 3s Appreciating our OSOs and PVs</center>
 
-![](/images/CCE/NE/SL-2-720x481.jpg)
-<p align="center">Students leaders guide their schoolmates in how to brew tea during the CNY Learning Journey</p>
+
+<table style="width:100%">
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL9.png" style="width:390px;height:290px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL10.png" style="width:390px;height:290px;float:center"></td>
+  </tr>
+</tbody></table>
+<center> P4 Bully-free Campaign</center>
+
+<table style="width:100%">
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL11.png" style="width:370px;height:290px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL12.png" style="width:370px;height:290px;float:center"></td>
+  </tr>
+</tbody></table>
+<center> P5 Beach Clean-Up</center>
+
+<table style="width:100%">
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL13.png" style="width:370px;height:290px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL14.png" style="width:370px;height:290px;float:center"></td>
+  </tr>
+</tbody></table>
+<center> P6 Visit to Enabling Village</center>
 
 <p>For enquiries on the school’s Student Leadership Programme, please email:</p>
 <a href="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg">Miss Kirenjit Kaur d/o Sulinder Singh (HOD/Student Management)</a>

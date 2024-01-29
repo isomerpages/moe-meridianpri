@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Student Development
 variant: markdown
 ---
-**In Meridian, Discipline guides students on the rules, consequences and strategies to help them learn in a safe and conducive environment.**
+<p><b>At Meridian Primary, we believe that it is important for every Meridian to feel safe, respected and belonged. Discipline guides students on the rules, consequences and strategies to help them learn in a safe and conducive environment.</b></p>
 
 <p align="justify">We are committed to remain inclusive for all, regardless of our children’s backgrounds, abilities and starting points. We understand that every child is learning and a precious work-in-progress. Thus, there will be times where they faced real challenges in managing themselves, their behaviour and in their relationships with others in their growing up journey.&nbsp;<b>Therefore, we seek to educate and empower our students to learn positive behaviours, raise them with great values and develop social and emotional skills that would last them a lifetime.</b></p>
 
@@ -32,4 +32,3 @@ variant: markdown
 
 
 ![](/images/CCE/Discipline%20in%20Meridian/Code%20of%20Conduct%202.jpg)
-
