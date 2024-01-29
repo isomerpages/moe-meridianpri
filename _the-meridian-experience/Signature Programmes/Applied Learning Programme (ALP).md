@@ -45,7 +45,7 @@ variant: markdown
 <table style="width:100%">
 
   <tbody><tr>
-		</tr></tbody><caption><b>P1 Learning Journey to the Zoo nd creating dioramas</b></caption>
+		</tr></tbody><caption><b>P1 Learning Journey to the Zoo and creating dioramas</b></caption>
     <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Eco%20Enviro%20Science%20Club/Eco%203.jpg" style="width:350px;height:250px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Eco%20Enviro%20Science%20Club/Eco%204.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
