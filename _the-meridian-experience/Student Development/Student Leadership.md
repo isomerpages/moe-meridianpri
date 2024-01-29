@@ -20,7 +20,7 @@ variant: markdown
 
 <h5>The Leadership Training Domains</h5>
 
-<img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL2.png" style="width:650px;height:355px;float:center">
+<img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL2.png" style="width:750px;height:355px;float:center">
 
 <p>For enquiries on the school’s Student Leadership Programme, please email:</p>
 <a href="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg">Miss Kirenjit Kaur d/o Sulinder Singh (HOD/Student Management)</a>
