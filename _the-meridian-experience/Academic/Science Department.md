@@ -75,12 +75,10 @@ To provide our students with the:
 	</tr>
 </tbody></table>
 
-<span>Tier 1: For all pupils – Developing Interest, Knowledge, and Skills in Science</span>
-* Experimental Investigation through Laboratory Lessons and Sparkle Kits  
-* Appreciating and learning about Nature through Science Trails
-* Linking scientific knowledge to real-world applications through Learning Journeys
-* Stretching students’ interest in Science through the Young Scientist Badge Scheme
-
+<span>Tier 2: For selected students – Stretching students’ knowledge in Science and developing talents</span>
+*  Excellence 2000 (E2K) Science Programme  
+* Science Olympiad
+* Competition and Quizzes
 <br>
 
 <p>For enquiries on the school’s Science Department, please email:</p>
