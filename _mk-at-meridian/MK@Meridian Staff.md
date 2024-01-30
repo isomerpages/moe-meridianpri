@@ -4,8 +4,8 @@ permalink: /mk-at-meridian/mk-at-meridian-staff/
 description: ""
 variant: markdown
 ---
-![](/images/Our%20Staff/2023%20Dept%20Photos/MKE__Formal_min.jpg)
-<p style="line-height:0.1em; font-size: 12px;">*Photo taken in 2023</p>
+<img src="/images/Our%20Staff/2023%20Dept%20Photos/MKE__Formal_min.jpg" style="width:650px;height:455px;float:center">
+<p style="line-height:0.5em; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
 <hr>
 
 #### MK@Meridian Staff
@@ -85,6 +85,10 @@ variant: markdown
   </tr>
 		<tr>
     <td><a href="mailto:nurfarhana_sabtu@moe.edu.sg">Mdm Nurfarhana Binte Sabtu</a></td>
+    <td>FAJT</td>
+  </tr>
+		<tr>
+    <td><a href="mailto:Chan_Siak_Khim@moe.edu.sg">Ms Madeline</a></td>
     <td>FAJT</td>
   </tr>
 	
