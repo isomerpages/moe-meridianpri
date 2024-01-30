@@ -11,11 +11,11 @@ variant: markdown
 
 #### Objectives
 
-Provide a rich learning environment to:  
-
-*   develop effective and confident 21st century communicators  
-    
-*   inspire the love for the English Language
+The English Language Programme at Meridian Primary aims to<br>
+<br>
+• develop effective and confident 21st century communicators<br>
+<br>
+• inspire the love for the English Language<br>
 
 #### Appreciation
 The department adopts the STELLAR (<b>S</b>trategies for&nbsp;<b>E</b>nglish&nbsp;<b>L</b>anguage&nbsp;<b>L</b>earning&nbsp;<b>A</b>nd&nbsp;<b>R</b>eading) Framework in the teaching and learning of English.
