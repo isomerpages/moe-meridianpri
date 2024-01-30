@@ -43,15 +43,15 @@ If students are caught cheating or attempting to cheat, they will not be allowed
 <p align="justify">The school&nbsp;believes in the holistic all-rounded development of character, body and mind for every Meridian.&nbsp;Students whose conduct grade is below ‘very good’, will not be allowed to receive their awards on stage.</p>
 
 <b>5.&nbsp;<u>Attire for Semestral Assessment</u></b><br>
-Attire for Semestral Assessment, Preliminary Examination and PSLE  Students are to be properly attired in full school uniform for Semestral Assessment and PSLE.
+<p align="justify">Attire for Semestral Assessment, Preliminary Examination and PSLE  Students are to be properly attired in full school uniform for Semestral Assessment and PSLE.</p>
 
 <b>6.&nbsp;<u>Use of Dictionaries for P5 and P6 Mother Tongue Composition</u></b><br>
-P5 and P6 students are allowed to use a dictionary for the Mother Tongue, Higher Mother Tongue and Non-Tamil Indian Languages (NTIL) Paper 1 (Composition). Please refer to the list of <a href="https://www.seab.gov.sg/home/examinations/approved-dictionaries">SEAB Approved Dictionaries</a>.
+<p align="justify">P5 and P6 students are allowed to use a dictionary for the Mother Tongue, Higher Mother Tongue and Non-Tamil Indian Languages (NTIL) Paper 1 (Composition). Please refer to the list of <a href="https://www.seab.gov.sg/home/examinations/approved-dictionaries">SEAB Approved Dictionaries</a>.</p>
 
 <b>7.&nbsp;<u>List Of Approved Scientific Calculators for P5 Mathematics Paper 2</u></b><br>
-Students are allowed to use an electronic calculator for Mathematics/Foundation Mathematics Paper 2 in P5 and P6. Please refer to the list of approved calculators from SEAB. List of <a href="https://www.seab.gov.sg/home/examinations/approved-calculators">SEAB Approved Calculators</a>
+<p align="justify">Students are allowed to use an electronic calculator for Mathematics/Foundation Mathematics Paper 2 in P5 and P6. Please refer to the list of approved calculators from SEAB. List of <a href="https://www.seab.gov.sg/home/examinations/approved-calculators">SEAB Approved Calculators</a></p>
 
 <b>8.&nbsp;<u>Use of Stationery for all P6 Assessment</u></b><br>
-*   Students should write their answers clearly in blue / black ballpoint pen with 0.5mm tip size.&nbsp;If students need to change their answers, they need to cross the original answers out in ink and re-write the answers. Students should not write the answers in pencil as the responses may appeared too faint for marking.
-*   Students should not use correction fluid / tape in the examinations as it may affect the legibility of the answers.
-*   Students should not use highlighters to highlight any part of their answers as this may affect the legibility of the answers.
+<p align="justify">•   Students should write their answers clearly in blue / black ballpoint pen with 0.5mm tip size.&nbsp;If students need to change their answers, they need to cross the original answers out in ink and re-write the answers. Students should not write the answers in pencil as the responses may appeared too faint for marking.<br>
+•   Students should not use correction fluid / tape in the examinations as it may affect the legibility of the answers.<br>
+•  Students should not use highlighters to highlight any part of their answers as this may affect the legibility of the answers.</p>
