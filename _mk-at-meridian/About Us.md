@@ -2,6 +2,7 @@
 title: About Us
 permalink: /mk-at-meridian/about-us/
 description: ""
+variant: markdown
 ---
 #### MOE Kindergarten @ Meridian
 <table style="width:100%">
@@ -10,7 +11,7 @@ description: ""
     <td><p align="justify">You may approach Meridian Primary School to seek assistance or submit an application after the registration period.
 MOE Kindergarten @ Meridian will be located at&nbsp;20 Pasir Ris Street 71, Singapore 518798 in December 2020.<br>
 For enquiries, please contact us at Tel: 6214 0979
-or email: mk_meridian@moe.edu.sg</p></td>
+or email: <a href="mk_meridian@moe.edu.sg">mk_meridian@moe.edu.sg</a></p></td>
   </tr>
 	<tr></tr>
 </tbody></table>
@@ -26,7 +27,7 @@ From 2022: K1, K2, KCare
 <hr>
 
 ##### For more information on MOE Kindergartens
-Please visit the MOE website at www.moe.gov.sg/moekindergarten  
+Please visit the MOE website at <a href="www.moe.gov.sg/moekindergarten">www.moe.gov.sg/moekindergarten</a><br>
 Our MK collaborates with the following Early Years Centres:
 <hr>
 
