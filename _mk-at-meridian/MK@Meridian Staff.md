@@ -87,6 +87,10 @@ variant: markdown
     <td><a href="mailto:nurfarhana_sabtu@moe.edu.sg">Mdm Nurfarhana Binte Sabtu</a></td>
     <td>FAJT</td>
   </tr>
+		<tr>
+    <td><a href="mailto:Chan_Siak_Khim@moe.edu.sg">Mrs Madeline</a></td>
+    <td>FAJT</td>
+  </tr>
 	
 	
 </tbody></table>
