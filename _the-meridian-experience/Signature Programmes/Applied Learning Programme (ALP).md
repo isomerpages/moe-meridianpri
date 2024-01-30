@@ -128,4 +128,4 @@ variant: markdown
 <img src="/images/Signature%20Programme/2024%20APL/2024_APL18.png" style="width:650px;height:350px;float:center">
 
 <p>For enquiries on the school’s Applied Learning Programme, please email:</p>
-<a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi</a><br>
+<a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi (Head of Department)</a><br>
