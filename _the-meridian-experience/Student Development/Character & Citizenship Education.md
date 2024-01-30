@@ -60,16 +60,18 @@ My Meridian Experience <br>
 </tbody></table>
 
 <br>
-<b>P2 ECG Programme – Trip To The Fire Station</b><br>
+<b>P2 ECG Programme</b><br>
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/CCE/2023/NE4.png" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE5.png" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE5.png" style="width:390px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE6.png" style="width:390px;height:230px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/CCE/2023/NE6.png" style="width:350px;height:430px;float:center"></td>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE8.png" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE7.png" style="width:280px;height:330px;float:center"></td>
   </tr>
 </tbody></table>
+
 
 <br>
 <b>P3 ECG Programme – Appreciation of OSOs</b><br>
