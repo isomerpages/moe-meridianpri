@@ -134,129 +134,20 @@ A Learning Journey to DBS Asia Hunb where Peer Support Leaders (PSLs) learnt how
   </tr>
 </tbody></table>
 
-<b>P4 – Empathy Map On Ways to Beautify The School</b><br>
-<table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/CCE/2023/NE13.png" style="width:320px;height:330px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE14.png" style="width:320px;height:330px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><img src="/images/CCE/2023/NE15.png" style="width:320px;height:330px;float:center"></td>
-  </tr>
-</tbody></table>
-
-<br>
-
-<b>P5 - Cheering P6s on for PSLE  <br> Recording and Compiling of Encouragement Videos</b>
-<br>
-<table style="width:100%">
-  <tbody>
-		<tr>
-    <td><img src="/images/CCE/2023/NE16.png" style="width:320px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE17.png" style="width:320px;height:230px;float:center"></td>
-  </tr>
-</tbody>
-</table>
-
 <br>
 
 <b>P5 - Cheering P6s on for PSLE <br> Designing of Motivational Posters</b><br>
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/CCE/2023/NE18.png" style="width:320px;height:330px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE19.png" style="width:320px;height:330px;float:center"></td>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE23.png" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE24.png" style="width:380px;height:230px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/CCE/2023/NE20.png" style="width:300px;height:350px;float:center"></td>
+    <td colspan="2"><img src="/images/CCE/2024%20CCE/2024_CCE25.png" style="width:380px;height:230px;float:center"></td>
   </tr>
 </tbody></table>
 
-#### Social Skills
-<br>
 
-<b>Social Skills posters and cards in the classrooms</b><br>
-<table style="width:100%">
-  <tbody><tr>
-  </tr>
-	<tr>
-    <td colspan="2"><img src="/images/CCE/2023/NE21.png" style="width:700px;height:250px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><img src="/images/CCE/2023/NE22.png" style="width:700px;height:250px;float:center"></td>
-  </tr>
-</tbody></table>
-
-<br>
-
-<b>Social Skills booklet for students to write down skill steps learnt and to monitor their progress</b><br>
-<table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/CCE/2023/NE23.png" style="width:300px;height:350px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE24.png" style="width:300px;height:350px;float:center"></td>
-  </tr>
-</tbody></table>
-
-#### Meridian's Social Skills lesson package
-<br>
-
-<table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/CCE/2023/NE25.png" style="width:300px;height:230px;float:center"><b>Social Skills booklet for students to write down skill steps learnt and to monitor their progress</b></td>
-    <td><img src="/images/CCE/2023/NE26.jpg" style="width:300px;height:230px;float:center"><b>Social Skills cards are translated in Mother Tongue languages</b></td>
-  </tr>
-	<tr>
-    <td><img src="/images/CCE/2023/NE27.png" style="width:200px;height:230px;float:center"></td>
-    <td><b>Lesson packages include and align to</b>
-		<ul>
-			<li>Rationale for learning Social Skills</li>
-			<li>School values</li>
-			<li>THINK framework</li>
-			<li>Growth Mindset</li>
-			<li>Obsevable Student Behaviours</li>
-		</ul></td>
-  </tr>
-</tbody></table>
-
-#### Growth Mindset
-
-<br>
-<table style="width:100%">
-	<tbody><tr>
-    <td colspan="2"><img src="/images/CCE/2023/NE28.jpg" style="width:700px;height:250px;float:center"><b>Growth Mindset statement banners for each level</b></td>
-  </tr>
-	<tr>
-    <td><img src="/images/CCE/2023/NE29.png" style="width:320px;height:330px;float:center"><b>Growth Mindset statement posters for all classes</b></td>
-    <td><img src="/images/CCE/2023/NE30.png" style="width:320px;height:330px;float:center"><b>Growth Mindset stairway</b></td>
-  </tr>
-</tbody></table>
-
-#### Photos for CyberWellness Education
-
-<br>
-<table style="width:100%">
-	<tbody><tr>
-    <td colspan="2"><img src="/images/CCE/2023/NE31.png" style="width:400px;height:250px;float:center"></td>
-  </tr>
-	<tr>
-    <td><img src="/images/CCE/2023/NE32.png" style="width:300px;height:330px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE33.png" style="width:320px;height:330px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><p align="justify">CyberWellness Advocates shared top tips during morning assembly and inspired conversations with their fellow school mates on ways to use technology responsibly and respectfully during their various recesses.</p></td>
-  </tr>
-</tbody></table>
-
-<br>
-<table style="width:100%">
-	<tbody><tr>
-    <td><img src="/images/CCE/2023/NE34.png" style="width:300px;height:330px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE35.png" style="width:320px;height:330px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><p align="justify">Termly CW Message and tips were provided for parents and posted on social media platforms as one form of home-school engagement on cyber wellness.</p></td>
-  </tr>
-</tbody>
-</table>
 
 <p>For enquiries on the school’s CCE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
