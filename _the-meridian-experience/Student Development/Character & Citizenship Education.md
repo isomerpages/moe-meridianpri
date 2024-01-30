@@ -119,6 +119,20 @@ During the termly Peer Support Leaders (PSLs) sessions, students have a better u
   </tr>
 </tbody></table>
 
+<br>
+
+A Learning Journey to DBS Asia Hunb where Peer Support Leaders (PSLs) learnt how cybersecurity is practised in real-life through station-booths &amp; hands-on activities.
+<br>
+<table style="width:100%">
+  <tbody><tr>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE19.png" style="width:380px;height:230px;float:center"></td>
+   <td><img src="/images/CCE/2024%20CCE/2024_CCE20.png" style="width:380px;height:230px;float:center"></td>
+  </tr>
+		<tr>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE21.png" style="width:380px;height:230px;float:center"></td>
+   <td><img src="/images/CCE/2024%20CCE/2024_CCE22.png" style="width:380px;height:230px;float:center"></td>
+  </tr>
+</tbody></table>
 
 <b>P4 – Empathy Map On Ways to Beautify The School</b><br>
 <table style="width:100%">
