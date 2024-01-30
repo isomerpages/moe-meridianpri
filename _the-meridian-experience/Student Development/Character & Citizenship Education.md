@@ -96,6 +96,7 @@ After a week of on the job training with the OSOs during recess, the students re
 
 <b>Peer Support and Relationships Termly Training Sessions</b><br>
 During the termly Peer Support Leaders (PSLs) sessions, students have a better understanding of their roles &amp; responsibilities as a Peer Support Leader (PSL). Teachers also engage the Peer Support Leaders (PSLs) in discussions of case scenarios &amp; ways to support their peers.
+<br>
 <table style="width:100%">
   <tbody><tr>
     <td><img src="/images/CCE/2023/NE10.png" style="width:380px;height:230px;float:center"></td>
