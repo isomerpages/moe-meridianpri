@@ -74,18 +74,20 @@ My Meridian Experience <br>
 
 
 <br>
-<b>P3 ECG Programme – Appreciation of OSOs</b><br>
+<b>P3 ECG Programme</b><br>
 <table style="width:100%">
   <tbody><tr>
 		</tr><tr>
     <td colspan="2"><p align="justify">Students "encourage the heart" by affirming our OSOs&nbsp;through the presentation of the class' gratitude board.
 After a week of on the job training with the OSOs during recess, the students reflect on how they can "model the way" by helping their teachers/peers in school or their family members at home.</p></td>
 	</tr>
-    <tr><td><img src="/images/CCE/2023/NE7.png" style="width:380px;height:245px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE8.png" style="width:380px;height:245px;float:center"></td>
+    <tr>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE9.png" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE10.png" style="width:380px;height:230px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/CCE/2023/NE9.png" style="width:380px;height:245px;float:center"></td>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE11.png" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE12.png" style="width:380px;height:230px;float:center"></td>
   </tr>
 </tbody></table>
 
