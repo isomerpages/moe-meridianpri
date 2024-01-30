@@ -25,56 +25,42 @@ variant: markdown
 *   develop thinking, reasoning, communication, application &amp; metacognitive skill
 
 <p align="justify">The central focus of our Mathematics learning is problem solving. This is as reflected in the Mathematics framework, which comprises of five interrelated components: concepts, skills, processes, attitudes and metacognition.</p>
+<br>
 
-![](/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-maths-720x486.png)
+<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-maths-720x486.png" style="width:650px;height:455px;float:center">
 
 <p align="justify">Excellence in mathematics anchors in problem solving, and through problem solving, students are developed into thinkers and problem solvers, who are independent, engaged, creative and critical.</p>
 
-#### Key Programmes
-*   PLAYMath Programme  
-    
-*   P3, 4, 5 and 6 Math Olympiad Programme  
-    
-*   Math Learning Festival  
-    
-*   Key External Competitions:  
-   
-	*   Temasek Primary Co-Space Math Robotics Challenge  
-    
-	*   Raffles World Math Contest  
-    
-	*   Chinese High Math Olympiad Competition  
-    
-	*   MOE Upper Pri Math Challenge  
-    
-	*   KooBits Portal Contest
+#### Key Math Department Programmes
 
+1)&nbsp;&nbsp;&nbsp;&nbsp; Learning Support Programme (P1-P4)
+
+2)&nbsp;&nbsp;&nbsp;&nbsp; ICAN Programme (P5-P6)
+
+3)&nbsp;&nbsp;&nbsp;&nbsp; Excellence 2000 (E2K) Programme (P4-P6)
+
+4)&nbsp;&nbsp;&nbsp;&nbsp; Math Olympiad Enrichment Programme (P4-P6)
+
+5)&nbsp;&nbsp;&nbsp;&nbsp; Mathematical Thinking Enrichment Programme (P3-P4)
+
+6)&nbsp;&nbsp;&nbsp;&nbsp; MPS Young Mathematician Card Programme (P1-P5)
+
+7)&nbsp;&nbsp;&nbsp;&nbsp; SINDA Tuition Programme (P4-P6)
+
+
+#### Competition Platform
+
+1)&nbsp;&nbsp;&nbsp;&nbsp; Raffles World Math Challenge
+
+2)&nbsp;&nbsp;&nbsp;&nbsp; National Mathematics Olympiad Singapore (NMOS)
+
+3)&nbsp;&nbsp;&nbsp;&nbsp; Visual Spatial Mathlympics
+
+4)&nbsp;&nbsp;&nbsp;&nbsp; Mathlympics Singapore
 
 #### Highlights
 
-<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-Co-Space-Challenge_10-Feb-2017-720x540.jpg" style="width: 80%; height: 50%">
-<br>
-<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-Maths-CoSpace-2017.jpg" style="width: 80%; height: 50%">
 
-<center>2nd Runner-up in the Temasek Primary Co-Space Challenge 2017</center>
-
-
-<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-1-720x405.jpg" style="width: 80%; height: 50%">
-<br>
-<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-3-720x405.jpg" style="width: 80%; height: 50%">
-<br>
-<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-6-720x684.jpg" style="width: 70%; height: 50%">
-<br>
-<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-4-720x679.jpg" style="width: 70.5%; height: 50%">
-<br>
-<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-2-720x540.jpg" style="width: 70.5%; height: 50%">
-<br>
-<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-MathsPlay-5-720x480.jpg" style="width: 70.5%; height: 50%">
-<p align="center">Maths Play Programme in Term 1 (2017)</p>
-
-![](/images/The%20Meridian%20Experience/Math%20Dept/MD-P4_T2-2017Gif.gif)
-
-<p align="center">Maths Play Programme in Term 2 (2017)</p>
 
 <p>For enquiries on the school’s Mathematic Department, please email:</p>
 <a href="mailto:wong_hoe_shyan@moe.edu.sg">Mr Frankie Wong (Head of Department)</a>
