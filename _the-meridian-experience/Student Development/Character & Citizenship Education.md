@@ -99,15 +99,26 @@ During the termly Peer Support Leaders (PSLs) sessions, students have a better u
 <br>
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/CCE/2023/NE10.png" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE11.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><img src="/images/CCE/2023/NE12.png" style="width:350px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE13.png" style="width:380px;height:230px;float:center"></td>
+   <td><img src="/images/CCE/2024%20CCE/2024_CCE14.png" style="width:380px;height:230px;float:center"></td>
   </tr>
 </tbody></table>
 
 <br>
+
+ During the Cybersecurity Workshop by CSA, Peer Support Leaders (PSLs) learnt practical tips to protect themselves and devise ways to raise awareness of good cyber hygiene habits among their peers.
+<br>
+<table style="width:100%">
+  <tbody><tr>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE15.png" style="width:380px;height:230px;float:center"></td>
+   <td><img src="/images/CCE/2024%20CCE/2024_CCE16.png" style="width:280px;height:330px;float:center"></td>
+  </tr>
+		<tr>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE17.png" style="width:380px;height:230px;float:center"></td>
+   <td><img src="/images/CCE/2024%20CCE/2024_CCE18.png" style="width:380px;height:230px;float:center"></td>
+  </tr>
+</tbody></table>
+
 
 <b>P4 – Empathy Map On Ways to Beautify The School</b><br>
 <table style="width:100%">
