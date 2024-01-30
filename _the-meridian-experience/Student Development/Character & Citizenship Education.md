@@ -47,14 +47,15 @@ My Meridian Experience <br>
 #### Photos for Education Career Guidance
 <br>
 
-<b>P1 ECG Programme – Trip To The Zoo</b><br>
+<b>P1 ECG Programme</b><br>
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/CCE/2023/NE2.png" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE3.png" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE1.png" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE2.png" style="width:380px;height:230px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/CCE/2023/NE1.png" style="width:350px;height:430px;float:center"></td>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE3.png" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/2024%20CCE/2024_CCE4.png" style="width:280px;height:330px;float:center"></td>
   </tr>
 </tbody></table>
 
