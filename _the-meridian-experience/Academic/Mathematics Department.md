@@ -60,6 +60,33 @@ variant: markdown
 
 #### Highlights
 
+<p align="center">Class Activity</p><table style="width:100%">
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/Math%20Dept/2024_Math2.jpg" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Math%20Dept/2024_Math3.jpg" style="width:380px;height:230px;float:center"></td>
+  </tr>
+		<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Math%20Dept/2024_Math4.jpg" style="width:380px;height:230px;float:center"></td>
+	</tr>
+		
+</tbody></table>
+
+
+<p align="center">Competition Awards 2023</p><table style="width:100%">
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/Math%20Dept/2024_Math5.jpg" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Math%20Dept/2024_Math6.jpg" style="width:380px;height:230px;float:center"></td>
+		
+  </tr>
+
+</tbody></table><p align="center">Open House 2023</p><table style="width:100%">
+  <tbody>
+		<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Math%20Dept/2024_Math1.jpg" style="width:380px;height:230px;float:center"></td>
+			
+	</tr>
+</tbody></table>
+
 
 
 <p>For enquiries on the school’s Mathematic Department, please email:</p>
