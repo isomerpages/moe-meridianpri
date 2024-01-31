@@ -44,9 +44,15 @@ The department aims to:
 </tbody></table>
 	<b><li> Mother Tongue Language (MTL) Fortnight</li></b>
 		<p align="justify">MTL Fortnight is conducted on a yearly basis to with the objective of providing students with different platforms to learn and gain better understanding and appreciation of our diverse cultural background and develop a love for the language.</p>
-	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2024_MTL4.jpg" style="width:550px;height:350px;float:center"><br>
-	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2024_MTL5.jpg" style="width:550px;height:350px;float:center"><br>
-	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2024_MTL6.jpg" style="width:550px;height:350px;float:center">
+	<table style="width:100%">
+  <tbody><tr>
+    <td><img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2024_MTL4.jpg" style="width:380px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2024_MTL5.jpg" style="width:380px;height:250px;float:center"></td>
+  </tr>
+		<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2024_MTL6.jpg" style="width:350px;height:250px;float:center"></td>
+  </tr>
+</tbody></table>
 	<b><li>Reading Programme</li></b>
 	<p align="justify">Reading is important to enhance language skill.&nbsp; We carry out a series of reading activities to encourage and cultivate the passion and habit of reading storybooks in our students.</p>
 	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL5.png" style="width:550px;height:390px;float:center"><br>
