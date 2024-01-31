@@ -6,11 +6,9 @@ third_nav_title: Student Development
 variant: markdown
 ---
 <img src="/images/Our%20Staff/2023%20Dept%20Photos/CCE__Formal_min.jpg" style="width:650px;height:455px;float:center">
-<p style="line-height:0.5em; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
-<hr>
+<p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
 
-
-#### Vision
+<h3 style="margin-bottom:0; margin-top:1;"> Vision</h3>
 
 <p align="justify">Students to have the knowledge, skills, values and attitudes to develop strong character (social well-being), strong mind (mental well-being) and strong bodies (physical well-being).</p>
 
