@@ -46,12 +46,12 @@ variant: markdown
 <table style="width:100%">
 
   <tbody><tr>
-		</tr></tbody><caption><b>P1 Learning Journey to the Zoo and creating dioramas</b></caption>
+		</tr></tbody>
     <tbody><tr><td><img src="/images/Signature%20Programme/2024%20APL/2024_APL2.png" style="width:350px;height:250px;float:center"></td>
     <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL3.png" style="width:350px;height:250px;float:center"></td>
 	</tr>
-	
 </tbody></table>
+<p style="margin-bottom:0; margin-top:0; text-align:center;"><b>P1 Learning Journey to the Zoo and creating dioramas</b></p>
 
 <table style="width:100%">
 
