@@ -9,7 +9,7 @@ variant: markdown
   <tbody><tr>
     <td><img src="/images/MK@Meridian/MK%20Logo.png" alt="Girl in a jacket" style="width:2100px;height:300px; float:left"></td>
     <td><p align="justify">You may approach Meridian Primary School to seek assistance or submit an application after the registration period.
-MOE Kindergarten @ Meridian will be located at&nbsp;20 Pasir Ris Street 71, Singapore 518798 in December 2020.<br>
+MOE Kindergarten @ Meridian will be located at&nbsp;20 Pasir Ris Street 71, Singapore 518798 in December 2020.<br><br>
 For enquiries, please contact us at Tel: 6214 0979
 or email: <a href="mk_meridian@moe.edu.sg">mk_meridian@moe.edu.sg</a></p></td>
   </tr>
