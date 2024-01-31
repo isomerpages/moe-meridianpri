@@ -45,12 +45,12 @@ On that special day, the Secret Garden transforms into a bustling supermarket. T
 <table style="width:100%">
 
   <tbody><tr>
-    <td><img src="/images/Secret%20Garden/Secret%20Garden%205.jpg" style="width:380px;height:250px;float:center"><p style="line-height:1.2em; font-size: 14px; text-align:center;">Our Primary 1 children realising that shopping can be tough when everything looks tempting and they have to stick to a budget.</p></td>
-    <td><img src="/images/Secret%20Garden/Secret%20Garden%206.jpg" style="width:380px;height:250px;float:center"><p style="line-height:1.2em; font-size: 14px; text-align:center;">Primary 2 children all ready to man the cash register and engage in sale conversation with the shoppers!</p></td>
+    <td><img src="/images/Secret%20Garden/Secret%20Garden%205.jpg" style="width:380px;height:250px;float:center"><p style="line-height:1.2em; text-align:center;">Our Primary 1 children realising that shopping can be tough when everything looks tempting and they have to stick to a budget.</p></td>
+    <td><img src="/images/Secret%20Garden/Secret%20Garden%206.jpg" style="width:380px;height:250px;float:center"><p style="line-height:1.2em; text-align:center;">Primary 2 children all ready to man the cash register and engage in sale conversation with the shoppers!</p></td>
   </tr>
 		<tr>
-    <td><img src="/images/Secret%20Garden/Secret%20Garden%207.jpg" style="width:380px;height:250px;float:center"><p style="line-height:1.2em; font-size: 14px; text-align:center;">Primary 2 children working hard to persuade their customers to take the bundled discounts during the Flash Sale.</p></td>
-    <td><img src="/images/Secret%20Garden/Secret%20Garden%208.jpg" style="width:380px;height:250px;float:center"><p style="line-height:1.2em; font-size: 14px; text-align:center;">The children applying what they learn in Mathematics about counting ‘money’ as part of the authentic experience.</p></td>
+    <td><img src="/images/Secret%20Garden/Secret%20Garden%207.jpg" style="width:380px;height:250px;float:center"><p style="line-height:1.2em; text-align:center;">Primary 2 children working hard to persuade their customers to take the bundled discounts during the Flash Sale.</p></td>
+    <td><img src="/images/Secret%20Garden/Secret%20Garden%208.jpg" style="width:380px;height:250px;float:center"><p style="line-height:1.2em; text-align:center;">The children applying what they learn in Mathematics about counting ‘money’ as part of the authentic experience.</p></td>
   </tr>
 </tbody></table>
 
