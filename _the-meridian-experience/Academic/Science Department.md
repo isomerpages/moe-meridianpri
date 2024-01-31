@@ -41,29 +41,28 @@ To provide our students with the:
 <br>
 
 <table style="width:100%">
-
   <tbody><tr>
-		</tr></tbody><caption><b>Experimental Investigation</b></caption>
+		</tr></tbody>
     <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci2.png" style="width:350px;height:250px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci3.png" style="width:350px;height:250px;float:center"></td>
 	</tr>
-	
 </tbody></table>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">Experimental Investigation</p>
 <br>
-<table style="width:100%">
 
+<table style="width:100%">
   <tbody><tr>
-		</tr></tbody><caption><b>Learning Journey at Science Centre</b></caption>
+		</tr></tbody>
     <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci4.png" style="width:350px;height:250px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci5.png" style="width:350px;height:250px;float:center"></td>
 	</tr>
-	
 </tbody></table>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">Learning Journey at Science Centre</p>
+
 <br>
 <table style="width:100%">
-
   <tbody><tr>
-		</tr></tbody><caption><b>Science Trails</b></caption>
+		</tr></tbody>
     <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci6.png" style="width:350px;height:250px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci7.png" style="width:350px;height:250px;float:center"></td>
 	</tr>
@@ -73,6 +72,7 @@ To provide our students with the:
     <td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci9.png" style="width:350px;height:250px;float:center"></td>
 	</tr>
 </tbody></table>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">Science Trails</p>
 
 <span>Tier 2: For selected students – Stretching students’ knowledge in Science and developing talents</span>
 *  Excellence 2000 (E2K) Science Programme  
@@ -81,9 +81,8 @@ To provide our students with the:
 <br>
 
 <table style="width:100%">
-
   <tbody><tr>
-		</tr></tbody><caption><b>Excellence 200 (E2K) Science Programme</b></caption>
+		</tr></tbody>
     <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci10.png" style="width:350px;height:250px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci11.png" style="width:350px;height:250px;float:center"></td>
 	</tr>
@@ -93,6 +92,7 @@ To provide our students with the:
     <td><img src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci13.png" style="width:350px;height:250px;float:center"></td>
 	</tr>
 </tbody></table>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">Excellence 200 (E2K) Science Programme</p>
 
 <p>For enquiries on the school’s Science Department, please email:</p>
 <a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi (Head of Department)</a>
