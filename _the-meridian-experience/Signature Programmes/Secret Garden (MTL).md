@@ -17,25 +17,28 @@ variant: markdown
 
 <img src="/images/Secret%20Garden/Secret%20Garden%201.jpg" style="width:350px;height:250px;float:center">
 
-<p align="center" style="font-size:12px; line-height: 0.5;">The Secret Garden houses activities that facilitate children’s understanding on the Chinese, Malay and Indian culture.</p>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">The Secret Garden houses activities that facilitate children’s understanding on the Chinese, Malay and Indian culture.</p>
 
 <p align="justify">For lower primary students, the MTL teachers design learning activities in the Secret Garden that focus on speaking and listening. This provides opportunities for students to engage others using their MTL in an immersive and authentic environment. The space can also be easily transformed with props and backdrops for different activities.</p>
 
-![](/images/Secret%20Garden/Secret%20Garden%202.jpg)
+<img src="/images/Secret%20Garden/Secret%20Garden%202.jpg" style="width:350px;height:250px;float:center">
 
-<p align="center" style="font-size:12px; line-height: 0.5;">Taking a step away from textbooks to experience Mother Tongue language through games and conversations.</p>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">Taking a step away from textbooks to experience Mother Tongue language through games and conversations.</p>
+
 
 <p align="justify">For example, in one unit, our Primary 1 and 2 children start by learning about their favourite food items. In class, they acquire the relevant vocabulary and practise conversational sentence structures in their MTLs. Then, the children are then presented with missions to complete in their groups – from planning a birthday party to preparing for a picnic by the beach. Everyone loves sharing about their favourite food!</p>
 
-![](/images/Secret%20Garden/Secret%20Garden%203.jpg)
-<p align="center" style="font-size:12px; line-height: 0.5;">Our children working together as they buzz on ideas to complete their party planning mission.</p>
+<img src="/images/Secret%20Garden/Secret%20Garden%203.jpg" style="width:350px;height:250px;float:center">
+
+<p style="margin-bottom:0; margin-top:0; text-align:center;">Our children working together as they buzz on ideas to complete their party planning mission.</p>
 
 <p align="justify">To make the experience real, they get to purchase the food as well!
 	
 On that special day, the Secret Garden transforms into a bustling supermarket. The children’s eyes light up at the sight of the check-out counters with cash registers and money tokens. To top it off, an array of ‘food’ on display, including bowls of noodles and chicken rice handcrafted lovingly by our Parent Volunteers.</p>
 
-![](/images/Secret%20Garden/Secret%20Garden%204.jpg)
-<p align="center" style="font-size:12px; line-height: 0.5;">Realistic looking ‘food’ crafted with much love and creativity by our Parent Volunteers.</p>
+<img src="/images/Secret%20Garden/Secret%20Garden%204.jpg" style="width:450px;height:250px;float:center">
+<p style="margin-bottom:0; margin-top:0; text-align:center;">Realistic looking ‘food’ crafted with much love and creativity by our Parent Volunteers.</p>
+
 
 <p align="justify">In ‘MPS Supermarket’, our Primary 1 and 2 students have the chance to learn from one another. The Primary 1 students play the consumers while the Primary 2 take on the role of shopkeepers. The children converse in their MTL throughout their shopping experience and discuss what they would need to purchase to complete their missions. Through this experience, the children do not only apply their language skills. The MTL teachers also remind them to observe the school values of teamwork, care, respect and responsibility in their interactions.</p>
 
