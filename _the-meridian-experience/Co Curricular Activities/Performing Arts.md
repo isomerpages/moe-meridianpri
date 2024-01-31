@@ -23,21 +23,23 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
 	<li>Prize Giving Day Performance</li>
 </ul>  
 
-<p>SYF 2022</p>
-
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-4.jpg" style="width:450px;height:320px;">
+<table style="width:100%">
+  <tbody><tr>
+		</tr></tbody>
+    <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-4.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_2.JPG" style="width:350px;height:250px;float:center"></td>
+	</tr>
+</tbody></table>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">SYF 2022</p>
 
 <br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_2.JPG" style="width:450px;height:300px;">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_3_min.jpg" style="width:350px;height:250px;">
+<p style="margin-bottom:0; margin-top:0; text-align:center;">Prize Giving Day Performance</p>
 
-<p>Prize Giving Day Performance</p>
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_3_min.jpg" style="width:450px;height:320px;">
-
-<p>National  Day Celebration</p>
+<br>
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_4.jpg" style="width:350px;height:420px;">
-
+<p style="margin-bottom:0; margin-top:0; text-align:center;">National  Day Celebration</p>
 
 For enquiries on the school’s Chinese Dance CCA, please email:<br>
 * <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a>
