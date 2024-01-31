@@ -48,7 +48,7 @@ If students are caught cheating or attempting to cheat, they will not be allowed
 <b>6.&nbsp;<u>Use of Dictionaries for P5 and P6 Mother Tongue Composition</u></b><br>
 <p align="justify">P5 and P6 students are allowed to use a dictionary for the Mother Tongue, Higher Mother Tongue and Non-Tamil Indian Languages (NTIL) Paper 1 (Composition). Please refer to the list of <a href="https://www.seab.gov.sg/home/examinations/approved-dictionaries">SEAB Approved Dictionaries</a>.</p>
 
-<b>7.&nbsp;<u>List Of Approved Scientific Calculators for P5 Mathematics Paper 2</u></b><br>
+<b>7.&nbsp;<u>List Of Approved Scientific Calculators for P5 and P6 Mathematics Paper 2</u></b><br>
 <p align="justify">Students are allowed to use an electronic calculator for Mathematics/Foundation Mathematics Paper 2 in P5 and P6. Please refer to the list of approved calculators from SEAB. List of <a href="https://www.seab.gov.sg/home/examinations/approved-calculators">SEAB Approved Calculators</a></p>
 
 <b>8.&nbsp;<u>Use of Stationery for all P6 Assessment</u></b><br>
