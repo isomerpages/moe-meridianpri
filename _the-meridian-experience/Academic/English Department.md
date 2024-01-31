@@ -30,6 +30,10 @@ The English Language Programme at Meridian Primary aims to<br>
     <td><br><br><img src="/images/The%20Meridian%20Experience/English%20Dept/2024_EL3.jpg" style="width:380px;height:250px;float:center"><p style="line-height:1.2em; font-size: 16px; text-align:center;">Primary 2 STELLAR Lesson at the Singapore Science Centre</p></td>
     <td><img src="/images/The%20Meridian%20Experience/English%20Dept/2024_EL4.jpg" style="width:280px;height:350px;float:center"><p style="line-height:1.2em; font-size: 16px; text-align:center;">Literature Appreciation Programme: Storytelling Through Shadow Play</p></td>
   </tr>
+		<tr>
+    <td><img src="/images/The%20Meridian%20Experience/English%20Dept/2024_EL5.jpg" style="width:350px;height:250px;float:center"><p style="line-height:1.2em; font-size: 16px; text-align:center;">Amazing Tuesdays: Students demonstrate an awareness of the contemporary issues related to Singapore and the world</p></td>
+    <td><img src="/images/The%20Meridian%20Experience/English%20Dept/2024_EL6.jpg" style="width:380px;height:250px;float:center"><p style="line-height:1.2em; font-size: 16px; text-align:center;">Primary 5 Meridian Debaters: Sustained Achievement as Top 4 Schools in the East Zone since 2018</p></td>
+  </tr>
 </tbody></table>
 
 
