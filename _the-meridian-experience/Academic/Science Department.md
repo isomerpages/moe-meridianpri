@@ -7,10 +7,9 @@ variant: markdown
 ---
 <img src="/images/Our%20Staff/2023%20Dept%20Photos/Science__Formal_min.jpg" style="width:650px;height:455px;float:center">
 
-<p style="line-height:0.5em; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
-<hr>
+<p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
 
-#### Vision
+<h3 style="margin-bottom:0; margin-top:1;"> Vision</h3>
 
 <p align="justify">A Confident and Caring Scientist in every Meridian.</p>
 
