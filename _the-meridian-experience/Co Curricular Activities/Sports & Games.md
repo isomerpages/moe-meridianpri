@@ -14,11 +14,11 @@ variant: markdown
 <table style="width:100%">
   <tbody>
   <tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB1.jpg" style="width:450px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB2.jpg" style="width:450px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB1.jpg" style="width:width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB2.jpg" style="width:width:350px;height:250px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB3.jpg" style="width:450px;height:330px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB3.jpg" style="width:350px;height:250px;float:center"></td>
   </tr>
 </tbody></table>
 
@@ -29,8 +29,8 @@ variant: markdown
 <table style="width:100%">
   <tbody>
   <tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB4.jpg" style="width:450px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB5.jpg" style="width:450px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB4.jpg" style="width:width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB5.jpg" style="width:width:350px;height:250px;float:center"></td>
   </tr>
 </tbody></table>
 
@@ -56,7 +56,7 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 
 <b>Highlights</b>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Football/2023_Football1.png" style="width:490px;height:350px;float:center">
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Football/2023_Football1.png" style="width:450px;height:350px;float:center">
 
 
 
@@ -109,7 +109,7 @@ For enquiries on the school’s Football CCA, please email:<br>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/2024_TKD_2.png" style="width:350px;height:250px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/2024_TKD_3.png" style="width:680px;height:400px;float:center"><br></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/2024_TKD_3.png" style="width:350px;height:280px;float:center"><br></td>
   </tr>
 </tbody></table>
 
@@ -170,11 +170,18 @@ Activities for 2024 include the following sports:<br>
 <p align="justify">A net-barrier games where pupils work together as a team to bring the ball across the net to the ground on the opponents’ side to win a point.&nbsp; A highly competitive game which pupils will learn the value of teamwork.</p>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Sports%20Club/2024_SC1.jpg" style="width:550px;height:320px;float:center"><br>
+<table style="width:100%">
+  <tbody>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Sports%20Club/2024_SC1.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Sports%20Club/2024_SC2.jpg" style="width:350px;height:250px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Sports%20Club/2024_SC3.jpg" style="width:350px;height:280px;float:center"><br></td>
+  </tr>
+</tbody></table>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Sports%20Club/2024_SC2.jpg" style="width:550px;height:320px;float:center"><br>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Sports%20Club/2024_SC3.jpg" style="width:350px;height:500px;float:center"><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iMz5GF3sE40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
