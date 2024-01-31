@@ -43,14 +43,11 @@ variant: markdown
 
 <table style="width:100%">
   <tbody>
-	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE1.png" style="width:500px;height:390px;float:center"></td>
-	</tr>
-		<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE2.png" style="width:520px;height:490px;float:center"><center>P5 Camp Discovery</center></td>
+		<tr><td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE1.png" style="width:350px;height:350px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE2.png" style="width:350px;height:350px;float:center"></td>
 	</tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20Play%203.jpg" style="width:400px;height:550px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20Play%203.jpg" style="width:250px;height:350px;float:center"></td>
 	</tr>
 	<tr>
     <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20play%201.jpg" style="width:450px;height:250px;float:center"></td>
