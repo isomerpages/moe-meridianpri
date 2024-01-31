@@ -6,10 +6,9 @@ third_nav_title: Academic
 variant: markdown
 ---
 <img src="/images/Our%20Staff/2023%20Dept%20Photos/Math__Formal_min.jpg" style="width:650px;height:455px;float:center">
-<p style="line-height:0.5em; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
-<hr>
+<p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
 
-#### Vision
+<h3 style="margin-bottom:0; margin-top:1;"> Vision</h3>
 <p>Passionate and Confident Maths Learners</p>
 
 ### Mission
@@ -27,7 +26,7 @@ variant: markdown
 <p align="justify">The central focus of our Mathematics learning is problem solving. This is as reflected in the Mathematics framework, which comprises of five interrelated components: concepts, skills, processes, attitudes and metacognition.</p>
 <br>
 
-<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-maths-720x486.png" style="width:650px;height:455px;float:center">
+<img src="/images/The%20Meridian%20Experience/Math%20Dept/mathematics-department-maths-720x486.png" style="width:450px;height:290px;float:center">
 
 <p align="justify">Excellence in mathematics anchors in problem solving, and through problem solving, students are developed into thinkers and problem solvers, who are independent, engaged, creative and critical.</p>
 
@@ -60,7 +59,7 @@ variant: markdown
 
 #### Highlights
 
-<p align="center">Class Activity</p><table style="width:100%">
+<table style="width:100%">
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/Math%20Dept/2024_Math2.jpg" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Math%20Dept/2024_Math3.jpg" style="width:380px;height:230px;float:center"></td>
@@ -68,25 +67,24 @@ variant: markdown
 		<tr>
     <td colspan="2"><img src="/images/The%20Meridian%20Experience/Math%20Dept/2024_Math4.jpg" style="width:380px;height:230px;float:center"></td>
 	</tr>
-		
 </tbody></table>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">Class Activity</p>
 
-
-<p align="center">Competition Awards 2023</p><table style="width:100%">
+<table style="width:100%">
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/Math%20Dept/2024_Math5.jpg" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Math%20Dept/2024_Math6.jpg" style="width:380px;height:230px;float:center"></td>
-		
   </tr>
+</tbody></table>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">Competition Awards 2023</p>
 
-</tbody></table><p align="center">Open House 2023</p><table style="width:100%">
+<table style="width:100%">
   <tbody>
 		<tr>
     <td colspan="2"><img src="/images/The%20Meridian%20Experience/Math%20Dept/2024_Math1.jpg" style="width:380px;height:230px;float:center"></td>
-			
 	</tr>
 </tbody></table>
-
+<p style="margin-bottom:0; margin-top:0; text-align:center;">Open House 2023</p>
 
 
 <p>For enquiries on the school’s Mathematic Department, please email:</p>
