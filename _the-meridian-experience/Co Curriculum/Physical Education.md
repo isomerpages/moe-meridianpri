@@ -56,7 +56,6 @@ variant: markdown
 	<tr>
     <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE6.png" style="width:390px;height:250px;float:center"></td>
 	</tr>
-	
 </tbody></table>
 
 
