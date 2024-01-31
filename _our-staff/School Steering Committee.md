@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <img src="/images/Our%20Staff/2023%20Dept%20Photos/Steering_Committee__Formal_min.jpg" style="width:650px;height:455px;float:center">
-<code>*Photo taken in 2023</code>
+<h6>*Photo taken in 2023</h6>
 <hr>
 
 ### School Leaders
