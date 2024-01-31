@@ -8,7 +8,7 @@ variant: markdown
 <p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
 <hr>
 
-<h3 style="margin-bottom:2; margin-top:0.5;"> School Leaders</h3>
+<h3 style="margin-bottom:0; margin-top:0;"> School Leaders</h3>
 
 <table style="width:100%">
   <tbody><tr>
