@@ -55,7 +55,7 @@ The department aims to:
 </tbody></table>
 	<b><li>Reading Programme</li></b>
 	<p align="justify">Reading is important to enhance language skill.&nbsp; We carry out a series of reading activities to encourage and cultivate the passion and habit of reading storybooks in our students.</p>
-	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL5.png" style="width:550px;height:390px;float:center"><br>
+	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL5.png" style="width:350px;height:290px;float:center"><br>
 </ol>
 
 <p>For enquiries on the school’s Mother Tongue Department, please email:</p>
