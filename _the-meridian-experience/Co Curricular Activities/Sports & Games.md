@@ -177,7 +177,7 @@ Activities for 2024 include the following sports:<br>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Sports%20Club/2024_SC2.jpg" style="width:350px;height:250px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Sports%20Club/2024_SC3.jpg" style="width:350px;height:280px;float:center"><br></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Sports%20Club/2024_SC3.jpg" style="width:250px;height:290px;float:center"><br></td>
   </tr>
 </tbody></table>
 
