@@ -47,34 +47,35 @@ My Meridian Experience <br>
 #### Photos for Education Career Guidance
 <br>
 
-<b>P1 ECG Programme</b><br>
+<br>
 <table style="width:100%">
   <tbody><tr>
     <td><img src="/images/CCE/2024%20CCE/2024_CCE1.png" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2024%20CCE/2024_CCE2.png" style="width:380px;height:230px;float:center"></td>
   </tr>
 	<tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE3.png" style="width:380px;height:230px;float:center"></td>
+    <td><br><br><img src="/images/CCE/2024%20CCE/2024_CCE3.png" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2024%20CCE/2024_CCE4.png" style="width:280px;height:330px;float:center"></td>
   </tr>
 </tbody></table>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">P1 ECG Programme</p>
 
 <br>
-<b>P2 ECG Programme</b><br>
+<br>
 <table style="width:100%">
   <tbody><tr>
     <td><img src="/images/CCE/2024%20CCE/2024_CCE5.png" style="width:390px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2024%20CCE/2024_CCE6.png" style="width:390px;height:230px;float:center"></td>
   </tr>
 	<tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE8.png" style="width:380px;height:230px;float:center"></td>
+    <td><br><br><img src="/images/CCE/2024%20CCE/2024_CCE8.png" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2024%20CCE/2024_CCE7.png" style="width:280px;height:330px;float:center"></td>
   </tr>
 </tbody></table>
-
+<p style="margin-bottom:0; margin-top:0; text-align:center;">P2 ECG Programme</p>
 
 <br>
-<b>P3 ECG Programme</b><br>
+<br>
 <table style="width:100%">
   <tbody><tr>
 		</tr><tr>
@@ -90,6 +91,8 @@ After a week of on the job training with the OSOs during recess, the students re
     <td><img src="/images/CCE/2024%20CCE/2024_CCE12.png" style="width:380px;height:230px;float:center"></td>
   </tr>
 </tbody></table>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">P3 ECG Programme</p>
+
 
 #### Photos for Peer Support &amp; Relationships
 <br>
