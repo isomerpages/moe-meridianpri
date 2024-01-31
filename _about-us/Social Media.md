@@ -21,7 +21,7 @@ variant: markdown
 <table style="width:100%">
   <tbody><tr>
     <td><br><img src="/images/About%20As/InkedInsta.jpg" style="width:320px;height:550px;float:center"></td>
-    <td><br><br><br><br><br><br><br><p style="font-size:20px"><b><a href="https://www.instagram.com/meridianpri_official/">@meridianpri_official</a></b></p><img src="/images/About%20As/IG.png" style="width:380px;height:200px;float:center">
+    <td><br><br><br><br><br><br><br><p style="font-size:20px"><b><a href="https://www.instagram.com/meridianpri_official/">@meridianpri_official</a></b></p><img src="/images/About%20As/IG.png" style="width:310px;height:180px;float:center">
 		</td>
   </tr>
 </tbody></table>
