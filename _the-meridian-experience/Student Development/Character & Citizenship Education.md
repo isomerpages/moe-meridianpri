@@ -57,7 +57,6 @@ My Meridian Experience <br>
 <p style="margin-bottom:0; margin-top:0; text-align:center;">P1 ECG Programme</p>
 
 <br>
-<br>
 <table style="width:100%">
   <tbody><tr>
     <td><img src="/images/CCE/2024%20CCE/2024_CCE5.png" style="width:390px;height:230px;float:center"></td>
@@ -70,7 +69,6 @@ My Meridian Experience <br>
 </tbody></table>
 <p style="margin-bottom:0; margin-top:0; text-align:center;">P2 ECG Programme</p>
 
-<br>
 <br>
 <table style="width:100%">
   <tbody><tr>
