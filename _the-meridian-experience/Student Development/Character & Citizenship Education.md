@@ -43,9 +43,7 @@ Growth Mindset <br>
 My Meridian Experience <br>
 
 #### Photos for Education Career Guidance
-<br>
 
-<br>
 <table style="width:100%">
   <tbody><tr>
     <td><img src="/images/CCE/2024%20CCE/2024_CCE1.png" style="width:380px;height:230px;float:center"></td>
