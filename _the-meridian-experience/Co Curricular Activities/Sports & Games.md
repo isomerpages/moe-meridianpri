@@ -109,7 +109,7 @@ For enquiries on the school’s Football CCA, please email:<br>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/2024_TKD_2.png" style="width:350px;height:250px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/2024_TKD_3.png" style="width:350px;height:280px;float:center"><br></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/2024_TKD_3.png" style="width:450px;height:280px;float:center"><br></td>
   </tr>
 </tbody></table>
 
