@@ -5,10 +5,10 @@ description: ""
 variant: markdown
 ---
 <img src="/images/Our%20Staff/2023%20Dept%20Photos/EAS_Team__Formal_min.jpg" style="width:650px;height:455px;float:center">
-<p style="line-height:0.5em; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
+<p style="margin-bottom:1; margin-top:1; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
 
 
-<hr>
+
 <table style="width:100%">
 	 <tbody><tr>
     <td><a href="mailto:azila_farhana_mohd_raus@moe.edu.sg">Ms Aliza Farhana Binti Mohd Raus</a></td>
@@ -32,10 +32,6 @@ variant: markdown
   </tr>
 	<tr>
     <td><a href="mailto:Sohana_Abd_halim@moe.edu.sg">Mdm Soraya Abd Halim</a></td>
-    <td>Corporate Support Officer (CSO)</td>
-  </tr>
-	<tr>
-    <td><a href="mailto:sharifah_fadhlon_syed_omar@moe.edu.sg">Mdm Sharifah Fadhlon Syed Omar</a></td>
     <td>Corporate Support Officer (CSO)</td>
   </tr>
 	<tr>

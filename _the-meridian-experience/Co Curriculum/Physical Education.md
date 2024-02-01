@@ -6,10 +6,10 @@ third_nav_title: Co Curriculum
 variant: markdown
 ---
 <img src="/images/Our%20Staff/2023%20Dept%20Photos/PAM__Formal_min.jpg" style="width:650px;height:455px;float:center">
-<p style="line-height:0.5em; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
-<hr>
+<p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
 
-#### Vision
+<h3 style="margin-bottom:0; margin-top:1;"> Vision</h3>
+
 <p>Every Meridian leads an active and healthy Meridian</p>
 
 #### Mission
@@ -43,14 +43,11 @@ variant: markdown
 
 <table style="width:100%">
   <tbody>
-	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE1.png" style="width:500px;height:390px;float:center"></td>
-	</tr>
-		<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE2.png" style="width:520px;height:490px;float:center"><center>P5 Camp Discovery</center></td>
+		<tr><td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE1.png" style="width:350px;height:350px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE2.png" style="width:350px;height:350px;float:center"></td>
 	</tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20Play%203.jpg" style="width:400px;height:550px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20Play%203.jpg" style="width:250px;height:350px;float:center"></td>
 	</tr>
 	<tr>
     <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20play%201.jpg" style="width:450px;height:250px;float:center"></td>
@@ -59,7 +56,6 @@ variant: markdown
 	<tr>
     <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE6.png" style="width:390px;height:250px;float:center"></td>
 	</tr>
-	
 </tbody></table>
 
 

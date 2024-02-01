@@ -46,52 +46,49 @@ variant: markdown
 <table style="width:100%">
 
   <tbody><tr>
-		</tr></tbody><caption><b>P1 Learning Journey to the Zoo and creating dioramas</b></caption>
+		</tr></tbody>
     <tbody><tr><td><img src="/images/Signature%20Programme/2024%20APL/2024_APL2.png" style="width:350px;height:250px;float:center"></td>
     <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL3.png" style="width:350px;height:250px;float:center"></td>
 	</tr>
-	
 </tbody></table>
-
+<p style="margin-bottom:0; margin-top:0; text-align:center;">P1 Learning Journey to the Zoo and creating dioramas</p>
+<br>
 <table style="width:100%">
 
   <tbody><tr>
-		</tr></tbody><caption><b>P3 Learning Journey to Kok Fah Technology Farm</b></caption>
+		</tr></tbody>
     <tbody><tr><td><img src="/images/Signature%20Programme/2024%20APL/2024_APL4.png" style="width:350px;height:250px;float:center"></td>
     <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL5.png" style="width:350px;height:250px;float:center"></td>
-	</tr>
-	
+			</tr>
 </tbody></table>
-
+<p style="margin-bottom:0; margin-top:0; text-align:center;">P3 Learning Journey to Kok Fah Technology Farm</p>
+<br>
 <table style="width:100%">
-
   <tbody><tr>
-		</tr></tbody><caption><b>P5 Beach Clean Up</b></caption>
+		</tr></tbody>
     <tbody><tr><td><img src="/images/Signature%20Programme/2024%20APL/2024_APL6.png" style="width:350px;height:250px;float:center"></td>
     <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL7.png" style="width:250px;height:350px;float:center"></td>
 	</tr>
-	
 </tbody></table>
-
+<p style="margin-bottom:0; margin-top:0; text-align:center;">P5 Beach Clean Up</p>
+<br>
 <table style="width:100%">
-
   <tbody><tr>
-		</tr></tbody><caption><b>P5 Advocating Environmental Causes</b></caption>
+		</tr></tbody>
     <tbody><tr><td><img src="/images/Signature%20Programme/2024%20APL/2024_APL8.png" style="width:250px;height:350px;float:center"></td>
     <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL9.png" style="width:250px;height:350px;float:center"></td>
 	</tr>
-	
 </tbody></table>
-
+<p style="margin-bottom:0; margin-top:0; text-align:center;">P5 Advocating Environmental Causes</p>
+<br>
 <table style="width:100%">
-
   <tbody><tr>
-		</tr></tbody><caption><b>P5 Environmental-themed Overseas Learning Journey (Virtual during COVID Years)</b></caption>
+		</tr></tbody>
     <tbody><tr><td><img src="/images/Signature%20Programme/2024%20APL/2024_APL10.png" style="width:350px;height:250px;float:center"></td>
     <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL11.png" style="width:350px;height:250px;float:center"></td>
 	</tr>
-	
 </tbody></table>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">P5 Environmental-themed Overseas Learning Journey (Virtual during COVID Years)</p>
 
 <p align="justify">• Eco-environment Activities</p>
 <img src="/images/Signature%20Programme/2024%20APL/2024_APL16.png" style="width:650px;height:350px;float:center">
@@ -102,10 +99,9 @@ variant: markdown
 <table style="width:100%">
 
   <tbody><tr>
-    <td><center>Music Instrument Recycling Project</center><img src="/images/Signature%20Programme/2024%20APL/2024_APL12.png" style="width:350px;height:250px;float:center"></td>
-    <td><center>Hydroponics Cultivation</center><img src="/images/Signature%20Programme/2024%20APL/2024_APL13.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL12.png" style="width:350px;height:250px;float:center"><p style="margin-bottom:0; margin-top:0; text-align:center;">Music Instrument Recycling Project</p></td>
+    <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL13.png" style="width:350px;height:250px;float:center"><p style="margin-bottom:0; margin-top:0; text-align:center;">Hydroponics Cultivation</p></td>
 	</tr>
-	
 </tbody></table>
 
 <p align="justify">• School-Wide Initiative and Project</p>
@@ -117,8 +113,8 @@ variant: markdown
 <table style="width:100%">
 
   <tbody><tr>
-    <td><center>Plastic Bottle Recycling Drive</center><img src="/images/Signature%20Programme/2024%20APL/2024_APL14.png" style="width:350px;height:250px;float:center"></td>
-    <td><center>Finish Your Food Campaign</center><img src="/images/Signature%20Programme/2024%20APL/2024_APL15.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL14.png" style="width:350px;height:250px;float:center"><p style="margin-bottom:0; margin-top:0; text-align:center;">Plastic Bottle Recycling Drive</p></td>
+    <td><img src="/images/Signature%20Programme/2024%20APL/2024_APL15.png" style="width:350px;height:250px;float:center"><p style="margin-bottom:0; margin-top:0; text-align:center;">Finish Your Food Campaign</p></td>
 	</tr>
 	
 </tbody></table>

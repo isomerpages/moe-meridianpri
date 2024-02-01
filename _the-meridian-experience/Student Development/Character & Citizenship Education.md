@@ -6,11 +6,9 @@ third_nav_title: Student Development
 variant: markdown
 ---
 <img src="/images/Our%20Staff/2023%20Dept%20Photos/CCE__Formal_min.jpg" style="width:650px;height:455px;float:center">
-<p style="line-height:0.5em; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
-<hr>
+<p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
 
-
-#### Vision
+<h3 style="margin-bottom:0; margin-top:1;"> Vision</h3>
 
 <p align="justify">Students to have the knowledge, skills, values and attitudes to develop strong character (social well-being), strong mind (mental well-being) and strong bodies (physical well-being).</p>
 
@@ -45,36 +43,33 @@ Growth Mindset <br>
 My Meridian Experience <br>
 
 #### Photos for Education Career Guidance
-<br>
 
-<b>P1 ECG Programme</b><br>
 <table style="width:100%">
   <tbody><tr>
     <td><img src="/images/CCE/2024%20CCE/2024_CCE1.png" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2024%20CCE/2024_CCE2.png" style="width:380px;height:230px;float:center"></td>
   </tr>
 	<tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE3.png" style="width:380px;height:230px;float:center"></td>
+    <td><br><br><img src="/images/CCE/2024%20CCE/2024_CCE3.png" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2024%20CCE/2024_CCE4.png" style="width:280px;height:330px;float:center"></td>
   </tr>
 </tbody></table>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">P1 ECG Programme</p>
 
 <br>
-<b>P2 ECG Programme</b><br>
 <table style="width:100%">
   <tbody><tr>
     <td><img src="/images/CCE/2024%20CCE/2024_CCE5.png" style="width:390px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2024%20CCE/2024_CCE6.png" style="width:390px;height:230px;float:center"></td>
   </tr>
 	<tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE8.png" style="width:380px;height:230px;float:center"></td>
+    <td><br><br><img src="/images/CCE/2024%20CCE/2024_CCE8.png" style="width:380px;height:230px;float:center"></td>
     <td><img src="/images/CCE/2024%20CCE/2024_CCE7.png" style="width:280px;height:330px;float:center"></td>
   </tr>
 </tbody></table>
-
+<p style="margin-bottom:0; margin-top:0; text-align:center;">P2 ECG Programme</p>
 
 <br>
-<b>P3 ECG Programme</b><br>
 <table style="width:100%">
   <tbody><tr>
 		</tr><tr>
@@ -90,9 +85,11 @@ After a week of on the job training with the OSOs during recess, the students re
     <td><img src="/images/CCE/2024%20CCE/2024_CCE12.png" style="width:380px;height:230px;float:center"></td>
   </tr>
 </tbody></table>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">P3 ECG Programme</p>
+
 
 #### Photos for Peer Support &amp; Relationships
-<br>
+
 
 <b>Peer Support and Relationships Termly Training Sessions</b><br>
 During the termly Peer Support Leaders (PSLs) sessions, students have a better understanding of their roles &amp; responsibilities as a Peer Support Leader (PSL). Teachers also engage the Peer Support Leaders (PSLs) in discussions of case scenarios &amp; ways to support their peers.
@@ -104,13 +101,12 @@ During the termly Peer Support Leaders (PSLs) sessions, students have a better u
   </tr>
 </tbody></table>
 
-<br>
 
  During the Cybersecurity Workshop by CSA, Peer Support Leaders (PSLs) learnt practical tips to protect themselves and devise ways to raise awareness of good cyber hygiene habits among their peers.
 <br>
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE15.png" style="width:380px;height:230px;float:center"></td>
+    <td><br><br><img src="/images/CCE/2024%20CCE/2024_CCE15.png" style="width:380px;height:230px;float:center"></td>
    <td><img src="/images/CCE/2024%20CCE/2024_CCE16.png" style="width:280px;height:330px;float:center"></td>
   </tr>
 		<tr>
@@ -119,7 +115,6 @@ During the termly Peer Support Leaders (PSLs) sessions, students have a better u
   </tr>
 </tbody></table>
 
-<br>
 
 A Learning Journey to DBS Asia Hunb where Peer Support Leaders (PSLs) learnt how cybersecurity is practised in real-life through station-booths &amp; hands-on activities.
 <br>
@@ -133,10 +128,7 @@ A Learning Journey to DBS Asia Hunb where Peer Support Leaders (PSLs) learnt how
    <td><img src="/images/CCE/2024%20CCE/2024_CCE22.png" style="width:380px;height:230px;float:center"></td>
   </tr>
 </tbody></table>
-
 <br>
-
-<b>P5 - Cheering P6s on for PSLE <br> Designing of Motivational Posters</b><br>
 <table style="width:100%">
   <tbody><tr>
     <td><img src="/images/CCE/2024%20CCE/2024_CCE23.png" style="width:380px;height:230px;float:center"></td>
@@ -146,7 +138,7 @@ A Learning Journey to DBS Asia Hunb where Peer Support Leaders (PSLs) learnt how
     <td colspan="2"><img src="/images/CCE/2024%20CCE/2024_CCE25.png" style="width:380px;height:230px;float:center"></td>
   </tr>
 </tbody></table>
-
+<p style="margin-bottom:0; margin-top:0; text-align:center;">P5 - Cheering P6s on for PSLE <br> Designing of Motivational Posters</p>
 
 
 <p>For enquiries on the school’s CCE Programme, please email:</p>

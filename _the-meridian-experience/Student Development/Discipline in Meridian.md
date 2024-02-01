@@ -5,11 +5,12 @@ description: ""
 third_nav_title: Student Development
 variant: markdown
 ---
-<p><b>At Meridian Primary, we believe that it is important for every Meridian to feel safe, respected and belonged. Discipline guides students on the rules, consequences and strategies to help them learn in a safe and conducive environment.</b></p>
+<p align="justify">At Meridian Primary, we believe that it is important for every Meridian to feel safe, respected and belonged. Discipline guides students on the rules, consequences and strategies to help them learn in a safe and conducive environment.</p>
 
-<p align="justify">We are committed to remain inclusive for all, regardless of our children’s backgrounds, abilities and starting points. We understand that every child is learning and a precious work-in-progress. Thus, there will be times where they faced real challenges in managing themselves, their behaviour and in their relationships with others in their growing up journey.&nbsp;<b>Therefore, we seek to educate and empower our students to learn positive behaviours, raise them with great values and develop social and emotional skills that would last them a lifetime.</b></p>
+<p align="justify">We are committed to remain inclusive for all, regardless of our children’s backgrounds, abilities and starting points. We understand that every child is learning and a precious work-in-progress. Thus, there will be times where they faced real challenges in managing themselves, their behaviour and in their relationships with others in their growing up journey.&nbsp;Therefore, we seek to educate and empower our students to learn positive behaviours, raise them with great values and develop social and emotional skills that would last them a lifetime.</p>
 
-![](/images/CCE/Discipline%20in%20Meridian/Discipline%20in%20Meridian%201.png)
+
+<img src="/images/CCE/Discipline%20in%20Meridian/Discipline%20in%20Meridian%201.png" style="width:550px;height:355px;float:center">
 
 <p align="justify">We support our teachers in managing a positive classroom environment conducive for learning and establishing strong meaningful relationships.</p>
 
