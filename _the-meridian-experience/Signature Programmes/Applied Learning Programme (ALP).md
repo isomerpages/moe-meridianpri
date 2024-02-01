@@ -52,7 +52,7 @@ variant: markdown
 	</tr>
 </tbody></table>
 <p style="margin-bottom:0; margin-top:0; text-align:center;">P1 Learning Journey to the Zoo and creating dioramas</p>
-
+<br>
 <table style="width:100%">
 
   <tbody><tr>
@@ -62,7 +62,7 @@ variant: markdown
 			</tr>
 </tbody></table>
 <p style="margin-bottom:0; margin-top:0; text-align:center;">P3 Learning Journey to Kok Fah Technology Farm</p>
-
+<br>
 <table style="width:100%">
   <tbody><tr>
 		</tr></tbody>
@@ -71,7 +71,7 @@ variant: markdown
 	</tr>
 </tbody></table>
 <p style="margin-bottom:0; margin-top:0; text-align:center;">P5 Beach Clean Up</p>
-
+<br>
 <table style="width:100%">
   <tbody><tr>
 		</tr></tbody>
@@ -80,7 +80,7 @@ variant: markdown
 	</tr>
 </tbody></table>
 <p style="margin-bottom:0; margin-top:0; text-align:center;">P5 Advocating Environmental Causes</p>
-
+<br>
 <table style="width:100%">
   <tbody><tr>
 		</tr></tbody>
