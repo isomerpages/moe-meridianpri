@@ -35,10 +35,6 @@ variant: markdown
     <td>Corporate Support Officer (CSO)</td>
   </tr>
 	<tr>
-    <td><a href="mailto:sharifah_fadhlon_syed_omar@moe.edu.sg">Mdm Sharifah Fadhlon Syed Omar</a></td>
-    <td>Corporate Support Officer (CSO)</td>
-  </tr>
-	<tr>
     <td><a href="">Mr Aman Bin Ebrahim</a></td>
     <td>Operations Support Officer (OSO)</td>
   </tr>
