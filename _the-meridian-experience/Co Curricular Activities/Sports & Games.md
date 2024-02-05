@@ -34,7 +34,7 @@ variant: markdown
   </tr>
 </tbody></table>
 
-<p style="margin-bottom:0; margin-top:0;"> For enquiries on the school’s Floorball CCA, please email:</p><br>
+<p style="margin-bottom:0; margin-top:0;"> For enquiries on the school’s Floorball CCA, please email:</p>
 • <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a><br>
 • <a href="mailto:foo_si_min@moe.edu.sg">Ms Tracy Foo</a><br>
 • <a href="mailto:mark_chen@moe.edu.sg">Mr Mark Chen</a><br>
