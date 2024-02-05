@@ -195,5 +195,5 @@ Through each performance, we aim to develop listening and ensemble performance s
   </tr>
 </tbody></table>
 
-<p>For enquiries on the school’s Aesthetics, please email:</p>
+<p style="margin-bottom:0; margin-top:0;"> For enquiries on the school’s Aesthetics, please email:</p>
 <a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mrs Sharon Tng (Head of Department)</a>
