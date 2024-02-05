@@ -33,12 +33,11 @@ variant: markdown
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nmR69jel_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
-<ul>
-<li><a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a></li>
-<li><a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a></li>
-<li><a href="mailto:low_boon_khim@moe.edu.sg">Mr Clarence Low</a></li>
-</ul>
+<p style="margin-bottom:0; margin-top:1;">For enquiries on the school’s Eco-Enviro Science Club, please email:</p>
+• <a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
+• <a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a><br>
+• <a href="mailto:low_boon_khim@moe.edu.sg">Mr Clarence Low</a>
+
 <hr>
 
 #### Infocomm Technology (Computing)&nbsp;
