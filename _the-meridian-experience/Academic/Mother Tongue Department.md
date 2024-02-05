@@ -58,5 +58,5 @@ The department aims to:
 	<img src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL5.png" style="width:350px;height:290px;float:center"><br>
 </ol>
 
-<p>For enquiries on the school’s Mother Tongue Department, please email:</p>
+<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Mother Tongue Department, please email:</p>
 <a href="mailto:anna_lim_lin_lin@moe.edu.sg">Mdm Anna Lim (Head of Department)</a>
