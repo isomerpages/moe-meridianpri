@@ -7,11 +7,7 @@ third_nav_title: Prize Giving Day 2023
 ---
 <h3>Photos</h3>
 
-  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;<table style="width:100%">
+  <table style="width:100%">
 	<tbody>
 		<tr><th>Primary 1</th><th></th><th></th></tr>
 		<tr>
@@ -26,11 +22,7 @@ third_nav_title: Prize Giving Day 2023
     </tr>
 		</tbody></table>
 		
-  
-&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;<table style="width:100%">
+  <table style="width:100%">
 <tbody>
 	<tr><th>Primary 2</th><th></th><th></th></tr>
 	<tr>
