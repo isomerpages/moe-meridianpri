@@ -24,7 +24,6 @@ third_nav_title: Prize Giving Day 2023
         <td></td>
     </tr>
 		</tbody></table>
-		<br>
 <table style="width:100%">
 	<tbody>
 		<tr><th>Primary 4</th>
@@ -37,7 +36,6 @@ third_nav_title: Prize Giving Day 2023
         <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipMSa5e_ZAKNHkFEY9Csvt1NLv7jeL1kZeszcO28lN1fpzo_gKFqdeUFCb68j0skIQ/photo/AF1QipPUnGipvSNo9EZxK0uwI33wBzt7A71t-bplUUdf?key=VGhISzV1LVZyTXdob29zem90YXhyejNEQkcyZHd3">P4 Responsibility</a></td>
     </tr>
 		</tbody></table>
-		<br>
 <table style="width:100%">
 	<tbody>
 		<tr><th>Primary 5</th>
@@ -55,7 +53,6 @@ third_nav_title: Prize Giving Day 2023
         <td></td>
     </tr>
 		</tbody></table>
-		<br>
 <table style="width:100%">
 	<tbody>
 		<tr><th>Primary 6</th>
@@ -73,7 +70,6 @@ third_nav_title: Prize Giving Day 2023
         <td></td>
     </tr>
 		</tbody></table>
-		<br>
 <table style="width:100%">
 	<tbody>
 		<tr><th>Special Award</th>
