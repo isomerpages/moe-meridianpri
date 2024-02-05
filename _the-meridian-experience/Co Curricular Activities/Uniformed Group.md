@@ -33,9 +33,7 @@ variant: markdown
 
 <iframe width="350" height="250" src="https://www.youtube.com/embed/1Eg-gxwyJgQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-For enquiries on the school’s Scouts CCA, please email:<br>
-<ul>
-<li><a href="mailto:lee_song_sang@moe.edu.sg">Mdm Lee Song Sang</a></li>
-<li><a href="mailto:abdul_wahid_abdul_wahab@moe.edu.sg">Mr Abdul Wahid</a></li>
-<li><a href="mailto:lim_chia_chia@moe.edu.sg">Mdm Lim Chia Chia</a></li>
-</ul>
+<p style="margin-bottom:0; margin-top:1;">For enquiries on the school’s Scouts CCA, please email:</p>
+• <a href="mailto:lee_song_sang@moe.edu.sg">Mdm Lee Song Sang</a><br>
+• <a href="mailto:abdul_wahid_abdul_wahab@moe.edu.sg">Mr Abdul Wahid</a><br>
+• <a href="mailto:lim_chia_chia@moe.edu.sg">Mdm Lim Chia Chia</a>
