@@ -51,28 +51,25 @@ National Education comprises a wide range of school efforts that help students e
 <b>Racial Harmony Day</b>
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/CCE/2023/NE44.png" style="width:350px;height:200px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE45.png" style="width:350px;height:200px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><img src="/images/CCE/2023/NE43.png" style="width:300px;height:430px;float:center"></td>
-  </tr>
+    <td><img src="/images/CCE/NE/2024_NE9.png" style="width:350px;height:200px;float:center"></td>
+    <td><img src="/images/CCE/NE/2024_NE10.png" style="width:350px;height:200px;float:center"></td>
+		</tr>
+		<tr>
+    <td><img src="/images/CCE/NE/2024_NE11.png" style="width:350px;height:200px;float:center"></td>
+    <td><img src="/images/CCE/NE/2024_NE12.png" style="width:350px;height:200px;float:center"></td>
+		</tr>
 </tbody></table>
 
-<br>
 
-<b>International Friendship Day</b><br><br>
+<b>National Day</b>
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/CCE/2023/NE46.png" style="width:350px;height:200px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE47.png" style="width:350px;height:200px;float:center"></td>
+    <td><img src="/images/CCE/NE/2024_NE13.png" style="width:350px;height:200px;float:center"></td>
+    <td><img src="/images/CCE/NE/2024_NE14.png" style="width:350px;height:200px;float:center"></td>
   </tr>
 	<tr>
-    <td><img src="/images/CCE/2023/NE48.png" style="width:350px;height:200px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE49.png" style="width:350px;height:200px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><img src="/images/CCE/2023/NE50.png" style="width:270px;height:360px;float:center"></td>
+    <td><img src="/images/CCE/NE/2024_NE15.png" style="width:350px;height:200px;float:center"></td>
+    <td><img src="/images/CCE/NE/2024_NE16.png" style="width:350px;height:200px;float:center"></td>
   </tr>
 </tbody></table>
 
