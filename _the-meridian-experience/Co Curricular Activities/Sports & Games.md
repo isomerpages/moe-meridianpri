@@ -174,6 +174,6 @@ Activities for 2024 include the following sports:<br>
 
 <br>
 
-For enquiries on the school’s Sport Club CCA, please email:<br>
-* <a href="mailto:yeo_han_leng_david@moe.edu.sg">Mr David Yeo</a><br>
-* <a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Heryanti</a>
+<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Sport Club CCA, please email:</p>
+• <a href="mailto:yeo_han_leng_david@moe.edu.sg">Mr David Yeo</a><br>
+• <a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Heryanti</a>
