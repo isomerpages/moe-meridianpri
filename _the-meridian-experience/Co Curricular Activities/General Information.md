@@ -3,10 +3,11 @@ title: General Information
 permalink: /the-meridian-experience/co-curricular-activities/general-information/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 #### Co-Curricular Activities
 
-As part of the school’s efforts to deliver a holistic education, the school incorporated CCAs into curriculum time and designated Fridays as CCA Day.  The objectives of the CCA Day are to: 
+As part of the school’s efforts to deliver a holistic education, the school incorporated CCAs into curriculum time and designated Fridays as CCA Day.&nbsp; The objectives of the CCA Day are to:&nbsp;
 
 *   provide opportunity for all pupils to participate in a CCA  
     
@@ -20,13 +21,13 @@ All P3 to P6 students take part in a CCA in the first part of the morning, while
 
 The school offers a wide range of CCAs which include:
 
-*   Sports & Games: Floorball, Football, Sports Club and Taekwondo  
+*   Sports &amp; Games: Floorball, Football, Sports Club and Taekwondo  
     
 *   Performing Arts: Chinese Dance, Guzheng, Malay Dance and Show Choir  
     
-*   Clubs & Societies: Art Club, Environmental Science, Infocomm Technology (Computing) and Infocomm Technology (Media & Production)  
+*   Clubs &amp; Societies: Art Club, Environmental Science, Infocomm Technology (Computing) and Infocomm Technology (Media &amp; Production)  
     
 *   Uniformed Group: Scouts
 
-<p>For enquiries on the school’s CCA Programme, please email:</p>
+<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s CCA Programme, please email:</p>
 <a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mrs Sharon Tng(Head of Department  PE/CCA and Aesthetics)</a>
