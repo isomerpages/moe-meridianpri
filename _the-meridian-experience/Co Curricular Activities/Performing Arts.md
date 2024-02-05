@@ -120,7 +120,7 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3A6y1L_YQoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Malay Dance CCA, please email:</p>
+<p style="margin-bottom:0; margin-top:1;">For enquiries on the school’s Malay Dance CCA, please email:</p>
 • <a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a><br>
 • <a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu Bte Mohamed</a>
 
