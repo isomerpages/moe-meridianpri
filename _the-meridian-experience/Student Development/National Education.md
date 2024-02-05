@@ -19,20 +19,23 @@ National Education comprises a wide range of school efforts that help students e
 	<li>National Day</li>
 </ul>
 
-<b>Racial Harmony Day</b><br>
+
+<b>Total Defence Day</b>
+<br>
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/CCE/2023/NE36.png" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE37.png" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/NE/2024_NE1.png" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/NE/2024_NE2.png" style="width:380px;height:230px;float:center"></td>
   </tr>
 	<tr>
-    <td><img src="/images/CCE/2023/NE38.png" style="width:200px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2023/NE39.png" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/NE/2024_NE3.png" style="width:380px;height:230px;float:center"></td>
+    <td><img src="/images/CCE/NE/2024_NE4.png" style="width:380px;height:230px;float:center"></td>
   </tr>
 </tbody></table>
 <br>
 
-<b>National Day</b><br>
+<b>National Day</b>
+<br>
 <table style="width:100%">
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/NE/536A9878.jpg" style="width:380px;height:230px;float:center"></td>
