@@ -33,12 +33,11 @@ variant: markdown
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nmR69jel_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
-<ul>
-<li><a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a></li>
-<li><a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a></li>
-<li><a href="mailto:low_boon_khim@moe.edu.sg">Mr Clarence Low</a></li>
-</ul>
+<p style="margin-bottom:0; margin-top:1;">For enquiries on the school’s Eco-Enviro Science Club, please email:</p>
+• <a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
+• <a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a><br>
+• <a href="mailto:low_boon_khim@moe.edu.sg">Mr Clarence Low</a>
+
 <hr>
 
 #### Infocomm Technology (Computing)&nbsp;
@@ -59,11 +58,11 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/RC%203.jpg" style="width:370px;height:220px;float:center"><p style="line-height:1.2em; font-size: 14px; text-align:center;">Student testing the code to see if it can sense the intensity of light accurately.</p></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/2024_RC1.jpg" style="width:370px;height:220px;float:center"><p style="line-height:1em; font-size: 12px; text-align: center;">Students were taught to code “scissors, paper, stone”<br> game in mblock. In the picture shown above, students <br>can be seen capturing  images of their fingers in<br> different orientationto train the AI system to<br> recognise object representing scissors.</p></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/RC%203.jpg" style="width:370px;height:220px;float:center"><p style="line-height:1.2em; font-size: 16px; text-align:center;">Student testing the code to see if it can sense the intensity of light accurately.</p></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/2024_RC1.jpg" style="width:370px;height:220px;float:center"><p style="line-height:1em; font-size: 16px; text-align: center;">Students were taught to code “scissors, paper, stone” game in mblock.</p></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/2024_RC2.jpg" style="width:370px;height:420px;float:center"><p style="line-height:1.2em; font-size: 14px; text-align:center;">Students learnt to code the robots to ensure they can avoid collision using sensors; robots are able to sense the colours on the ground to move accordingly.</p></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/2024_RC2.jpg" style="width:370px;height:420px;float:center"><p style="line-height:1.2em; font-size: 16px; text-align:center;">Students learnt to code the robots to ensure they can avoid collision using sensors; robots are able to sense the colours on the ground to move accordingly.</p></td>
   </tr>
 </tbody></table>
 
@@ -71,11 +70,10 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AIP-mk5-sF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-For enquiries on the school’s Infocomm Technology (Computing), please email:<br>
-<ul>
-<li><a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi</a></li>
-<li><a href="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah</a></li>
-</ul>
+<p style="margin-bottom:0; margin-top:1;">For enquiries on the school’s Infocomm Technology (Computing), please email:</p>
+• <a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi</a><br>
+• <a href="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah</a>
+
 <hr>
 
 #### Infocomm Technology (Media Production)&nbsp;
@@ -120,10 +118,9 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 
 
 
-For enquiries on the school’s Photography and Videography CCA, please email:<br>
-* <a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung</a>
-* <a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah</a>
-*  <a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho</a>
+<p style="margin-bottom:0; margin-top:1;">For enquiries on the school’s Photography and Videography CCA, please email:</p>
+• <a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung</a><br>
+•  <a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho</a>
 <hr>
 
 #### Art Club
@@ -211,7 +208,7 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C7HWyVEl6hs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-For enquiries on the school’s &nbsp;Art Club CCA, please email:<br>
-* <a href="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah</a>
-* <a href="mailto:norhaida_kamaludin@moe.edu.sg">Ms Norhaida</a>
-*  <a href="mailto:muhammad_raziz_abdul_razak@moe.edu.sg">Mr Muhammad Raziz</a>
+<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s &nbsp;Art Club CCA, please email:</p>
+• <a href="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah</a><br>
+• <a href="mailto:norhaida_kamaludin@moe.edu.sg">Ms Norhaida</a><br>
+•  <a href="mailto:muhammad_raziz_abdul_razak@moe.edu.sg">Mr Muhammad Raziz</a>

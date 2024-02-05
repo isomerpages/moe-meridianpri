@@ -138,8 +138,7 @@ A Learning Journey to DBS Asia Hunb where Peer Support Leaders (PSLs) learnt how
     <td colspan="2"><img src="/images/CCE/2024%20CCE/2024_CCE25.png" style="width:380px;height:230px;float:center"></td>
   </tr>
 </tbody></table>
-<p style="margin-bottom:0; margin-top:0; text-align:center;">P5 - Cheering P6s on for PSLE <br> Designing of Motivational Posters</p>
+<p style="margin-bottom:1; margin-top:0; text-align:center;">P5 - Cheering P6s on for PSLE <br> Designing of Motivational Posters</p>
 
-
-<p>For enquiries on the school’s CCE Programme, please email:</p>
+<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s CCE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>

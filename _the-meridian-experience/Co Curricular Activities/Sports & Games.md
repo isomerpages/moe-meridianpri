@@ -34,11 +34,11 @@ variant: markdown
   </tr>
 </tbody></table>
 
-For enquiries on the school’s Floorball CCA, please email:<br>
-* <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a>
-* <a href="mailto:foo_si_min@moe.edu.sg">Ms Tracy Foo</a>
-* <a href="mailto:mark_chen@moe.edu.sg">Mr Mark Chen</a>
-* <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a>
+<p style="margin-bottom:0; margin-top:0;"> For enquiries on the school’s Floorball CCA, please email:</p>
+• <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a><br>
+• <a href="mailto:foo_si_min@moe.edu.sg">Ms Tracy Foo</a><br>
+• <a href="mailto:mark_chen@moe.edu.sg">Mr Mark Chen</a><br>
+• <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a>
 
 <hr>
 
@@ -59,19 +59,6 @@ For enquiries on the school’s Floorball CCA, please email:<br>
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Football/2023_Football1.png" style="width:450px;height:350px;float:center">
 
 
-
-<u>2020</u>
-<ul>
-  <li>U12 Senior SPSCC Football Tournament - Participation</li>
-  <li>U11 Junior SPSCC Football Tournament – Participation</li>
-</ul>    
-
-<u>2022</u>
-<ul>
-	<li>U12 Senior SPSCC Football Tournament - Participation</li>
-	<li>U11 Junior SPSCC Football Tournament – Participation</li>
-</ul>
-
 <u>2023</u>
 <ul>
 	<li>U12 Senior NSG Football Tournament - Participation</li>
@@ -85,11 +72,11 @@ Monday: 3:45 p.m. to 5:15 p.m. (for P4 to P6)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jeisTTDw68E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-For enquiries on the school’s Football CCA, please email:<br>
-* <a href="mailto:zulkarnai_zulkifli@moe.edu.sg">Mr Zulkarnai Zulkifli</a>
-* <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a>
-* <a href="mailto:chua_ee_lyn@moe.edu.sg">Ms Chua Ee Lyn</a>
-* <a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Mohan</a>
+<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Football CCA, please email:</p>
+• <a href="mailto:zulkarnai_zulkifli@moe.edu.sg">Mr Zulkarnai Zulkifli</a><br>
+• <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
+• <a href="mailto:chua_ee_lyn@moe.edu.sg">Ms Chua Ee Lyn</a><br>
+• <a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Mohan</a>
 
 <hr>
 
@@ -141,11 +128,11 @@ Poomsae Category (Junior Division)
 	<li>Achievement Pin: Ariq Putra, Das Nirvana, Justin Toh, Tiago</li>
 </ul>
 
-For enquiries on the school’s Taekwondo CCA, please email:<br>
-<ul><li><a href="mailto:nurrashidah_norman@moe.edu.sg">Ms Shidah</a></li>
-<li><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah</a></li>
-<li><a href="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a></li>
-</ul>
+<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Taekwondo CCA, please email:</p>
+• <a href="mailto:nurrashidah_norman@moe.edu.sg">Ms Shidah</a><br>
+• <a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah</a><br>
+• <a href="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a>
+
 
 <hr>
 
@@ -187,6 +174,6 @@ Activities for 2024 include the following sports:<br>
 
 <br>
 
-For enquiries on the school’s Sport Club CCA, please email:<br>
-* <a href="mailto:yeo_han_leng_david@moe.edu.sg">Mr David Yeo</a><br>
-* <a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Heryanti</a>
+<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Sport Club CCA, please email:</p>
+• <a href="mailto:yeo_han_leng_david@moe.edu.sg">Mr David Yeo</a><br>
+• <a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Heryanti</a>
