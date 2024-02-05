@@ -73,5 +73,5 @@ National Education comprises a wide range of school efforts that help students e
   </tr>
 </tbody></table>
 
-<p>For enquiries on the school’s NE Programme, please email:</p>
+<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s NE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
