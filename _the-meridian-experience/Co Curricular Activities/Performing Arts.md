@@ -41,10 +41,10 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_4.jpg" style="width:350px;height:420px;">
 <p style="margin-bottom:0; margin-top:0; text-align:center;">National  Day Celebration</p>
 
-For enquiries on the school’s Chinese Dance CCA, please email:<br>
-* <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a>
-* <a href="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen</a>
-<hr>
+<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Chinese Dance CCA, please email:<br>
+• <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a><br>
+• <a href="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen</a>
+</p><hr>
 
 #### Guzheng&nbsp;
 
@@ -81,9 +81,9 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 	
 </tbody></table>
 
-For enquiries on the school’s Guzheng CCA, please email:<br>
-* <a href="mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiaolu</a>
-* <a href="mailto:lim_lee_yong@moe.edu.sg">Ms Debbie Lim</a>
+<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Guzheng CCA, please email:</p>
+• <a href="mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiaolu</a><br>
+• <a href="mailto:lim_lee_yong@moe.edu.sg">Ms Debbie Lim</a>
 <hr>
 
 #### Malay Dance
