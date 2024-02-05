@@ -37,5 +37,5 @@ The English Language Programme at Meridian Primary aims to<br>
 </tbody></table>
 
 
-<p>For enquiries on the school’s English Language Department, please email:</p>
+<p style="margin-bottom:1; margin-top:0;">For enquiries on the school’s English Language Department, please email:</p>
 <a href="mailto:neo_jia_hwee@moe.edu.sg">Ms Charlotte Neo Jia Hwee (Head of Department)</a>
