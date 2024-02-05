@@ -68,7 +68,7 @@ variant: markdown
     <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL14.png" style="width:370px;height:290px;float:center"></td>
   </tr>
 </tbody></table>
-<p style="margin-bottom:0; margin-top:0; text-align:center;"> P6 Visit to Enabling Village</p>
+<p style="margin-bottom:1; margin-top:0; text-align:center;"> P6 Visit to Enabling Village</p>
 
-<p>For enquiries on the school’s Student Leadership Programme, please email:</p>
+<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Student Leadership Programme, please email:</p>
 <a href="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg">Miss Kirenjit Kaur d/o Sulinder Singh (HOD/Student Management)</a>
