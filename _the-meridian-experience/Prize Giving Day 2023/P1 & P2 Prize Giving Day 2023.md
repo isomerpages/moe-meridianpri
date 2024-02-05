@@ -9,7 +9,10 @@ third_nav_title: Prize Giving Day 2023
 
   <table style="width:100%">
 	<tbody>
-		<tr><th>Primary 1</th><th></th><th></th></tr>
+		<tr><th>Primary 1</th>
+			<th></th>
+			<th></th>
+		</tr>
 		<tr>
         <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipNpLHF7kRdRbeXaHqQJPTL_3Md0xY-Cj7RzrCVFf0lW2enwpdGeVbS6IidcjRoh5w/photo/AF1QipMhjTwSFIg64erLnxvtz0nrsVzKOQ7LtxtdYHvW?key=UmsyeEhmVmpQWGdrTW82eFlyWkl2ZktjZlpOVUtn">P1 Care</a></td>
         <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipPsV4AwlHi_WwHvbnHfykEOuzDYwFF6j2nbITWT-oewhhY_F5mtXKwRRMAyezowcg/photo/AF1QipPoBWAEetHMtbkodzoTZhw50uxm4qnCTg1DY3QH?key=SVpDVmg2ZHdwVEFYRzhuRGhPQURfOHprVTN3ZzBB">P1 Integrity</a></td>
@@ -24,7 +27,10 @@ third_nav_title: Prize Giving Day 2023
 		
   <table style="width:100%">
 <tbody>
-	<tr><th>Primary 2</th><th></th><th></th></tr>
+	<tr><th>Primary 2</th>
+		<th></th>
+		<th></th>
+	</tr>
 	<tr>
         <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipPt12DQw5y0C_WvqZpwagx9Nku1HhYXSp1rA8VvkuJnNHURZ7D6E8_173_tfejxug/photo/AF1QipM2xzk6U0Vc_vMQdz5uUtNW1KYIaBLBmID1LhBV?key=ekV2WkVDNVNvX2pBc3FnMk80RHhCbVlla1E5QXlR">P2 Care</a></td>
         <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipNxlNaiyT2UzIp1TqkvdGwHPepJ7VMiYAvsijkY-0mP6L8MDbF8n21iL42cPv-a2A?key=TlBoamRxNE9HMlNSa3piS0taQmNVdENEeXhuVHZB">P2 Integrity</a></td>
