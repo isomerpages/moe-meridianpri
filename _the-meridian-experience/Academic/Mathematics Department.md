@@ -87,5 +87,5 @@ variant: markdown
 <p style="margin-bottom:0; margin-top:0; text-align:center;">Open House 2023</p>
 
 
-<p>For enquiries on the school’s Mathematic Department, please email:</p>
+<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Mathematic Department, please email:</p>
 <a href="mailto:wong_hoe_shyan@moe.edu.sg">Mr Frankie Wong (Head of Department)</a>
