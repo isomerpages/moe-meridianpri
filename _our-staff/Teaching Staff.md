@@ -216,6 +216,9 @@ variant: markdown
 ####  Non-Form Teachers
 <table style="width:100%">
   <tbody>
+			<tr>
+    <td><a href="mailto:tan_soon_choon@moe.edu.sg">Mdm Tan Soo Choon Sharon</a></td>
+  </tr>
 	<tr>
     <td><a href="mailto:lee_ai_peng@moe.edu.sg">Mrs Doris Lee Ai Peng (FAJT)</a></td>
   </tr>
@@ -239,9 +242,6 @@ variant: markdown
   </tr>
 	<tr>
     <td><a href="mailto:norsiah_idris@moe.edu.sg">Mdm Norsiah Bte Idris (FAJT)</a></td>
-  </tr>
-	<tr>
-    <td><a href="mailto:tan_soon_choon@moe.edu.sg">Mdm Tan Soo Choon Sharon</a></td>
   </tr>
 		<tr>
     <td><a href="mailto:tiffany_loh@moe.edu.sg">Mdm Tiffany Loh (FAJT)</a></td>
