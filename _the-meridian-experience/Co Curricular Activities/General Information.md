@@ -29,5 +29,5 @@ The school offers a wide range of CCAs which include:
     
 *   Uniformed Group: Scouts
 
-<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s CCA Programme, please email:</p>
+For enquiries on the school’s CCA Programme, please email:<br>
 <a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mrs Sharon Tng(Head of Department  PE/CCA and Aesthetics)</a>
