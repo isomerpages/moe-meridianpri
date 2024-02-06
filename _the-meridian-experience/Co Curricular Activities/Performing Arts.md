@@ -121,10 +121,9 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3A6y1L_YQoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<p style="margin-bottom:0; margin-top:1;">For enquiries on the school’s Malay Dance CCA, please email:</p>
+For enquiries on the school’s Malay Dance CCA, please email:<br>
 • <a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a><br>
 • <a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu Bte Mohamed</a>
-
 
 <hr>
 
@@ -173,7 +172,7 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YQdiFHXM7Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<p style="margin-bottom:0; margin-top:1;">For enquiries on the school’s Show Choir CCA, please email:</p>
+For enquiries on the school’s Show Choir CCA, please email:<br>
 • <a href="mailto:angel_huang@moe.edu.sg">Ms Angel Huang</a><br>
 • <a href="mailto:alwin_tien_der-we@moe.edu.sg">Mr Alwin Tien</a><br>
 • <a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan Bte Abdul Wahab</a>
