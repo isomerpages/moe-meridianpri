@@ -33,8 +33,8 @@ variant: markdown
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB5.jpg" style="width:width:350px;height:250px;float:center"></td>
   </tr>
 </tbody></table>
-
-<p style="margin-bottom:0; margin-top:0;"> For enquiries on the school’s Floorball CCA, please email:</p>
+<br>
+ For enquiries on the school’s Floorball CCA, please email:<br>
 • <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a><br>
 • <a href="mailto:foo_si_min@moe.edu.sg">Ms Tracy Foo</a><br>
 • <a href="mailto:mark_chen@moe.edu.sg">Mr Mark Chen</a><br>
