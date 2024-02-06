@@ -129,7 +129,7 @@ Poomsae Category (Junior Division)
 	<li>Achievement Pin: Ariq Putra, Das Nirvana, Justin Toh, Tiago</li>
 </ul>
 
-<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Taekwondo CCA, please email:</p>
+For enquiries on the school’s Taekwondo CCA, please email:<br>
 • <a href="mailto:nurrashidah_norman@moe.edu.sg">Ms Shidah</a><br>
 • <a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah</a><br>
 • <a href="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a>
