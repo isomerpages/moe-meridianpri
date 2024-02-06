@@ -71,8 +71,9 @@ Monday: 3:45 p.m. to 5:15 p.m. (for P4 to P6)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jeisTTDw68E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<br>
 
-<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Football CCA, please email:</p>
+For enquiries on the school’s Football CCA, please email:<br>
 • <a href="mailto:zulkarnai_zulkifli@moe.edu.sg">Mr Zulkarnai Zulkifli</a><br>
 • <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
 • <a href="mailto:chua_ee_lyn@moe.edu.sg">Ms Chua Ee Lyn</a><br>
