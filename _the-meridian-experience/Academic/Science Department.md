@@ -94,5 +94,6 @@ To provide our students with the:
 </tbody></table>
 <p style="margin-bottom:0; margin-top:0; text-align:center;">Excellence 200 (E2K) Science Programme</p>
 
-<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Science Department, please email:</p>
+<br>
+For enquiries on the school’s Science Department, please email:<br>
 <a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi (Head of Department)</a>
