@@ -82,7 +82,7 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 	
 </tbody></table>
 
-<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Guzheng CCA, please email:</p>
+For enquiries on the school’s Guzheng CCA, please email:<br>
 • <a href="mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiaolu</a><br>
 • <a href="mailto:lim_lee_yong@moe.edu.sg">Ms Debbie Lim</a>
 <hr>
