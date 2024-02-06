@@ -41,10 +41,11 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_4.jpg" style="width:350px;height:420px;">
 <p style="margin-bottom:0; margin-top:0; text-align:center;">National  Day Celebration</p>
 
-<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Chinese Dance CCA, please email:<br>
+For enquiries on the school’s Chinese Dance CCA, please email:<br>
 • <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a><br>
 • <a href="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen</a>
-</p><hr>
+
+<hr>
 
 #### Guzheng&nbsp;
 
@@ -81,7 +82,7 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
 	
 </tbody></table>
 
-<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Guzheng CCA, please email:</p>
+For enquiries on the school’s Guzheng CCA, please email:<br>
 • <a href="mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiaolu</a><br>
 • <a href="mailto:lim_lee_yong@moe.edu.sg">Ms Debbie Lim</a>
 <hr>
@@ -120,10 +121,9 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3A6y1L_YQoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<p style="margin-bottom:0; margin-top:1;">For enquiries on the school’s Malay Dance CCA, please email:</p>
+For enquiries on the school’s Malay Dance CCA, please email:<br>
 • <a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a><br>
 • <a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu Bte Mohamed</a>
-
 
 <hr>
 
@@ -172,7 +172,7 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YQdiFHXM7Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<p style="margin-bottom:0; margin-top:1;">For enquiries on the school’s Show Choir CCA, please email:</p>
+For enquiries on the school’s Show Choir CCA, please email:<br>
 • <a href="mailto:angel_huang@moe.edu.sg">Ms Angel Huang</a><br>
 • <a href="mailto:alwin_tien_der-we@moe.edu.sg">Mr Alwin Tien</a><br>
 • <a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan Bte Abdul Wahab</a>

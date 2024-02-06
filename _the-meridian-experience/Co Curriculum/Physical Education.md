@@ -59,5 +59,5 @@ variant: markdown
 </tbody></table>
 
 
-<p style="margin-bottom:0; margin-top:0;"> For enquiries on the school’s Physical Education, please email:</p>
+ For enquiries on the school’s Physical Education, please email:<br>
 <a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mrs Sharon Tng (Head of Department)</a>

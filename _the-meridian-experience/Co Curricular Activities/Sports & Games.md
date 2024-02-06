@@ -33,8 +33,8 @@ variant: markdown
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB5.jpg" style="width:width:350px;height:250px;float:center"></td>
   </tr>
 </tbody></table>
-
-<p style="margin-bottom:0; margin-top:0;"> For enquiries on the school’s Floorball CCA, please email:</p>
+<br>
+ For enquiries on the school’s Floorball CCA, please email:<br>
 • <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a><br>
 • <a href="mailto:foo_si_min@moe.edu.sg">Ms Tracy Foo</a><br>
 • <a href="mailto:mark_chen@moe.edu.sg">Mr Mark Chen</a><br>
@@ -71,8 +71,9 @@ Monday: 3:45 p.m. to 5:15 p.m. (for P4 to P6)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jeisTTDw68E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<br>
 
-<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Football CCA, please email:</p>
+For enquiries on the school’s Football CCA, please email:<br>
 • <a href="mailto:zulkarnai_zulkifli@moe.edu.sg">Mr Zulkarnai Zulkifli</a><br>
 • <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
 • <a href="mailto:chua_ee_lyn@moe.edu.sg">Ms Chua Ee Lyn</a><br>
@@ -128,7 +129,7 @@ Poomsae Category (Junior Division)
 	<li>Achievement Pin: Ariq Putra, Das Nirvana, Justin Toh, Tiago</li>
 </ul>
 
-<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Taekwondo CCA, please email:</p>
+For enquiries on the school’s Taekwondo CCA, please email:<br>
 • <a href="mailto:nurrashidah_norman@moe.edu.sg">Ms Shidah</a><br>
 • <a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah</a><br>
 • <a href="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a>
@@ -174,6 +175,6 @@ Activities for 2024 include the following sports:<br>
 
 <br>
 
-<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Sport Club CCA, please email:</p>
+For enquiries on the school’s Sport Club CCA, please email:<br>
 • <a href="mailto:yeo_han_leng_david@moe.edu.sg">Mr David Yeo</a><br>
 • <a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Heryanti</a>
