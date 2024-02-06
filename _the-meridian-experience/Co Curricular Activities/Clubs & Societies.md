@@ -33,7 +33,7 @@ variant: markdown
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nmR69jel_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<p style="margin-bottom:0; margin-top:1;">For enquiries on the school’s Eco-Enviro Science Club, please email:</p>
+For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 • <a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
 • <a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a><br>
 • <a href="mailto:low_boon_khim@moe.edu.sg">Mr Clarence Low</a>
@@ -70,7 +70,7 @@ variant: markdown
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AIP-mk5-sF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<p style="margin-bottom:0; margin-top:1;">For enquiries on the school’s Infocomm Technology (Computing), please email:</p>
+For enquiries on the school’s Infocomm Technology (Computing), please email:<br>
 • <a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi</a><br>
 • <a href="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah</a>
 
@@ -118,7 +118,7 @@ variant: markdown
 
 
 
-<p style="margin-bottom:0; margin-top:1;">For enquiries on the school’s Photography and Videography CCA, please email:</p>
+For enquiries on the school’s Photography and Videography CCA, please email:<br>
 • <a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung</a><br>
 •  <a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho</a>
 <hr>
@@ -208,7 +208,7 @@ variant: markdown
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C7HWyVEl6hs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s &nbsp;Art Club CCA, please email:</p>
+For enquiries on the school’s &nbsp;Art Club CCA, please email:<br>
 • <a href="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah</a><br>
 • <a href="mailto:norhaida_kamaludin@moe.edu.sg">Ms Norhaida</a><br>
 •  <a href="mailto:muhammad_raziz_abdul_razak@moe.edu.sg">Mr Muhammad Raziz</a>
