@@ -91,6 +91,10 @@ variant: markdown
     <td><a href="mailto:Chan_Siak_Khim@moe.edu.sg">Ms Madeline</a></td>
     <td>FAJT</td>
   </tr>
+		<tr>
+    <td><a href="">Mdm Loh Wee Him</a></td>
+    <td>OSO</td>
+  </tr>
 	
 	
 </tbody></table>
