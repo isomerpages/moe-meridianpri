@@ -6,15 +6,6 @@ third_nav_title: Letter to Parents 2024
 variant: markdown
 ---
 <details>
-  <summary>February</summary>
-<ul>
-	<li>
-		<a href="/files/2024%20Letter%20to%20Parents/Primary%203/2024_P3_Assessment_Letter___T1___T2.pdf">Assessment for Primary 3</a><font size="2"> (9 February 2024)</font>
-	</li>
-	</ul>
-</details>
-
-<details>
   <summary>January</summary>
 <ul>
 	<li>
