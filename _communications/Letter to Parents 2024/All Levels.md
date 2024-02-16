@@ -40,3 +40,11 @@ variant: markdown
 	</ul>
 </details>
 
+<details>
+  <summary>February 2024</summary>
+<ul>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/MOE_Centrally_8_Jan.pdf">MOE's Centrally Provisioned Digital Tools</a><font size="2"> (8 January 2024)</font>
+	</li>
+	</ul>
+</details>
