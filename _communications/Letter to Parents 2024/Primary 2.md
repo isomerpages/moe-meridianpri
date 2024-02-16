@@ -6,6 +6,15 @@ third_nav_title: Letter to Parents 2024
 variant: markdown
 ---
 <details>
+  <summary>February</summary>
+<ul>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%201/2024_P1_and_P2_Learning_Checkpoints___T1_to_T4.pdf">Learning Checkpoints for Primary 1 and Primary 2 Students</a><font size="2"> (9 February 2024)</font>
+	</li>
+	</ul>
+</details>
+
+<details>
   <summary>January</summary>
 <ul>
 	<li>
