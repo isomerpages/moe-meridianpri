@@ -46,5 +46,12 @@ variant: markdown
 	<li>
 		<a href="/files/2024%20Letter%20to%20Parents/Primary%205/P5_Overseas_immersion_trip.pdf">2024 P5 Overseas Immersion Trip</a><font size="2"> (8 February 2024)</font>
 	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%201/2024_P1_and_P2_Learning_Checkpoints___T1_to_T4.pdf">Learning Checkpoints for Primary 1 and Primary 2 Students</a><font size="2"> (9 February 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%203/2024_P3_Assessment_Letter___T1___T2.pdf">Assessment for Primary 3</a><font size="2"> (9 February 2024)</font>
+	</li>
 	</ul>
 </details>
+
