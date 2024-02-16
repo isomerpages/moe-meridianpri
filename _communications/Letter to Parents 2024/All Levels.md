@@ -8,6 +8,31 @@ variant: markdown
 #### Letter to All Parents 2024
 
 <details>
+  <summary>February 2024</summary>
+<ul>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%205/P5_Overseas_immersion_trip.pdf">2024 P5 Overseas Immersion Trip</a><font size="2"> (8 February 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%201/2024_P1_and_P2_Learning_Checkpoints___T1_to_T4.pdf">Learning Checkpoints for Primary 1 and Primary 2 Students</a><font size="2"> (9 February 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%203/2024_P3_Assessment_Letter___T1___T2.pdf">Assessment for Primary 3</a><font size="2"> (9 February 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%204/2024_P4_Assessment_Letter___T1___T2.pdf">Assessment for Primary 4</a><font size="2"> (9 February 2024)</font>
+	</li>
+		<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%205/2024_P5_Assessment_Letter___T1___T2.pdf">Assessment for Primary 5</a><font size="2"> (9 February 2024)</font>
+	</li>
+		<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%206/2024_P6_Assessment_Letter___T1___T2.pdf">Assessment for Primary 6</a><font size="2"> (9 February 2024)</font>
+	</li>
+	</ul>
+</details>
+
+
+<details>
   <summary>January 2024</summary>
 <ul>
 	<li>
@@ -36,30 +61,6 @@ variant: markdown
 	</li>
 	<li>
 		<a href="/files/2024%20Letter%20to%20Parents/Primary%204/P4_English_Public_speaking_22_Jan.pdf">Beginner Conversational Chinese/Malay Language (CCM) Module for P3 Students</a><font size="2"> (24 January 2024)</font>
-	</li>
-	</ul>
-</details>
-
-<details>
-  <summary>February 2024</summary>
-<ul>
-	<li>
-		<a href="/files/2024%20Letter%20to%20Parents/Primary%205/P5_Overseas_immersion_trip.pdf">2024 P5 Overseas Immersion Trip</a><font size="2"> (8 February 2024)</font>
-	</li>
-	<li>
-		<a href="/files/2024%20Letter%20to%20Parents/Primary%201/2024_P1_and_P2_Learning_Checkpoints___T1_to_T4.pdf">Learning Checkpoints for Primary 1 and Primary 2 Students</a><font size="2"> (9 February 2024)</font>
-	</li>
-	<li>
-		<a href="/files/2024%20Letter%20to%20Parents/Primary%203/2024_P3_Assessment_Letter___T1___T2.pdf">Assessment for Primary 3</a><font size="2"> (9 February 2024)</font>
-	</li>
-	<li>
-		<a href="/files/2024%20Letter%20to%20Parents/Primary%204/2024_P4_Assessment_Letter___T1___T2.pdf">Assessment for Primary 4</a><font size="2"> (9 February 2024)</font>
-	</li>
-		<li>
-		<a href="/files/2024%20Letter%20to%20Parents/Primary%205/2024_P5_Assessment_Letter___T1___T2.pdf">Assessment for Primary 5</a><font size="2"> (9 February 2024)</font>
-	</li>
-		<li>
-		<a href="/files/2024%20Letter%20to%20Parents/Primary%205/2024_P6_Assessment_Letter___T1___T2.pdf">Assessment for Primary 6</a><font size="2"> (9 February 2024)</font>
 	</li>
 	</ul>
 </details>
