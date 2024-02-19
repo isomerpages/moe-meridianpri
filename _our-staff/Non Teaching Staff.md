@@ -23,15 +23,11 @@ variant: markdown
     <td>ICT Manager</td>
   </tr>
 	<tr>
-    <td><a href="mailto:aishah_sarian@moe.edu.sg">Mdm Aishah Bte Sarian</a></td>
-    <td>Corporate Support Officer (CSO)</td>
-  </tr>
-	<tr>
     <td><a href="mailto:angela_chua_ai_im@moe.edu.sg">Mdm Chua Ai Im Angela</a></td>
-    <td>Corporate Support Officer (CSO)</td>
+    <td>Administrative Executive</td>
   </tr>
 	<tr>
-    <td><a href="mailto:Sohana_Abd_halim@moe.edu.sg">Mdm Soraya Abd Halim</a></td>
+    <td><a href="mailto:Sohana_Abd_halim@moe.edu.sg">Mdm Sohana Abd Halim</a></td>
     <td>Corporate Support Officer (CSO)</td>
   </tr>
 	<tr>
@@ -53,5 +49,9 @@ variant: markdown
 	<tr>
     <td><a href="">Mdm Peozisyah Bte Rashid</a></td>
     <td>Operations Support Officer (OSO)</td>
+  </tr>
+		 <tr>
+    <td><a href="mailto:oth_jaswant_kaur@moe.edu.sg">Mdm Jaswant Kaur</a></td>
+    <td>FAJT Corporate Support Officer (CSO)</td>
   </tr>
 </tbody></table>
