@@ -45,7 +45,7 @@ variant: markdown
 		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/Wits_Words_22_Jan.pdf">Wits &amp; Words: Inter-school Debate Championship 2024</a><font size="2"> (22 January 2024)</font>
 	</li>
 	<li>
-		<a href="/files/2024%20Letter%20to%20Parents/Primary%204/P4_English_Public_speaking_22_Jan.pdf">Beginner Conversational Chinese/Malay Language (CCM) Module for P3 Students</a><font size="2"> (24 January 2024)</font>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%203/P3_CCM_24_Jan.pdf">Beginner Conversational Chinese/Malay Language (CCM) Module for P3 Students</a><font size="2"> (24 January 2024)</font>
 	</li>
 	</ul>
 </details>
