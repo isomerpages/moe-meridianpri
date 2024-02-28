@@ -4,8 +4,6 @@ permalink: /our-partners/parents-support-group/
 description: ""
 variant: markdown
 ---
-
-
 <p align="justify">The Parent Support Group (PSG) is a great opportunity for parents to be closer to their children, understand them better and help them in their education journey. The children also benefit when&nbsp; the parents are more active in the school environment.</p>
 
 ![](/images/PSG_2023.png)
@@ -19,6 +17,8 @@ variant: markdown
 <p align="justify">Parents who are actively involved in the PSG are better able to reach out to other parents and involve them in school activities. Over time, more parents can contribute to make the school environment an even more conducive place for learning.</p>
 
 <p align="justify">The parent volunteers have been contributing their time, talents and thoughts to help make the school a safer place for our children to learn in, making school life more vibrant and exciting.</p>
+
+<p>Registration Form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1sbnVu7jsHsGg9LZVMCN3LASX6hfk27k0h8mpIbGjFoFrUg/viewform?pli=1"> Click Here</a></p>
 
 The Committee comprises of:
 
