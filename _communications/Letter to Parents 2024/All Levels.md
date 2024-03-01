@@ -13,6 +13,12 @@ variant: markdown
 	<li>
 		<a href="/files/2024%20Letter%20to%20Parents/Primary%205/P5_Overseas_immersion_trip.pdf">2024 P5 Overseas Immersion Trip</a><font size="2"> (8 February 2024)</font>
 	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/23_Feb___JSA_selection_trials_parents_nomination.pdf">Junior Sports Academy (JSA) Selection Trials 2024 Parents' Nomination</a><font size="2"> (23 February 2024)</font>
+	</li>
+		<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/23_Feb___Invitation_to_JSA_selection_trials.pdf">Invitation To Junior Sports Academy (JSA) Selection Trials 2024</a><font size="2"> (23 February 2024)</font>
+	</li>
 	</ul>
 </details>
 
