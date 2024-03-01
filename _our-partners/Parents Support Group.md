@@ -18,7 +18,8 @@ variant: markdown
 
 <p align="justify">The parent volunteers have been contributing their time, talents and thoughts to help make the school a safer place for our children to learn in, making school life more vibrant and exciting.</p>
 
-Parent Support Group Registration Form: <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd1sbnVu7jsHsGg9LZVMCN3LASX6hfk27k0h8mpIbGjFoFrUg/viewform?pli=1"> Click Here</a>
+Parent Support Group Registration Form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1sbnVu7jsHsGg9LZVMCN3LASX6hfk27k0h8mpIbGjFoFrUg/viewform?pli=1"> Click Here</a>
+
 
 The Committee comprises of:
 
