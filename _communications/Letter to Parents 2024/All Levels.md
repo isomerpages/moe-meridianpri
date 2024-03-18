@@ -13,6 +13,9 @@ variant: markdown
 	<li>
 		<a href="/files/2024%20Letter%20to%20Parents/Primary%202/1_Mar___P2_FBL_to_Science_centre_singapore.pdf">P2 Field-Based Learning (FBL) to Science Centre Singapore</a><font size="2"> (1 March 2024)</font>
 	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/End_of_Term_1_Letter_to_Parents_2024_.pdf">End of Term 1 Letter to Parents 2024</a><font size="2"> (11 March 2024)</font>
+	</li>
 	</ul>
 </details>
 
