@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/About As/School_Banner_without_school_logo_19_Apr_2024_10am.png
+      background: /images/About As/My Meridian Experience_School Websitei_17 Jan 23.png
       key_highlights:
         - title: Announcements
           description: ""
