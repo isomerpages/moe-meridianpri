@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/About As/School_Banner_without_school_logo_19_Apr_2024.png
+      background: /images/About As/School_Banner_without_school_logo_19_Apr_2024_10am.png
       key_highlights:
         - title: Announcements
           description: ""
