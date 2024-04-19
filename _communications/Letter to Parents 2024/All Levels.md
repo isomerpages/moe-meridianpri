@@ -11,6 +11,9 @@ variant: markdown
   <summary>April</summary>
 <ul>
 	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/P4_Term_2_e_Oral_19_April_2024.pdf">P4 Term 2: Oral Communications</a><font size="2"> (19 April 2024)</font>
+	</li>
+	<li>
 		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/9_April_P4_Visual_Spatial_Math_Competition_2024.pdf">P4 - Visual Spatial Mathlympics Competition 2024</a><font size="2"> (9 April 2024)</font>
 	</li>
 	<li>
