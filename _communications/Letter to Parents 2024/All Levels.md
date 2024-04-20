@@ -8,10 +8,51 @@ variant: markdown
 #### Letter to All Parents 2024
 
 <details>
+  <summary>April</summary>
+<ul>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/1_April_P3_P6_Peer_Support_Leaders_Meeting_2024.pdf">P3-P6 Peer Support Leaders Meeting 2024</a><font size="2"> (1 April 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/5_April_P5_E2K_maths_programme.pdf">P5 E2K Mathematics Programme</a><font size="2"> (5 April 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/P5_Term_2_e_Oral.pdf">P5 Term 2: Oral Communications</a><font size="2"> (8 April 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/9_April_P4_Visual_Spatial_Math_Competition_2024.pdf">P4 - Visual Spatial Mathlympics Competition 2024</a><font size="2"> (9 April 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/19_April_P1_SOSU.pdf">P1 Step Out Step Up Learning Week 2024</a><font size="2"> (19 April 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/19_April_P2_SOSU.pdf">P2 Step Out Step Up Learning Week 2024</a><font size="2"> (19 April 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/19_April_P3_SOSU.pdf">P3 Step Out Step Up Learning Week 2024</a><font size="2"> (19 April 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/19_April_P4_SOSU.pdf">P4 Step Out Step Up Learning Week 2024</a><font size="2"> (19 April 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/19_April_P5_SOSU.pdf">P5 Step Out Step Up Learning Week 2024</a><font size="2"> (19 April 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/19_April_P6_SOSU.pdf">P6 Step Out Step Up Learning Week 2024</a><font size="2"> (19 April 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/P4_Term_2_e_Oral_19_April_2024.pdf">P4 Term 2: Oral Communications</a><font size="2"> (19 April 2024)</font>
+	</li>
+	</ul>
+</details>
+<details>
   <summary>March</summary>
 <ul>
 	<li>
 		<a href="/files/2024%20Letter%20to%20Parents/Primary%202/1_Mar___P2_FBL_to_Science_centre_singapore.pdf">P2 Field-Based Learning (FBL) to Science Centre Singapore</a><font size="2"> (1 March 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/8_March_2024_P5_Overseas_Immersion_Trip_to_Chiang_Mai.pdf">P5 Overseas Immersion Trip To Chiang Mai, Thailand</a><font size="2"> (8 March 2024)</font>
 	</li>
 	<li>
 		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/End_of_Term_1_Letter_to_Parents_2024_.pdf">End of Term 1 Letter to Parents 2024</a><font size="2"> (11 March 2024)</font>
