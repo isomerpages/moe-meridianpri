@@ -9,17 +9,29 @@ sections:
   - hero:
       background: /images/About As/My Meridian Experience_School Websitei_17 Jan 23.png
       key_highlights:
+        - title: JOIN US FOR OUR OPEN HOUSE ON 6 JULY, 9 A.M. - 11.30 A.M
+          description: Click here for info.
+          url: https://www.meridianpri.moe.edu.sg/mps-open-house/
+      variant: image
+  - textcards:
+      title: Announcements and Resources
+      id: textcards
+      cards:
         - title: Announcements
           description: ""
+          linktext: Click Here
           url: https://www.meridianpri.moe.edu.sg/about-us/announcements/
         - title: Resources for Parents and Guardians
           description: ""
+          linktext: Click Here
           url: https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/resources-for-parents/
         - title: Recent Letters to Parents & Guardians
           description: ""
+          linktext: Click Here
           url: https://www.meridianpri.moe.edu.sg/communications/letter-to-all-parents-2024/all-levels/
         - title: Information on Sexuality Education in Schools
           description: ""
+          linktext: Click Here
           url: https://www.meridianpri.moe.edu.sg/the-meridian-experience/student-development/sexuality-education/
   - infobar:
       description: <iframe width="560" height="315"
