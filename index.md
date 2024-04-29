@@ -29,4 +29,20 @@ sections:
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen=""></iframe>
       title: The Meridian Experience
+  - textcards:
+      title: "Resources "
+      id: textcards
+      cards:
+        - title: Announcements
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
