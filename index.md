@@ -21,6 +21,7 @@ sections:
         - title: Information on Sexuality Education in Schools
           description: ""
           url: https://www.meridianpri.moe.edu.sg/the-meridian-experience/student-development/sexuality-education/
+      variant: image
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/hA_11fdyWXk" title="YouTube video
