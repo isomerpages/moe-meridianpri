@@ -30,13 +30,13 @@ sections:
         allowfullscreen=""></iframe>
       title: The Meridian Experience
   - textcards:
-      title: "Resources "
+      title: Resources
       id: textcards
       cards:
         - title: Announcements
           description: ""
           linktext: Learn more
-          url: ""
+          url: https://www.meridianpri.moe.edu.sg/about-us/announcements/
         - title: Card
           description: Card description
           linktext: Learn more
