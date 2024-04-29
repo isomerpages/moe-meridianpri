@@ -9,19 +9,12 @@ sections:
   - hero:
       background: /images/About As/My Meridian Experience_School Websitei_17 Jan 23.png
       key_highlights:
-        - title: JOIN US FOR OUR OPEN HOUSE ON 6 JULY 9 A.M. - 11.30 A.M
+        - title: JOIN US FOR OUR OPEN HOUSE ON 6 JULY, 9 A.M. - 11.30 A.M
           description: Click here for info.
           url: https://www.meridianpri.moe.edu.sg/mps-open-house/
       variant: image
-  - infobar:
-      description: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/hA_11fdyWXk" title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen=""></iframe>
-      title: The Meridian Experience
   - textcards:
-      title: Resources
+      title: Announcements and Resources
       id: textcards
       cards:
         - title: Announcements
@@ -40,4 +33,11 @@ sections:
           description: ""
           linktext: Click Here
           url: https://www.meridianpri.moe.edu.sg/the-meridian-experience/student-development/sexuality-education/
+  - infobar:
+      description: <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/hA_11fdyWXk" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen=""></iframe>
+      title: The Meridian Experience
 ---
