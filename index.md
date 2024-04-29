@@ -41,8 +41,8 @@ sections:
           description: ""
           linktext: Click Here
           url: https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/resources-for-parents/
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: Recent Letters to Parents & Guardians
+          description: ""
+          linktext: Click Here
+          url: https://www.meridianpri.moe.edu.sg/communications/letter-to-all-parents-2024/all-levels/
 ---
