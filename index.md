@@ -37,10 +37,10 @@ sections:
           description: ""
           linktext: Click Here
           url: https://www.meridianpri.moe.edu.sg/about-us/announcements/
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: Resources for Parents and Guardians
+          description: ""
+          linktext: Click Here
+          url: https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/resources-for-parents/
         - title: Card
           description: Card description
           linktext: Learn more
