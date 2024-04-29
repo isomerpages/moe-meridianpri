@@ -35,7 +35,7 @@ sections:
       cards:
         - title: Announcements
           description: ""
-          linktext: Learn more
+          linktext: Click Here
           url: https://www.meridianpri.moe.edu.sg/about-us/announcements/
         - title: Card
           description: Card description
