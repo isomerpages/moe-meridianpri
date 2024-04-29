@@ -10,7 +10,7 @@ sections:
       background: /images/About As/My Meridian Experience_School Websitei_17 Jan 23.png
       key_highlights:
         - title: JOIN US FOR OUR OPEN HOUSE ON 6 JULY 9 A.M. - 11.30 A.M
-          description: Open House 2024 Registration
+          description: Click here for info.
           url: https://www.meridianpri.moe.edu.sg/mps-open-house/
       variant: image
   - infobar:
