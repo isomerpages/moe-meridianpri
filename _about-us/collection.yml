@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - MPS Open House.md
       - Principal's Message.md
       - School Information/.keep
       - School Information/Welcome.md
