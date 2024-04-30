@@ -19,7 +19,7 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
 
 <u>Our Achievements</u>
 
-<p>2024 Singapore Youth Festival Arts Persentation - Certificate of Accomplishment</p>
+<p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 
 <p><u>School Performances in 2023</u></p>
 <ul>
@@ -68,7 +68,7 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 
 <u>Our Achievements</u>
 
-<p>2024 Singapore Youth Festival Arts Persentation - Certificate of Accomplishment</p>
+<p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 
 <table style="width:100%">
 
@@ -107,7 +107,7 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 
 <u>Our Achievements</u>
 
-<p>2024 Singapore Youth Festival Arts Persentation - Certificate of Accomplishment</p>
+<p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 
 <u>School-based Performance</u>
 <li>Prize-giving ceremonies</li>
