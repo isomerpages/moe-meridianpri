@@ -19,7 +19,7 @@ description: ""
 </ul> 
 
 <b>Virtual Tour</b>
-<p>Explore Meridian Primary School through our Virtual Map</p>
+<p>Explore Meridian Primary School through a <a href="https://www.meridianpri.moe.edu.sg/about-us/mps-virtual-tour/virtual-tour/">virtual tour</a></p>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Z8-de9W6kok?si=KE7Fafk_gy4ArZzV" height="315" width="560"></iframe>
 
