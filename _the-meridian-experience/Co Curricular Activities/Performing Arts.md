@@ -17,10 +17,19 @@ We welcome students who have interest in dance, music and the Chinese culture to
 
 Students are given the opportunities to take part in the SYF Arts Presentation as well as in various community performances.
 
+<b>Our Achievements</b>
+
+<p>2024 Singapore Youth Festival Arts Persentation - Certificate of Accomplishment</p>
+
 <p><u>School Performances in 2023</u></p>
 <ul>
   <li>National Day Celebrations</li>
 	<li>Prize Giving Day Performance</li>
+</ul>  
+
+<p><u>School Performances in 2024</u></p>
+<ul>
+  <li>Pasir Ris West Chinese New Year Dinner</li>
 </ul>  
 
 <table style="width:100%">
