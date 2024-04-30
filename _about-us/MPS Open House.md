@@ -27,6 +27,8 @@ description: ""
 
 <b>The Amazing Meridian Experience</b>
 
-<p></p>
+<p>Here's a glimpse of what the Amazing Meridian Experience is all about!</p>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/bdy7alYQ8X8?si=lQveEBy8XpaSI5Xz" height="315" width="560"></iframe>
 
 <p>Click <a href="https://form.gov.sg/66146d532853743d7a2f967a">here</a> to sign up and join us for a day of learning and fun!</p>
