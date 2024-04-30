@@ -67,7 +67,7 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 **Highlights**  
 
 <ul>
-	<li>2018 Singapore Youth Festival Accomplishment Award</li>
+	<li>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</li>
 </ul>
 
 <table style="width:100%">
