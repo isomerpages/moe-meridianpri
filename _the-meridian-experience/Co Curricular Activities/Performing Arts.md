@@ -17,7 +17,7 @@ We welcome students who have interest in dance, music and the Chinese culture to
 
 Students are given the opportunities to take part in the SYF Arts Presentation as well as in various community performances.
 
-<b>Our Achievements</b>
+<u>Our Achievements</u>
 
 <p>2024 Singapore Youth Festival Arts Persentation - Certificate of Accomplishment</p>
 
@@ -66,9 +66,9 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 
 **Highlights**  
 
-<ul>
-	<li>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</li>
-</ul>
+<u>Our Achievements</u>
+
+<p>2024 Singapore Youth Festival Arts Persentation - Certificate of Accomplishment</p>
 
 <table style="width:100%">
 
@@ -104,6 +104,10 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 <p align="justify">The Malay Dance CCA plays an important role in imparting the rich cultural Malay heritage, and developing grace, rhythm and discipline in our dancers through the performing arts. Through our CCA, members are nurtured to become confident and resilient individuals, who are also active team players and caring citizens. Members learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
 
 **Highlights**  
+
+<u>Our Achievements</u>
+
+<p>2024 Singapore Youth Festival Arts Persentation - Certificate of Accomplishment</p>
 
 <u>School-based Performance</u>
 <li>Prize-giving ceremonies</li>
