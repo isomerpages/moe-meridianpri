@@ -19,6 +19,14 @@ description: ""
 </ul> 
 
 <b>Virtual Tour</b>
+<p>Explore Meridian Primary School through our Virtual Map</p>
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Z8-de9W6kok?si=KE7Fafk_gy4ArZzV" height="315" width="560"></iframe>
+
+<p>Come down to see how these spaces are used in the daily teaching and learning at Meridian Primary School!</p>
+
+<b>The Amazing Meridian Experience</b>
+
+<p></p>
 
 <p>Click <a href="https://form.gov.sg/66146d532853743d7a2f967a">here</a> to sign up and join us for a day of learning and fun!</p>
