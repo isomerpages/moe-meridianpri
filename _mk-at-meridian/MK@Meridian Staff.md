@@ -21,7 +21,11 @@ variant: markdown
     <td>Centre Head</td>
   </tr>
 		<tr>
-    <td><a href="mailto:siti_syazwani_mohd_kasbi@schools.gov.sg">Ms Siti Syazwani Bte Mohd Kasbi</a></td>
+    <td><a href="mailto:surya_tewi_zulkipli@schools.gov.sg">Mdm Surya Tewi Binte Zulkipli</a></td>
+    <td>MK Deputy Centre Head</td>
+  </tr>
+		<tr>
+    <td><a href="mailto:siti_syazwani_mohd_kasbi@moe.edu.sg">Ms Siti Syazwani Bte Mohd Kasbi</a></td>
     <td>Administrative Executive</td>
   </tr>
 	<tr>
