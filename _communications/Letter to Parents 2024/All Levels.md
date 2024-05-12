@@ -7,6 +7,22 @@ variant: markdown
 ---
 #### Letter to All Parents 2024
 
+
+<details>
+  <summary>May</summary>
+<ul>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/5_May_Becoming_An_Active_and_Healthy_Meridian.pdf">Becoming An Active and Healthy Meridian</a><font size="2"> (5 May 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%204/7_May_MT_Fortnight_cultural_and_language_camp.pdf">MT Fortnight Cultural and Language Camp 2024</a><font size="2"> (7 May 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%204/8_May_Virtual_overseas_chinese_language.pdf">Virtual Overseas Chinese Language &amp; Cultural Immersion Programme 2024 </a><font size="2"> (8 May 2024)</font>
+	</li>
+	</ul>
+</details>
+
 <details>
   <summary>April</summary>
 <ul>

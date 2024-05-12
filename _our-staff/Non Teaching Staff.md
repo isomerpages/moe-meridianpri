@@ -30,6 +30,10 @@ variant: markdown
     <td><a href="mailto:Sohana_Abd_halim@moe.edu.sg">Mdm Sohana Abd Halim</a></td>
     <td>Corporate Support Officer (CSO)</td>
   </tr>
+		 <tr>
+    <td><a href="mailto:nurradiyah_ramdan_a@moe.edu.sg">Miss Nurradiyah Binti Ramdan</a></td>
+    <td>Corporate Support Officer (CSO)</td>
+  </tr>
 	<tr>
     <td><a href="">Mr Aman Bin Ebrahim</a></td>
     <td>Operations Support Officer (OSO)</td>
@@ -52,6 +56,6 @@ variant: markdown
   </tr>
 		 <tr>
     <td><a href="mailto:oth_jaswant_kaur@moe.edu.sg">Mdm Jaswant Kaur</a></td>
-    <td>FAJT Corporate Support Officer (CSO)</td>
+    <td>FAJT Administrative Executive</td>
   </tr>
 </tbody></table>
