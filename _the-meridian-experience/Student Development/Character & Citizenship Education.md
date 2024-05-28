@@ -116,7 +116,7 @@ During the termly Peer Support Leaders (PSLs) sessions, students have a better u
 </tbody></table>
 
 
-A Learning Journey to DBS Asia Hunb where Peer Support Leaders (PSLs) learnt how cybersecurity is practised in real-life through station-booths &amp; hands-on activities.
+A Learning Journey to DBS Asia Hub where Peer Support Leaders (PSLs) learnt how cybersecurity is practised in real-life through station-booths &amp; hands-on activities.
 <br>
 <table style="width:100%">
   <tbody><tr>
