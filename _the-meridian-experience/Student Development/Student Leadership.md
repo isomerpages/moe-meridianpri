@@ -18,11 +18,11 @@ variant: markdown
 
 <p>We strongly encourage our students to put these 5 practices frequently into actions to grow as a leader.</p>
 
-<h5>The Leadership Training Domains</h5>
+<h4>The Leadership Training Domains</h4>
 
 <img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL2.png" style="width:750px;height:355px;float:center">
 
-<h5>The Leadership Training and Opportunities are as follows:</h5>
+<h4>The Leadership Training and Opportunities are as follows:</h4>
 
 <img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL3.png" style="width:750px;height:255px;float:center">
 
