@@ -8,7 +8,7 @@ variant: markdown
 <p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
 
 
-<h3 style="margin-bottom:0; margin-top:1;"> School Leaders</h3>
+<h4 style="margin-bottom:0; margin-top:1;"> School Leaders</h4>
 
 <table style="width:100%">
   <tbody><tr>
@@ -30,7 +30,7 @@ variant: markdown
 	
 </tbody></table>
 
-### Year Head/Assistant Year Head
+#### Year Head/Assistant Year Head
 
 <table style="width:100%">
   <tbody><tr>
@@ -117,7 +117,7 @@ variant: markdown
 	
 </tbody></table>
 
-### Executive and Administrative Staff
+#### Executive and Administrative Staff
 
 
 <table style="width:100%">
