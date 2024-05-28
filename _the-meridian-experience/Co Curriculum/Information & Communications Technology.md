@@ -34,8 +34,7 @@ variant: markdown
 
 #### Key Programmes
 
-**A) Learn ICT**
-
+**A) Learn ICT**<br>
 Student ICT Capacity Building Programme
 
 <p align="justify">Taking reference from MOE’s Baseline ICT Standard and New Media Literacies for primary schools, lessons are designed in spiral-upwards to progressively build the ICT capacity of our students. Each department has infused Baseline ICT skills into their curriculum so that students benefit from an ICT-enabled learning environment.&nbsp;&nbsp;The skills covered include:</p>
