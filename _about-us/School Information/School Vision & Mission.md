@@ -5,8 +5,6 @@ description: ""
 third_nav_title: School Information
 variant: markdown
 ---
-### School Vision &amp; Mission
-
 ####  Our Vision
 **Future Learners, Future Citizens, Future Leaders**  
 
