@@ -9,7 +9,7 @@ variant: markdown
 
 <p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
 
-<h3 style="margin-bottom:0; margin-top:1;"> Vision</h3>
+<h4 style="margin-bottom:0; margin-top:1;"> Vision</h4>
 
 <p align="justify">A Confident and Caring Scientist in every Meridian.</p>
 
