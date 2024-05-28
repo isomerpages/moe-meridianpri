@@ -8,10 +8,10 @@ variant: markdown
 <img src="/images/Our%20Staff/2023%20Dept%20Photos/MTL__Formal_min.jpg" style="width:650px;height:455px;float:center">
 <p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
 
-<h3 style="margin-bottom:0; margin-top:1;"> Vision</h3>
+<h4 style="margin-bottom:0; margin-top:1;"> Vision</h4>
 <p>Mother Tongue Language – A Living Language</p>
 
-### Mission
+#### Mission
 The department aims to:  
 
 *   develop students into proficient language users who can communicate in a confident and effective way in real life situations  
