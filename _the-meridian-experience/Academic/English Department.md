@@ -12,9 +12,7 @@ variant: markdown
 <h4 style="margin-bottom:0; margin-top:1;">Objectives</h4>
 
 The English Language Programme at Meridian Primary aims to<br>
-<br>
 • develop effective and confident 21st century communicators<br>
-<br>
 • inspire the love for the English Language<br>
 
 #### Teaching Approach
