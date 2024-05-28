@@ -5,11 +5,9 @@ description: ""
 third_nav_title: School Information
 variant: markdown
 ---
-Welcome
-=======
+#### Welcome
 
 **Welcome to the Meridian Family**
-
 
 **Our Key Belief &amp; Approach – “It takes the whole village to raise a child”**
 
