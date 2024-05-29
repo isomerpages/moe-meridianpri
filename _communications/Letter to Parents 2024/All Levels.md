@@ -20,6 +20,9 @@ variant: markdown
 	<li>
 		<a href="/files/2024%20Letter%20to%20Parents/Primary%204/8_May_Virtual_overseas_chinese_language.pdf">Virtual Overseas Chinese Language &amp; Cultural Immersion Programme 2024 </a><font size="2"> (8 May 2024)</font>
 	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/24_May__End_of_Term_2_Letter_to_Parents_2024.pdf">End of Term 2 Letter to Parents 2024 </a><font size="2"> (24 May 2024)</font>
+	</li>
 	</ul>
 </details>
 

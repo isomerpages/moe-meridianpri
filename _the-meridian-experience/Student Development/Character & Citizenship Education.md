@@ -8,11 +8,11 @@ variant: markdown
 <img src="/images/Our%20Staff/2023%20Dept%20Photos/CCE__Formal_min.jpg" style="width:650px;height:455px;float:center">
 <p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
 
-<h3 style="margin-bottom:0; margin-top:1;"> Vision</h3>
+<h4 style="margin-bottom:0; margin-top:1;"> Vision</h4>
 
 <p align="justify">Students to have the knowledge, skills, values and attitudes to develop strong character (social well-being), strong mind (mental well-being) and strong bodies (physical well-being).</p>
 
-### Approach
+#### Approach
 <p align="justify">In line with the school’s motto, To Learn, To Love and To Lead, the Character &amp; Citizenship Education focuses on a school-wide approach to help students
 </p><ul>
 	<li>build a strong character to know right from wrong, self-regulate, work as a team, fair, forgiving and honest</li>
@@ -116,7 +116,7 @@ During the termly Peer Support Leaders (PSLs) sessions, students have a better u
 </tbody></table>
 
 
-A Learning Journey to DBS Asia Hunb where Peer Support Leaders (PSLs) learnt how cybersecurity is practised in real-life through station-booths &amp; hands-on activities.
+A Learning Journey to DBS Asia Hub where Peer Support Leaders (PSLs) learnt how cybersecurity is practised in real-life through station-booths &amp; hands-on activities.
 <br>
 <table style="width:100%">
   <tbody><tr>

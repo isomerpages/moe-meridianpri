@@ -8,10 +8,10 @@ variant: markdown
 <img src="/images/Our%20Staff/2023%20Dept%20Photos/Math__Formal_min.jpg" style="width:650px;height:455px;float:center">
 <p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
 
-<h3 style="margin-bottom:0; margin-top:1;"> Vision</h3>
+<h4 style="margin-bottom:0; margin-top:1;"> Vision</h4>
 <p>Passionate and Confident Maths Learners</p>
 
-### Mission
+#### Mission
 <p>To develop self-directed learners who are confident and show interest in Mathematics.</p>
 
 #### Approach

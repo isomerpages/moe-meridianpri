@@ -3,13 +3,10 @@ title: School Song
 permalink: /about-us/school-information/school-song/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
+#### School Song
 
-### School Song
-	
-<html>
-
-<body>
 	
 <p>
 To Learn, To Love, To Lead is the motto of our school.<br>
@@ -37,9 +34,5 @@ We’ll face the challenges as we climb till we reach our dream.
 <u>Composer:</u> <br>
 Mrs Carmee Lim (Former Principal of Raffles Girls’ School)<br>
 <u>Lyricists:</u><br>
-Mrs Carmee Lim & Mr Eric Lim (Former Principal of Meridian Primary School)
+Mrs Carmee Lim &amp; Mr Eric Lim (Former Principal of Meridian Primary School)
 </p>
-
-
-</body>
-</html>

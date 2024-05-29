@@ -47,7 +47,7 @@ variant: markdown
 		
   </tr>
 		<tr>
-    <td><a href="mailto:nur_irfanah_norisham@moe.edu.sg">Mds Nur Irfanah Bte Norisham</a></td>
+    <td><a href="mailto:nur_irfanah_norisham@moe.edu.sg">Mdm Nur Irfanah Bte Norisham</a></td>
     <td>English Language Teacher</td>
   </tr>
 	<tr>
