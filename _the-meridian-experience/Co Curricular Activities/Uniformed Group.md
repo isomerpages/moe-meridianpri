@@ -26,16 +26,14 @@ variant: markdown
 
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S1.jpg" style="width:450px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S2.jpg" style="width:450px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts2024_1.png" style="width:450px;height:220px;float:center"></td>
 	</tr>
 	<tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S3.jpg" style="width:450px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S4.jpg" style="width:450px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts2024_2.png" style="width:250px;height:320px;float:center"></td>
+    <td><br><br><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts2024_3.png" style="width:450px;height:220px;float:center"></td>
 	</tr>
 	
 </tbody></table>
-
-<iframe width="350" height="250" src="https://www.youtube.com/embed/1Eg-gxwyJgQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 For enquiries on the school’s Scouts CCA, please email:<br>
 • <a href="mailto:lee_song_sang@moe.edu.sg">Mdm Lee Song Sang</a><br>
