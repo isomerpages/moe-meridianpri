@@ -25,15 +25,18 @@ variant: markdown
 <table style="width:100%">
 
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S1.jpg" style="width:450px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts2024_1.png" style="width:450px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/2024_S1.jpg" style="width:450px;height:220px;float:center"><p style="margin-bottom:0; margin-top:0; text-align:center;">Founder's Day</p></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts2024_1.png" style="width:450px;height:220px;float:center"><p style="margin-bottom:0; margin-top:0; text-align:center;">Diamond Jubilee Challenge</p></td>
 	</tr>
 	<tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts2024_2.png" style="width:250px;height:320px;float:center"></td>
-    <td><br><br><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts2024_3.png" style="width:450px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts2024_2.png" style="width:250px;height:320px;float:center"><p style="margin-bottom:0; margin-top:0; text-align:center;">Adiji Chief Scout Event</p></td>
+    <td><br><br><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts2024_3.png" style="width:450px;height:220px;float:center"><p style="margin-bottom:0; margin-top:0; text-align:center;">Akela Award Assessment</p></td>
 	</tr>
-	
 </tbody></table>
+
+<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts2024_4.jpg" style="width:350px;height:250px;">
+<p style="margin-bottom:0; margin-top:0; text-align:center;">Frank Cooper Sands Award Ceremony</p>
+
 
 For enquiries on the school’s Scouts CCA, please email:<br>
 • <a href="mailto:lee_song_sang@moe.edu.sg">Mdm Lee Song Sang</a><br>
