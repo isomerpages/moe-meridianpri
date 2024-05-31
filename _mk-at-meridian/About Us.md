@@ -4,6 +4,10 @@ permalink: /mk-at-meridian/about-us/
 description: ""
 variant: markdown
 ---
+
+![](/images/MK@Meridian/2024/Banner.jpg)
+<hr>
+
 #### MOE Kindergarten @ Meridian
 <table style="width:100%">
   <tbody><tr>
