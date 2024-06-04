@@ -112,7 +112,7 @@ For enquiries on the school’s Football CCA, please email:<br>
 
 <b>Highlights (National Schools Games Taekwondo Competition)</b>
 
-<b>2022</b>
+<u>2022</u>
 <br>Poomsae Category (Senior Division)
 <ul>
 	<li>Y8 individual girl: 3rd position (Naila Khalisya)</li>
@@ -127,7 +127,7 @@ Poomsae Category (Junior Division)
 	<li>W9 individual boy: 8th position (Thaddeus Tay)</li>
 </ul>
 
-<b>2023</b>
+<u>2023</u>
 <br>Poomsae Category (Senior Division)
 <ul><li>W9 individual girl: 2nd position (Aryshakie)</li>
 <li>W9 individual boy: 7th position (Hamizan)</li>
@@ -136,6 +136,16 @@ Poomsae Category (Junior Division)
 Poomsae Category (Junior Division)
 <ul>
 	<li>Achievement Pin: Ariq Putra, Das Nirvana, Justin Toh, Tiago</li>
+</ul>
+
+<u>2024</u>
+<br>Poomsae Category (Senior Division)
+<ul>
+	<li>Senior Division Boys Green 5 (7th place) (Ariq Putra)</li>
+	</ul>
+	Poomsae Category (Junior Division)
+<ul>	
+	<li>Junior Division Girls Green 5 (8th place) (Banaag Praise)</li>
 </ul>
 
 For enquiries on the school’s Taekwondo CCA, please email:<br>
