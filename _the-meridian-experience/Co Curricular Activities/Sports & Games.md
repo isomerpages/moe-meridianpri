@@ -33,6 +33,16 @@ variant: markdown
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB5.jpg" style="width:width:350px;height:250px;float:center"></td>
   </tr>
 </tbody></table>
+
+<b>Achievements</b><br>
+<u>2024</u>
+<ul>
+	<li>National School Games Floorball 2024</li>
+	<li>Senior Division Boys - League 2 (3rd)</li>
+	<li>Senior Division Girls - League 3 (3rd)</li>
+</ul>
+
+
 <br>
  For enquiries on the school’s Floorball CCA, please email:<br>
 • <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a><br>
@@ -103,7 +113,7 @@ For enquiries on the school’s Football CCA, please email:<br>
 
 <b>Highlights (National Schools Games Taekwondo Competition)</b>
 
-<b>2022</b>
+<u>2022</u>
 <br>Poomsae Category (Senior Division)
 <ul>
 	<li>Y8 individual girl: 3rd position (Naila Khalisya)</li>
@@ -118,7 +128,7 @@ Poomsae Category (Junior Division)
 	<li>W9 individual boy: 8th position (Thaddeus Tay)</li>
 </ul>
 
-<b>2023</b>
+<u>2023</u>
 <br>Poomsae Category (Senior Division)
 <ul><li>W9 individual girl: 2nd position (Aryshakie)</li>
 <li>W9 individual boy: 7th position (Hamizan)</li>
@@ -127,6 +137,16 @@ Poomsae Category (Junior Division)
 Poomsae Category (Junior Division)
 <ul>
 	<li>Achievement Pin: Ariq Putra, Das Nirvana, Justin Toh, Tiago</li>
+</ul>
+
+<u>2024</u>
+<br>Poomsae Category (Senior Division)
+<ul>
+	<li>Senior Division Boys Green 5 (7th place) (Ariq Putra)</li>
+	</ul>
+Poomsae Category (Junior Division)
+<ul>	
+	<li>Junior Division Girls Green 5 (8th place) (Banaag Praise)</li>
 </ul>
 
 For enquiries on the school’s Taekwondo CCA, please email:<br>
