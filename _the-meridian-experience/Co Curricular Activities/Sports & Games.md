@@ -33,6 +33,15 @@ variant: markdown
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB5.jpg" style="width:width:350px;height:250px;float:center"></td>
   </tr>
 </tbody></table>
+
+<p><u>2024 Achievements</u></p>
+<ul>
+	<li>National School Games Floorball 2024</li>
+	<li>Senior Division Boys - League 2 (3rd)</li>
+	<li>Senior Division Girls - League 3 (3rd)</li>
+</ul>
+
+
 <br>
  For enquiries on the school’s Floorball CCA, please email:<br>
 • <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a><br>
