@@ -144,7 +144,7 @@ Poomsae Category (Junior Division)
 <ul>
 	<li>Senior Division Boys Green 5 (7th place) (Ariq Putra)</li>
 	</ul>
-	Poomsae Category (Junior Division)
+<br>Poomsae Category (Senior Division)
 <ul>	
 	<li>Junior Division Girls Green 5 (8th place) (Banaag Praise)</li>
 </ul>
