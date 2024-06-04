@@ -34,7 +34,8 @@ variant: markdown
   </tr>
 </tbody></table>
 
-<p><u>2024 Achievements</u></p>
+<b>Achievements</b><br>
+<u>2024</u>
 <ul>
 	<li>National School Games Floorball 2024</li>
 	<li>Senior Division Boys - League 2 (3rd)</li>
