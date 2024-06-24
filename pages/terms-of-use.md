@@ -49,6 +49,8 @@ Except as set forth below, caching and links to, and the framing of this Web Sit
 
 <p align="justify">Meridian Primary School reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.</p>
 
+<p align="justify">Meridian Primary School reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.</p>
+
   
 **Governing Law<br>**
 These Terms shall be governed and construed in accordance with laws of the Republic of Singapore.
