@@ -9,7 +9,7 @@ variant: markdown
 These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.</p>
 
 <p align="justify"><b>Proprietary Rights</b><br>
-This Web Site is maintained by Meridian Primary School. It is owned by Meridian Primary School.</p>
+This Web Site is maintained by Meridian Primary School. It is owned by Meridian Primary School.         The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Meridian Primary School.</p>
 
 **Privacy Policy**<br>
 Click&nbsp;[here](https://meridianpri.moe.edu.sg/others/privacy-statement)&nbsp;to review this Web Site’s Privacy Statement.
