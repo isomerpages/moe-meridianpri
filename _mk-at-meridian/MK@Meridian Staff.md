@@ -79,20 +79,20 @@ variant: markdown
     <td><a href="mailto:mohamad_firdaus_moliadi@moe.edu.sg">Mr Mohd Firdaus Bin Moliadi</a></td>
     <td>Malay Language Teacher</td>
   </tr>
-	<tr>
-    <td><a href="mailto:nurul_ainn_rostan@moe.edu.sg">Ms Nurul Ainn Binte Rostan</a></td>
-    <td>Malay Language Teacher</td>
-  </tr>
 		<tr>
     <td><a href="mailto:murugesan_madhumitha@moe.edu.sg">Ms Murugesan Madhumitha</a></td>
     <td>Tamil Language Teacher</td>
+  </tr>
+		<tr>
+    <td><a href="mailto:Chan_Siak_Khim@moe.edu.sg">Ms Chan Siak Khim, Madeline</a></td>
+    <td>FAJT</td>
   </tr>
 		<tr>
     <td><a href="mailto:nurfarhana_sabtu@moe.edu.sg">Mdm Nurfarhana Binte Sabtu</a></td>
     <td>FAJT</td>
   </tr>
 		<tr>
-    <td><a href="mailto:Chan_Siak_Khim@moe.edu.sg">Ms Chan Siak Khim, Madeline</a></td>
+    <td><a href="mailto:nurulsafira_mohamad_rafi@moe.edu.sg">Ms Nurulsafira Binte Mohamad Rafi</a></td>
     <td>FAJT</td>
   </tr>
 		<tr>
