@@ -108,7 +108,7 @@ variant: markdown
 		</tr>
 	<tr>
     <td><a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Noor Heryanti Abd Karim</a></td>
-    <td>Level Head Math</td>
+    <td>Level Head Maths</td>
   </tr>
 		<tr>
     <td><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah Bte Md Nasir</a></td>
