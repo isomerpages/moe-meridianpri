@@ -4,7 +4,6 @@ permalink: /mk-at-meridian/announcements/
 description: ""
 variant: markdown
 ---
-
 <details>
   <summary>Open House</summary>
 <ul>
