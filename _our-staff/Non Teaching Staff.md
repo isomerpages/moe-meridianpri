@@ -26,6 +26,10 @@ variant: markdown
     <td><a href="mailto:angela_chua_ai_im@moe.edu.sg">Mdm Chua Ai Im Angela</a></td>
     <td>Administrative Executive</td>
   </tr>
+		 <tr>
+    <td><a href="mailto:mandy_tiah@moe.edu.sg">Mdm Mandy Tiah</a></td>
+    <td>Corporate Support Officer (CSO)</td>
+  </tr>
 	<tr>
     <td><a href="mailto:Sohana_Abd_halim@moe.edu.sg">Mdm Sohana Abd Halim</a></td>
     <td>Corporate Support Officer (CSO)</td>
