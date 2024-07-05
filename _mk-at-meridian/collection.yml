@@ -2,6 +2,7 @@ collections:
   mk-at-meridian:
     output: true
     order:
+      - Photo Gallery.md
       - About Us.md
       - MK@Meridian Staff.md
       - Announcements.md
