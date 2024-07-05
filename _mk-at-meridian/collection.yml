@@ -2,9 +2,9 @@ collections:
   mk-at-meridian:
     output: true
     order:
-      - Photo Gallery.md
       - About Us.md
       - MK@Meridian Staff.md
       - Announcements.md
+      - Photo Gallery.md
       - MK Uniform Information.md
       - 2024 Calendar of Events.md
