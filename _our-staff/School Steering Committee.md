@@ -111,6 +111,10 @@ variant: markdown
     <td>Level Head Maths</td>
   </tr>
 		<tr>
+    <td><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah Bte Md Nasir</a></td>
+    <td>Subject Head Malay</td>
+  </tr>
+		<tr>
     <td><a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Miss Chua Ee Lyn</a></td>
     <td>Subject Head Science (Covering)</td>
   </tr>
