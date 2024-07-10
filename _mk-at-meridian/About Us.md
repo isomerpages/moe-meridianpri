@@ -30,7 +30,7 @@ From 2022: K1, K2, KCare
 <hr>
 
 ##### For more information on MOE Kindergartens
-Please visit the MOE website at <a href="https://www.moe.gov.sg/preschool/moe-kindergarten">https://www.moe.gov.sg/preschool/moe-kindergarten</a><br>
+Please visit the MOE website at <a target="_blank" href="https://www.moe.gov.sg/preschool/moe-kindergarten">https://www.moe.gov.sg/preschool/moe-kindergarten</a><br>
 Our MK collaborates with the following Early Years Centres:
 <hr>
 
