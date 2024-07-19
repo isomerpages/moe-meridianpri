@@ -125,6 +125,8 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 For enquiries on the school’s Photography and Videography CCA, please email:<br>
 • <a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung</a><br>
 •  <a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho</a>
+	<br>
+	<br>
 </details>
 
 <details>
