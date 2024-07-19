@@ -20,14 +20,6 @@ variant: markdown
 	</ul>
 </details>
 <details>
-  <summary>June</summary>
-<ul>
-	<li>
-		<a href="/files/2024%20Letter%20to%20Parents/Primary%206/25_June_Update_of_P6_Exam.pdf">Updates to the 2024 P6 Preliminary Exam Schedule</a><font size="2"> (25 June 2024)</font>
-	</li>
-	</ul>
-</details>
-<details>
   <summary>May</summary>
 <ul>
 	<li>
