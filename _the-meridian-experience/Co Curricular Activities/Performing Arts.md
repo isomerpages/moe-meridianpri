@@ -69,6 +69,8 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
 For enquiries on the school’s Chinese Dance CCA, please email:<br>
 • <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a><br>
 • <a href="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen</a>
+	<br>
+<br>
 </details>
 
 
@@ -111,7 +113,8 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 For enquiries on the school’s Guzheng CCA, please email:<br>
 • <a href="mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiaolu</a><br>
 • <a href="mailto:lim_lee_yong@moe.edu.sg">Ms Debbie Lim</a>
-
+<br>
+<br>
 </details>
 
 
@@ -158,7 +161,8 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 For enquiries on the school’s Malay Dance CCA, please email:<br>
 • <a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a><br>
 • <a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu Bte Mohamed</a>
-
+<br>
+<br>
 </details>
 
 
