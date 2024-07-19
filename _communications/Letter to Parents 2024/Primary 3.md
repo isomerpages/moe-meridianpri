@@ -6,6 +6,17 @@ third_nav_title: Letter to Parents 2024
 variant: markdown
 ---
 <details>
+  <summary>July</summary>
+<ul>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%203/8_July_P3_Assessment.pdf">Assessment for Primary 3</a><font size="2"> (8 July 2024)</font>
+	</li>
+		<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/10_July_Serve_to_Lead.pdf">Dance of the Nation Training Programme</a><font size="2"> (10 July 2024)</font>
+	</li>
+	</ul>
+</details>
+<details>
   <summary>April</summary>
 <ul>
 	<li>
