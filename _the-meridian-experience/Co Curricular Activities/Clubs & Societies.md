@@ -5,9 +5,10 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-#### Eco-Enviro Science Club
-
-**Eco-Enviro Science Club**&nbsp;_(For Boys and Girls)_
+<details>
+  <summary><b>Eco-Enviro Science Club</b></summary>
+	<br>
+			<i>(For Boys and Girls)</i>
 
 <p align="justify"> The Eco-Enviro Science Club provides students with the opportunity to learn Science through hands-on interaction. Students are exposed to topics such as environmental conservation, habitat reforestation and global warning. Students also get to learn extension to topics beyond the usual curriculum such as how volcanoes erupt and sublimation.</p>
 
@@ -37,12 +38,12 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 • <a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
 • <a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a><br>
 • <a href="mailto:low_boon_khim@moe.edu.sg">Mr Clarence Low</a>
+</details>
 
-<hr>
-
-#### Infocomm Technology (Computing)&nbsp;
-
-**Infocomm Technology (Computing)**&nbsp;_(For Boys and Girls)_
+<details>
+  <summary><b>Infocomm Technology (Computing)</b></summary>
+	<br>
+		<i>(For Boys and Girls)</i>
 
 <p align="justify">Infocomm Technology (Computing) aims to excite students about technology in an engaging and meaningful way by helping them to learn coding skills and to cultivate leadership and entrepreneurship capabilities at an early age.</p>
 
@@ -75,6 +76,11 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 • <a href="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah</a>
 
 <hr>
+</details>
+
+
+
+
 
 #### Infocomm Technology (Media Production)&nbsp;
 
