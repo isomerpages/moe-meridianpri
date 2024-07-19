@@ -70,7 +70,7 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 • <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a><br>
 • <a href="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen</a>
 </details>
-<br>
+
 
 <details>
   <summary><b>Guzheng</b></summary>
@@ -114,7 +114,7 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 
 </details>
 
-<br>
+
 <details>
   <summary><b>Malay Dance</b></summary>
 	<br>
@@ -161,7 +161,7 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 
 </details>
 
-<br>
+
 <details>
   <summary><b>Show Choir</b></summary>
 	<br>
