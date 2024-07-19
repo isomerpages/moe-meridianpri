@@ -159,7 +159,7 @@ For enquiries on the school’s Taekwondo CCA, please email:<br>
 <details>
   <summary><b>Sport Club</b></summary>
 	<br>
-			<b>Sport Club</b>&nbsp;<i>(Boys and Girls Only)</i>
+			<i>(Boys and Girls Only)</i>
 
 <p align="justify">The sports club is a modular CCA. It aims to expose students to a variety of sports including mini-tennis, modified basketball, badminton, and other recreational activities.&nbsp;There are many sports activities to keep the students motivated in staying physically active. From time to time, selected students will also be given the platform to showcase their skills and abilities through learn-to-play workshops and inter-school competitions.</p>
 
@@ -199,4 +199,3 @@ For enquiries on the school’s Sport Club CCA, please email:<br>
 • <a href="mailto:yeo_han_leng_david@moe.edu.sg">Mr David Yeo</a><br>
 • <a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Heryanti</a>
 </details>
-
