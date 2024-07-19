@@ -9,13 +9,18 @@ variant: markdown
 
 
 <details>
+  <summary>July</summary>
+<ul>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/2_July_Chinese_Culture_Musical.pdf">Chinese Cultural Musical Performance</a><font size="2"> (2 July 2024)</font>
+	</li>
+	</ul>
+</details>
+<details>
   <summary>June</summary>
 <ul>
 	<li>
-		<a href="/files/2024%20Letter%20to%20Parents/Primary%206/25_June_Update_of_P6_Exam.pdf">Updates to the 2024 P6 Preliminary Exam Schedule</a><font size="2"> (8 May 2024)</font>
-	</li>
-	<li>
-		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/24_May__End_of_Term_2_Letter_to_Parents_2024.pdf">End of Term 2 Letter to Parents 2024 </a><font size="2"> (24 May 2024)</font>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%206/25_June_Update_of_P6_Exam.pdf">Updates to the 2024 P6 Preliminary Exam Schedule</a><font size="2"> (25 June 2024)</font>
 	</li>
 	</ul>
 </details>
