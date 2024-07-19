@@ -5,9 +5,10 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-#### Chinese Dance&nbsp;
-
-**Chinese Dance**&nbsp;_(For Boys and Girls)_
+<details>
+  <summary><b>Chinese Dance</b></summary>
+	<br>
+				<i>(For Boys and Girls)</i>
 
 <p align="justify">The Chinese Dance CCA aims to teach students basic dance movements and techniques. It instills appreciation of dance, music and the beauty of Chinese cultural.&nbsp; The CCA is an excellent platform for the students to develop their motor skills through dance movement.&nbsp; It also builds the students’ self-confidence and inculcates values such as teamwork, cooperation and discipline in them.</p>
 
@@ -68,12 +69,15 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
 For enquiries on the school’s Chinese Dance CCA, please email:<br>
 • <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a><br>
 • <a href="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen</a>
+	<br>
+<br>
+</details>
 
-<hr>
 
-#### Guzheng&nbsp;
-
-**Guzheng**&nbsp;_(For Boys and Girls)_
+<details>
+  <summary><b>Guzheng</b></summary>
+	<br>
+			<i>(For Boys and Girls)</i>
 
 <p align="justify">Guzheng (古筝), is a Chinese musical instrument that has a history dating back to 500 B.C. GU (古) in Chinese means, Old, long history. It is a&nbsp; popular instrument all over the world because of the elegant&nbsp; design. Learning Guzheng can help to develop the connection between left and right brain, because playing the Guzheng requires coordination of both the left hand and right hand. You can memorize better and be more attentive.</p>
 
@@ -109,10 +113,15 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 For enquiries on the school’s Guzheng CCA, please email:<br>
 • <a href="mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiaolu</a><br>
 • <a href="mailto:lim_lee_yong@moe.edu.sg">Ms Debbie Lim</a>
-<hr>
+<br>
+<br>
+</details>
 
-#### Malay Dance
-**Malay Dance**&nbsp;_(For Boys and Girls)_
+
+<details>
+  <summary><b>Malay Dance</b></summary>
+	<br>
+			<i>(For Boys and Girls)</i>
 
 <p align="justify"> Dancing is a unique form of exercise because it provides the heart-healthy benefits of an aerobic exercise while also allowing one to have fun. Dancing also helps to reduce stress, increase energy, improve strength and increase muscle tone and coordination.</p>
 
@@ -152,12 +161,15 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 For enquiries on the school’s Malay Dance CCA, please email:<br>
 • <a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a><br>
 • <a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu Bte Mohamed</a>
+<br>
+<br>
+</details>
 
-<hr>
 
-#### Show Choir
-
-**Choir**&nbsp;_(For Boys and Girls)_
+<details>
+  <summary><b>Show Choir</b></summary>
+	<br>
+			<i>(For Boys and Girls)</i>
 
 <p align="justify">The Choir CCA is about integrating coordinated modern dance choreography with strong vocal singing skills. Regardless of musical background, we welcome all students who are interested in the CCA, and we provide a platform for them to discover and display their talents in Music, song, dance and leadership. We strive to nurture the passion and confidence for performing in our students by providing them with multiple opportunities both in and out of school.</p>
 
@@ -199,8 +211,10 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YQdiFHXM7Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
+<br>
 For enquiries on the school’s Show Choir CCA, please email:<br>
 • <a href="mailto:angel_huang@moe.edu.sg">Ms Angel Huang</a><br>
 • <a href="mailto:alwin_tien_der-we@moe.edu.sg">Mr Alwin Tien</a><br>
 • <a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan Bte Abdul Wahab</a>
+
+</details>

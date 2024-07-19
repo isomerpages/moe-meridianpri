@@ -5,9 +5,10 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-#### Floorball
-
-<b>Floorball</b>&nbsp;<i>(For Boys and Girls)</i>
+<details>
+  <summary><b>Floorball</b></summary>
+	<br>
+		<i>(For Boys and Girls)</i>
 
 <p align="justify">Team Meridian Floorball aims to develop not only the players’ skills and playing strategies, but also their character.&nbsp;Through the training programme, we hope to grow every member to become a confident, adaptable and resilient individual.&nbsp;At the same time, understanding the importance of care, respect and teamwork. This is done through the close guidance of the coaches and teachers.</p>
 
@@ -49,12 +50,14 @@ variant: markdown
 • <a href="mailto:foo_si_min@moe.edu.sg">Ms Tracy Foo</a><br>
 • <a href="mailto:mark_chen@moe.edu.sg">Mr Mark Chen</a><br>
 • <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a>
+	<br>
+<br>
+</details>
 
-<hr>
-
-#### Football
-
-<b>Football</b>&nbsp;<i>(For Boys Only)</i>
+<details>
+  <summary><b>Football</b></summary>
+	<br>
+		<i>(For Boys Only)</i>
 
 <p align="justify">At the heart of our football team is a strong sense of <b>teamwork</b>. We believe that individual talent can only take us so far, but when combined with the collective effort of each player, we can achieve greatness. On the field, we move as one unit, supporting and encouraging each other to reach our common goals. Our victories are a testament to the power of teamwork, demonstrating that together, we are stronger.</p>
 
@@ -88,12 +91,14 @@ For enquiries on the school’s Football CCA, please email:<br>
 • <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
 • <a href="mailto:chua_ee_lyn@moe.edu.sg">Ms Chua Ee Lyn</a><br>
 • <a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Mohan</a>
+	<br>
+<br>
+</details>
 
-<hr>
-
-#### Taekwondo&nbsp;
-
-<b>Taekwondo</b>&nbsp;<i>(For Boys and Girls)</i>
+<details>
+  <summary><b>Taekwondo</b></summary>
+	<br>
+			<i>(For Boys and Girls)</i>
 
 <p align="justify">The Taekwondo CCA at Meridian Primary School aims to build students’ physical fitness and students’ foundation in Taekwondo Pattern (Poomsae). Taekwondo members will get a chance to participate in the annual competition such as the National School Games Taekwondo Competition or perform during the Year End Prize Presentation ceremony to gain experience and confidence. </p>
 
@@ -153,13 +158,14 @@ For enquiries on the school’s Taekwondo CCA, please email:<br>
 • <a href="mailto:nurrashidah_norman@moe.edu.sg">Ms Shidah</a><br>
 • <a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah</a><br>
 • <a href="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a>
-
-
-<hr>
-
-<h4>Sports Club</h4>
+	<br>
 <br>
-<b>Sport Club</b>&nbsp;<i>(Boys and Girls Only)</i>
+</details>
+
+<details>
+  <summary><b>Sport Club</b></summary>
+	<br>
+			<i>(Boys and Girls Only)</i>
 
 <p align="justify">The sports club is a modular CCA. It aims to expose students to a variety of sports including mini-tennis, modified basketball, badminton, and other recreational activities.&nbsp;There are many sports activities to keep the students motivated in staying physically active. From time to time, selected students will also be given the platform to showcase their skills and abilities through learn-to-play workshops and inter-school competitions.</p>
 
@@ -198,3 +204,4 @@ Activities for 2024 include the following sports:<br>
 For enquiries on the school’s Sport Club CCA, please email:<br>
 • <a href="mailto:yeo_han_leng_david@moe.edu.sg">Mr David Yeo</a><br>
 • <a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Heryanti</a>
+</details>

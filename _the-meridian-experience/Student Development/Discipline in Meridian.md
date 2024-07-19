@@ -28,8 +28,3 @@ variant: markdown
 
 <p>These 3 rules are guided by the&nbsp;<b>Code of Conduct</b>&nbsp;below which states clearly the boundaries of acceptable conduct in school and in society.</p>
 
-
-![](/images/CCE/Discipline%20in%20Meridian/Code%20of%20Conduct%20(1).jpg)
-
-
-![](/images/CCE/Discipline%20in%20Meridian/Code%20of%20Conduct%202.jpg)
