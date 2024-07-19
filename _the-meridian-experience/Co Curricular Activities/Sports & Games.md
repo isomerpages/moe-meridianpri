@@ -91,10 +91,10 @@ For enquiries on the school’s Football CCA, please email:<br>
 • <a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Mohan</a>
 </details>
 
-
-#### Taekwondo&nbsp;
-
-<b>Taekwondo</b>&nbsp;<i>(For Boys and Girls)</i>
+<details>
+  <summary><b>Taekwondo</b></summary>
+	<br>
+			<b>Taekwondo</b>&nbsp;<i>(For Boys and Girls)</i>
 
 <p align="justify">The Taekwondo CCA at Meridian Primary School aims to build students’ physical fitness and students’ foundation in Taekwondo Pattern (Poomsae). Taekwondo members will get a chance to participate in the annual competition such as the National School Games Taekwondo Competition or perform during the Year End Prize Presentation ceremony to gain experience and confidence. </p>
 
@@ -154,9 +154,7 @@ For enquiries on the school’s Taekwondo CCA, please email:<br>
 • <a href="mailto:nurrashidah_norman@moe.edu.sg">Ms Shidah</a><br>
 • <a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah</a><br>
 • <a href="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a>
-
-
-<hr>
+</details>
 
 <h4>Sports Club</h4>
 <br>
