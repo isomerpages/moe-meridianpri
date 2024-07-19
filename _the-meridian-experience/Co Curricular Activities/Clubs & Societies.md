@@ -39,7 +39,7 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 • <a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a><br>
 • <a href="mailto:low_boon_khim@moe.edu.sg">Mr Clarence Low</a>
 </details>
-<br>
+
 <details>
   <summary><b>Infocomm Technology (Computing)</b></summary>
 	<br>
@@ -78,7 +78,7 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 <hr>
 </details>
 
-<br>
+
 <details>
   <summary><b>Infocomm Technology (Media Production)</b></summary>
 	<br>
@@ -127,7 +127,6 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
 •  <a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho</a>
 </details>
 
-<br>
 <details>
   <summary><b>Art Club</b></summary>
 	<br>
