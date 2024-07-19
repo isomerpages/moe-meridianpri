@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: markdown
 ---
 <details>
-  <summary><b>Eco-Enviro Science Club</b></summary>
+  <summary><strong>Eco-Enviro Science Club</strong></summary>
 	<br>
 			<i>(For Boys and Girls)</i>
 
