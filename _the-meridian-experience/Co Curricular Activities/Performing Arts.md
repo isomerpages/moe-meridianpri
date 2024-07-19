@@ -5,9 +5,10 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-#### Chinese Dance&nbsp;
-
-**Chinese Dance**&nbsp;_(For Boys and Girls)_
+<details>
+  <summary><b>Chinese Dance</b></summary>
+	<br>
+				<i>(For Boys and Girls)</i>
 
 <p align="justify">The Chinese Dance CCA aims to teach students basic dance movements and techniques. It instills appreciation of dance, music and the beauty of Chinese cultural.&nbsp; The CCA is an excellent platform for the students to develop their motor skills through dance movement.&nbsp; It also builds the students’ self-confidence and inculcates values such as teamwork, cooperation and discipline in them.</p>
 
@@ -68,8 +69,9 @@ Students are given the opportunities to take part in the SYF Arts Presentation a
 For enquiries on the school’s Chinese Dance CCA, please email:<br>
 • <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a><br>
 • <a href="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen</a>
+</details>
 
-<hr>
+
 
 #### Guzheng&nbsp;
 
