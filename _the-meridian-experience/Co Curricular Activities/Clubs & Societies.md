@@ -79,12 +79,10 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 </details>
 
 
-
-
-
-#### Infocomm Technology (Media Production)&nbsp;
-
-**Infocomm Technology (Media Production)**&nbsp;_(For Boys and Girls)_
+<details>
+  <summary><b>Infocomm Technology (Media Production)</b></summary>
+	<br>
+		<i>(For Boys and Girls)</i>
 
 <p align="justify">To provide a platform for our students to take good photos and product the good videos through our CCA, Media Production. At the Media Production CCA, students get to learn photography, videography and editing skills. They can take part in some competitions every year, for example, SDMA (MOE), National Primary Schools Photography Competition and National Photography Festival (Primary Schools).</p>
 
@@ -127,11 +125,13 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 For enquiries on the school’s Photography and Videography CCA, please email:<br>
 • <a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung</a><br>
 •  <a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho</a>
-<hr>
+</details>
 
-#### Art Club
 
-**Art and Craft**&nbsp;_(For Boys and Girls)_
+<details>
+  <summary><b>Art Club</b></summary>
+	<br>
+		<i>(For Boys and Girls)</i>
 
 <p align="justify"> The Art club takes a comprehensive approach towards learning and appreciation of art such as holistic</p>
 
@@ -218,3 +218,6 @@ For enquiries on the school’s &nbsp;Art Club CCA, please email:<br>
 • <a href="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah</a><br>
 • <a href="mailto:norhaida_kamaludin@moe.edu.sg">Ms Norhaida</a><br>
 •  <a href="mailto:muhammad_raziz_abdul_razak@moe.edu.sg">Mr Muhammad Raziz</a>
+</details>
+
+
