@@ -14,6 +14,9 @@ variant: markdown
 	<li>
 		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/2_July_Chinese_Culture_Musical.pdf">Chinese Cultural Musical Performance</a><font size="2"> (2 July 2024)</font>
 	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%203/8_July_P3_Assessment.pdf">Assessment for Primary 3</a><font size="2"> (8 July 2024)</font>
+	</li>
 	</ul>
 </details>
 <details>
