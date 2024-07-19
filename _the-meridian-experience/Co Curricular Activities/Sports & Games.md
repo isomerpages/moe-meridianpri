@@ -5,9 +5,10 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-#### Floorball
-
-<b>Floorball</b>&nbsp;<i>(For Boys and Girls)</i>
+<details>
+  <summary>Floorball</summary>
+	<br>
+		<b>Floorball</b>&nbsp;<i>(For Boys and Girls)</i>
 
 <p align="justify">Team Meridian Floorball aims to develop not only the players’ skills and playing strategies, but also their character.&nbsp;Through the training programme, we hope to grow every member to become a confident, adaptable and resilient individual.&nbsp;At the same time, understanding the importance of care, respect and teamwork. This is done through the close guidance of the coaches and teachers.</p>
 
@@ -49,8 +50,8 @@ variant: markdown
 • <a href="mailto:foo_si_min@moe.edu.sg">Ms Tracy Foo</a><br>
 • <a href="mailto:mark_chen@moe.edu.sg">Mr Mark Chen</a><br>
 • <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a>
+</details>
 
-<hr>
 
 #### Football
 
