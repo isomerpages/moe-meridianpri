@@ -71,11 +71,10 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 • <a href="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen</a>
 </details>
 
-
-
-#### Guzheng&nbsp;
-
-**Guzheng**&nbsp;_(For Boys and Girls)_
+<details>
+  <summary><b>Guzheng</b></summary>
+	<br>
+			<i>(For Boys and Girls)</i>
 
 <p align="justify">Guzheng (古筝), is a Chinese musical instrument that has a history dating back to 500 B.C. GU (古) in Chinese means, Old, long history. It is a&nbsp; popular instrument all over the world because of the elegant&nbsp; design. Learning Guzheng can help to develop the connection between left and right brain, because playing the Guzheng requires coordination of both the left hand and right hand. You can memorize better and be more attentive.</p>
 
@@ -111,7 +110,11 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 For enquiries on the school’s Guzheng CCA, please email:<br>
 • <a href="mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiaolu</a><br>
 • <a href="mailto:lim_lee_yong@moe.edu.sg">Ms Debbie Lim</a>
-<hr>
+
+</details>
+
+
+
 
 #### Malay Dance
 **Malay Dance**&nbsp;_(For Boys and Girls)_
