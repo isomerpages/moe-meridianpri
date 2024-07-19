@@ -6,6 +6,28 @@ third_nav_title: Letter to Parents 2024
 variant: markdown
 ---
 <details>
+  <summary>July</summary>
+<ul>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/2_July_Chinese_Culture_Musical.pdf">Chinese Cultural Musical Performance</a><font size="2"> (2 July 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%204/8_July_P4_Assessment.pdf">Assessment for Primary 4</a><font size="2"> (8 July 2024)</font>
+	</li>
+		<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/10_July_Serve_to_Lead.pdf">Dance of the Nation Training Programme</a><font size="2"> (10 July 2024)</font>
+	</li>
+	</ul>
+</details>
+<details>
+  <summary>June</summary>
+<ul>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%206/25_June_Update_of_P6_Exam.pdf">Updates to the 2024 P6 Preliminary Exam Schedule</a><font size="2"> (25 June 2024)</font>
+	</li>
+	</ul>
+</details>
+<details>
   <summary>May</summary>
 <ul>
 	<li>
