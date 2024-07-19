@@ -17,6 +17,12 @@ variant: markdown
 	<li>
 		<a href="/files/2024%20Letter%20to%20Parents/Primary%203/8_July_P3_Assessment.pdf">Assessment for Primary 3</a><font size="2"> (8 July 2024)</font>
 	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%204/8_July_P4_Assessment.pdf">Assessment for Primary 4</a><font size="2"> (8 July 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%205/8_July_P5_Assessment.pdf">Assessment for Primary 5</a><font size="2"> (8 July 2024)</font>
+	</li>
 	</ul>
 </details>
 <details>
