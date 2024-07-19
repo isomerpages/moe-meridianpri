@@ -70,9 +70,9 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 • <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a><br>
 • <a href="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen</a>
 </details>
+<br>
 
 <details>
-	
   <summary><b>Guzheng</b></summary>
 	<br>
 			<i>(For Boys and Girls)</i>
@@ -114,6 +114,7 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 
 </details>
 
+<br>
 <details>
   <summary><b>Malay Dance</b></summary>
 	<br>
@@ -160,6 +161,7 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 
 </details>
 
+<br>
 <details>
   <summary><b>Show Choir</b></summary>
 	<br>
@@ -205,14 +207,10 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YQdiFHXM7Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
+<br>
 For enquiries on the school’s Show Choir CCA, please email:<br>
 • <a href="mailto:angel_huang@moe.edu.sg">Ms Angel Huang</a><br>
 • <a href="mailto:alwin_tien_der-we@moe.edu.sg">Mr Alwin Tien</a><br>
 • <a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan Bte Abdul Wahab</a>
 
 </details>
-
-
-
-
