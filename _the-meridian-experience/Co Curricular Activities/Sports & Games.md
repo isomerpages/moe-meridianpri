@@ -94,7 +94,7 @@ For enquiries on the school’s Football CCA, please email:<br>
 <details>
   <summary><b>Taekwondo</b></summary>
 	<br>
-			<b>Taekwondo</b>&nbsp;<i>(For Boys and Girls)</i>
+			<i>(For Boys and Girls)</i>
 
 <p align="justify">The Taekwondo CCA at Meridian Primary School aims to build students’ physical fitness and students’ foundation in Taekwondo Pattern (Poomsae). Taekwondo members will get a chance to participate in the annual competition such as the National School Games Taekwondo Competition or perform during the Year End Prize Presentation ceremony to gain experience and confidence. </p>
 
@@ -156,9 +156,10 @@ For enquiries on the school’s Taekwondo CCA, please email:<br>
 • <a href="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a>
 </details>
 
-<h4>Sports Club</h4>
-<br>
-<b>Sport Club</b>&nbsp;<i>(Boys and Girls Only)</i>
+<details>
+  <summary><b>Sport Club</b></summary>
+	<br>
+			<b>Sport Club</b>&nbsp;<i>(Boys and Girls Only)</i>
 
 <p align="justify">The sports club is a modular CCA. It aims to expose students to a variety of sports including mini-tennis, modified basketball, badminton, and other recreational activities.&nbsp;There are many sports activities to keep the students motivated in staying physically active. From time to time, selected students will also be given the platform to showcase their skills and abilities through learn-to-play workshops and inter-school competitions.</p>
 
@@ -197,3 +198,5 @@ Activities for 2024 include the following sports:<br>
 For enquiries on the school’s Sport Club CCA, please email:<br>
 • <a href="mailto:yeo_han_leng_david@moe.edu.sg">Mr David Yeo</a><br>
 • <a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Heryanti</a>
+</details>
+
