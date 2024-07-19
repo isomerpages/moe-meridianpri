@@ -38,6 +38,8 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 • <a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
 • <a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a><br>
 • <a href="mailto:low_boon_khim@moe.edu.sg">Mr Clarence Low</a>
+	<br>
+<br>
 </details>
 
 <details>
@@ -74,8 +76,8 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 For enquiries on the school’s Infocomm Technology (Computing), please email:<br>
 • <a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi</a><br>
 • <a href="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah</a>
-
-<hr>
+<br>
+<br>
 </details>
 
 
