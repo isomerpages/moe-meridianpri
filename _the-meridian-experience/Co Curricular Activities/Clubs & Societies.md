@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
+
 <details>
   <summary><b>Eco-Enviro Science Club</b></summary>
 	<br>
@@ -219,5 +220,3 @@ For enquiries on the school’s &nbsp;Art Club CCA, please email:<br>
 • <a href="mailto:norhaida_kamaludin@moe.edu.sg">Ms Norhaida</a><br>
 •  <a href="mailto:muhammad_raziz_abdul_razak@moe.edu.sg">Mr Muhammad Raziz</a>
 </details>
-
-
