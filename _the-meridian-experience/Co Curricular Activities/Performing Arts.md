@@ -165,52 +165,6 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 	<br>
 			<i>(For Boys and Girls)</i>
 
-<p align="justify"> Dancing is a unique form of exercise because it provides the heart-healthy benefits of an aerobic exercise while also allowing one to have fun. Dancing also helps to reduce stress, increase energy, improve strength and increase muscle tone and coordination.</p>
-
-<p align="justify">The Malay Dance CCA plays an important role in imparting the rich cultural Malay heritage, and developing grace, rhythm and discipline in our dancers through the performing arts. Through our CCA, members are nurtured to become confident and resilient individuals, who are also active team players and caring citizens. Members learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
-
-**Highlights**  
-
-<u>Our Achievements</u>
-
-<p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
-
-<u>School-based Performance</u>
-<li>Prize-giving ceremonies</li>
-
-
-<u>Public performances</u>
-<ul>
-<li>Pasir Ris Library during Meridian Performing Arts Festival</li>
-<li>Pasir Ris West Chinese New Year Dinner </li>
-<li>Singapore Youth Festival (SYF)</li>
-	</ul>
-
-<table style="width:100%">
-
-  <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%201.png" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%202.png" style="width:350px;height:250px;float:center"></td>
-  </tr>
-  <tr>
-		 <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%207.jpg" style="width:350px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD8.jpg" style="width:350px;height:220px;float:center"></td>
-  </tr>
-</tbody></table>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3A6y1L_YQoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-For enquiries on the school’s Malay Dance CCA, please email:<br>
-• <a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a><br>
-• <a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu Bte Mohamed</a>
-
-</details>
-
-
-#### Show Choir
-
-**Choir**&nbsp;_(For Boys and Girls)_
-
 <p align="justify">The Choir CCA is about integrating coordinated modern dance choreography with strong vocal singing skills. Regardless of musical background, we welcome all students who are interested in the CCA, and we provide a platform for them to discover and display their talents in Music, song, dance and leadership. We strive to nurture the passion and confidence for performing in our students by providing them with multiple opportunities both in and out of school.</p>
 
 **Highlights**  
@@ -256,3 +210,9 @@ For enquiries on the school’s Show Choir CCA, please email:<br>
 • <a href="mailto:angel_huang@moe.edu.sg">Ms Angel Huang</a><br>
 • <a href="mailto:alwin_tien_der-we@moe.edu.sg">Mr Alwin Tien</a><br>
 • <a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan Bte Abdul Wahab</a>
+
+</details>
+
+
+
+
