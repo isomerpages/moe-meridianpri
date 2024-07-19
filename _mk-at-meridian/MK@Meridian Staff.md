@@ -50,10 +50,6 @@ variant: markdown
     <td><a href="mailto:nur_irfanah_norisham@moe.edu.sg">Mdm Nur Irfanah Bte Norisham</a></td>
     <td>English Language Teacher</td>
   </tr>
-	<tr>
-    <td><a href="mailto:nurul_hani_effandi@moe.edu.sg">Ms Nurul Hani Bte Effandi</a></td>
-    <td>English Language Teacher</td>
-  </tr>
   <tr>
     <td>
 			<a href="mailto:nurdiyanah_shafiee@moe.edu.sg">Ms Nurdiyanah Bte Shafiee</a></td>
@@ -84,11 +80,15 @@ variant: markdown
     <td>Tamil Language Teacher</td>
   </tr>
 		<tr>
-    <td><a href="mailto:Chan_Siak_Khim@moe.edu.sg">Ms Chan Siak Khim, Madeline</a></td>
+    <td><a href="mailto:teng_ying_ying@moe.edu.sg">Ms Eve Teng Ying Ying</a></td>
     <td>FAJT</td>
   </tr>
 		<tr>
     <td><a href="mailto:nurfarhana_sabtu@moe.edu.sg">Mdm Nurfarhana Binte Sabtu</a></td>
+    <td>FAJT</td>
+  </tr>
+		<tr>
+    <td><a href="mailto:nurulhuda_sammon@moe.edu.sg">Ms Nurulhuda Binte Sammon</a></td>
     <td>FAJT</td>
   </tr>
 		<tr>
