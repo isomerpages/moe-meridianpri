@@ -50,6 +50,8 @@ variant: markdown
 • <a href="mailto:foo_si_min@moe.edu.sg">Ms Tracy Foo</a><br>
 • <a href="mailto:mark_chen@moe.edu.sg">Mr Mark Chen</a><br>
 • <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a>
+	<br>
+<br>
 </details>
 
 <details>
@@ -89,6 +91,8 @@ For enquiries on the school’s Football CCA, please email:<br>
 • <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
 • <a href="mailto:chua_ee_lyn@moe.edu.sg">Ms Chua Ee Lyn</a><br>
 • <a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Mohan</a>
+	<br>
+<br>
 </details>
 
 <details>
@@ -154,6 +158,8 @@ For enquiries on the school’s Taekwondo CCA, please email:<br>
 • <a href="mailto:nurrashidah_norman@moe.edu.sg">Ms Shidah</a><br>
 • <a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah</a><br>
 • <a href="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a>
+	<br>
+<br>
 </details>
 
 <details>
