@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/About As/My Meridian Experience_School Websitei_17 Jan 23.png
       key_highlights:
-        - title: JOIN US FOR OUR OPEN HOUSE ON 6 JULY, 9 A.M. - 11.30 A.M
-          description: Click here for info.
-          url: https://www.meridianpri.moe.edu.sg/mps-open-house/
+        - title: Check here to Join Us for a virtual tour of our school
+          description: ""
+          url: https://www.meridianpri.moe.edu.sg/about-us/mps-virtual-tour/virtual-tour/
       variant: image
   - textcards:
       title: Announcements and Resources
