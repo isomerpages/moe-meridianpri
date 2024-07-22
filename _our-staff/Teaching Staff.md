@@ -253,9 +253,7 @@ variant: markdown
 
 ####  Allied Educators
 <table style="width:100%">
-  <tbody><tr>
-    <td><a href="mailto:abdul_latheef_nareeman@moe.edu.sg">Ms Abdul Latheef Nareeman (School Counsellor)</a></td>
-  </tr>
+  <tbody>
 		<tr>
     <td><a href="mailto:ng_jinning_janine@moe.edu.sg">Mdm Janine Ng Jinning (School Counsellor)</a></td>
   </tr>
