@@ -54,8 +54,4 @@ variant: markdown
     <td><a href="">Mr Mohamed Ali Mohamed Salleh</a></td>
     <td>Operations Support Officer (OSO)</td>
 		 </tr>
-		 <tr>
-    <td><a href="mailto:oth_jaswant_kaur@moe.edu.sg">Mdm Jaswant Kaur</a></td>
-    <td>FAJT Administrative Executive</td>
-  </tr>
 </tbody></table>
