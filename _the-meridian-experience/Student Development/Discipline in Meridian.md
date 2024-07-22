@@ -26,5 +26,4 @@ variant: markdown
   <li>LEAD and take care of your surrounding</li>
 </b></ol>
 
-<p>These 3 rules are guided by the&nbsp;<b>Code of Conduct</b>&nbsp;below which states clearly the boundaries of acceptable conduct in school and in society.</p>
-
+<p>These 3 rules are guided by the&nbsp;<b>Code of Conduct</b>&nbsp; which states clearly the boundaries of acceptable conduct in school and in society.</p>
