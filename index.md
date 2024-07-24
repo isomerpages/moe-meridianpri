@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/About As/My Meridian Experience_School Websitei_17 Jan 23.png
+      background: /images/Website_Banner_1920_by_880.jpg
       key_highlights:
         - title: Check here to Join Us for a virtual tour of our school
           description: ""
