@@ -24,7 +24,7 @@ variant: markdown
 </tbody></table>
 
 
-**Highlights**
+<b>Highlights</b>
 <p align="justify">Team Meridian Floorball takes part in the National School Games every year to allow the players to have adequate exposure and competition experience.</p>
 
 <table style="width:100%">
