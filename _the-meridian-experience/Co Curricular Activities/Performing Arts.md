@@ -131,12 +131,11 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 <p><u>Our Achievements</u></p>
 	
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
-<br>
-<u>School-based Performance</u>
+<p>School-based Performance</p>
 <li>Prize-giving ceremonies</li>
 
 
-<u>Public performances</u>
+<p>Public performances</p>
 <ul>
 <li>Pasir Ris Library during Meridian Performing Arts Festival</li>
 <li>Pasir Ris West Chinese New Year Dinner </li>
