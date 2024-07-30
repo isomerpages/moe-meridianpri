@@ -83,7 +83,7 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 <p align="justify">As our Guzheng is played in an ensemble , we value teamwork, unity, discipline and commitment, encouraging every member to work together, forge friendships and gain skills that will last a lifetime.</p>
 <br>
 <b>Highlights</b>  
-<br>
+<br><br>
 <u>Our Achievements</u>
 <br>
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
