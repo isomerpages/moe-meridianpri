@@ -117,7 +117,7 @@ For enquiries on the school’s Football CCA, please email:<br>
 </tbody></table>
 
 <b>Highlights (National Schools Games Taekwondo Competition)</b>
-
+<br>
 <u>2022</u>
 <br>Poomsae Category (Senior Division)
 <ul>
@@ -171,13 +171,13 @@ For enquiries on the school’s Taekwondo CCA, please email:<br>
 
 Activities for 2024 include the following sports:<br>
 
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Tag Rugby (non-contact)** 
+<b>Tag Rugby (non-contact)</b><br>
 <p align="justify">Tag rugby is a safe sport for all ages to enjoy. The objective is to eliminate the opposing team by pulling off their velcro tags.Tag Rugby is a game of perseverance and most importantly teamwork!</p>
 
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Athletics (sprints / throws / jumps).** 
+<b>Athletics (sprints / throws / jumps)</b><br>
 <p align="justify"> Develop your pupils’ fundamental movements and the basic skills of running, jumping and throwing through fun and challenging activities.</p>
 
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Tchoukball.** 
+<b>Tchoukball</b><br>
 <p align="justify">Tchoukball is played on a&nbsp;court with trampoline frames and a ball. Teams score when they throw the ball on the frame and bounce it outside of a “forbidden” zone. If an opponent manages to catch the ball before it touches the floor, the point is not awarded, so make sure to dive to save those points!</p>
 
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Volleyball.** 
