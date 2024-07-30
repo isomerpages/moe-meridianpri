@@ -16,13 +16,14 @@ variant: markdown
 
 <p align="justify">By exposing students to a wide range of Science topics, we believe that students will grow up to be one who enjoys learning Science and cares for the environment.</p>
 
-<b>Highlights</b>
-<br><br>
-*   Activities focusing on 3'R's - Reduce, Reuse and Recycle
-*   Hydroponics planting (hi-tech farming)  
-*   Field-based bird monitoring and research
+<p><b>Highlights</b></p>
 
-
+<ul>
+  <li>Activities focusing on 3'R's - Reduce, Reuse and Recycle</li>
+  <li>Hydroponics planting (hi-tech farming)</li>
+  <li>Field-based bird monitoring and research</li>
+</ul>  
+	
 <table style="width:100%">
 
   <tbody><tr>
