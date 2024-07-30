@@ -180,7 +180,7 @@ Activities for 2024 include the following sports:<br>
 <b>Tchoukball</b><br>
 <p align="justify">Tchoukball is played on a&nbsp;court with trampoline frames and a ball. Teams score when they throw the ball on the frame and bounce it outside of a “forbidden” zone. If an opponent manages to catch the ball before it touches the floor, the point is not awarded, so make sure to dive to save those points!</p>
 
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Volleyball.** 
+<b>Volleyball</b><br>
 <p align="justify">A net-barrier games where pupils work together as a team to bring the ball across the net to the ground on the opponents’ side to win a point.&nbsp; A highly competitive game which pupils will learn the value of teamwork.</p>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
