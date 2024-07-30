@@ -171,7 +171,7 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 			<i>(For Boys and Girls)</i>
 
 <p align="justify">The Choir CCA is about integrating coordinated modern dance choreography with strong vocal singing skills. Regardless of musical background, we welcome all students who are interested in the CCA, and we provide a platform for them to discover and display their talents in Music, song, dance and leadership. We strive to nurture the passion and confidence for performing in our students by providing them with multiple opportunities both in and out of school.</p>
-<br>
+
 <p><b>Highlights</b></p>
 
 <u>School Performances in 2023</u>
