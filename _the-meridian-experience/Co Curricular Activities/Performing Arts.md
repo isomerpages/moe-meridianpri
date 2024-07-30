@@ -127,7 +127,7 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 <p align="justify">The Malay Dance CCA plays an important role in imparting the rich cultural Malay heritage, and developing grace, rhythm and discipline in our dancers through the performing arts. Through our CCA, members are nurtured to become confident and resilient individuals, who are also active team players and caring citizens. Members learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
 <br>
 <b>Highlights</b>
-<br><br><br>
+<br><br>
 <u>Our Achievements</u>
 <br>
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
