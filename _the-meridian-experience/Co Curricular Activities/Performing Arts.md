@@ -126,10 +126,10 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 
 <p align="justify">The Malay Dance CCA plays an important role in imparting the rich cultural Malay heritage, and developing grace, rhythm and discipline in our dancers through the performing arts. Through our CCA, members are nurtured to become confident and resilient individuals, who are also active team players and caring citizens. Members learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
 <br>
-<b>Highlights</b>
-<br><br>
-<u>Our Achievements</u>
-<br>
+<p><b>Highlights</b></p>
+
+<p><u>Our Achievements</u></p>
+	
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 <br>
 <u>School-based Performance</u>
@@ -172,8 +172,8 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 
 <p align="justify">The Choir CCA is about integrating coordinated modern dance choreography with strong vocal singing skills. Regardless of musical background, we welcome all students who are interested in the CCA, and we provide a platform for them to discover and display their talents in Music, song, dance and leadership. We strive to nurture the passion and confidence for performing in our students by providing them with multiple opportunities both in and out of school.</p>
 <br>
-<b>Highlights</b>
-<br><br>
+<p><b>Highlights</b></p>
+
 <u>School Performances in 2023</u>
 <ul>
 <li>National Day Celebrations</li>
