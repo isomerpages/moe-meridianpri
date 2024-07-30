@@ -10,25 +10,24 @@ variant: markdown
 	<br>
 				<i>(For Boys and Girls)</i>
 
-<p align="justify">The Chinese Dance CCA aims to teach students basic dance movements and techniques. It instills appreciation of dance, music and the beauty of Chinese cultural.&nbsp; The CCA is an excellent platform for the students to develop their motor skills through dance movement.&nbsp; It also builds the students’ self-confidence and inculcates values such as teamwork, cooperation and discipline in them.</p>
+<p align="justify">The Chinese Dance CCA aims to teach students basic dance movements and techniques. It instills appreciation of dance, music and the beauty of Chinese cultural.&nbsp; The CCA is an excellent platform for the students to develop their motor skills through dance movement.&nbsp; It also builds the students’ self-confidence and inculcates values such as teamwork, cooperation and discipline in them. We welcome students who have interest in dance, music and the Chinese culture to join our dance group! </p>
+<br>
 
-We welcome students who have interest in dance, music and the Chinese culture to join our dance group!
+<p><b>Highlights</b></p>
 
-<b>Highlights</b>
+<p>Students are given the opportunities to take part in the SYF Arts Presentation as well as in various community performances.</p>
 
-Students are given the opportunities to take part in the SYF Arts Presentation as well as in various community performances.
-
-<u>Our Achievements</u>
+<p><u>Our Achievements</u></p>
 
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 
-<p><u>School Performances in 2023</u></p>
+<p>School Performances in 2023</p>
 <ul>
   <li>National Day Celebrations</li>
 	<li>Prize Giving Day Performance</li>
 </ul>  
 
-<p><u>School Performances in 2024</u></p>
+<p>School Performances in 2024</p>
 <ul>
   <li>Pasir Ris West Chinese New Year Dinner</li>
 </ul>  
@@ -82,10 +81,10 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 <p align="justify">Guzheng (古筝), is a Chinese musical instrument that has a history dating back to 500 B.C. GU (古) in Chinese means, Old, long history. It is a&nbsp; popular instrument all over the world because of the elegant&nbsp; design. Learning Guzheng can help to develop the connection between left and right brain, because playing the Guzheng requires coordination of both the left hand and right hand. You can memorize better and be more attentive.</p>
 
 <p align="justify">As our Guzheng is played in an ensemble , we value teamwork, unity, discipline and commitment, encouraging every member to work together, forge friendships and gain skills that will last a lifetime.</p>
+<br>
+<p><b>Highlights</b></p>
 
-<b>Highlights</b>  
-
-<u>Our Achievements</u>
+<p><u>Our Achievements</u></p>
 
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 
@@ -126,18 +125,17 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 <p align="justify"> Dancing is a unique form of exercise because it provides the heart-healthy benefits of an aerobic exercise while also allowing one to have fun. Dancing also helps to reduce stress, increase energy, improve strength and increase muscle tone and coordination.</p>
 
 <p align="justify">The Malay Dance CCA plays an important role in imparting the rich cultural Malay heritage, and developing grace, rhythm and discipline in our dancers through the performing arts. Through our CCA, members are nurtured to become confident and resilient individuals, who are also active team players and caring citizens. Members learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
+<br>
+<p><b>Highlights</b></p>
 
-<b>Highlights</b>
-
-<u>Our Achievements</u>
-
+<p><u>Our Achievements</u></p>
+	
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
-
-<u>School-based Performance</u>
+<p>School-based Performance</p>
 <li>Prize-giving ceremonies</li>
 
 
-<u>Public performances</u>
+<p>Public performances</p>
 <ul>
 <li>Pasir Ris Library during Meridian Performing Arts Festival</li>
 <li>Pasir Ris West Chinese New Year Dinner </li>
@@ -157,7 +155,7 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 </tbody></table>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3A6y1L_YQoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
+<br>
 For enquiries on the school’s Malay Dance CCA, please email:<br>
 • <a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a><br>
 • <a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu Bte Mohamed</a>
@@ -173,16 +171,16 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 
 <p align="justify">The Choir CCA is about integrating coordinated modern dance choreography with strong vocal singing skills. Regardless of musical background, we welcome all students who are interested in the CCA, and we provide a platform for them to discover and display their talents in Music, song, dance and leadership. We strive to nurture the passion and confidence for performing in our students by providing them with multiple opportunities both in and out of school.</p>
 
-<b>Highlights</b>
+<p><b>Highlights</b></p>
 
-<u>School Performances in 2023</u>
+<p>School Performances in 2023</p>
 <ul>
 <li>National Day Celebrations</li>
 <li>Meridian Primary School Open House</li>
 <li>Children's Day and P3-P6 Prize-giving Day</li>
 </ul>
 
-<u>Public Performances in 2023</u>
+<p>Public Performances in 2023</p>
 <ul>
 <li>Cerebral Palsy Alliance Singapore as part of Values-In-Action</li>
 <li>Green Oval Park Residents' Network Hari Raya Event</li>

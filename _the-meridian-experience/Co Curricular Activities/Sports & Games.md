@@ -24,7 +24,7 @@ variant: markdown
 </tbody></table>
 
 
-<b>Highlights</b>
+<p><b>Highlights</b></p>
 <p align="justify">Team Meridian Floorball takes part in the National School Games every year to allow the players to have adequate exposure and competition experience.</p>
 
 <table style="width:100%">
@@ -35,9 +35,9 @@ variant: markdown
   </tr>
 </tbody></table>
 
-<b>Achievements</b><br>
+<p>Achievements</p>
 <u>2024</u>
-<ul>
+<p></p><ul>
 	<li>National School Games Floorball 2024</li>
 	<li>Senior Division Boys - League 2 (3rd)</li>
 	<li>Senior Division Girls - League 3 (3rd)</li>
@@ -67,7 +67,7 @@ variant: markdown
 
 <p align="justify">Join us in celebrating the values that define our football team – a brotherhood built on teamwork, resilience, and responsibility. Together, we strive for excellence and aim to leave a lasting legacy that extends far beyond the football field. Go Team Meridian!</p>
 
-<b>Highlights</b>
+<p><b>Highlights</b></p>
 
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Football/2023_Football1.png" style="width:450px;height:350px;float:center">
 
@@ -116,7 +116,7 @@ For enquiries on the school’s Football CCA, please email:<br>
   </tr>
 </tbody></table>
 
-<b>Highlights (National Schools Games Taekwondo Competition)</b>
+<p><b>Highlights (National Schools Games Taekwondo Competition)</b></p>
 
 <u>2022</u>
 <br>Poomsae Category (Senior Division)
@@ -169,18 +169,18 @@ For enquiries on the school’s Taekwondo CCA, please email:<br>
 
 <p align="justify">The sports club is a modular CCA. It aims to expose students to a variety of sports including mini-tennis, modified basketball, badminton, and other recreational activities.&nbsp;There are many sports activities to keep the students motivated in staying physically active. From time to time, selected students will also be given the platform to showcase their skills and abilities through learn-to-play workshops and inter-school competitions.</p>
 
-Activities for 2024 include the following sports:<br>
+Activities for 2024 include the following sports:<br><br>
 
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Tag Rugby (non-contact)** 
+<b>Tag Rugby (non-contact)</b><br>
 <p align="justify">Tag rugby is a safe sport for all ages to enjoy. The objective is to eliminate the opposing team by pulling off their velcro tags.Tag Rugby is a game of perseverance and most importantly teamwork!</p>
 
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Athletics (sprints / throws / jumps).** 
+<b>Athletics (sprints / throws / jumps)</b><br>
 <p align="justify"> Develop your pupils’ fundamental movements and the basic skills of running, jumping and throwing through fun and challenging activities.</p>
 
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Tchoukball.** 
+<b>Tchoukball</b><br>
 <p align="justify">Tchoukball is played on a&nbsp;court with trampoline frames and a ball. Teams score when they throw the ball on the frame and bounce it outside of a “forbidden” zone. If an opponent manages to catch the ball before it touches the floor, the point is not awarded, so make sure to dive to save those points!</p>
 
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Volleyball.** 
+<b>Volleyball</b><br>
 <p align="justify">A net-barrier games where pupils work together as a team to bring the ball across the net to the ground on the opponents’ side to win a point.&nbsp; A highly competitive game which pupils will learn the value of teamwork.</p>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
