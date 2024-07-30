@@ -14,7 +14,7 @@ variant: markdown
 
 We welcome students who have interest in dance, music and the Chinese culture to join our dance group!
 
-**Highlights**
+<b>Highlights</b>
 
 Students are given the opportunities to take part in the SYF Arts Presentation as well as in various community performances.
 
@@ -83,7 +83,7 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 
 <p align="justify">As our Guzheng is played in an ensemble , we value teamwork, unity, discipline and commitment, encouraging every member to work together, forge friendships and gain skills that will last a lifetime.</p>
 
-**Highlights**  
+<b>Highlights</b>  
 
 <u>Our Achievements</u>
 
@@ -127,7 +127,7 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 
 <p align="justify">The Malay Dance CCA plays an important role in imparting the rich cultural Malay heritage, and developing grace, rhythm and discipline in our dancers through the performing arts. Through our CCA, members are nurtured to become confident and resilient individuals, who are also active team players and caring citizens. Members learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
 
-**Highlights**  
+<b>Highlights</b>
 
 <u>Our Achievements</u>
 
@@ -173,7 +173,7 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 
 <p align="justify">The Choir CCA is about integrating coordinated modern dance choreography with strong vocal singing skills. Regardless of musical background, we welcome all students who are interested in the CCA, and we provide a platform for them to discover and display their talents in Music, song, dance and leadership. We strive to nurture the passion and confidence for performing in our students by providing them with multiple opportunities both in and out of school.</p>
 
-**Highlights**  
+<b>Highlights</b>
 
 <u>School Performances in 2023</u>
 <ul>

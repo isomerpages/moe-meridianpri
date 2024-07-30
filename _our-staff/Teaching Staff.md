@@ -123,8 +123,7 @@ variant: markdown
   <tr>
     <td>4 Care</td>
     <td><a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho </a><br>
-		<a href="mailto:yamuna_jathananthan@moe.edu.sg">Mdm Yamuna d/o Jathananthan</a><br>
-			<a href="mailto:muhammad_haziq_abdul_rahman@moe.edu.sg">Mr Md Haziq Bin Abd Rahman</a>
+		<a href="mailto:yamuna_jathananthan@moe.edu.sg">Mdm Yamuna d/o Jathananthan</a>
 		</td>
   </tr>
 		<tr>

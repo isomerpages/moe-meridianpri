@@ -76,6 +76,10 @@ variant: markdown
     <td>Malay Language Teacher</td>
   </tr>
 		<tr>
+    <td><a href="mailto:nurul_ainn_rostan@moe.edu.sg">Ms Nurul Ainn Binte Rostan</a></td>
+    <td>Malay Language Teacher</td>
+  </tr>
+		<tr>
     <td><a href="mailto:murugesan_madhumitha@moe.edu.sg">Ms Murugesan Madhumitha</a></td>
     <td>Tamil Language Teacher</td>
   </tr>
@@ -88,7 +92,7 @@ variant: markdown
     <td>FAJT</td>
   </tr>
 		<tr>
-    <td><a href="mailto:nurulhuda_sammon@moe.edu.sg">Ms Nurulhuda Binte Sammon</a></td>
+    <td><a href="mailto:nurulhuda_sammon@moe.edu.sg">Ms Nurhuda Binte Sammon</a></td>
     <td>FAJT</td>
   </tr>
 		<tr>
