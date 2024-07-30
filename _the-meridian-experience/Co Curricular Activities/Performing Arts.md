@@ -13,7 +13,7 @@ variant: markdown
 <p align="justify">The Chinese Dance CCA aims to teach students basic dance movements and techniques. It instills appreciation of dance, music and the beauty of Chinese cultural.&nbsp; The CCA is an excellent platform for the students to develop their motor skills through dance movement.&nbsp; It also builds the students’ self-confidence and inculcates values such as teamwork, cooperation and discipline in them. We welcome students who have interest in dance, music and the Chinese culture to join our dance group! </p>
 <br>
 
-<p><b>Highlights</b></p><br>
+<p><b>Highlights</b></p>
 
 <p>Students are given the opportunities to take part in the SYF Arts Presentation as well as in various community performances.</p>
 
