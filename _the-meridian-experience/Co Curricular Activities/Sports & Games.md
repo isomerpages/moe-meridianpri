@@ -117,7 +117,7 @@ For enquiries on the school’s Football CCA, please email:<br>
 </tbody></table>
 
 <b>Highlights (National Schools Games Taekwondo Competition)</b>
-<br>
+<br><br><br>
 <u>2022</u>
 <br>Poomsae Category (Senior Division)
 <ul>
