@@ -52,7 +52,7 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 
 <p align="justify">Technology is a huge part of children’s life today. It is essential for students to learn how to design, develop and communicate with digital technology. Learning to code allow learners to learn computational thinking which enables them to develop cognitive skills and to learn logical and sequential thought processes.</p>
 
-**Highlights**
+<p><b>Highlights</b></p>
 <ul>
 <li>SCRATCH</li>
 <li>mBlock software</li>
@@ -89,7 +89,7 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 
 <p align="justify">To provide a platform for our students to take good photos and product the good videos through our CCA, Media Production. At the Media Production CCA, students get to learn photography, videography and editing skills. They can take part in some competitions every year, for example, SDMA (MOE), National Primary Schools Photography Competition and National Photography Festival (Primary Schools).</p>
 
-**Award**
+<p><b>Award</b></p>
 
 <table style="width:100%">
   <tbody><tr>
@@ -121,8 +121,7 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
     <td><iframe width="350" height="250" src="https://www.youtube.com/embed/moC09M9LGgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
 	</tr>
 	
-</tbody></table>
-
+</tbody></table><br>
 
 
 For enquiries on the school’s Photography and Videography CCA, please email:<br>
@@ -146,7 +145,7 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
 <p align="justify"> Our Art Club members have enjoyed activities such as tie and dye, fashion design using recyclable materials and sculpting using wires and paper mache.</p>
 
 
-**Highlights**  
+<p><b>Highlights</b></p>
 
 <p align="justify">Art Club collaborates with Pasir Ris NLB in a yearly event, hoping to reach out to the public to share simple Art-making activities and at the same time, helping to promote the Art books available for loan at the library. Apart from that, Art Club members also have the opportunity to take part in the bi-annual Singapore Youth Festival (SYF) Art Competition.</p>
 
@@ -217,7 +216,7 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C7HWyVEl6hs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
+<br>
 For enquiries on the school’s &nbsp;Art Club CCA, please email:<br>
 • <a href="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah</a><br>
 • <a href="mailto:norhaida_kamaludin@moe.edu.sg">Ms Norhaida</a><br>
