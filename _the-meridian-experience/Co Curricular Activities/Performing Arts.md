@@ -21,13 +21,13 @@ variant: markdown
 
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 
-<p><u>School Performances in 2023</u></p>
+<p>School Performances in 2023</p>
 <ul>
   <li>National Day Celebrations</li>
 	<li>Prize Giving Day Performance</li>
 </ul>  
 
-<p><u>School Performances in 2024</u></p>
+<p>School Performances in 2024</p>
 <ul>
   <li>Pasir Ris West Chinese New Year Dinner</li>
 </ul>  
