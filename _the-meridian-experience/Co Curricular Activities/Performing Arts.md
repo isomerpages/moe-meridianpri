@@ -155,7 +155,7 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 </tbody></table>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3A6y1L_YQoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
+<br>
 For enquiries on the school’s Malay Dance CCA, please email:<br>
 • <a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a><br>
 • <a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu Bte Mohamed</a>
@@ -173,14 +173,14 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 
 <p><b>Highlights</b></p>
 
-<u>School Performances in 2023</u>
+<p>School Performances in 2023</p>
 <ul>
 <li>National Day Celebrations</li>
 <li>Meridian Primary School Open House</li>
 <li>Children's Day and P3-P6 Prize-giving Day</li>
 </ul>
 
-<u>Public Performances in 2023</u>
+<p>Public Performances in 2023</p>
 <ul>
 <li>Cerebral Palsy Alliance Singapore as part of Values-In-Action</li>
 <li>Green Oval Park Residents' Network Hari Raya Event</li>
