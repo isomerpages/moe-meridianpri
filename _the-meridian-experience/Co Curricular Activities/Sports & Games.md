@@ -24,7 +24,7 @@ variant: markdown
 </tbody></table>
 
 
-<b>Highlights</b>
+<p><b>Highlights</b></p>
 <p align="justify">Team Meridian Floorball takes part in the National School Games every year to allow the players to have adequate exposure and competition experience.</p>
 
 <table style="width:100%">
@@ -35,7 +35,7 @@ variant: markdown
   </tr>
 </tbody></table>
 
-<b>Achievements</b><br>
+<p><b>Achievements</b></p>
 <u>2024</u>
 <ul>
 	<li>National School Games Floorball 2024</li>
@@ -67,7 +67,7 @@ variant: markdown
 
 <p align="justify">Join us in celebrating the values that define our football team – a brotherhood built on teamwork, resilience, and responsibility. Together, we strive for excellence and aim to leave a lasting legacy that extends far beyond the football field. Go Team Meridian!</p>
 
-<b>Highlights</b>
+<p><b>Highlights</b></p>
 
 <img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Football/2023_Football1.png" style="width:450px;height:350px;float:center">
 
@@ -116,8 +116,8 @@ For enquiries on the school’s Football CCA, please email:<br>
   </tr>
 </tbody></table>
 
-<b>Highlights (National Schools Games Taekwondo Competition)</b>
-<br><br><br>
+<p><b>Highlights (National Schools Games Taekwondo Competition)</b></p>
+
 <u>2022</u>
 <br>Poomsae Category (Senior Division)
 <ul>
