@@ -17,7 +17,7 @@ variant: markdown
 
 <p>Students are given the opportunities to take part in the SYF Arts Presentation as well as in various community performances.</p>
 
-<u>Our Achievements</u>
+<p><u>Our Achievements</u></p>
 
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 
