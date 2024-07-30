@@ -15,7 +15,7 @@ variant: markdown
 
 <b>Highlights</b><br>
 <br><br><br>
-Students are given the opportunities to take part in the SYF Arts Presentation as well as in various community performances.
+<p>Students are given the opportunities to take part in the SYF Arts Presentation as well as in various community performances.</p>
 <br><br><br>
 <u>Our Achievements</u>
 
