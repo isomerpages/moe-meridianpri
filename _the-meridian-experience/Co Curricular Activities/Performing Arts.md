@@ -14,10 +14,9 @@ variant: markdown
 <br>
 
 <b>Highlights</b><br>
-<br>
-	
+<br><br><br>
 Students are given the opportunities to take part in the SYF Arts Presentation as well as in various community performances.
-
+<br><br><br>
 <u>Our Achievements</u>
 
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
@@ -84,9 +83,9 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 <p align="justify">As our Guzheng is played in an ensemble , we value teamwork, unity, discipline and commitment, encouraging every member to work together, forge friendships and gain skills that will last a lifetime.</p>
 <br>
 <b>Highlights</b>  
-<br>
+<br><br><br>
 <u>Our Achievements</u>
-<br><br>
+<br><br><br>
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 
 <table style="width:100%">
@@ -128,7 +127,7 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 <p align="justify">The Malay Dance CCA plays an important role in imparting the rich cultural Malay heritage, and developing grace, rhythm and discipline in our dancers through the performing arts. Through our CCA, members are nurtured to become confident and resilient individuals, who are also active team players and caring citizens. Members learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
 <br>
 <b>Highlights</b>
-<br><br>
+<br><br><br>
 <u>Our Achievements</u>
 <br>
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
