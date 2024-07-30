@@ -169,7 +169,7 @@ For enquiries on the school’s Taekwondo CCA, please email:<br>
 
 <p align="justify">The sports club is a modular CCA. It aims to expose students to a variety of sports including mini-tennis, modified basketball, badminton, and other recreational activities.&nbsp;There are many sports activities to keep the students motivated in staying physically active. From time to time, selected students will also be given the platform to showcase their skills and abilities through learn-to-play workshops and inter-school competitions.</p>
 
-Activities for 2024 include the following sports:<br>
+Activities for 2024 include the following sports:<br><br>
 
 <b>Tag Rugby (non-contact)</b><br>
 <p align="justify">Tag rugby is a safe sport for all ages to enjoy. The objective is to eliminate the opposing team by pulling off their velcro tags.Tag Rugby is a game of perseverance and most importantly teamwork!</p>
