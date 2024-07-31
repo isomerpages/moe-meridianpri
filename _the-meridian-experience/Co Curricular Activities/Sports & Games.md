@@ -92,9 +92,7 @@ For enquiries on the school’s Football CCA, please email:<br>
 </details>
 
 <details>
-  <summary><b>Taekwondo</b></summary>
-	<br>
-			<i>(For Boys and Girls)</i>
+  <summary><b>Taekwondo</b> <i>(For Boys and Girls)</i></summary>
 
 <p align="justify">The Taekwondo CCA at Meridian Primary School aims to build students’ physical fitness and students’ foundation in Taekwondo Pattern (Poomsae). Taekwondo members will get a chance to participate in the annual competition such as the National School Games Taekwondo Competition or perform during the Year End Prize Presentation ceremony to gain experience and confidence. </p>
 
@@ -112,8 +110,9 @@ For enquiries on the school’s Football CCA, please email:<br>
   </tr>
 </tbody></table>
 
-<p><b>Highlights (National Schools Games Taekwondo Competition)</b></p>
+<p><b>Highlights</b></p>
 
+<p><b>(National Schools Games Taekwondo Competition)</b></p>
 <u>2022</u>
 <br>Poomsae Category (Senior Division)
 <ul>
