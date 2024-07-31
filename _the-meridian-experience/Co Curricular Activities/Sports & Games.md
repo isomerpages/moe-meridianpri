@@ -6,9 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: markdown
 ---
 <details>
-  <summary><b>Floorball</b></summary>
-	<br>
-		<i>(For Boys and Girls)</i>
+  <summary><b>Floorball</b> <i>(For Boys and Girls)</i></summary>
 
 <p align="justify">Team Meridian Floorball aims to develop not only the players’ skills and playing strategies, but also their character.&nbsp;Through the training programme, we hope to grow every member to become a confident, adaptable and resilient individual.&nbsp;At the same time, understanding the importance of care, respect and teamwork. This is done through the close guidance of the coaches and teachers.</p>
 
@@ -35,7 +33,7 @@ variant: markdown
   </tr>
 </tbody></table>
 
-<p>Achievements</p>
+<p><b>Achievements</b></p>
 <u>2024</u>
 <p></p><ul>
 	<li>National School Games Floorball 2024</li>
@@ -55,15 +53,13 @@ variant: markdown
 </details>
 
 <details>
-  <summary><b>Football</b></summary>
-	<br>
-		<i>(For Boys Only)</i>
+  <summary><b>Football</b> <i>(For Boys Only)</i></summary>
 
-<p align="justify">At the heart of our football team is a strong sense of <b>teamwork</b>. We believe that individual talent can only take us so far, but when combined with the collective effort of each player, we can achieve greatness. On the field, we move as one unit, supporting and encouraging each other to reach our common goals. Our victories are a testament to the power of teamwork, demonstrating that together, we are stronger.</p>
+<p align="justify">At the heart of our football team is a strong sense of teamwork. We believe that individual talent can only take us so far, but when combined with the collective effort of each player, we can achieve greatness. On the field, we move as one unit, supporting and encouraging each other to reach our common goals. Our victories are a testament to the power of teamwork, demonstrating that together, we are stronger.</p>
 
-<p align="justify"> In the face of challenges and setbacks, our team exemplifies <b>resilience</b>. The boys understand that the path to success is not always smooth, but it's the ability to bounce back and persevere that defines us. Whether trailing in a game or facing tough opponents, our players will show unwavering determination, never giving up until the final whistle. Resilience is a mindset that we cultivate within every member of our football family.</p>
+<p align="justify"> In the face of challenges and setbacks, our team exemplifies resilience. The boys understand that the path to success is not always smooth, but it's the ability to bounce back and persevere that defines us. Whether trailing in a game or facing tough opponents, our players will show unwavering determination, never giving up until the final whistle. Resilience is a mindset that we cultivate within every member of our football family.</p>
 
-<p align="justify">Those boys in football CCA are not just athletes; they are ambassadors of sportsmanship, <b>integrity</b> and fair play. Our players understand the importance of representing our school with pride and honor.</p>
+<p align="justify">Those boys in football CCA are not just athletes; they are ambassadors of sportsmanship, integrity and fair play. Our players understand the importance of representing our school with pride and honor.</p>
 
 <p align="justify">Join us in celebrating the values that define our football team – a brotherhood built on teamwork, resilience, and responsibility. Together, we strive for excellence and aim to leave a lasting legacy that extends far beyond the football field. Go Team Meridian!</p>
 
@@ -82,7 +78,7 @@ variant: markdown
 <u>Training Sessions:</u><br>
 Monday: 3:45 p.m. to 5:15 p.m. (for P4 to P6)
 
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jeisTTDw68E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 
@@ -96,9 +92,7 @@ For enquiries on the school’s Football CCA, please email:<br>
 </details>
 
 <details>
-  <summary><b>Taekwondo</b></summary>
-	<br>
-			<i>(For Boys and Girls)</i>
+  <summary><b>Taekwondo</b> <i>(For Boys and Girls)</i></summary>
 
 <p align="justify">The Taekwondo CCA at Meridian Primary School aims to build students’ physical fitness and students’ foundation in Taekwondo Pattern (Poomsae). Taekwondo members will get a chance to participate in the annual competition such as the National School Games Taekwondo Competition or perform during the Year End Prize Presentation ceremony to gain experience and confidence. </p>
 
@@ -116,8 +110,9 @@ For enquiries on the school’s Football CCA, please email:<br>
   </tr>
 </tbody></table>
 
-<p><b>Highlights (National Schools Games Taekwondo Competition)</b></p>
+<p><b>Highlights</b></p>
 
+<p><b>(National Schools Games Taekwondo Competition)</b></p>
 <u>2022</u>
 <br>Poomsae Category (Senior Division)
 <ul>
@@ -163,24 +158,22 @@ For enquiries on the school’s Taekwondo CCA, please email:<br>
 </details>
 
 <details>
-  <summary><b>Sport Club</b></summary>
-	<br>
-			<i>(Boys and Girls Only)</i>
+  <summary><b>Sport Club</b> <i>(Boys and Girls Only)</i></summary>
 
 <p align="justify">The sports club is a modular CCA. It aims to expose students to a variety of sports including mini-tennis, modified basketball, badminton, and other recreational activities.&nbsp;There are many sports activities to keep the students motivated in staying physically active. From time to time, selected students will also be given the platform to showcase their skills and abilities through learn-to-play workshops and inter-school competitions.</p>
 
-Activities for 2024 include the following sports:<br><br>
-
-<b>Tag Rugby (non-contact)</b><br>
+Activities for 2024 include the following sports:<br>
+<br>
+<b>Tag Rugby (non-contact)</b>
 <p align="justify">Tag rugby is a safe sport for all ages to enjoy. The objective is to eliminate the opposing team by pulling off their velcro tags.Tag Rugby is a game of perseverance and most importantly teamwork!</p>
 
-<b>Athletics (sprints / throws / jumps)</b><br>
+<b>Athletics (sprints / throws / jumps)</b>
 <p align="justify"> Develop your pupils’ fundamental movements and the basic skills of running, jumping and throwing through fun and challenging activities.</p>
 
-<b>Tchoukball</b><br>
+<b>Tchoukball</b>
 <p align="justify">Tchoukball is played on a&nbsp;court with trampoline frames and a ball. Teams score when they throw the ball on the frame and bounce it outside of a “forbidden” zone. If an opponent manages to catch the ball before it touches the floor, the point is not awarded, so make sure to dive to save those points!</p>
 
-<b>Volleyball</b><br>
+<b>Volleyball</b>
 <p align="justify">A net-barrier games where pupils work together as a team to bring the ball across the net to the ground on the opponents’ side to win a point.&nbsp; A highly competitive game which pupils will learn the value of teamwork.</p>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 

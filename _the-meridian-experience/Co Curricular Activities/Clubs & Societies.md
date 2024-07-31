@@ -6,9 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: markdown
 ---
 <details>
-  <summary><strong>Eco-Enviro Science Club</strong></summary>
-	<br>
-			<i>(For Boys and Girls)</i>
+  <summary><strong>Eco-Enviro Science Club</strong> <i>(For Boys and Girls)</i></summary>
 
 <p align="justify"> The Eco-Enviro Science Club provides students with the opportunity to learn Science through hands-on interaction. Students are exposed to topics such as environmental conservation, habitat reforestation and global warning. Students also get to learn extension to topics beyond the usual curriculum such as how volcanoes erupt and sublimation.</p>
 
@@ -44,9 +42,7 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 </details>
 
 <details>
-  <summary><b>Infocomm Technology (Computing)</b></summary>
-	<br>
-		<i>(For Boys and Girls)</i>
+  <summary><b>Infocomm Technology (Computing)</b> <i>(For Boys and Girls)</i></summary>
 
 <p align="justify">Infocomm Technology (Computing) aims to excite students about technology in an engaging and meaningful way by helping them to learn coding skills and to cultivate leadership and entrepreneurship capabilities at an early age.</p>
 
@@ -83,10 +79,8 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 
 
 <details>
-  <summary><b>Infocomm Technology (Media Production)</b></summary>
-	<br>
-		<i>(For Boys and Girls)</i>
-
+  <summary><b>Infocomm Technology (Media Production)</b> 	<i>(For Boys and Girls)</i></summary>
+	
 <p align="justify">To provide a platform for our students to take good photos and product the good videos through our CCA, Media Production. At the Media Production CCA, students get to learn photography, videography and editing skills. They can take part in some competitions every year, for example, SDMA (MOE), National Primary Schools Photography Competition and National Photography Festival (Primary Schools).</p>
 
 <p><b>Award</b></p>
@@ -132,13 +126,11 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
 </details>
 
 <details>
-  <summary><b>Art Club</b></summary>
-	<br>
-		<i>(For Boys and Girls)</i>
+  <summary><b>Art Club</b> <i>(For Boys and Girls)</i></summary>
 
 <p align="justify"> The Art club takes a comprehensive approach towards learning and appreciation of art such as holistic</p>
 
-<p align="justify">We provide pupils ample opportunities to discover their own niche within the wide array of <b>medium</b>.</p>
+<p align="justify">We provide pupils ample opportunities to discover their own niche within the wide array of medium.</p>
 
 <p align="justify">The Art Club members enjoy the variety of Art activities conducted during sessions. Students experiment with a variety of materials and explore the possibilities of conventional materials like Batik dye, watercolour and recyclable materials.</p>
 
