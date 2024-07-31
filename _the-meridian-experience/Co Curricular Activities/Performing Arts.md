@@ -6,10 +6,8 @@ third_nav_title: Co Curricular Activities
 variant: markdown
 ---
 <details>
-  <summary><b>Chinese Dance</b></summary>
-	<br>
-				<i>(For Boys and Girls)</i>
-
+  <summary><b>Chinese Dance</b> <i>(For Boys and Girls)</i></summary>
+	
 <p align="justify">The Chinese Dance CCA aims to teach students basic dance movements and techniques. It instills appreciation of dance, music and the beauty of Chinese cultural.&nbsp; The CCA is an excellent platform for the students to develop their motor skills through dance movement.&nbsp; It also builds the students’ self-confidence and inculcates values such as teamwork, cooperation and discipline in them. We welcome students who have interest in dance, music and the Chinese culture to join our dance group! </p>
 <br>
 
@@ -17,7 +15,7 @@ variant: markdown
 
 <p>Students are given the opportunities to take part in the SYF Arts Presentation as well as in various community performances.</p>
 
-<p><u>Our Achievements</u></p>
+<p><b>Achievements</b></p>
 
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 
@@ -74,9 +72,7 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 
 
 <details>
-  <summary><b>Guzheng</b></summary>
-	<br>
-			<i>(For Boys and Girls)</i>
+  <summary><b>Guzheng</b> <i>(For Boys and Girls)</i></summary>
 
 <p align="justify">Guzheng (古筝), is a Chinese musical instrument that has a history dating back to 500 B.C. GU (古) in Chinese means, Old, long history. It is a&nbsp; popular instrument all over the world because of the elegant&nbsp; design. Learning Guzheng can help to develop the connection between left and right brain, because playing the Guzheng requires coordination of both the left hand and right hand. You can memorize better and be more attentive.</p>
 
@@ -84,7 +80,7 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 <br>
 <p><b>Highlights</b></p>
 
-<p><u>Our Achievements</u></p>
+<p><b>Achievements</b></p>
 
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 
@@ -118,9 +114,7 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 
 
 <details>
-  <summary><b>Malay Dance</b></summary>
-	<br>
-			<i>(For Boys and Girls)</i>
+  <summary><b>Malay Dance</b> <i>(For Boys and Girls)</i></summary>
 
 <p align="justify"> Dancing is a unique form of exercise because it provides the heart-healthy benefits of an aerobic exercise while also allowing one to have fun. Dancing also helps to reduce stress, increase energy, improve strength and increase muscle tone and coordination.</p>
 
@@ -128,7 +122,7 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 <br>
 <p><b>Highlights</b></p>
 
-<p><u>Our Achievements</u></p>
+<p><b>Achievements</b></p>
 	
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 <p>School-based Performance</p>
@@ -165,9 +159,8 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 
 
 <details>
-  <summary><b>Show Choir</b></summary>
-	<br>
-			<i>(For Boys and Girls)</i>
+  <summary><b>Show Choir</b> <i>(For Boys and Girls)</i></summary>
+
 
 <p align="justify">The Choir CCA is about integrating coordinated modern dance choreography with strong vocal singing skills. Regardless of musical background, we welcome all students who are interested in the CCA, and we provide a platform for them to discover and display their talents in Music, song, dance and leadership. We strive to nurture the passion and confidence for performing in our students by providing them with multiple opportunities both in and out of school.</p>
 
