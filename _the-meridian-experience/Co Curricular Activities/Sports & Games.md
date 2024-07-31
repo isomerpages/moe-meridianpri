@@ -33,7 +33,7 @@ variant: markdown
   </tr>
 </tbody></table>
 
-<p>Achievements</p>
+<p><b>Achievements</b></p>
 <u>2024</u>
 <p></p><ul>
 	<li>National School Games Floorball 2024</li>
