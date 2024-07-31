@@ -53,15 +53,13 @@ variant: markdown
 </details>
 
 <details>
-  <summary><b>Football</b></summary>
-	<br>
-		<i>(For Boys Only)</i>
+  <summary><b>Football</b> <i>(For Boys Only)</i></summary>
 
 <p align="justify">At the heart of our football team is a strong sense of <b>teamwork</b>. We believe that individual talent can only take us so far, but when combined with the collective effort of each player, we can achieve greatness. On the field, we move as one unit, supporting and encouraging each other to reach our common goals. Our victories are a testament to the power of teamwork, demonstrating that together, we are stronger.</p>
 
 <p align="justify"> In the face of challenges and setbacks, our team exemplifies <b>resilience</b>. The boys understand that the path to success is not always smooth, but it's the ability to bounce back and persevere that defines us. Whether trailing in a game or facing tough opponents, our players will show unwavering determination, never giving up until the final whistle. Resilience is a mindset that we cultivate within every member of our football family.</p>
 
-<p align="justify">Those boys in football CCA are not just athletes; they are ambassadors of sportsmanship, <b>integrity</b> and fair play. Our players understand the importance of representing our school with pride and honor.</p>
+<p align="justify">Those boys in football CCA are not just athletes; they are ambassadors of sportsmanship, integrity and fair play. Our players understand the importance of representing our school with pride and honor.</p>
 
 <p align="justify">Join us in celebrating the values that define our football team – a brotherhood built on teamwork, resilience, and responsibility. Together, we strive for excellence and aim to leave a lasting legacy that extends far beyond the football field. Go Team Meridian!</p>
 
@@ -80,7 +78,7 @@ variant: markdown
 <u>Training Sessions:</u><br>
 Monday: 3:45 p.m. to 5:15 p.m. (for P4 to P6)
 
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jeisTTDw68E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 
