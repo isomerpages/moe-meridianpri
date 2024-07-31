@@ -6,9 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: markdown
 ---
 <details>
-  <summary><b>Floorball</b></summary>
-	<br>
-		<i>(For Boys and Girls)</i>
+  <summary><b>Floorball</b> <i>(For Boys and Girls)</i></summary>
 
 <p align="justify">Team Meridian Floorball aims to develop not only the players’ skills and playing strategies, but also their character.&nbsp;Through the training programme, we hope to grow every member to become a confident, adaptable and resilient individual.&nbsp;At the same time, understanding the importance of care, respect and teamwork. This is done through the close guidance of the coaches and teachers.</p>
 
