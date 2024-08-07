@@ -84,10 +84,6 @@ variant: markdown
     <td>Tamil Language Teacher</td>
   </tr>
 		<tr>
-    <td><a href="mailto:teng_ying_ying@moe.edu.sg">Ms Eve Teng Ying Ying</a></td>
-    <td>FAJT</td>
-  </tr>
-		<tr>
     <td><a href="mailto:nurfarhana_sabtu@moe.edu.sg">Mdm Nurfarhana Binte Sabtu</a></td>
     <td>FAJT</td>
   </tr>
