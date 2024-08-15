@@ -28,12 +28,16 @@ variant: markdown
 
 <img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL2.png" style="width:750px;height:355px;float:center">
 
-<h4>The Leadership Training and Opportunities are as follows:</h4>
+<h4>The Specialised Student Leader Groups</h4>
 
-<img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL3.png" style="width:750px;height:255px;float:center">
+<table style="width: 100%">
+	<tbody><tr>
+		<td></td>
+		<td></td>
+		</tr>
+</tbody></table>
 
-<br>
-<br>
+<h4>Photo Gallery of Students Leadership</h4>
 
 <table style="width:100%">
   <tbody><tr>
