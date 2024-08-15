@@ -76,14 +76,38 @@ variant: markdown
     <td colspan="2"><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL5.jpg" style="width:420px;height:310px;float:center"><p style="margin-bottom:0; margin-top:0; text-align:center;">Student Council Leadership Development Activities</p></td>
   </tr>
 	</tbody></table>
-		
-    <img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL7.png" style="width:390px;height:290px;float:center">
-    <img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL8.png" style="width:390px;height:290px;float:center">
-		
-  
+	
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <td colspan="2"><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL6.jpg" style="width:520px;height:310px;float:center"><p style="margin-bottom:0; margin-top:0; text-align:center;">Student Council Investiture</p></td>
+  </tr>
+		</tbody></table>
 
-<p style="margin-bottom:0; margin-top:0; text-align:center;">3s Appreciating our OSOs and PVs</p>
 
+		<table style="width:100%">
+  <tbody>
+			<tr>
+    <td colspan="2"><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL7.jpg" style="width:420px;height:310px;float:center"></td>
+  </tr>
+		<tr>
+    <td><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL8.jpg" style="width:590px;height:290px;float:center"></td>
+    <td><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL9.jpg" style="width:590px;height:290px;float:center"></td>
+  </tr>
+	</tbody></table>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">CCA Leaders</p>
+
+<table style="width:100%">
+  <tbody>
+			<tr>
+    <td colspan="2"><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL10.jpg" style="width:420px;height:310px;float:center"></td>
+  </tr>
+		<tr>
+    <td><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL11.jpg" style="width:390px;height:290px;float:center"></td>
+    <td><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL12.jpg" style="width:590px;height:290px;float:center"></td>
+  </tr>
+	</tbody></table>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">P3 Cohort Leadership - Appreciationg Our Mangroves</p>
 
 <table style="width:100%">
   <tbody><tr>
