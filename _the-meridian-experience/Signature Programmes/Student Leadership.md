@@ -30,12 +30,7 @@ variant: markdown
 
 <h4>The Specialised Student Leader Groups</h4>
 
-<table style="width: 100%">
-	<tbody><tr>
-		<td></td>
-		<td></td>
-		</tr>
-</tbody></table>
+<p align="justify">For students who display greater leadership potential, they serve in specialised student leader groups, such as the Student Council, CCA Leaders and Class Leadership Committee (CLC).</p>
 
 <h4>Photo Gallery of Students Leadership</h4>
 
