@@ -18,7 +18,7 @@ variant: markdown
 
 <p>We strongly encourage our students to put these 5 practices frequently into actions to grow as a leader.</p>
 
-<h4>The Student Leadership Develpment Framework</h4>
+<h4>The Student Leadership Development Framework</h4>
 
 <img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL1.png" style="width:350px;height:400px;float:center">
 
@@ -32,7 +32,7 @@ variant: markdown
 
 <p align="justify">For students who display greater leadership potential, they serve in specialised student leader groups, such as the Student Council, CCA Leaders and Class Leadership Committee (CLC).</p>
 
-<h6>Roles of Student Councillors:</h6>
+<h5>Roles of Student Councillors:</h5>
 <ul>
 	<li>Representing the wider student body</li>
 	<li>Modeling the way in their actions and words</li>
@@ -41,14 +41,14 @@ variant: markdown
 	<li>Performing daily morning assembly duties</li>
 	</ul>
 	
-<h6>Roles of CCA Leaders</h6>
+<h5>Roles of CCA Leaders</h5>
 <ul>
 	<li>Building a positive culture of learning in the CCA</li>
 	<li>Caring for and connecting with CCA members</li>
 	<li>Assisting CCA teachers in carrying out CCA activities and duties</li>
 	</ul>
 	
-<h6>Roles within the Class Leadership Committee</h6>
+<h5>Roles within the Class Leadership Committee</h5>
 <ul>
 	<li>Class Monitor</li>
 	<li>ICT Leader</li>
