@@ -66,7 +66,8 @@ variant: markdown
     <td colspan="2"><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL2.jpg" style="width:520px;height:310px;float:center"><p style="margin-bottom:0; margin-top:0; text-align:center;">Student Council</p></td>
   </tr>
 		</tbody></table>
-		<table style="width:100%">
+		
+<table style="width:100%">
   <tbody>
 		<tr>
     <td><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL3.jpg" style="width:590px;height:290px;float:center"></td>
@@ -75,7 +76,7 @@ variant: markdown
 	<tr>
     <td colspan="2"><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL5.jpg" style="width:420px;height:310px;float:center"><p style="margin-bottom:0; margin-top:0; text-align:center;">Student Council Leadership Development Activities</p></td>
   </tr>
-	</tbody></table>
+</tbody></table>
 	
 <table style="width:100%">
   <tbody>
