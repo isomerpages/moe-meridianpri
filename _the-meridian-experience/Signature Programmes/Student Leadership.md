@@ -61,7 +61,11 @@ variant: markdown
 <h4>Photo Gallery of Students Leadership</h4>
 
 <table style="width:100%">
-  <tbody><tr>
+  <tbody>
+		<tr>
+    <td colspan="2"><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL2.jpg" style="width:520px;height:310px;float:center"><p style="margin-bottom:0; margin-top:0; text-align:center;">Student Council Meeting</p></td>
+  </tr>
+		<tr>
     <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL4.png" style="width:590px;height:290px;float:center"><p style="margin-bottom:0; margin-top:0; text-align:center;">Student Council</p></td>
     <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL5.png" style="width:590px;height:290px;float:center"><p style="margin-bottom:0; margin-top:0; text-align:center;">Student Council Meeting</p></td>
   </tr>
