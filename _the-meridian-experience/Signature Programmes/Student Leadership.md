@@ -84,8 +84,7 @@ variant: markdown
   </tr>
 		</tbody></table>
 
-
-		<table style="width:100%">
+<table style="width:100%">
   <tbody>
 			<tr>
     <td colspan="2"><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL7.jpg" style="width:420px;height:310px;float:center"></td>
