@@ -22,6 +22,8 @@ variant: markdown
 
 <img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL1.png" style="width:350px;height:400px;float:center">
 
+<p align="justify">At Meridian Primary School, every child is given the opportunity to learn leadership practices, hone leadership skills and serve the school and community. Leadership programmes are designed for the different tiers of students, catering to every child’s readiness levels. At lower primary, cohort leadership trainings are conducted for students to first learn the skills. At upper primary, cohort-based programmes are designed for students to apply their skills in the various projects and activities.</p>
+
 <h4>The Leadership Training Domains</h4>
 
 <img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL2.png" style="width:750px;height:355px;float:center">
