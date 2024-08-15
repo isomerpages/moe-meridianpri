@@ -18,6 +18,10 @@ variant: markdown
 
 <p>We strongly encourage our students to put these 5 practices frequently into actions to grow as a leader.</p>
 
+<h4>The student Leadership Develpment Framework</h4>
+
+
+
 <h4>The Leadership Training Domains</h4>
 
 <img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL2.png" style="width:750px;height:355px;float:center">
