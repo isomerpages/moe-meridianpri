@@ -18,7 +18,7 @@ variant: markdown
 
 <p>We strongly encourage our students to put these 5 practices frequently into actions to grow as a leader.</p>
 
-<h4>The student Leadership Develpment Framework</h4>
+<h4>The Student Leadership Develpment Framework</h4>
 
 <img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL1.png" style="width:350px;height:400px;float:center">
 
