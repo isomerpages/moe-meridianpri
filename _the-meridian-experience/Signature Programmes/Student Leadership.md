@@ -32,6 +32,32 @@ variant: markdown
 
 <p align="justify">For students who display greater leadership potential, they serve in specialised student leader groups, such as the Student Council, CCA Leaders and Class Leadership Committee (CLC).</p>
 
+<h6>Roles of Student Councillors:</h6>
+<ul>
+	<li>Representing the wider student body</li>
+	<li>Modeling the way in their actions and words</li>
+	<li>Participating in monthly meetings</li>
+	<li>Serving the school at special events</li>
+	<li>Performing daily morning assembly duties</li>
+	</ul>
+	
+<h6>Roles of CCA Leaders</h6>
+<ul>
+	<li>Building a positive culture of learning in the CCA</li>
+	<li>Caring for and connecting with CCA members</li>
+	<li>Assisting CCA teachers in carrying out CCA activities and duties</li>
+	</ul>
+	
+<h6>Roles within the Class Leadership Committee</h6>
+<ul>
+	<li>Class Monitor</li>
+	<li>ICT Leader</li>
+	<li>Cleanliness Captain</li>
+	<li>Sports Leader</li>
+	<li>Eco-Environment Ambassador</li>
+	<li>Peer Support Leader</li>
+	</ul>
+
 <h4>Photo Gallery of Students Leadership</h4>
 
 <table style="width:100%">
