@@ -20,7 +20,7 @@ variant: markdown
 
 <h4>The student Leadership Develpment Framework</h4>
 
-
+<img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL1.png" style="width:350px;height:400px;float:center">
 
 <h4>The Leadership Training Domains</h4>
 
