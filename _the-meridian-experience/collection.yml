@@ -2,9 +2,9 @@ collections:
   the-meridian-experience:
     output: true
     order:
-      - Signature Programmes/Student Leadership.md
       - Signature Programmes/.keep
       - Signature Programmes/Applied Learning Programme (ALP).md
+      - Signature Programmes/Student Leadership.md
       - Signature Programmes/Secret Garden (MTL).md
       - Student Development/.keep
       - Student Development/Character & Citizenship Education.md
