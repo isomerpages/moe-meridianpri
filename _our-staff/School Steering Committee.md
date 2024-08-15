@@ -4,8 +4,8 @@ permalink: /our-staff/school-steering-committee/
 description: ""
 variant: markdown
 ---
-<img src="/images/Our%20Staff/2023%20Dept%20Photos/Steering_Committee__Formal_min.jpg" style="width:650px;height:455px;float:center">
-<p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
+<img src="/images/Our%20Staff/2024%20Dept%20Photo/STEERING_COMMITTEE_Formal.jpg" style="width:650px;height:455px;float:center">
+<p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2024</p>
 
 
 <h4 style="margin-bottom:0; margin-top:1;"> School Leaders</h4>

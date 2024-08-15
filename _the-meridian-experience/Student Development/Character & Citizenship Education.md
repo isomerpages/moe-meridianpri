@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Student Development
 variant: markdown
 ---
-<img src="/images/Our%20Staff/2023%20Dept%20Photos/CCE__Formal_min.jpg" style="width:650px;height:455px;float:center">
-<p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
+<img src="/images/Our%20Staff/2024%20Dept%20Photo/CCE_DEPARTMENT_Formal.jpg" style="width:650px;height:455px;float:center">
+<p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2024</p>
 
 <h4 style="margin-bottom:0; margin-top:1;"> Vision</h4>
 
