@@ -1,6 +1,6 @@
 ---
-title: Student Leadership
-permalink: /the-meridian-experience/signature-programmes/student-leadership/
+title: Learn for Life Programme (LLP)
+permalink: /the-meridian-experience/signature-programmes/learn-for-life-programme/
 description: ""
 third_nav_title: Signature Programmes
 variant: markdown
