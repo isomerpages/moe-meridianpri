@@ -97,6 +97,10 @@ variant: markdown
     <td>FAJT</td>
   </tr>
 		<tr>
+    <td><a href="mailto:dias_christine_nee_seah_lian_huay@moe.edu.sg">Mrs Dias Christine Nee Seah Lian Huay</a></td>
+    <td>FAJT</td>
+  </tr>
+		<tr>
     <td><a href="">Mdm Loh Wee Him</a></td>
     <td>OSO</td>
   </tr>
