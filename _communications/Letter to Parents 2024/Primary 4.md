@@ -6,6 +6,14 @@ third_nav_title: Letter to Parents 2024
 variant: markdown
 ---
 <details>
+  <summary>September</summary>
+<ul>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%204/9_Sep_P4_end_year_oral.pdf">P4 End of Year Oral Examination</a><font size="2"> (9 September 2024)</font>
+	</li>
+	</ul>
+</details>
+<details>
   <summary>July</summary>
 <ul>
 	<li>
