@@ -4,8 +4,9 @@ permalink: /mk-at-meridian/mk-at-meridian-staff/
 description: ""
 variant: markdown
 ---
-<img src="/images/Our%20Staff/2023%20Dept%20Photos/MKE__Formal_min.jpg" style="width:650px;height:455px;float:center">
-<p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2023</p>
+<img src="/images/MK@Meridian/2024/MKE_STAFF_Formal.jpg" style="width:650px;height:455px;float:center">
+<p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2024</p>
+
 
 
 #### MK@Meridian Staff
@@ -93,6 +94,10 @@ variant: markdown
   </tr>
 		<tr>
     <td><a href="mailto:nurulsafira_mohamad_rafi@moe.edu.sg">Ms Nurulsafira Binte Mohamad Rafi</a></td>
+    <td>FAJT</td>
+  </tr>
+		<tr>
+    <td><a href="mailto:dias_christine_nee_seah_lian_huay@moe.edu.sg">Mrs Dias Christine Nee Seah Lian Huay</a></td>
     <td>FAJT</td>
   </tr>
 		<tr>

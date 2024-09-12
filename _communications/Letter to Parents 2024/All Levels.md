@@ -7,7 +7,26 @@ variant: markdown
 ---
 #### Letter to All Parents 2024
 
+<details>
+  <summary>September</summary>
+<ul>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%205/9_Sep_P5_end_year_oral.pdf">P5 End of Year Oral Examination</a><font size="2"> (9 September 2024)</font>
+	</li>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Primary%204/9_Sep_P4_end_year_oral.pdf">P4 End of Year Oral Examination</a><font size="2"> (9 September 2024)</font>
+	</li>
+	</ul>
+</details>
 
+<details>
+  <summary>August</summary>
+<ul>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/End_of_Term_3_Letter_to_Parents_2024_30_Aug_2024.pdf">End of Term 3 Letters to Parents</a><font size="2"> (30 August 2024)</font>
+	</li>
+	</ul>
+</details>
 <details>
   <summary>July</summary>
 <ul>
