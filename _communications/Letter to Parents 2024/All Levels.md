@@ -8,6 +8,15 @@ variant: markdown
 #### Letter to All Parents 2024
 
 
+
+<details>
+  <summary>August</summary>
+<ul>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/End_of_Term_3_Letter_to_Parents_2024_30_Aug_2024.pdf">Chinese Cultural Musical Performance</a><font size="2"> (30 August 2024)</font>
+	</li>
+	</ul>
+</details>
 <details>
   <summary>July</summary>
 <ul>
