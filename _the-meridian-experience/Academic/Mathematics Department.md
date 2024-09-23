@@ -6,7 +6,7 @@ third_nav_title: Academic
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width:650px;height:455px;float:center" height="auto" width="100%" src="/images/Our%20Staff/2024%20Dept%20Photo/MATHEMATICS_DEPARTMENT_Formal.jpg">
+<img style="width: 90%;" height="auto" width="100%" src="/images/Our%20Staff/2024%20Dept%20Photo/MATHEMATICS_DEPARTMENT_Formal.jpg">
 </div>
 <p>*Photo taken in 2024</p>
 <h4>Vision</h4>
