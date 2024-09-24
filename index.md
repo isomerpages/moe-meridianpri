@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner_9_sep.jpg
+      background: /images/Banner_24_Sep.jpg
       key_highlights:
         - title: Check here to Join Us for a virtual tour of our school
           description: ""
