@@ -27,3 +27,19 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Earth Day</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Test</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Test 2</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>test</p>
+</div>
+</details>
+</div>
+<p></p>
