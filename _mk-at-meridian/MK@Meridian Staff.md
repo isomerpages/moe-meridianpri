@@ -179,24 +179,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurulhuda_sammon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurhuda Binte Sammon</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurulsafira_mohamad_rafi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurulsafira Binte Mohamad Rafi</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:dias_christine_nee_seah_lian_huay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Dias Christine Nee Seah Lian Huay</a>
 </p>
 </td>
