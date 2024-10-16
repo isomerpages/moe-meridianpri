@@ -262,7 +262,4 @@ variant: markdown
 	<tr>
     <td><a href="mailto:sharifah_samihah@moe.edu.sg">Mdm Sharifah Samihah (Special Education Needs Officer)</a></td>
   </tr>
-		<tr>
-    <td><a href="mailto:Lim_Shan_hui@moe.edu.sg">Miss Lim Shan Hui (Special Education Needs Officer)</a></td>
-  </tr>
 </tbody></table>
