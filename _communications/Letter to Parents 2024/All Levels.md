@@ -14,7 +14,7 @@ variant: markdown
 		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/7_Oct_24___public_speaking_workshop.pdf">Public Speaking Enrichment Workshop</a><font size="2"> (7 October 2024)</font>
 	</li>
 	<li>
-		<a href="/files/2024%20Letter%20to%20Parents/Primary%204/9_Sep_P4_end_year_oral.pdf">P4 End of Year Oral Examination</a><font size="2"> (9 September 2024)</font>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/7_Oct_24_Post_PSLE.pdf">P6 Post PSLE Programme</a><font size="2"> (7 October 2024)</font>
 	</li>
 	</ul>
 </details>
