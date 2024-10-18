@@ -6,6 +6,14 @@ third_nav_title: Letter to Parents 2024
 variant: markdown
 ---
 <details>
+  <summary>October</summary>
+<ul>
+	<li>
+		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/7_Oct_24_Post_PSLE.pdf">P6 Post PSLE Programme</a><font size="2"> (7 October 2024)</font>
+	</li>
+	</ul>
+</details>
+<details>
   <summary>July</summary>
 <ul>
 		<li>
