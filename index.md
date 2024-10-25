@@ -12,7 +12,7 @@ sections:
         - title: Check here to Join Us for a virtual tour of our school
           description: ""
           url: https://www.meridianpri.moe.edu.sg/about-us/mps-virtual-tour/virtual-tour/
-      variant: image
+      variant: center
   - textcards:
       title: Announcements and Resources
       id: textcards
