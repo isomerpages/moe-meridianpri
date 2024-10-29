@@ -7,12 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Future_Citizens.jpg
+      background: /images/Future_Citizens_28Oct24.jpg
       key_highlights:
         - title: Check here to Join Us for a virtual tour of our school
           description: ""
           url: https://www.meridianpri.moe.edu.sg/about-us/mps-virtual-tour/virtual-tour/
-      variant: image
+      variant: center
   - textcards:
       title: Announcements and Resources
       id: textcards
