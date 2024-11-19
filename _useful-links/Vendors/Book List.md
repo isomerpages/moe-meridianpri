@@ -9,7 +9,7 @@ variant: markdown
 
 Please click on the level to view on the book list details:&nbsp;  
 <b><u>Primary 1</u></b><br>
-* <a target="_blank" href="/files/Useful%20Link/2025%20Booklist/2025_P1.pdf">Primary 1</a>
+* <a href="/files/Useful%20Link/2025%20Booklist/2025_P1.pdf">Primary 1</a>
 
 <b><u>Primary 2</u></b><br>
 * <a href="/files/Useful%20Link/2025%20Booklist/2025_P2.pdf">Primary 2</a>
