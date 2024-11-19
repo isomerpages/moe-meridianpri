@@ -27,5 +27,5 @@ Please click on the level to view on the book list details:&nbsp;
 *  <a href="/files/Useful%20Link/2025%20Booklist/2025_P5_Foundation.pdf">Primary 5 (Foundation)</a>
 
 <b><u>Primary 6</u></b><br>
-* <a href="/files/Useful%20Link/2024%20Booklist/Primary_6.pdf">Primary 6 (Standard)</a>
-*  <a href="/files/Useful%20Link/2024%20Booklist/Primary_6__Foundation_.pdf">Primary 6 (Foundation)</a>
+* <a href="/files/Useful%20Link/2025%20Booklist/2025_P6_Std.pdf">Primary 6 (Standard)</a>
+*  <a href="/files/Useful%20Link/2025%20Booklist/2025_P6_foundation.pdf">Primary 6 (Foundation)</a>
