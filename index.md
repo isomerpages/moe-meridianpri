@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Future_Citizens_28Oct24.jpg
       key_highlights:
-        - title: 2025 P1 Orientation Briefing Slide
+        - title: 2025 P1 Orientation Briefing Slides
           description: ""
           url: https://www.meridianpri.moe.edu.sg/2025-p1-parents/
       variant: center
