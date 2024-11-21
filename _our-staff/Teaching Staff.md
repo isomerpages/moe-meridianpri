@@ -218,9 +218,6 @@ variant: markdown
 			<tr>
     <td><a href="mailto:tan_soon_choon@moe.edu.sg">Mdm Tan Soo Choon Sharon</a></td>
   </tr>
-	<tr>
-    <td><a href="mailto:lee_ai_peng@moe.edu.sg">Mrs Doris Lee Ai Peng (FAJT)</a></td>
-  </tr>
   <tr>
     <td><a href="mailto:fadzlina_abdullah@moe.edu.sg">Mdm Fadzlina Bte Abdullah (FAJT)</a></td>
   </tr>
