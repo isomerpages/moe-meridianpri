@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: 2025 P1 Orientation Briefing Slide
           description: ""
-          url: https://www.meridianpri.moe.edu.sg/about-us/mps-virtual-tour/virtual-tour/
+          url: https://www.meridianpri.moe.edu.sg/2025-p1-parents/
       variant: center
   - textcards:
       title: Announcements and Resources
