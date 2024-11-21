@@ -2,6 +2,7 @@ collections:
   communications:
     output: true
     order:
+      - 2025 P1 Parents.md
       - Letter to Parents 2024/.keep
       - Letter to Parents 2024/All Levels.md
       - Letter to Parents 2024/Primary 1.md
