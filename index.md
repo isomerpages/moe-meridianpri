@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Future_Citizens_28Oct24.jpg
       key_highlights:
-        - title: Check here to Join Us for a virtual tour of our school
+        - title: 2025 P1 Orientation Briefing Slide
           description: ""
           url: https://www.meridianpri.moe.edu.sg/about-us/mps-virtual-tour/virtual-tour/
       variant: center
