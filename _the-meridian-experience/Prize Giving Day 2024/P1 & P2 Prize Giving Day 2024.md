@@ -43,7 +43,10 @@ third_nav_title: Prize Giving Day 2024
 	<tr>
         <td style="text-align:center"><a target="_blank" href="/images/The%20Meridian%20Experience/2024%20P1&amp;P2%20prize%20giving/2TW_min.jpg">
 P2 Teamwork</a></td>
-        <td></td>
-        <td></td>
+        <td style="text-align:center"><a target="_blank" href="/images/The%20Meridian%20Experience/2024%20P1&amp;P2%20prize%20giving/2RB_min.jpg">
+P2 Responsibility</a></td>
+        <td style="text-align:center"><a target="_blank" href="/images/The%20Meridian%20Experience/2024%20P1&amp;P2%20prize%20giving/2RT_min.jpg">
+P2 Respect</a></td>
     </tr>
 		</tbody></table>
+		
