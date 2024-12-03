@@ -15,7 +15,7 @@ third_nav_title: Prize Giving Day 2024
 			<th></th>
 		</tr>
 		<tr>
-        <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipNI6UokPbgRZjRCnWQ8ALjVO2mse0q6O20eDPhq5FH4KR1Oxh4LQv9q40utDmkl_w/photo/AF1QipM8jo1ipPPoGsYj9ECMkWB50mCJ6MynEME88Rjf?key=dWdRaFR6OWpzQlI1OFZkZmpabldUV2hOTjlmaTFR">P3 Care</a></td>
+        <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/dNq3xgijTHB7CCN76">P3 Care</a></td>
         <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipO8Mn__sJ2qUmGfXBjpnFNBMjOJCB4yznskZlLF-85tphhsPTT4t0037ODoVPKFaA/photo/AF1QipMFmZ8V1n0CEwnksLiJGJV2Jw-f3ldlKmAWX9OI?key=b3ZOUnZsYkcwVHFCVmMySV9NNDlob1NKMVBrQkpB">P3 Integrity</a></td>
         <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipPBLjT5Wd6cXOdUtsIURjhKlhxNkaFIiNnhRMnpW0hBtkQ_0yem4W7usAZVKHaqOA/photo/AF1QipM_Unx58c1j2bG9pJ5mZY8z4U8nyqNtXZVevZQx?key=c1IzQ0dMVzNqMGRWcTliZWJXYWtXQmdTVnk3a0pn">P3 Resilience</a></td>
     </tr>
