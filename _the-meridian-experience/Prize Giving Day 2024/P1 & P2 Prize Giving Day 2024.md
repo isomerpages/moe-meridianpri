@@ -24,6 +24,9 @@ third_nav_title: Prize Giving Day 2024
         <td style="text-align:center"><a target="_blank" href="/images/The%20Meridian%20Experience/2024%20P1&amp;P2%20prize%20giving/1RB_min.jpg">P1 Responsibility</a></td>
         <td style="text-align:center"><a target="_blank" href="/images/The%20Meridian%20Experience/2024%20P1&amp;P2%20prize%20giving/1RT_min.jpg">P1 Respect</a></td>
     </tr>
+		<tr>
+        <td style="text-align:center"><a target="_blank" href="/images/The%20Meridian%20Experience/2024%20P1&amp;P2%20prize%20giving/1PA_min.jpg">P1 Passion</a></td>
+    </tr>
 		</tbody></table>
 		
   <table style="width:100%">
