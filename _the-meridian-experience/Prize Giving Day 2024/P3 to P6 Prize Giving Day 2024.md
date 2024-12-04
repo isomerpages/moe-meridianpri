@@ -41,7 +41,7 @@ third_nav_title: Prize Giving Day 2024
 		</tr>
 		<tr>
         <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/MXve5aG1ns1bKMG3A">P5 Integrity</a></td>
-        <td style="text-align:center"><a href="">P5 Respect</a></td>
+        <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/KtfGXWJxKoBuswB38">P5 Respect</a></td>
         <td style="text-align:center"><a href="">P5 Teamwork</a></td>
     </tr>
 		<tr>
