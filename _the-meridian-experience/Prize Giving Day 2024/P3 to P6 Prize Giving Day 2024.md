@@ -50,13 +50,13 @@ third_nav_title: Prize Giving Day 2024
 			<th></th>
 		</tr>
 		<tr>
-        <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipM756x06zsdZmMWtRcYNMIUNIOPi0-mhM_Nk-XFVl4HQTmAdntIEipDqCWWwauCxQ/photo/AF1QipM2kRrg0c-uvRRQko3RW8Xc4H7To8nLd75vPgdl?key=cldxS05kVXFFbFF0cUQ2V29OdVVodGxseC1rMkV3">P6 Care</a></td>
-         <td style="text-align:center"><a href="">P6 Resilience</a></td>
-        <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipMqeg1P71Uw6P2VEDBOmXnmRmyN26wrL9573uN504mqvqo6_8vTW5mf6KY3a_ZFOw/photo/AF1QipO8GVujq9WL6cPuIOA6MUbBQrHgsMzrXw_BJbxy?key=ci10Z3Mwb1dmOFNCQW5hU2FZOXRHS1h0Z0hHZ05B">P6 Respect</a></td>
+        <td style="text-align:center"><a href="">P6 Care</a></td>
+         <td style="text-align:center"><a href="">P6 Integrity</a></td>
+        <td style="text-align:center"><a href="">P6 Resilience</a></td>
     </tr>
 	<tr>
-        <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipPV1ceoR7czn-7ilhF2bDci7nQp0MRG2vOUJ2FYy6SFD-RMdDaxJRzfcnakg1k1Ww/photo/AF1QipNKRMrxX_MKVoh0UqOeWceeFeurGWGbux0eBeUG?key=cmtmd25UcngxNUlRT1VZQm9xWHJ0UGRTd0ZhMXNR">P6 Responsibility</a></td>
-        <td></td>
+        <td style="text-align:center"><a href="">P6 Responsibility</a></td>
+        <td style="text-align:center"><a href="">P6 Teamwork</a></td>
         <td></td>
     </tr>
 		<tr>
