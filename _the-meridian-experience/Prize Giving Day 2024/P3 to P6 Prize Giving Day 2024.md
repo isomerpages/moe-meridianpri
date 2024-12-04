@@ -40,14 +40,9 @@ third_nav_title: Prize Giving Day 2024
 			<th></th>
 		</tr>
 		<tr>
-        <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipPBKekLuhEDtsa0Vq5fPLyi-mJqITZopAosjVahfNdz8CVjPdLWwzExLHrjDVtftg/photo/AF1QipNcaF95sGynHUKCSMWfnzYWuAg2CkngMZXT2c_O?key=ODJKN1VpdVJNMzlyM0FRZHBVQVl0UnFJUXd6elhn">P5 Care</a></td>
-        <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipN4nTGm0Kq_NrliCUyOcG-YPGsbZ0Pn80hmEGsa3RJL6yo22vIHCRcfNoT9fzo7uw/photo/AF1QipMNnJjEU_2aAiY5oX8pXTWlYtp_2uFhVox5bb3j?key=OHFrekZpMHFmNm5YMEx0WjRtWFlQa1ZIV2RVUG5R">P5 Resilience</a></td>
-        <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipPjEpIXuNdNOL85o_qYcnHx2kQqe_wMofFKw0K6VrZbyQ2wh-JYM2DFhk46_mBPQg/photo/AF1QipM2LwFudRMzyKpjRzR3BbzZ4tyO3aIuDLqb_u5T?key=YnZzNTB2MUJRM19JZGtzVEJWUWgzV0pIbldRRmtn">P5 Responsibility</a></td>
-    </tr>
-		<tr>
-        <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipOdmztbpe_qs4mp9_rMJVJt9LtVi2UTz_lxMHzZ4J45-uDPENTsFLdZKmzXHx9Srg/photo/AF1QipMF5xoWDSpkKVjHQZXm5QzoNQGXVisWFNyEPwwi?key=Nm5iczdESXdvcnVzdWVSMmt5dDFiVmVuVVloSktn">P5 Integrity</a></td>
-        <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipMUnfNFrGpszATY6GrFyb2IWLYeZx3ggGhDY0LHV1aTe_7jWdsIyMPAEqDL5L6C4w/photo/AF1QipOxJdWlGEOsF_RLnXwsvRFBVeTwySHezmDvpKLR?key=M2h6VFNQTzBkTjg3QUJMajFZYTM1MWxySW4tZ3dR">P5 Teamwork</a></td>
-        <td></td>
+        <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/MXve5aG1ns1bKMG3A">P5 Integrity</a></td>
+        <td style="text-align:center"><a href="">P5 Respect</a></td>
+        <td style="text-align:center"><a href="">P5 Teamwork</a></td>
     </tr>
 		<tr>
 			<th>Primary 6</th>
