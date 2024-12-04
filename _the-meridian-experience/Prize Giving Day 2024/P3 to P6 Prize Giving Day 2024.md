@@ -31,7 +31,7 @@ third_nav_title: Prize Giving Day 2024
     </tr>
 		<tr>
         <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/TVcYri4S6HWhHXJk9">P4 Responsibility</a></td>
-        <td style="text-align:center"><a href="">P4 Teamwork</a></td>
+        <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/JugkmZJMRNFDtuAB8">P4 Teamwork</a></td>
         <td></td>
     </tr>
 		<tr>
