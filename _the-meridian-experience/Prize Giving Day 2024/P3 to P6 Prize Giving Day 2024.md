@@ -25,9 +25,14 @@ third_nav_title: Prize Giving Day 2024
 			<th></th>
 		</tr>
 		<tr>
-        <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipNKiqlyztXTy2C8E-OCml6b6Sg7Aoqi-FIvk0d5DWP4E9hhqlLWa3McFitKA34gTw/photo/AF1QipMOamqvTVnj5Xe55mKaAgthmUQW6vT_hAr8UKEi?key=QVBiZVJtUFV1b1V5cURIQW83RDAyMi1vR1FlTFJ3">P4 Care</a></td>
-        <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipMcATyJ0Aa0gDTCZftD83C_atsi8ndT75ClIQaAEe0qhKGM8II9fzHp675MLbUv2w/photo/AF1QipOYigDll8gRuY5HpSXHO3CCP0zCw4YQgcSUnyhq?key=RzdibFFDTkFzSTFBLU13MUFFM3pGUlhZNW1kNXpB">P4 Resilience</a></td>
-        <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipMSa5e_ZAKNHkFEY9Csvt1NLv7jeL1kZeszcO28lN1fpzo_gKFqdeUFCb68j0skIQ/photo/AF1QipPUnGipvSNo9EZxK0uwI33wBzt7A71t-bplUUdf?key=VGhISzV1LVZyTXdob29zem90YXhyejNEQkcyZHd3">P4 Responsibility</a></td>
+        <td style="text-align:center"><a href="">P4 Care</a></td>
+        <td style="text-align:center"><a href="">P4 Integrity</a></td>
+        <td style="text-align:center"><a href="">P4 Resilience</a></td>
+    </tr>
+		<tr>
+        <td style="text-align:center"><a href="">P4 Responsibility</a></td>
+        <td style="text-align:center"><a href="">P4 Teamwork</a></td>
+        <td></td>
     </tr>
 		<tr>
 			<th>Primary 5</th>
