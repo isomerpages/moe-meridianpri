@@ -42,7 +42,7 @@ third_nav_title: Prize Giving Day 2024
 		<tr>
         <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/MXve5aG1ns1bKMG3A">P5 Integrity</a></td>
         <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/KtfGXWJxKoBuswB38">P5 Respect</a></td>
-        <td style="text-align:center"><a href="">P5 Teamwork</a></td>
+        <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/gXjbjqvhfiUVALe4A">P5 Teamwork</a></td>
     </tr>
 		<tr>
 			<th>Primary 6</th>
