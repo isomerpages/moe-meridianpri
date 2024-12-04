@@ -17,7 +17,7 @@ third_nav_title: Prize Giving Day 2024
 		<tr>
         <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/dNq3xgijTHB7CCN76">P3 Care</a></td>
         <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/ZxTvuLCpEJS8L6jV9">P3 Integrity</a></td>
-        <td style="text-align:center"><a target="_blank" href="">P3 Resilience</a></td>
+        <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/6zkPychXGQpbVkR46">P3 Resilience</a></td>
     </tr>
 		<tr>
 			<th>Primary 4</th>
