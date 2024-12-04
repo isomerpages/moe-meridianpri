@@ -27,7 +27,7 @@ third_nav_title: Prize Giving Day 2024
 		<tr>
         <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/tkWozTJvfwtEeVca6">P4 Care</a></td>
         <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/mLVVB2UfHSUqKPa37">P4 Integrity</a></td>
-        <td style="text-align:center"><a href="">P4 Resilience</a></td>
+        <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/qNygzLiUYQzproJx9">P4 Resilience</a></td>
     </tr>
 		<tr>
         <td style="text-align:center"><a href="">P4 Responsibility</a></td>
