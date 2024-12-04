@@ -50,7 +50,7 @@ third_nav_title: Prize Giving Day 2024
 			<th></th>
 		</tr>
 		<tr>
-        <td style="text-align:center"><a href="">P6 Care</a></td>
+        <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/5uiXpMaAptH9wey26">P6 Care</a></td>
          <td style="text-align:center"><a href="">P6 Integrity</a></td>
         <td style="text-align:center"><a href="">P6 Resilience</a></td>
     </tr>
