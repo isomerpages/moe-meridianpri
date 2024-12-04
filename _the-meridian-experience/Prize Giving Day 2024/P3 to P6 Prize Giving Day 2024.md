@@ -52,7 +52,7 @@ third_nav_title: Prize Giving Day 2024
 		<tr>
         <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/5uiXpMaAptH9wey26">P6 Care</a></td>
          <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/RQcrEnyfjHkCHFj3A">P6 Integrity</a></td>
-        <td style="text-align:center"><a href="">P6 Resilience</a></td>
+        <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/jkkwx7tiwF6H6meJ6">P6 Resilience</a></td>
     </tr>
 	<tr>
         <td style="text-align:center"><a href="">P6 Responsibility</a></td>
