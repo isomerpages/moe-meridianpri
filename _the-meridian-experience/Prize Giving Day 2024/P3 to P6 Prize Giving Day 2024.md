@@ -55,7 +55,7 @@ third_nav_title: Prize Giving Day 2024
         <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/jkkwx7tiwF6H6meJ6">P6 Resilience</a></td>
     </tr>
 	<tr>
-        <td style="text-align:center"><a href="">P6 Responsibility</a></td>
+        <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/G3X9Kpff4gwgN6xw7">P6 Responsibility</a></td>
         <td style="text-align:center"><a href="">P6 Teamwork</a></td>
         <td></td>
     </tr>
