@@ -59,5 +59,4 @@ third_nav_title: Prize Giving Day 2024
         <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/4M2o5RxjdgBA749W8">P6 Teamwork</a></td>
         <td></td>
     </tr>
-	
 		</tbody></table>
