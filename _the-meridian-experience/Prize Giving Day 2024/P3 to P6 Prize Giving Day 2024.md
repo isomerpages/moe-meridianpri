@@ -59,14 +59,5 @@ third_nav_title: Prize Giving Day 2024
         <td style="text-align:center"><a target="_blank" href="https://photos.app.goo.gl/4M2o5RxjdgBA749W8">P6 Teamwork</a></td>
         <td></td>
     </tr>
-		<tr>
-			<th>Special Award</th>
-			<th></th>
-			<th></th>
-		</tr>
-		<tr>
-        <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipO4BNBYueYY7SZbqy5DgfMejq0H34oYKojPWoEs8_olMfLn2589G6MRsLqnCw5LxA/photo/AF1QipMiJW9iqgdWYZDnuCY4dmQ44RuBdRnZTmzkoPDl?key=cmFjMS02cmlpMld6a18wTTNhbTdDS0MtYms4eXZ3">Colours Award</a></td>
-        <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipO4iHz_72ZYh90ECpbhPL7uNBnQGhjSdV1a7F5gFcwga8JBgXDf1t0iFF9vM_oiXQ/photo/AF1QipMMKbmNYnRnhqmDPVyjn1BNLbAyu3BAyvnNQ4Rp?key=SHRGNTFPb1lhSVVlOWtaUXVaU3FWVUZzYXRHSE5n">SPSSC <br>Sportsmanship<br> Award</a></td>
-         <td style="text-align:center"><a href="https://photos.google.com/share/AF1QipNQx0llKA7meZBXkrAiUY5LxJaSdxsSRSetrcmUlfkSI4QcDANlWuRH0_INNDTF1Q/photo/AF1QipOhl_fdjSj64IpPVBwL-3qgx3aS9J9OkcViEm1j?key=akQ0b0tzd0szeVBmWUNpbjZjNFlvd1gxak9lc3hR">Model Student Award</a></td>
-    </tr>
+	
 		</tbody></table>
