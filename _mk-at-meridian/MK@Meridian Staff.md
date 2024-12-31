@@ -179,15 +179,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dias_christine_nee_seah_lian_huay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Dias Christine Nee Seah Lian Huay</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm Loh Wee Him</a>
 </p>
 </td>
