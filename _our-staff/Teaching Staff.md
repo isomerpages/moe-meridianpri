@@ -179,6 +179,11 @@ variant: markdown
     <td><a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho</a><br>
 		<a href="mailto:lew_nyet_mee@moe.edu.sg">Mdm Cindy Lew</a><br>
   </td></tr>
+		<tr>
+    <td>5 Teamwork</td>
+    <td><a href="mailto:low_hwee_miang_a@moe.edu.sg">Mdm Low Hwee Miang</a><br>
+		<a href="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng</a><br>
+  </td></tr>
 </tbody></table>
 
 ####  Primary 6
