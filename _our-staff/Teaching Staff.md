@@ -19,7 +19,7 @@ variant: markdown
   </tr>
   <tr>
     <td>1 Integrity</td>
-    <td><a href="mailto:fadhilatun_samsudin@moe.edu.sg">Mdm Fadhilatun Samsudin </a> <br>
+    <td><a href="mailto:fadhilatun_samsudin@moe.edu.sg">Mdm Fadhilatun Binte Samsudin </a> <br>
 		<a href="mailto:lim_seow_wei@moe.edu.sg">Mdm Lim Seow Wei</a></td>
   </tr>
 	<tr>
@@ -37,13 +37,13 @@ variant: markdown
 	<tr>
     <td>1 Respect</td>
     <td><a href="mailto:Angel_Huang@schools.gov.sg">Mdm Angel Huang</a><br>
-		<a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Jem</a>
+		<a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a>
 		<br>
 		<a href="mailto:ananthi_chandramohan@moe.edu.sg">Mdm Ananthi Chandramohan</a></td>
   </tr>
 	<tr>
     <td>1 Teamwork</td>
-    <td><a href="mailto:maslinda_ahmad@moe.edu.sg">Mdm Maslinda Ahmad</a><br>
+    <td><a href="mailto:maslinda_ahmad@moe.edu.sg">Mdm Maslinda Bte Ahmad</a><br>
 		<a href="mailto:foo_si_min@moe.edu.sg">Miss Tracy Foo</a></td>
   </tr>
 </tbody></table>
@@ -57,16 +57,16 @@ variant: markdown
   <tr>
     <td>2 Care</td>
     <td><a href="mailto:tan_pei_ling_a@moe.edu.sg">Mdm Tan Pei Ling</a> <br>
-		<a href="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah</a></td>
+		<a href="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah Bte Ali</a></td>
   </tr>
   <tr>
     <td>2 Integrity</td>
-    <td><a href="mailto:nurliyana_omar@moe.edu.sg">Miss Nurliyana Omar</a> <br>
+    <td><a href="mailto:nurliyana_omar@moe.edu.sg">Miss Nurliyana Binte Omar</a> <br>
 		<a href="mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiao Lu</a></td>
   </tr>
 		<tr>
     <td>2 Passion</td>
-    <td><a href="mailto:nazurah_norizan@moe.edu.sg">Miss Nazurah Norizan</a><br>
+    <td><a href="mailto:nazurah_norizan@moe.edu.sg">Miss Nazurah Binte Norizan</a><br>
 		<a href="mailto:peh_kai_jay@moe.edu.sg">Mr Pei Kai Jay</a></td>
   </tr>
 	<tr>
@@ -81,7 +81,7 @@ variant: markdown
   </tr>
 		<tr>
     <td>2 Respect</td>
-    <td><a href="mailto:siti_saleha_salleh_a@moe.edu.sg">Mdm Siti Saleha Salleh</a><br>
+    <td><a href="mailto:siti_saleha_salleh_a@moe.edu.sg">Mdm Siti Saleha Binte Salleh</a><br>
 		<a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Noor Heryanti</a></td>
   </tr>
 	<tr>
@@ -102,7 +102,7 @@ variant: markdown
   <tr>
     <td>3 Care </td>
     <td><a href="mailto:Loi_Yen_Fen_Amy@moe.edu.sg">Mdm Amy Looi</a><br>
-			<a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu</a></td>
+			<a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu Bte Mohamed</a></td>
   </tr>
 	<tr>
     <td>3 Integrity </td>
@@ -205,8 +205,8 @@ variant: markdown
 		<tr>
     <td>6 Teamwork</td>
     <td><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah Bte Md Nasir</a> <br>
-		<a href="mailto:angel_huang@moe.edu.sg">Mdm Mastura Bte Yacoob</a><br>
-		<a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg">Mdm Tan Hugue Hwan Stefane</a></td>
+		<a href="mailto:Mastura_YAACOB@moe.edu.sg">Mdm Mastura Bte Yacoob</a><br>
+		<a href="mailto:chou_shin_chieh@moe.edu.sg">Mdm Chou Shin Chieh</a></td>
   </tr>
 </tbody></table>
 
