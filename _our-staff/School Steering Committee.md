@@ -74,16 +74,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head P1 and P4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chou_shin_chieh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chou Shin Chieh</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head P2 and P5</p>
+<p>Year Head P1 and P2</p>
 </td>
 </tr>
 <tr>
@@ -92,16 +83,25 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head P3 and P6</p>
+<p>Year Head P3 and P4</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang_tsin_ray@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tang Tsin Ray</a>
+<p><a href="mailto:low_hwee_miang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Low Hwee Miang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head P2</p>
+<p>Assistant Year Head (Covering) P5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chou_shin_chieh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chou Shin Chieh</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head P6</p>
 </td>
 </tr>
 </tbody>
@@ -159,7 +159,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_ye_chin_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sharon Ng Ye Chin</a>
+<p><a href="mailto:aidil_effendy_md_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Aidil Effendy</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,6 +173,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tang_tsin_ray@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tang Tsin Ray</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Student Management (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -231,7 +240,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noorhafidzah_shaffi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Chua Ee Lyn</a>
+<p><a href="mailto:noorhafidzah_shaffi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Ee Lyn</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
