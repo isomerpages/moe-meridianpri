@@ -25,3 +25,9 @@ The format of your username is a combination of the first 5 characters of your N
 In rare cases, two or more students might share the same 10 characters. In such cases, their username may be affixed with a number, e.g. RACHE1234Z_01.
 
 If you are still not sure of your username, please approach your teacher.
+
+<p align="center"> <b>Alternatively, you may also login to SLS using MIMS ID and password. <br>This is also the preferred login method as it helps students <br>better manage their ICT account login details.</b></p>
+
+<p><b> Q2. My account has been locked. What should I do?</b></p>
+Your account will be locked if you try to log in with an incorrect password too many times.
+Please approach your teacher to unlock your account.
