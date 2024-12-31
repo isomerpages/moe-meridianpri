@@ -14,8 +14,8 @@ variant: markdown
   </tr>
   <tr>
     <td>1 Care</td>
-    <td><a href="mailto:tan_pei_ling_a@moe.edu.sg">Mdm Tan Pei Ling</a><br>
-		<a href="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah Binter Ali</a></td>
+    <td><a href="mailto:norsheleen_mohamed_atan@moe.edu.sg">Mdm Norsheleen Binte Mohd Atan</a><br>
+		<a href="mailto:Aminah_Mohamed_Shariff@moe.edu.sg">Mdm Aminah D/o Mohamed Shariff</a></td>
   </tr>
   <tr>
     <td>1 Integrity</td>
@@ -77,7 +77,7 @@ variant: markdown
   </tr>
 		<tr>
     <td>2 Respect</td>
-    <td><a href="mailto:norsheleen_mohamed_atan@moe.edu.sg">Mdm Norsheleen Binte Mohd Atan</a><br>
+    <td><a href="mailto:">Mdm </a><br>
 		<a href="mailto:lim_seow_wei@schools.gov.sg">Mdm Lim Seow Wei</a></td>
   </tr>
 	<tr>
