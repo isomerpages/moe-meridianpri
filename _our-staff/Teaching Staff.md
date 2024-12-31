@@ -217,7 +217,7 @@ variant: markdown
     <td><a href="mailto:tan_soon_choon@moe.edu.sg">Mdm Tan Soo Choon Sharon</a></td>
   </tr>
 		<tr>
-    <td><a href="mailto:ABDUL_MANAF_B_AHMAD_A@moe.edu.sg">Mr Abdul Manaf</a></td>
+    <td><a href="mailto:ABDUL_MANAF_B_AHMAD_A@moe.edu.sg">Mr Abdul Manaf (FAJT)</a></td>
   </tr>
   <tr>
     <td><a href="mailto:fadzlina_abdullah@moe.edu.sg">Mdm Fadzlina Bte Abdullah (FAJT)</a></td>
