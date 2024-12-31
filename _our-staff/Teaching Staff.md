@@ -102,7 +102,7 @@ variant: markdown
   <tr>
     <td>3 Care </td>
     <td><a href="mailto:Loi_Yen_Fen_Amy@moe.edu.sg">Mdm Amy Looi</a><br>
-			<a href="mailto:Mastura_YAACOB@moe.edu.sg">Mdm Masayu bte Yacoob</a></td>
+			<a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu</a></td>
   </tr>
 	<tr>
     <td>3 Integrity </td>
@@ -193,31 +193,19 @@ variant: markdown
     <th>Form Teacher</th>
   </tr>
   <tr>
-    <td>6 Care</td>
-    <td><a href="mailto:tay_wan_boon@moe.edu.sg">Mdm Stephanie Tay</a><br>
-		<a href="mailto:foo_si_min@moe.edu.sg">Miss Tracy Foo</a></td>
-  </tr>
-  <tr>
     <td>6 Integrity</td>
-    <td><a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay </a><br>
-		<a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu Bte Mohamed </a></td>
+    <td><a href="mailto:juliana_jalil@moe.edu.sg">Mdm Juliana Bte Jalil</a><br>
+		<a href="mailto:hoi_hui_yee_jaime@moe.edu.sgg">Mdm Jaime Hoi </a></td>
   </tr>
 	<tr>
-    <td>6 Responsibility</td>
-    <td><a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
-		<a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Bte Shaffi</a> <br>
-		<a href="mailto:lee_huan_leng@moe.edu.sg">Mr Lee Huan Leng</a></td>
-  </tr>
-	<tr>
-    <td>6 Resilience</td>
-    <td><a href="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen</a> <br>
-		<a href="mailto:muhammad_raziz_abdul_razak@moe.edu.sg">Mr Muhammad Raziz Bin Abdul Razak</a><br>
-		<a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mdm Sharon Ng</a></td>
-  </tr>
+    <td>6 Respect</td>
+    <td><a href="mailto:neo_jia_hwee@moe.edu.sg">Ms Charlotte Neo</a><br>
+		<a href="mailto:wong_hoe_syan@moe.edu.sg">Mr Frankie Wong</a>
+		</td></tr>
 		<tr>
     <td>6 Teamwork</td>
-    <td><a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan Binte Abd Wahab</a> <br>
-		<a href="mailto:angel_huang@moe.edu.sg">Mdm Angel Huang</a><br>
+    <td><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah Bte Md Nasir</a> <br>
+		<a href="mailto:angel_huang@moe.edu.sg">Mdm Mastura Bte Yacoob</a><br>
 		<a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg">Mdm Tan Hugue Hwan Stefane</a></td>
   </tr>
 </tbody></table>
