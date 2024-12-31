@@ -4,3 +4,11 @@ permalink: /school-advisory-committee-sac/
 variant: tiptap
 description: ""
 ---
+<p>Meridian Primary School is pleased to introduce our School Advisory Committee
+for 2025 to 2026.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Full_photo_edit.png">
+</div>
+<p></p>
