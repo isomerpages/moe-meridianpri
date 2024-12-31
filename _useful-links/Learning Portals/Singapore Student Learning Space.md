@@ -15,7 +15,7 @@ variant: markdown
 <h4>Password Reset</h4>
 
 <p><b>I have forgotten my password. What should I do?</b></p>
-Please click here for the SLS Password Reset Guide.&nbsp; You may refer to go.gov.sg/stuloginhelp for all login issues.
+Please click <a href="/files/Useful%20Link/SLS_2025.pdf">here</a> for the SLS Password Reset Guide.&nbsp; You may refer to <a href="go.gov.sg/stuloginhelp">go.gov.sg/stuloginhelp </a>for all login issues.
 
 <h4>Frequently Asked Question</h4>
 <p><b> Q1. I have forgotten my password. What should I do?</b></p>
@@ -42,4 +42,4 @@ Students can log in to SLS to change the answers to their security questions. Ho
 
 <p><b>Q5. What are the Operating System and Browser Requirements for SLS?</b></p>
 
-SLS is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices. The recommended operating systems and browsers can be found at https://go.gov.sg/slsosbrowser.
+SLS is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices. The recommended operating systems and browsers can be found at <a href="https://go.gov.sg/slsosbrowser">https://go.gov.sg/slsosbrowser</a>.
