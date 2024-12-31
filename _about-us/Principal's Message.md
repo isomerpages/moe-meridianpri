@@ -41,6 +41,12 @@ with the unyielding support provided by our school and community partners.</p>
 <p align="justify">Together, Team Meridian uncovers, steers and shapes our young charges so they may, as our school song aptly depicts, <b>scale the heights of learning</b> successfully and <b>move with the times yet remain rooted in timeless values</b>. This is the Meridian pride and heartbeat.</p>
 
 
+<p align="justify">As we look forward to commemorating our triple joys in 2025 and expressing heartfelt gratitude to all who contributed to our journey thus far, we would also like to invite parents, students and partners to co-write the next chapters of our amazing Meridian Story with us.</p>
+
+<p align="justify">On behalf of Team Meridian, I wish you and your loved ones a fulfilled 2025, complete with good health, joy and success!</p>
+
+<p align="center"><b><i>Today, I am a proud Meridian. Tomorrow, Meridian is proud of me and my journey.</i></b></p>
+
 <p>Your partner in education,
 <br>Lim-Chew Siang Jiun (Mrs)
 <br>Principal</p>
