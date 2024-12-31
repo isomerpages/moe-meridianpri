@@ -159,7 +159,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_ye_chin_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sharon Ng Ye Chin</a>
+<p><a href="mailto:aidil_effendy_md_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Aidil Effendy</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
