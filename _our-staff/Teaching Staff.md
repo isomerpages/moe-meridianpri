@@ -65,30 +65,30 @@ variant: markdown
 		<a href="mailto:duan_xiaolu@moe.edu.sg">Mdm Duan Xiao Lu</a></td>
   </tr>
 		<tr>
-    <td>2 Responsibility</td>
-    <td><a href="mailto:">Mdm Vasanthi d/o Mahalingam</a><br>
-		<a href="mailto:lim_chia_chia@moe.edu.sg">Mdm Lim Chia Chia</a></td>
+    <td>2 Passion</td>
+    <td><a href="mailto:nazurah_norizan@moe.edu.sg">Miss Nazurah Norizan</a><br>
+		<a href="mailto:peh_kai_jay@moe.edu.sg">Mr Pei Kai Jay</a></td>
   </tr>
 	<tr>
     <td>2 Responsibility</td>
-    <td><a href="mailto:">Mdm Vasanthi d/o Mahalingam</a><br>
-		<a href="mailto:lim_chia_chia@moe.edu.sg">Mdm Lim Chia Chia</a></td>
+    <td><a href="mailto:qiu_jie_zhi@moe.edu.sg">Mdm Jessi Qui</a><br>
+		<a href="mailto:chen_chuangan_mark@moe.edu.sg">Mr Mark Chen</a></td>
   </tr>
 	<tr>
     <td>2 Resilience</td>
-    <td><a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
-		<a href="mailto:norhaida_kamaludin@moe.edu.sg">Mdm Norhaida Kamaludin </a></td>
+    <td><a href="mailto:zahirah_lyana_mohd_khir@moe.edu.sg">Mdm Zahirah Lyana</a><br>
+		<a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng </a></td>
   </tr>
 		<tr>
     <td>2 Respect</td>
-    <td><a href="mailto:">Mdm </a><br>
-		<a href="mailto:lim_seow_wei@schools.gov.sg">Mdm Lim Seow Wei</a></td>
+    <td><a href="mailto:siti_saleha_salleh_a@moe.edu.sg">Mdm Siti Saleha Salleh</a><br>
+		<a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Noor Heryanti</a></td>
   </tr>
 	<tr>
     <td>2 Teamwork</td>
-    <td><a href="mailto:maslinda_ahmad@moe.edu.sg">Mdm Maslinda Bte Ahmad</a><br>
-		<a href="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a><br>
-		<a href="mailto:chou_shin_chieh@moe.edu.sg">Mdm Chou Shin Chieh</a></td>
+    <td><a href="mailto:wong_mau_tan_peony@moe.edu.sg">Mdm Peony Wong</a><br>
+		<a href="mailto:nurrashidah_norman@moe.edu.sg">Miss Nurrashidah</a><br>
+		<a href="mailto:tang_tsin_ray@moe.edu.sg">Mdm Tang Tsin Ray</a></td>
   </tr>
 </tbody></table>
 
@@ -101,19 +101,30 @@ variant: markdown
   </tr>
   <tr>
     <td>3 Care </td>
-    <td><a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Heryanti Abd Karim</a><br>
-			<a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung</a></td>
+    <td><a href="mailto:Loi_Yen_Fen_Amy@moe.edu.sg">Mdm Amy Looi</a><br>
+			<a href="mailto:Mastura_YAACOB@moe.edu.sg">Mdm Masayu bte Yacoob</a></td>
   </tr>
 	<tr>
     <td>3 Integrity </td>
-    <td><a href="mailto:lim_lee_yong@moe.edu.sg">Miss Debbie Lim Lee Yong </a><br>
-			<a href="mailto:alwin_tien_der-wei@moe.edu.sg">Mr Alwin Tien Der Wei</a></td>
+    <td><a href="mailto:Siti_Nurmunirah_mohd_Arsad@moe.edu.sg">Mdm Siti Nurmunirah </a><br>
+			<a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg">Mrs Stefane Lee</a></td>
   </tr>
 	<tr>
     <td>3 Resilience</td>
-    <td>	<a href="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Nur Shahid Bin Ahmad</a><br>
-			<a href="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah Bte Jamal </a><br>
-			<a href="mailto:yeo_kim_chiau_benjamin@moe.edu.sg">Mr Yeo Kim Chiau Benjamin </a>
+    <td>	<a href="mailto:xu_wei_gabriel@moe.edu.sg">Mr Gabriel Xu</a><br>
+			<a href="mailto:tang_li_hwa@moe.edu.sg">Mdm Tang Li Hwa </a>
+		</td>
+  </tr>
+		<tr>
+    <td>3 Responsibility</td>
+    <td>	<a href="mailto:chen_chai_ying@moe.edu.sg">Mdm Jane Chen</a><br>
+			<a href="mailto:Muhammad_Shakir_Sulaiman@moe.edu.sg">Mr Muhammad Shakir </a>
+		</td>
+  </tr>
+		<tr>
+    <td>3 Teamwork</td>
+    <td>	<a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan Abdul Wahab</a><br>
+			<a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei </a>
 		</td>
   </tr>
 </tbody></table>
@@ -126,8 +137,10 @@ variant: markdown
   </tr>
   <tr>
     <td>4 Care</td>
-    <td><a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho </a><br>
-		<a href="mailto:yamuna_jathananthan@moe.edu.sg">Mdm Yamuna d/o Jathananthan</a>
+    <td><a href="mailto:noorhafidzah_shaffi@moe.edu.sg">Mdm Noorhafidzah Binte Shaffi </a><br>
+		<a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung
+			<br>
+		</a><a href="mailto:alwin_tien_der_wei@moe.edu.sg">Mr Alwin Tien</a>
 		</td>
   </tr>
 		<tr>
