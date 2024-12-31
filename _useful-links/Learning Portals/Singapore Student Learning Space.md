@@ -31,3 +31,15 @@ If you are still not sure of your username, please approach your teacher.
 <p><b> Q2. My account has been locked. What should I do?</b></p>
 Your account will be locked if you try to log in with an incorrect password too many times.
 Please approach your teacher to unlock your account.
+
+<p><b> Q3. I chose to reset my SLS password through email but I cannot find the password reset email. What can I do?</b></p>
+If you cannot see the email in your inbox, it may be in the spam or junk email folder.
+
+Note: The link in the email will expire within 10 minutes. If the link has expired, go to the login page and select <b>Forgot Password</b> to try again.
+
+<p><b>Q4. Can I change the SLS security questions?</b></p>
+Students can log in to SLS to change the answers to their security questions. However, the questions are fixed.
+
+<p><b>Q5. What are the Operating System and Browser Requirements for SLS?</b></p>
+
+SLS is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices. The recommended operating systems and browsers can be found at https://go.gov.sg/slsosbrowser.
