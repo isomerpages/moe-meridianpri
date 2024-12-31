@@ -145,26 +145,14 @@ variant: markdown
   </tr>
 		<tr>
     <td>4 Integrity</td>
-    <td><a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a><br>
-		<a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a><br>
-			</td>
-  </tr>
-	<tr>
-    <td>4 Responsibility</td>
-    <td><a href="mailto:chua_ee_lyn@moe.edu.sg">Miss Chua Ee Lyn</a><br>
-		<a href="mailto:abdul_wahid_abdul_wahab@moe.edu.sg">Mr Abd Wahid Bin Abd Wahad</a><br>
+    <td><a href="mailto:lim_lee_yong@moe.edu.sg">Ms Debbie Lim</a><br>
+		<a href="mailto:Aidil_effendy_md_said@moe.edu.sg">Mr Aidil Effendy</a><br>
 			</td>
   </tr>
 	<tr>
     <td>4 Resilience</td>
-    <td><a href="mailto:yeo_han_leng_david@moe.edu.sg">Mr David Yeo </a><br>
-		<a href="mailto:lee_song_sang@moe.edu.sg">Mdm Lee Song Sang</a></td>
-	</tr>
-		<tr>
-    <td>4 Teamwork</td>
-    <td><a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Jeyamohan Ramasami </a><br>
-		<a href="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg">Miss Kirenjit Kaur d/o Sulinder Singh</a><br>
-			<a href="mailto:anna_lim_lin_lin@moe.edu.sg">Mdm Anna Lim Lin Lin</a></td>
+    <td><a href="mailto:yeo_kim_chiau_benjamin@moe.edu.sg">Mr Benjamin Yeo </a><br>
+		<a href="mailto:norhaida_kamaludin@moe.edu.sg">Ms Norhaida </a></td>
 	</tr>
 </tbody></table>
 
@@ -175,22 +163,22 @@ variant: markdown
     <th>Form Teacher</th>
   </tr>
 	 <tr>
-    <td>5 Integrity</td>
-    <td><a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi Hui Yee </a><br>
-		<a href="mailto:juliana_jalil@moe.edu.sg">Mdm Juliana Bte Jalil</a><br>
-		 <a href="mailto:tang_li_hwa@moe.edu.sg">Mdm Tang Li Hwa</a></td>
+    <td>5 Care</td>
+    <td><a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Chua Ee Lyn </a><br>
+		<a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Jeyamohan</a><br>
+  </td></tr>
+	<tr>
+    <td>5 Resilience</td>
+    <td><a href="mailto:tay_wan_boon@moe.edu.sg">Mdm Stephanie Tay</a><br>
+		<a href="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Nur Shahid</a><br>
+			<a href="mailto:anna_lim_lin_lin@moe.edu.sg">Mdm Anna Lim</a><br>
+		</td>
   </tr>
 	<tr>
     <td>5 Respect</td>
-    <td><a href="mailto:neo_jia_hwee@moe.edu.sg">Ms Charlotte Neo Jia Hwee</a><br>
-		<a href="mailto:wong_hoe_shyan@moe.edu.sg">Mr Wong Hoe Shyan Frankie</a><br></td>
-  </tr>
-	<tr>
-    <td>5 Teamwork</td>
-    <td><a href="mailto:low_boon_khim@moe.edu.sg">Mr Low Boon Khim Clarence </a><br>
-		<a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fadilah Bte Md Nasir</a><br>
-		<a href="mailto:mastura_yaacob@moe.edu.sg">Mdm Mastura Bte Yaacob</a></td>
-  </tr>
+    <td><a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho</a><br>
+		<a href="mailto:lew_nyet_mee@moe.edu.sg">Mdm Cindy Lew</a><br>
+  </td></tr>
 </tbody></table>
 
 ####  Primary 6
