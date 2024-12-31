@@ -216,11 +216,17 @@ variant: markdown
 			<tr>
     <td><a href="mailto:tan_soon_choon@moe.edu.sg">Mdm Tan Soo Choon Sharon</a></td>
   </tr>
+		<tr>
+    <td><a href="mailto:ABDUL_MANAF_B_AHMAD_A@moe.edu.sg">Mr Abdul Manaf</a></td>
+  </tr>
   <tr>
     <td><a href="mailto:fadzlina_abdullah@moe.edu.sg">Mdm Fadzlina Bte Abdullah (FAJT)</a></td>
   </tr>
 		 <tr>
     <td><a href="mailto:long_jee_lian@moe.edu.sg">Mrs Fong Long Jee Lian (FAJT)</a></td>
+  </tr>
+		 <tr>
+    <td><a href="mailto:Lim_Sheng_Yong_Joyce_B@moe.edu.sg">Mrs Joyce Lim (FAJT)</a></td>
   </tr>
 	<tr>
     <td><a href="mailto:kamsiah_musleh@moe.edu.sg">Mdm Kamsiah Binte Musleh (FAJT)</a></td>
@@ -250,9 +256,6 @@ variant: markdown
   <tbody>
 		<tr>
     <td><a href="mailto:ng_jinning_janine@moe.edu.sg">Mdm Janine Ng Jinning (School Counsellor)</a></td>
-  </tr>
-  <tr>
-    <td><a href="mailto:kong_marn_moy@moe.edu.sg">Mdm Kong Marn Moy (Special Education Needs Officer)</a></td>
   </tr>
 	<tr>
     <td><a href="mailto:sharifah_samihah@moe.edu.sg">Mdm Sharifah Samihah (Special Education Needs Officer)</a></td>
