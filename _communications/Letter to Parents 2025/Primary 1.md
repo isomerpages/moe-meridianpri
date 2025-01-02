@@ -9,7 +9,7 @@ variant: markdown
   <summary>January</summary>
 <ul>
 	<li>
-		<a href="/files/2024%20Letter%20to%20Parents/Primary%201/P1_Use_of_ICT_in_Learning_9_Jan.pdf">Primary 1 Use of ICT for Learning and Cyber Wellness</a><font size="2"> (9 January 2024)</font>
+		<a href="/files/2025%20Letter%20to%20Parents/Letter%20to%20all%20Parents/2025_Welcome_Letter_to_Parents.pdf">2025 Welcome Letter to Parents/Guardians </a><font size="2"> (2 January 2025)</font>
 	</li>
 	</ul>
 </details>
