@@ -217,37 +217,37 @@ variant: markdown
     <td><a href="mailto:tan_soon_choon@moe.edu.sg">Mdm Tan Soo Choon Sharon</a></td>
   </tr>
 		<tr>
-    <td><a href="mailto:ABDUL_MANAF_B_AHMAD_A@moe.edu.sg">Mr Abdul Manaf (FAJT)</a></td>
+    <td><a href="mailto:ABDUL_MANAF_B_AHMAD_A@moe.edu.sg">Mr Abdul Manaf</a></td>
   </tr>
   <tr>
-    <td><a href="mailto:fadzlina_abdullah@moe.edu.sg">Mdm Fadzlina Bte Abdullah (FAJT)</a></td>
+    <td><a href="mailto:fadzlina_abdullah@moe.edu.sg">Mdm Fadzlina Bte Abdullah</a></td>
   </tr>
 		 <tr>
-    <td><a href="mailto:long_jee_lian@moe.edu.sg">Mrs Fong Long Jee Lian (FAJT)</a></td>
+    <td><a href="mailto:long_jee_lian@moe.edu.sg">Mrs Fong Long Jee Lian</a></td>
   </tr>
 		 <tr>
-    <td><a href="mailto:Lim_Sheng_Yong_Joyce_B@moe.edu.sg">Mrs Joyce Lim (FAJT)</a></td>
+    <td><a href="mailto:Lim_Sheng_Yong_Joyce_B@moe.edu.sg">Mrs Joyce Lim</a></td>
   </tr>
 	<tr>
-    <td><a href="mailto:kamsiah_musleh@moe.edu.sg">Mdm Kamsiah Binte Musleh (FAJT)</a></td>
+    <td><a href="mailto:kamsiah_musleh@moe.edu.sg">Mdm Kamsiah Binte Musleh</a></td>
   </tr>
 	<tr>
-    <td><a href="mailto:lim_chee_ming@moe.edu.sg">Mr Lim Chee Ming (FAJT)</a></td>
+    <td><a href="mailto:lim_chee_ming@moe.edu.sg">Mr Lim Chee Ming</a></td>
   </tr>
 		<tr>
-    <td><a href="mailto:maragathavalli_piryasamy@moe.edu.sg">Mdm Maragathavalli Piryasamy (FAJT)</a></td>
+    <td><a href="mailto:maragathavalli_piryasamy@moe.edu.sg">Mdm Maragathavalli Piryasamy</a></td>
   </tr>
 		<tr>
-    <td><a href="mailto:nazreen_bulat@moe.edu.sg">Mdm Nazreen Bte Bulat (FAJT)</a></td>
+    <td><a href="mailto:nazreen_bulat@moe.edu.sg">Mdm Nazreen Bte Bulat</a></td>
   </tr>
 	<tr>
-    <td><a href="mailto:norsiah_idris@moe.edu.sg">Mdm Norsiah Bte Idris (FAJT)</a></td>
+    <td><a href="mailto:norsiah_idris@moe.edu.sg">Mdm Norsiah Bte Idris</a></td>
   </tr>
 		<tr>
-    <td><a href="mailto:tiffany_loh@moe.edu.sg">Mdm Tiffany Loh (FAJT)</a></td>
+    <td><a href="mailto:tiffany_loh@moe.edu.sg">Mdm Tiffany Loh</a></td>
   </tr>
 	<tr>
-    <td><a href="mailto:wong_hwee_kim@moe.edu.sg">Mdm Wong Hwee Kim (FAJT)</a></td>
+    <td><a href="mailto:wong_hwee_kim@moe.edu.sg">Mdm Wong Hwee Kim</a></td>
   </tr>
 </tbody></table>
 
