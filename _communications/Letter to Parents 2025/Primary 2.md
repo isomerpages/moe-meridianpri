@@ -7,8 +7,9 @@ variant: markdown
 ---
 <details>
   <summary>January</summary>
-		<li>
-		<a href="/files/2024%20Letter%20to%20Parents/Letter%20to%20all%20Parents/Use_of_ICT_in_Learning_10_Jan.pdf">Primary 2 to Primary 6 Use of ICT for Learning and Cyber Wellness</a><font size="2"> (10 January 2024)</font>
+<ul>
+	<li>
+		<a href="/files/2025%20Letter%20to%20Parents/Letter%20to%20all%20Parents/2025_Welcome_Letter_to_Parents.pdf">2025 Welcome Letter to Parents/Guardians </a><font size="2"> (2 January 2025)</font>
 	</li>
-	
+	</ul>
 </details>
