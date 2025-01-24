@@ -92,7 +92,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head P5 &amp; P6</p>
+<p>Year Head P5 and P6</p>
 </td>
 </tr>
 <tr>
