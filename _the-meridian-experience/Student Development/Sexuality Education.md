@@ -41,9 +41,8 @@ variant: markdown
 
 **At Meridian, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2025</u>:**
 	
-<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2024_Sexuality_Education_1.png">
-	<br>
-<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2024_Sexuality_Education_2.png">
+<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/SEd_P5_2025_1.png">
+<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/SEd_P5_2025_2.png">
 	<br>
 <img src="/images/The%20Meridian%20Experience/Sexuality%20Education/SEd_P6_2025.png">
 	
