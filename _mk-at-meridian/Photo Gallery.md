@@ -18,7 +18,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h3>Police Day</h3>
+<h3>Police Visit</h3>
 <div class="iframe-wrapper">
 <iframe height="249" width="400" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRZGNr4vOXMxjQwuhKP6U8xU3VfG2Qe6bXrW9xEyCdMqbtjOHHIIf4Hmu-Igh1639_atXQsxnJngH7/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
