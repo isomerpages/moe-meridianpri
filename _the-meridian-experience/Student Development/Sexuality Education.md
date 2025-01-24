@@ -45,7 +45,8 @@ variant: markdown
 	<br>
 <img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2024_Sexuality_Education_2.png">
 	<br>
-<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2024_Sexuality_Education_3.png">
+<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/SEd_P6_2025.png">
+	
 <b>Important Information for Parents</b>
 	
 <li> Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
