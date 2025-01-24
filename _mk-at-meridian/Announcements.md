@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <details>
-  <summary><b>Open House</b></summary>
+  <summary><b>Open House 2025</b></summary>
 <ul>
 		<img src="/images/MK@Meridian/Open_House_2025.jpg" style="width:350px;height:550px;float:center">
 	</ul>
