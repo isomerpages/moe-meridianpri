@@ -34,14 +34,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3>K1 Field Trip to Gardens by the Bay</h3>
-<p><a href="https://docs.google.com/presentation/d/11zlKrNp-Njh8pCqEGYQiPCjO0ix7_gz-o76iKy4zTTU/" rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/presentation/d/11zlKrNp-Njh8pCqEGYQiPCjO0ix7_gz-o76iKy4zTTU/</a>
-</p>
+<h3>Trip to Gardens by the Bay</h3>
+<div class="iframe-wrapper">
+<iframe height="249" width="400" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/11zlKrNp-Njh8pCqEGYQiPCjO0ix7_gz-o76iKy4zTTU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<h3>K2 Field Trip to Jacob Ballas</h3>
-<p><a href="https://docs.google.com/presentation/d/11zlKrNp-Njh8pCqEGYQiPCjO0ix7_gz-o76iKy4zTTU/" rel="noopener noreferrer nofollow" target="_blank">https://d</a>
-</p>
+<h3>Field Trip to Jacob Ballas</h3>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1JZpUI_sCNR55k2T0eb4br3vCuGEgMUe3z4WoLql03bE/embed?start=true&amp;amp;loop=true&amp;amp;delayms=3000"></iframe>
+</div>
 </td>
 </tr>
 </tbody>
