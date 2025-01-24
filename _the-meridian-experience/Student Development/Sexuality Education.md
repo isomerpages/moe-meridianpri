@@ -51,8 +51,8 @@ variant: markdown
 <li> Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
 	
 <li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form via the QR code below. The completed opt-out form is to be submitted by 10 Feb 2025.</li>
-	
-<img style="width: 150px; height: 150px; border: 5px solid white;" alt="" src="/images/The%20Meridian%20Experience/SEd_2025_QR_Code.png">
+
+<img style="width: 150px; height: 150px; border: 5px solid white;" alt="">
 
 
 
