@@ -56,7 +56,7 @@ variant: markdown
 
 
 
-<li>Parents can contact the school at Tel: 6583 2125 or email&nbsp;<a href="mailto: tay_wan_boon@moe.edu.sg">Mdm Tay Wan Boon Stephanie</a> or&nbsp;<a href="mailto: yeo_kim_chiau_benjamin@moe.edu.sg">Mr Benjamin Yeo</a>for discussion or to seek clarification about the school’s sexuality&nbsp;education programme.</li>
+<li>Parents can contact the school at Tel: 6583 2125 or email&nbsp;<a href="mailto: tay_wan_boon@moe.edu.sg">Mdm Tay Wan Boon Stephanie</a> or&nbsp;<a href="mailto: yeo_kim_chiau_benjamin@moe.edu.sg">Mr Benjamin Yeo</a> for discussion or to seek clarification about the school’s sexuality&nbsp;education programme.</li>
 
 
 </ol>
