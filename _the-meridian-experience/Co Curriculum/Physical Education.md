@@ -60,4 +60,4 @@ variant: markdown
 
 
  For enquiries on the school’s Physical Education, please email:<br>
-<a href="mailto:ng_ye_chin_sharon@moe.edu.sg">Mrs Sharon Tng (Head of Department)</a>
+<a href="mailto:aidil_effendy@moe.edu.sg">Mr Aidil Effendy (Head of Department)</a>
