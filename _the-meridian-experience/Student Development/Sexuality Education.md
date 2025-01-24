@@ -39,7 +39,7 @@ variant: markdown
 <br>
 <li>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.</li>
 
-**At Meridian, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2024</u>:**
+**At Meridian, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2025</u>:**
 	
 <img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2024_Sexuality_Education_1.png">
 	<br>
@@ -50,13 +50,13 @@ variant: markdown
 	
 <li> Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
 	
-<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form via the QR code below. The completed opt-out form is to be submitted by 19/01/2024.</li>
+<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form via the QR code below. The completed opt-out form is to be submitted by 10 Feb 2025.</li>
 	
 <img style="width: 150px; height: 150px; border: 5px solid white;" alt="" src="/images/The%20Meridian%20Experience/Sexuality%20Education/Sexuality_QR_Code.png">
 
 
 
-<li>Parents can contact the school at Tel: 6583 2125 or email&nbsp;<a href="mailto: tay_wan_boon@moe.edu.sg">Mdm Tay Wan Boon Stephanie</a> or&nbsp;<a href="mailto: lee_song_sang@moe.edu.sg">Mdm Lee Song Sang </a>for discussion or to seek clarification about the school’s sexuality&nbsp;education programme.</li>
+<li>Parents can contact the school at Tel: 6583 2125 or email&nbsp;<a href="mailto: tay_wan_boon@moe.edu.sg">Mdm Tay Wan Boon Stephanie</a> or&nbsp;<a href="mailto: yeo_kim_chiau_benjamin@moe.edu.sg">Mr Benjamin Yeo</a>for discussion or to seek clarification about the school’s sexuality&nbsp;education programme.</li>
 
 
 </ol>
