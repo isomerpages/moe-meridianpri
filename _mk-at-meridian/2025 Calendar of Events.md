@@ -1,5 +1,5 @@
 ---
-title: 2024 Calendar of Events
+title: 2025 Calendar of Events
 permalink: /mk-at-meridian/2024-calendar-of-events/
 description: ""
 variant: markdown

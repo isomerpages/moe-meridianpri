@@ -143,6 +143,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:zhu_xiaoyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhu Xiaoyan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:mohamad_firdaus_moliadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohd Firdaus Bin Moliadi</a>
 </p>
 </td>
