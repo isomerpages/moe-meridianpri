@@ -88,20 +88,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:chou_shin_chieh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chou Shin Chieh</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head P5 and P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:low_hwee_miang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Low Hwee Miang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Covering) P5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chou_shin_chieh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chou Shin Chieh</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head P6</p>
 </td>
 </tr>
 </tbody>

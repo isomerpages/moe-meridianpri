@@ -41,12 +41,11 @@ variant: markdown
 
 **At Meridian, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2025</u>:**
 	
-<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2024_Sexuality_Education_1.png">
-	<br>
-<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/2024_Sexuality_Education_2.png">
+<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/SEd_P5_2025_1.png">
+<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/SEd_P5_2025_2.png">
 	<br>
 <img src="/images/The%20Meridian%20Experience/Sexuality%20Education/SEd_P6_2025.png">
-	
+<br>	
 <b>Important Information for Parents</b>
 	
 <li> Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
@@ -55,9 +54,7 @@ variant: markdown
 
 <img style="width: 150px; height: 150px; border: 5px solid white;" alt="" src="/images/The%20Meridian%20Experience/Sexuality%20Education/SEd_2025_QR_Code.png">
 
-
-
-<li>Parents can contact the school at Tel: 6583 2125 or email&nbsp;<a href="mailto: tay_wan_boon@moe.edu.sg">Mdm Tay Wan Boon Stephanie</a> or&nbsp;<a href="mailto: yeo_kim_chiau_benjamin@moe.edu.sg">Mr Benjamin Yeo</a>for discussion or to seek clarification about the school’s sexuality&nbsp;education programme.</li>
+<li>Parents can contact the school at Tel: 6583 2125 or email&nbsp;<a href="mailto: tay_wan_boon@moe.edu.sg">Mdm Tay Wan Boon Stephanie</a> or&nbsp;<a href="mailto: yeo_kim_chiau_benjamin@moe.edu.sg">Mr Benjamin Yeo</a> for discussion or to seek clarification about the school’s sexuality&nbsp;education programme.</li>
 
 
 </ol>
