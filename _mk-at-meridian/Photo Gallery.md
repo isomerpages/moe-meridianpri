@@ -68,6 +68,28 @@ description: ""
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h3>Racial Harmony Day 2024</h3>
+<div class="iframe-wrapper">
+<iframe height="249" width="400" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1uUpZh4Z4NIe-qNrlbur3AKZHogCMnLPKL56_hPqOUPI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<h3>Life@MK 2025</h3>
+<div class="iframe-wrapper">
+<iframe height="249" width="400" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1jEcHRbLYauUS3FuftcIRbWRdSdLmsuVBWvDQZEizdF4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
