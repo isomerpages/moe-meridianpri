@@ -15,7 +15,7 @@ variant: markdown
 <b>1.&nbsp;<u>Absence from Weighted Assessments</u></b><br>
 There will be <u>no make-up</u> assessments for students who are absent for any weighted assessments.
 
-<p align="justify">The results for any absentees for the whole year will be calculated based on those assessments they have taken in the year.&nbsp;Absentees for any of the weighted school assessments, End-of-Year Examination or Preliminary Examination will&nbsp;<b><u>not</u></b>&nbsp;be qualified for the year-end academic award, as their final results would be a prorated one. To ensure fairness, only students who have sat for&nbsp;<b><u>ALL</u></b>&nbsp;the assessments for the year will be eligible for the academic award.</p>
+<p align="justify">The results for any absentees for the whole year will be calculated based on those assessments they have taken in the year.&nbsp;Absentees for any of the weighted school assessments, End-of-Year Examination or Preliminary Examination will&nbsp;<b><u>not</u></b>&nbsp;be qualified for the year-end academic award. To ensure fairness, only students who have sat for&nbsp;<b><u>ALL</u></b>&nbsp;the assessments for the year will be eligible for the academic award.</p>
 
 <p align="justify">Students who are absent due to any illness for any of the assessments need to submit a valid&nbsp;<b><u>Medical Certificate (MC)</u></b> upon their return to school. Letters by parents are&nbsp;<b><u>not</u></b>&nbsp;acceptable as the school needs official MCs issued by registered medical doctor so as to maintain fairness and consistency to all.&nbsp;Consistent to the government’s practice, MCs issued by TCM practitioners are currently not acceptable.</p>
 
@@ -43,7 +43,7 @@ If students are caught cheating or attempting to cheat, they will not be allowed
 <p align="justify">The school&nbsp;believes in the holistic all-rounded development of character, body and mind for every Meridian.&nbsp;Students whose conduct grade is below ‘very good’, will not be allowed to receive their awards on stage.</p>
 
 <b>5.&nbsp;<u>Attire for Semestral Assessment</u></b><br>
-<p align="justify">Attire for Semestral Assessment, Preliminary Examination and PSLE  Students are to be properly attired in full school uniform for Semestral Assessment and PSLE.</p>
+<p align="justify">Students are to be properly attired in full school uniform for End-of-Year Examination, Preliminary Examination and PSLE.</p>
 
 <b>6.&nbsp;<u>Use of Dictionaries for P5 and P6 Mother Tongue Composition</u></b><br>
 <p align="justify">P5 and P6 students are allowed to use a dictionary for the Mother Tongue, Higher Mother Tongue and Non-Tamil Indian Languages (NTIL) Paper 1 (Composition). Please refer to the list of <a href="https://www.seab.gov.sg/home/examinations/approved-dictionaries">SEAB Approved Dictionaries</a>.</p>
