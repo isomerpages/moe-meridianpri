@@ -19,7 +19,7 @@ There will be <u>no make-up</u> assessments for students who are absent for any 
 
 <p align="justify">Students who are absent due to any illness for any of the assessments need to submit a valid&nbsp;<b><u>Medical Certificate (MC)</u></b> upon their return to school. Letters by parents are&nbsp;<b><u>not</u></b>&nbsp;acceptable as the school needs official MCs issued by registered medical doctor so as to maintain fairness and consistency to all.&nbsp;Consistent to the government’s practice, MCs issued by TCM practitioners are currently not acceptable.</p>
 
-<p align="justify">Once a valid MC is submitted timely to the form teacher, a Valid Reason (‘VR’) will be reflected in his/her result slip.</p>
+<p align="justify">Once a valid MC is submitted timely to the form teacher, a Valid Reason (‘VR’) will be reflected in his/her result slip.  No marks will be awarded to the student if he/she is absent from any Weighted Assessment or End-of-Year Examination.</p>
 
 <p align="justify">No mark will be awarded to the student if he/she is absent from any assessment without a valid MC.</p>
 
@@ -52,6 +52,11 @@ If students are caught cheating or attempting to cheat, they will not be allowed
 <p align="justify">Students are allowed to use an electronic calculator for Mathematics/Foundation Mathematics Paper 2 in P5 and P6. Please refer to the list of approved calculators from SEAB. List of <a href="https://www.seab.gov.sg/home/examinations/approved-calculators">SEAB Approved Calculators</a></p>
 
 <b>8.&nbsp;<u>Use of Stationery for all P6 Assessment</u></b><br>
+<b>A)  Optical Answer Sheet (OAS)</b>
+<br>
+	Student should use a 2B pencil to shade answers on the OAS.  The oval needs to be shaded completely and firmly.
+
+<b>B)  Answering Booklet</b>
 <p align="justify">•   Students should write their answers clearly in blue / black ballpoint pen with 0.5mm tip size.&nbsp;If students need to change their answers, they need to cross the original answers out in ink and re-write the answers. Students should not write the answers in pencil as the responses may appeared too faint for marking.<br>
 •   Students should not use correction fluid / tape in the examinations as it may affect the legibility of the answers.<br>
 •  Students should not use highlighters to highlight any part of their answers as this may affect the legibility of the answers.</p>
