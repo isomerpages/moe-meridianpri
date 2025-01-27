@@ -15,7 +15,7 @@ variant: markdown
 <b>1.&nbsp;<u>Absence from Weighted Assessments</u></b><br>
 There will be <u>no make-up</u> assessments for students who are absent for any weighted assessments.
 
-<p align="justify">The results for any absentees for the whole year will be calculated based on those assessments they have taken in the year.&nbsp;Absentees for any of the weighted school assessments will&nbsp;<b><u>not</u></b>&nbsp;be qualified for the year-end academic award, as their final results would be a prorated one. To ensure fairness, only students who have sat for&nbsp;<b><u>ALL</u></b>&nbsp;the assessments for the year will be eligible for the academic award.</p>
+<p align="justify">The results for any absentees for the whole year will be calculated based on those assessments they have taken in the year.&nbsp;Absentees for any of the weighted school assessments, End-of-Year Examination or Preliminary Examination will&nbsp;<b><u>not</u></b>&nbsp;be qualified for the year-end academic award, as their final results would be a prorated one. To ensure fairness, only students who have sat for&nbsp;<b><u>ALL</u></b>&nbsp;the assessments for the year will be eligible for the academic award.</p>
 
 <p align="justify">Students who are absent due to any illness for any of the assessments need to submit a valid&nbsp;<b><u>Medical Certificate (MC)</u></b> upon their return to school. Letters by parents are&nbsp;<b><u>not</u></b>&nbsp;acceptable as the school needs official MCs issued by registered medical doctor so as to maintain fairness and consistency to all.&nbsp;Consistent to the government’s practice, MCs issued by TCM practitioners are currently not acceptable.</p>
 
