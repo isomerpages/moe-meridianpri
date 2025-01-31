@@ -19,4 +19,3 @@ variant: markdown
 		<img src="/images/MK@Meridian/2024/MK_Poster_31_May_24.png" style="width:380px;height:450px;float:center">
 	</ul>
 </details>
-
