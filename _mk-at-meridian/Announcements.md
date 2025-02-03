@@ -7,8 +7,9 @@ variant: markdown
 <details>
   <summary><b>Open House 2025</b></summary>
 <ul>
-		<img src="/images/MK@Meridian/Open_House_2025.jpg" style="width:350px;height:550px;float:center">
-	</ul>
+ <img src="/images/MK@Meridian/Open_House_2025.jpg" style="width:550px;height:700px;float:center">
+	<img src="/images/MK@Meridian/MK_OH_2025.jpg" style="width:250px;height:250px;float:center">
+ <br></ul>
 </details>
 
 <details>
