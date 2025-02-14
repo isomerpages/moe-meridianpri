@@ -9,6 +9,9 @@ variant: markdown
   <summary>January</summary>
 <ul>
 	<li>
+		<a href="/files/2025%20Letter%20to%20Parents/Letter%20to%20all%20Parents/27_Jan_P4_Assessment.pdf">P4 Assessment Plan </a><font size="2"> (27 January 2025)</font>
+	</li>
+	<li>
 		<a href="/files/2025%20Letter%20to%20Parents/Letter%20to%20all%20Parents/20_Jan_P4_and_P5_Math_Olympiad.pdf">P4 and P5 Math Olympiad </a><font size="2"> (20 January 2025)</font>
 	</li>
 	<li>
