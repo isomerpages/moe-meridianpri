@@ -7,6 +7,14 @@ variant: markdown
 ---
 #### Letter to All Parents 2025
 <details>
+  <summary>February</summary>
+<ul>
+	<li>
+		<a href="/files/2025%20Letter%20to%20Parents/Letter%20to%20all%20Parents/4_Feb_P5_Overseas_Immersion_Trips.pdf">P5 Overseas Immersion Trips </a><font size="2"> (4 February 2025)</font>
+	</li>
+	</ul>
+</details>
+<details>
   <summary>January</summary>
 <ul>
 		<li>
