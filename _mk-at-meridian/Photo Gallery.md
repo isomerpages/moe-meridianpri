@@ -90,6 +90,28 @@ description: ""
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h3>Chinese New Year Celebration 2025</h3>
+<div class="iframe-wrapper">
+<iframe height="249" width="400" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSrP3s5qnx6agF4GZKvNL_mLy6AL_i_mzMVZZTbWniV4JQrG6PKgjAyayyLT9chdSFgTtvauf5sfJ5K/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<h3>MK@ Meridian Open House 2025</h3>
+<div class="iframe-wrapper">
+<iframe height="249" width="400" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRoLbqofBjYTk4MWkmQUEzmExhpFweKj2FGNF55a_8wOKJ1gu_1NX6KQHxvanTquMnS6qBl3r_eJ2m/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
