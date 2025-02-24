@@ -106,9 +106,9 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h3>MK@ Meridian Open House 2025</h3>
+<h3>Total Defence Day 2025 @MK</h3>
 <div class="iframe-wrapper">
-<iframe height="249" width="400" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRoLbqofBjYTk4MWkmQUEzmExhpFweKj2FGNF55a_8wOKJ1gu_1NX6KQHxvanTquMnS6qBl3r_eJ2m/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="249" width="400" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqsYSgoqlymbtfgY75f64Svieu2ToGYdrxx6MwIBu3t1yeui_ABNPe64wQSNUm4E2O9819-d2ye46l/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 </td>
 </tr>
