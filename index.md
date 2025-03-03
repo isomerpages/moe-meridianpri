@@ -7,12 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/school_website.gif
+      background: /images/Future_Citizens_28Oct24.jpg
       key_highlights:
         - title: 2025 P1 Parents Programme Slides
           description: ""
           url: https://go.gov.sg/mps2025p1prog
-      variant: image
+      variant: center
   - textcards:
       title: Announcements and Resources
       id: textcards
