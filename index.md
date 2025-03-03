@@ -12,7 +12,7 @@ sections:
         - title: 2025 P1 Parents Programme Slides
           description: ""
           url: https://go.gov.sg/mps2025p1prog
-      variant: center
+      variant: image
   - textcards:
       title: Announcements and Resources
       id: textcards
