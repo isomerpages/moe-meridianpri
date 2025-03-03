@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/school_website.gif
+      background: /images/test.gif
       key_highlights:
         - title: 2025 P1 Parents Programme Slides
           description: ""
