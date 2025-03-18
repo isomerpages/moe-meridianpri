@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  about-meridian:
     output: true
     order:
       - Principal's Message.md
