@@ -2,6 +2,7 @@ collections:
   team-meridian:
     output: true
     order:
+      - Our Partners/.keep
       - School Steering Committee.md
       - Teaching Staff.md
       - Non Teaching Staff.md
