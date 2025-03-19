@@ -2,10 +2,6 @@ collections:
   meridian-connects:
     output: true
     order:
-      - Useful Links/NASCANS Student Care Centre.md
-      - Useful Links/School Dental Clinic.md
-      - Useful Links/Parents Gateway (PG).md
-      - Useful Links/.keep
       - Announcements.md
       - Social Media.md
       - Letter to Parents 2025/.keep
@@ -26,3 +22,7 @@ collections:
       - Assessment Matters/.keep
       - Assessment Matters/School Policy & Practice On Assessment Matters.md
       - School Calendar.md
+      - Useful Links/.keep
+      - Useful Links/NASCANS Student Care Centre.md
+      - Useful Links/School Dental Clinic.md
+      - Useful Links/Parents Gateway (PG).md
