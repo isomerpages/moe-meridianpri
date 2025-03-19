@@ -1,5 +1,5 @@
 collections:
-  our-staff:
+  team-meridian:
     output: true
     order:
       - School Steering Committee.md
