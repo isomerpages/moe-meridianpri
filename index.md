@@ -20,7 +20,7 @@ sections:
         - title: Announcements
           description: ""
           linktext: Click Here
-          url: https://www.meridianpri.moe.edu.sg/about-us/announcements/
+          url: https://www.meridianpri.moe.edu.sg/meridian-connects/announcements/
         - title: Recent Letters to Parents & Guardians
           description: ""
           linktext: Click Here
