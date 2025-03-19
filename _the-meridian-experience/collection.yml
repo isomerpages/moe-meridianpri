@@ -2,6 +2,7 @@ collections:
   the-meridian-experience:
     output: true
     order:
+      - Teaching & Learning Programme/Information & Communications Technology.md
       - Teaching & Learning Programme/Programme For Active Learning (PAL).md
       - Teaching & Learning Programme/Physical Education.md
       - Teaching & Learning Programme/Aesthetics.md
