@@ -4,5 +4,4 @@ collections:
     order:
       - Learning Portals/.keep
       - Vendors/.keep
-      - Vendors/Uniform.md
       - Vendors/School Bus.md
