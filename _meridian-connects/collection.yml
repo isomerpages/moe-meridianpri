@@ -1,5 +1,5 @@
 collections:
-  communications:
+  meridian-connects:
     output: true
     order:
       - Letter to Parents 2025/.keep
