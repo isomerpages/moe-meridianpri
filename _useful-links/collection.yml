@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Learning Portals/.keep
-      - Learning Portals/Singapore Student Learning Space.md
       - Learning Portals/Education & Career Guidance.md
       - Vendors/.keep
       - Vendors/Bookshop.md
