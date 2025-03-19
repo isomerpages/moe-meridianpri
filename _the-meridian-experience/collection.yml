@@ -2,6 +2,7 @@ collections:
   the-meridian-experience:
     output: true
     order:
+      - Teaching & Learning Programme/Physical Education.md
       - Teaching & Learning Programme/Aesthetics.md
       - Teaching & Learning Programme/Science Department.md
       - Teaching & Learning Programme/Mother Tongue Department.md
