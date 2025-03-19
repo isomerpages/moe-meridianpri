@@ -2,6 +2,7 @@ collections:
   meridian-connects:
     output: true
     order:
+      - Useful Links/NASCANS Student Care Centre.md
       - Useful Links/School Dental Clinic.md
       - Useful Links/Parents Gateway (PG).md
       - Useful Links/.keep
