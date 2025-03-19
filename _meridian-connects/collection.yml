@@ -2,6 +2,7 @@ collections:
   meridian-connects:
     output: true
     order:
+      - Social Media.md
       - Letter to Parents 2025/.keep
       - Letter to Parents 2025/All Levels.md
       - Letter to Parents 2025/Primary 1.md
