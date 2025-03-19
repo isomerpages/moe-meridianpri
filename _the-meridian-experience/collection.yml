@@ -2,6 +2,11 @@ collections:
   the-meridian-experience:
     output: true
     order:
+      - Signature Programmes/.keep
+      - Signature Programmes/Applied Learning Programme (ALP).md
+      - Signature Programmes/Learn for Life Programme (LLP).md
+      - Signature Programmes/Secret Garden (MTL).md
+      - Teaching & Learning Programme/.keep
       - Teaching & Learning Programme/Information & Communications Technology.md
       - Teaching & Learning Programme/Programme For Active Learning (PAL).md
       - Teaching & Learning Programme/Physical Education.md
@@ -10,11 +15,6 @@ collections:
       - Teaching & Learning Programme/Mother Tongue Department.md
       - Teaching & Learning Programme/Mathematics Department.md
       - Teaching & Learning Programme/English Department.md
-      - Teaching & Learning Programme/.keep
-      - Signature Programmes/.keep
-      - Signature Programmes/Applied Learning Programme (ALP).md
-      - Signature Programmes/Learn for Life Programme (LLP).md
-      - Signature Programmes/Secret Garden (MTL).md
       - Student Development/.keep
       - Student Development/Character & Citizenship Education.md
       - Student Development/National Education.md
@@ -27,8 +27,8 @@ collections:
       - Co Curricular Activities/Performing Arts.md
       - Co Curricular Activities/Clubs & Societies.md
       - Co Curricular Activities/Uniformed Group.md
+      - School Event/.keep
       - School Event/P5 Overseas Immersion Programme.md
       - School Event/Outdoor Adventure Camp.md
-      - School Event/.keep
       - School Event/P1 & P2 Prize Giving Day 2024.md
       - School Event/P3 to P6 Prize Giving Day 2024.md
