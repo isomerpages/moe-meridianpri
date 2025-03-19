@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Learning Portals/.keep
-      - Learning Portals/Education & Career Guidance.md
       - Vendors/.keep
       - Vendors/Bookshop.md
       - Vendors/Book List.md
