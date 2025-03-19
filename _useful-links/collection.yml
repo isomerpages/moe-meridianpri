@@ -4,7 +4,6 @@ collections:
     order:
       - Learning Portals/.keep
       - Vendors/.keep
-      - Vendors/Bookshop.md
       - Vendors/Book List.md
       - Vendors/Uniform.md
       - Vendors/School Bus.md
