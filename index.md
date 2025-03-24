@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/test.gif
-      key_highlights:
-        - title: 2025 P1 Parents Programme Slides
-          description: ""
-          url: https://go.gov.sg/mps2025p1prog
       variant: image
   - textcards:
       title: Announcements and Resources
@@ -21,10 +17,6 @@ sections:
           description: ""
           linktext: Click Here
           url: https://www.meridianpri.moe.edu.sg/meridian-connects/announcements/
-        - title: Recent Letters to Parents & Guardians
-          description: ""
-          linktext: Click Here
-          url: https://www.meridianpri.moe.edu.sg/communications/letter-to-all-parents-2024/all-levels/
   - infobar:
       title: The Meridian Experience
       id: infobar
