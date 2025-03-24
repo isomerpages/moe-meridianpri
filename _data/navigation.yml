@@ -1,16 +1,12 @@
 logo: /images/School Logo_updated_1130am.png
 links:
-  - title: About Us
-    collection: about-us
-  - title: Our Staff
-    collection: our-staff
+  - title: About Meridian
+    collection: about-meridian
+  - title: Team Meridian
+    collection: team-meridian
   - title: The Meridian Experience
     collection: the-meridian-experience
-  - title: Our Partners
-    collection: our-partners
-  - title: Communications
-    collection: communications
+  - title: Meridian Connects
+    collection: meridian-connects
   - title: MK@Meridian
     collection: mk-at-meridian
-  - title: Useful Links
-    collection: useful-links

@@ -1,7 +1,0 @@
-collections:
-  our-staff:
-    output: true
-    order:
-      - School Steering Committee.md
-      - Teaching Staff.md
-      - Non Teaching Staff.md

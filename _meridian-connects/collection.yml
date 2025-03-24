@@ -1,0 +1,25 @@
+collections:
+  meridian-connects:
+    output: true
+    order:
+      - Announcements.md
+      - Social Media.md
+      - School Calendar.md
+      - Assessment Matters/.keep
+      - Assessment Matters/School Policy & Practice On Assessment Matters.md
+      - Resources For Parents/.keep
+      - Resources For Parents/Resources For Parents.md
+      - Resources For Parents/Building Resilience In Children And Support Them
+        Through Transistions.md
+      - Resources For Parents/Cyber Wellness.md
+      - Resources For Parents/A Collection of Tips and Resources.md
+      - Useful Links/.keep
+      - Useful Links/Singapore Student Learning Space.md
+      - Useful Links/Education & Career Guidance.md
+      - Useful Links/Parents Gateway (PG).md
+      - Useful Links/Uniform.md
+      - Useful Links/Book List.md
+      - Useful Links/School Bus.md
+      - Useful Links/Bookshop.md
+      - Useful Links/School Dental Clinic.md
+      - Useful Links/NASCANS Student Care Centre.md
