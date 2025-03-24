@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/test.gif
-      variant: center
+      variant: image
   - textcards:
       title: Announcements and Resources
       id: textcards
