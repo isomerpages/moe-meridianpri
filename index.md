@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/test.gif
+      background: /images/Future_Citizens_28Oct24.jpg
       variant: center
   - infobar:
       title: The Meridian Experience
