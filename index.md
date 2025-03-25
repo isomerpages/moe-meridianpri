@@ -9,14 +9,6 @@ sections:
   - hero:
       background: /images/test.gif
       variant: center
-  - textcards:
-      title: Announcements
-      id: textcards
-      cards:
-        - title: Announcements
-          description: ""
-          linktext: Click Here
-          url: https://www.meridianpri.moe.edu.sg/meridian-connects/announcements/
   - infobar:
       title: The Meridian Experience
       id: infobar
