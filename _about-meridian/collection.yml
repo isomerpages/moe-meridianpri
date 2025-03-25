@@ -2,7 +2,6 @@ collections:
   about-meridian:
     output: true
     order:
-      - Achievements.md
       - Principal's Message.md
       - School Information/.keep
       - School Information/Welcome.md
@@ -15,3 +14,4 @@ collections:
       - MPS Virtual Tour/.keep
       - MPS Virtual Tour/Virtual Tour.md
       - MPS Virtual Tour/MPS Videos.md
+      - Achievements.md
