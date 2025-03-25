@@ -10,7 +10,7 @@ sections:
       background: /images/test.gif
       variant: center
   - textcards:
-      title: Announcements and Resources
+      title: Announcements
       id: textcards
       cards:
         - title: Announcements
