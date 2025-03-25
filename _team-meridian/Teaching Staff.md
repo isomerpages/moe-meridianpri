@@ -107,9 +107,8 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 2</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -119,18 +118,12 @@ variant: tiptap
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
 <p>Form Teacher</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2 Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_pei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Pei Ling</a> 
@@ -143,9 +136,6 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:nurliyana_omar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurliyana Binte Omar</a> 
 <br><a href="mailto:duan_xiaolu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Duan Xiao Lu</a>
 </p>
@@ -154,9 +144,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>2 Passion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nazurah_norizan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nazurah Binte Norizan</a>
@@ -169,9 +156,6 @@ variant: tiptap
 <p>2 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:qiu_jie_zhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessi Qui</a>
 <br><a href="mailto:chen_chuangan_mark@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Chen</a>
 </p>
@@ -180,9 +164,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>2 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zahirah_lyana_mohd_khir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zahirah Lyana</a>
@@ -195,9 +176,6 @@ variant: tiptap
 <p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:siti_saleha_salleh_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Saleha Binte Salleh</a>
 <br><a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noor Heryanti</a>
 </p>
@@ -206,9 +184,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>2 Teamwork</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_mau_tan_peony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Peony Wong</a>
