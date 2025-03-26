@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Future_Citizens_28Oct24.jpg
+      background: /images/MPS_25th_Anniversary_schoolwebsite.png
       variant: center
   - infobar:
       title: Unwrapping the Gifts of Discovery
