@@ -10,11 +10,6 @@ sections:
       background: /images/Future_Citizens_28Oct24.jpg
       variant: center
   - infobar:
-      title: The Meridian Experience
+      title: Unwrapping the Gifts of Discovery
       id: infobar
-      description: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/hA_11fdyWXk" title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen=""></iframe>
 ---
