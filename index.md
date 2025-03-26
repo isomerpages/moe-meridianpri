@@ -12,7 +12,9 @@ sections:
   - infobar:
       title: Unwrapping the Gifts of Discovery
       id: infobar
-      description: <iframe height="315" width="560" allowfullscreen="true"
-        frameborder="0"
-        src="https://docs.google.com/presentation/d/e/2PACX-1vQDxgt2Abug3UtvLSOGDco3u61g0oAI0Y2TSFLzXvvXJ9Y7v3NPfSHwxSFKpybOAo4I8BNkUc9AA8Tn/embed?start=false&loop=false&delayms=3000"></iframe>
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/dQpmoz9dQs4?si=3-QX0CYXFdlAsLYs"
+        height="315" width="560"></iframe>
 ---
