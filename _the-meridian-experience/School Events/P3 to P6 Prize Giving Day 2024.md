@@ -3,7 +3,7 @@ title: P3 to P6 Prize Giving Day 2024
 permalink: /the-meridian-experience/prize-giving-day-2024/permalink/
 variant: markdown
 description: ""
-third_nav_title: School Event
+third_nav_title: School Events
 ---
 <h3>Photos</h3>
 

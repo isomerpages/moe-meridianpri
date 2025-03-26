@@ -143,11 +143,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhu_xiaoyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhu Xiaoyan</a>
+<p><a href="mailto:nurfarhana_sabtu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurfarhana Binte Sabtu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Language Teacher</p>
+<p>Malay Language Teacher</p>
 </td>
 </tr>
 <tr>
@@ -175,15 +175,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil Language Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurfarhana_sabtu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurfarhana Binte Sabtu</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
 </td>
 </tr>
 <tr>

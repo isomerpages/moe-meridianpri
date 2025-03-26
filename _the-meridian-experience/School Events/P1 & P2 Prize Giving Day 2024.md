@@ -3,7 +3,7 @@ title: P1 & P2 Prize Giving Day 2024
 permalink: /the-meridian-experience/prize-giving-day-2024/p1-n-p2-prize-giving-day-2024/
 variant: markdown
 description: ""
-third_nav_title: School Event
+third_nav_title: School Events
 ---
 <h3>Photos</h3>
 

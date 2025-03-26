@@ -2,7 +2,7 @@
 title: Outdoor Adventure Camp
 permalink: /the-meridian-experience/co-curriculum/ourdoor-adventure-camp/
 description: ""
-third_nav_title: School Event
+third_nav_title: School Events
 variant: markdown
 ---
 <h5>Outdoor Adventure Camp - Camp Discovery</h5>

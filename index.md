@@ -7,22 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/test.gif
+      background: /images/Future_Citizens_28Oct24.jpg
       variant: center
-  - textcards:
-      title: Announcements and Resources
-      id: textcards
-      cards:
-        - title: Announcements
-          description: ""
-          linktext: Click Here
-          url: https://www.meridianpri.moe.edu.sg/meridian-connects/announcements/
   - infobar:
-      title: The Meridian Experience
+      title: Unwrapping the Gifts of Discovery
       id: infobar
-      description: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/hA_11fdyWXk" title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen=""></iframe>
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/dQpmoz9dQs4?si=3-QX0CYXFdlAsLYs"
+        height="315" width="560"></iframe>
 ---
