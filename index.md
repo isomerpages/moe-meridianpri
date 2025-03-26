@@ -12,4 +12,5 @@ sections:
   - infobar:
       title: Unwrapping the Gifts of Discovery
       id: infobar
+      description: https://youtube.com/shorts/PvaRZ-vYxBw?si=QKCokYmthdMxmKzn
 ---
