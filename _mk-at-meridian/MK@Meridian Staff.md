@@ -44,7 +44,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_syazwani_mohd_kasbi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Syazwani Bte Mohd Kasbi</a>
+<p><a href="mailto:siti_syazwani_mohd_kasbi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Nur Syazwani Bte Mohd Kasbi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
