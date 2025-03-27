@@ -4,7 +4,7 @@ permalink: /mps-videos/
 variant: tiptap
 description: ""
 ---
-<h4>Unwrapping the Gifts of Discovery</h4>
+<h4>Unwrapping the Gift of Discovery</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dQpmoz9dQs4?si=3-QX0CYXFdlAsLYs"></iframe>
 </div>
