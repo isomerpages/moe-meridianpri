@@ -10,7 +10,7 @@ sections:
       background: /images/Future_Citizens_28Oct24.jpg
       variant: center
   - infobar:
-      title: Unwrapping the Gifts of Discovery
+      title: Unwrapping the Gift of Discovery
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
