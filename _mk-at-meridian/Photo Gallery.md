@@ -112,6 +112,20 @@ description: ""
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h3>Forest Explorers @ Siloso Beach Sentosa</h3>
+<div class="iframe-wrapper">
+<iframe height="249" width="400" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTte9T1e6P5FJlqDAARB8V6ciwPgYH8W31KDQHGFOLqmbqpYeWg7U1V74NtMVG1pwMkjSmhAwkYY-Tm/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<h3>K1 Field Trip to Pororo Park Singapore</h3>
+<div class="iframe-wrapper">
+<iframe height="249" width="400" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrCjkhfPrBKnrX6Pp4XQ4HVQB67nMhaDxOoMntzEqmw5TpAWVDYVv2m8AUbBMAm5zluiuRoSJ7K15T/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
