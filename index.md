@@ -10,11 +10,11 @@ sections:
       background: /images/Future_Citizens_28Oct24.jpg
       variant: center
   - infobar:
-      title: Unwrapping the Gift of Discovery
+      title: The Gift of Values
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/dQpmoz9dQs4?si=3-QX0CYXFdlAsLYs"
+        src="https://www.youtube.com/embed/Pqzz6RSJAdc?si=wPT0blAfvr5ujIi9"
         height="315" width="560"></iframe>
 ---
