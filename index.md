@@ -7,8 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Future_Citizens_28Oct24.jpg
-      variant: center
+      background: /images/Home Page
+        Banner/2a__Where_every_Meridian_finds_their_True_North_14_May_25.png
+      variant: image
   - infobar:
       title: The Gift of Values
       id: infobar
