@@ -9,8 +9,7 @@ sections:
   - hero:
       background: /images/Home Page
         Banner/2a__Where_every_Meridian_finds_their_True_North_no_border.png
-      variant: image
-      title: Meridian Pr
+      variant: center
   - infobar:
       title: The Gift of Values
       id: infobar
