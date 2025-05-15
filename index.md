@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Open House 2025
           description: Click here to find out more!
-          url: ""
+          url: https://www.meridianpri.moe.edu.sg/open-house-2025/
   - infobar:
       title: The Gift of Values
       id: infobar
