@@ -4,10 +4,7 @@ permalink: /our-staff/non-teaching-staff/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width:650px;height:455px;float:center" height="auto" width="100%" src="/images/Our%20Staff/2024%20Dept%20Photo/EXECUTIVE_ADMINISTRATIVE_STAFF_Formal.jpg">
-</div>
-<p>*Photo taken in 2024</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
