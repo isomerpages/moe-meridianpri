@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Future_Citizens_28Oct24.jpg
+      background: /images/Home Page Banner/test_2a.png
       variant: center
   - infobar:
       title: The Gift of Values
