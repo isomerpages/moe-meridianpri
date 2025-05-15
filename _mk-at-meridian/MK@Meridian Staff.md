@@ -4,10 +4,6 @@ permalink: /mk-at-meridian/mk-at-meridian-staff/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" src="/images/MK@Meridian/2024/MKE_STAFF_Formal.jpg">
-</div>
-<p>*Photo taken in 2024</p>
 <h4>MK@Meridian Staff</h4>
 <hr>
 <table style="minWidth: 50px">
