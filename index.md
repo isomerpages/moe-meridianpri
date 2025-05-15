@@ -8,7 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/Home Page Banner/test_1.png
-      variant: center
+      variant: image
+      title: Meridian Pr
   - infobar:
       title: The Gift of Values
       id: infobar
