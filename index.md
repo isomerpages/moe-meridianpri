@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home Page Banner/MPS_25th_Anniversary_schoolwebsite.png
+      background: /images/Home Page Banner/1a.jpg
       variant: center
   - infobar:
       title: The Gift of Values
