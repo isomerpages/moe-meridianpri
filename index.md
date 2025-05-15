@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home Page Banner/3.jpg
+      background: /images/Home Page Banner/4.jpg
       variant: center
   - infobar:
       title: The Gift of Values
