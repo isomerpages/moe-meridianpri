@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Home Page
         Banner/2a__Where_every_Meridian_finds_their_True_North_14_May_25.png
-      variant: center
+      variant: image
   - infobar:
       title: The Gift of Values
       id: infobar
