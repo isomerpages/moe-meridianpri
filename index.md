@@ -14,7 +14,7 @@ sections:
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="1.0" title="YouTube video player"
+        web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/Pqzz6RSJAdc?si=wPT0blAfvr5ujIi9"
-        height="295" width="480"></iframe>
+        height="275" width="460"></iframe>
 ---
