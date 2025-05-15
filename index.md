@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Home Page Banner/test_2a_1.png
-      variant: center
+      variant: image
   - infobar:
       title: The Gift of Values
       id: infobar
