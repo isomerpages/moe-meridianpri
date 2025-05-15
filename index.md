@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home Page Banner/Test.jpg
-      variant: image
+      background: /images/Home Page Banner/test_2.jpg
+      variant: center
   - infobar:
       title: The Gift of Values
       id: infobar
