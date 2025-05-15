@@ -9,6 +9,10 @@ sections:
   - hero:
       background: /images/Home Page Banner/Banner.gif
       variant: center
+      key_highlights:
+        - title: Open House 2025
+          description: Click here to find out more!
+          url: ""
   - infobar:
       title: The Gift of Values
       id: infobar
