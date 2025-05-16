@@ -44,11 +44,36 @@ We adopt a Just-in-Time learning approach, ensuring students learn digital skill
 <p align="justify">Selected students are empowered to be Cyber Wellness Ambassadors, leading peer advocacy efforts to promote safe and responsible digital behaviour. These student leaders are equipped through structured training and supported by dedicated teachers.</p>
 
 
-#### Highlights
+**Partnering Parents for Cyber Wellness**
+<p align="justify">We believe that strong partnerships with parents and guardians reinforce our Cyber Wellness message at home. We encourage families to:
 
-*   <p align="justify">The school commemorate the Safer Internet Day each year with a morning assembly sharing.&nbsp; Students pledged their support to promote safe, responsible and positive use of digital technology during a recess activity.</p>
+•	Model good digital habits<br>
+•	Maintain balance between screen time and offline life<br>
+•	Use ICT positively and purposefully<br>
+•	Foster a respectful and safe online presence
+
+By working together, we ensure a consistent and coherent approach to Cyber Wellness education.</p>
+
+
+
+#### Programme Highlight
+
+<u>2025</u>
+
+**Code for Fun (CFF) for Primary 4**
+<p align="justify">This year, we introduced the Code for Fun programme to our Primary 4 students, paving the way for their progression into the AI for Fun programme in Primary 6 by 2027.
+During the CFF programme, students had a blast exploring:
+
+•	Computational thinking skills<br>
+•	Hands-on coding and robotics projects<br>
+•	Emerging technologies, including Artificial Intelligence
+
+This early exposure not only strengthens their tech foundation but also inspires a passion for innovation and problem-solving.
+
+
+</p>
+
   
-*   <p align="justify">Our P6 students also take part in the Code-For-Fun programme as one of their post PSLE activities to develop of core computational thinking and coding concepts through simple visual programming-based lessons.  They are also exposed to emerging technologies such as artificial intelligence in the 16-hours programme.</p>
 
 
 For enquiries on the school’s ICT Department, please email:<br>
