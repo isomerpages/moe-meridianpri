@@ -118,6 +118,63 @@ languages and cultures to life.</p>
 </tr>
 </tbody>
 </table>
+<ul data-tight="true" class="tight">
+<li>
+<p>2023 (MTL Fortnight)</p>
+</li>
+</ul>
+<p>In 2023, we launched our Mother Tongue Fortnight programme with an exciting
+series of activities in our Mother Tongue Language Room.</p>
+<p></p>
+<p>Our Primary 3 students participated in a traditional games competition,
+immersing themselves in the cultural heritage of various ethnic groups
+whilst learning the values of teamwork and sportsmanship. Building on this
+experience, our high-ability learners further honed their creativity by
+designing their own traditional games during Higher Mother Tongue lessons.</p>
+<p></p>
+<p>Our Primary 4 students embarked on an exciting inquiry-based learning
+to explore Singapore’s vibrant tourist attractions. Through collaborative
+research and engaging presentations, they had the opportunity to share
+their perspectives and showcase their creativity. This project emphasized
+the inclusion of students' voices, encouraging them to step out of their
+comfort zones and build confidence in public speaking.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Mother Tongue Dept/2025MTL_4.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Mother Tongue Dept/2025MTL_5.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Mother Tongue Dept/2025MTL_6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Mother Tongue Dept/2025MTL_7.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>For enquiries on the school’s Mother Tongue Department, please email:
 <br><a href="mailto:anna_lim_lin_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Anna Lim (Head of Department)</a>
 </p>
