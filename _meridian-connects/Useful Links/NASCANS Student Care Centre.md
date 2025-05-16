@@ -9,9 +9,8 @@ Student Care Service (SSC) Provider:  NASCANS Pte Ltd
 
 <b>Address:</b> c/o Meridian Primary School, 20 Pasir Ris Street 71 Singapore 518798<br>
 
-<b>Main Address: </b>32 Sam Leong Road Singapore 207922 <br>
 
-<b>SCC Contact No: </b>8725 7254 (Mon to Fri, 11 a.m. to 6:30 p.m.)<br>
+<b>SCC Contact No: </b>8725 7254 (Sonia - Centre Supervisor)<br>
 
 <b>SCC Email Address:</b> <a href="mailto:mdscc@nascans.com">mdscc@nascans.com</a><br>Click <a href="/files/Useful%20Link/Nascans/New_2025__P1_Students_Interest_Form__New_QR_.pdf" target="_blank">here</a> to download 2025 Interest to Enrolment Notice<br>
 
