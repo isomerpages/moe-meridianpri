@@ -149,13 +149,13 @@ comfort zones and build confidence in public speaking.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Mother Tongue Dept/2025MTL_4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Mother Tongue Dept/2025MTL_4.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Mother Tongue Dept/2025MTL_5.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Mother Tongue Dept/2025MTL_5.png">
 </div>
 </td>
 </tr>
@@ -163,13 +163,13 @@ comfort zones and build confidence in public speaking.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Mother Tongue Dept/2025MTL_6.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Mother Tongue Dept/2025MTL_6.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Mother Tongue Dept/2025MTL_7.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Mother Tongue Dept/2025MTL_7.jpg">
 </div>
 </td>
 </tr>
