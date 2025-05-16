@@ -88,7 +88,36 @@ From overseas virtual exchanges with Nanjing ShangYuan Elementary School
 for our HAL students to collaborative projects with Pasir Ris Crest Secondary
 School during MTL Fortnight Cultural Camp, these connections bring our
 languages and cultures to life.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Mother Tongue Dept/2025MTL_1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Mother Tongue Dept/2025MTL_2.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Mother Tongue Dept/2025MTL_3.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>For enquiries on the school’s Mother Tongue Department, please email:
 <br><a href="mailto:anna_lim_lin_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Anna Lim (Head of Department)</a>
 </p>
