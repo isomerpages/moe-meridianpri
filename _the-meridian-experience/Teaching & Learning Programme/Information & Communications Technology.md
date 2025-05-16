@@ -62,7 +62,7 @@ By working together, we ensure a consistent and coherent approach to Cyber Welln
 
 **Code for Fun (CFF) for Primary 4**
 <p align="justify">This year, we introduced the Code for Fun programme to our Primary 4 students, paving the way for their progression into the AI for Fun programme in Primary 6 by 2027.
-During the CFF programme, students had a blast exploring:
+During the CFF programme, students had a blast exploring:<br>
 
 •	Computational thinking skills<br>
 •	Hands-on coding and robotics projects<br>
