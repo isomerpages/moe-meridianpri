@@ -75,8 +75,8 @@ This early exposure not only strengthens their tech foundation but also inspires
 <table style="width:100%">
   <tbody>
   <tr>
-    <td><img src="/images/The%20Meridian%20Experience/ICT/1_2025ICT.jpg" style="width:width:350px;height:450px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Floorball/2023_FB2.jpg" style="width:width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/ICT/1_2025ICT.jpg" style="width:450px;height:450px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/ICT/2_2025ICT.jpg" style="width:450px;height:450px;float:center"></td>
   </tr>
 </tbody></table>
 
