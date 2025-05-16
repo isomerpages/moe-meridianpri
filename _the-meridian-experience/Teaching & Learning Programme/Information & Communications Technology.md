@@ -5,29 +5,15 @@ description: ""
 third_nav_title: Teaching & Learning Programme
 variant: markdown
 ---
-<h3 style="margin-bottom:0; margin-top:1;"> Vision</h3>
-
-<p align="justify">A school that effectively and creatively interacts with technology today and dream of its possibilities for tomorrow.</p>
-
-#### Mission
-<p align="justify">To equip students with ICT knowledge, skills and attitudes that will nurture them into effective, creative and independent learners who are able to meet future challenges.</p>
 
 #### Approach
-<p align="justify">In alignment with MOE’s EdTech Masterplan 2030,&nbsp; Meridian adopts a whole-school approach to the developing our students into 21st century ready and responsible digital learners in an ICT-enriched environment in 4 key strands:</p>
+<u>Empowering Future-Ready Digital Learners at Meridian</u>
+<p align="justify">At Meridian, we are committed to nurturing students who are digitally confident, responsible, and future-ready. In alignment with MOE’s EdTech Masterplan 2030, we adopt a whole-school approach to develop our students into 21st-century learners through a vibrant, ICT-enriched environment.<br>Our ICT programme is anchored in four key strands that support learning and teaching:</p>
 
-*   Strand 1:&nbsp; ICT Curriculum, Pedagogy &amp; Assessment
-	*   Deepen and use of ICT innovatively for engaged learning
 
-*   Strand 2:&nbsp; Student ICT Capacity Building
-	*   Develop students' digital literacy and technological skills in alignment with 21st development
-	*   Promote safe and responsible use of ICT through strengthening their Cyber Wellness
+**Strand 1: ICT Curriculum, Pedagogy &amp; Assessment**
 
-*   Strand 3:&nbsp; Teacher ICT Professional Development
-	*   Encourage and support teachers in designing tech-enabled learning experiences
-	*   Strengthen a culture of collaboration and sharing of best practices for teaching with technology
-
-*   Strand 4:&nbsp; Systems
-	*   Support the use of ICT for teaching and learning, as well as for administrative efficiency in a digitally-equipped environment
+We deepen the use of ICT in the classroom, designing engaging, student-centred lessons that foster creativity, critical thinking, and collaboration.
 
 #### Key Programmes
 
