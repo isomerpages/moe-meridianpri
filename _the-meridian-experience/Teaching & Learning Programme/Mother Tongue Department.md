@@ -5,30 +5,27 @@ description: ""
 third_nav_title: Teaching & Learning Programme
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" src="/images/Our%20Staff/2024%20Dept%20Photo/MOTHER_TONGUE_LANGUAGES_DEPARTMENT_Formal.jpg">
-</div>
-<p>*Photo taken in 2024</p>
-<h4>Vision</h4>
-<p>Mother Tongue Language – A Living Language</p>
-<h4>Mission</h4>
-<p>The department aims to:</p>
-<ul>
-<li>
-<p>develop students into proficient language users who can communicate in
-a confident and effective way in real life situations</p>
-</li>
-<li>
-<p>gain a better understanding and appreciation of our diverse cultural background</p>
-</li>
-<li>
-<p>develop a love for the language</p>
-</li>
-</ul>
-<h4>Approach - The Meridian Experience</h4>
-<p>To achieve the purpose and objective of learning MTLs, the MTL department
-designed a variety of Learning Experiences to build confidence and foster
-joy of learning MTL.</p>
+<p><u>Approach </u>
+</p>
+<p>At Meridian, our approach to Mother Tongue Language learning is built
+on three key principles that strive to drive student success:</p>
+<p>We See - Every child carries the promise of growth. We recognize their
+unique potential and nurture their strengths in language learning.</p>
+<p>We Steer - Through engaging activities and cultural experiences, we guide
+students to explore their Mother Tongue with curiosity and purpose, equipping
+them with essential communication skills for the future.</p>
+<p>We Shape - We develop confident language users who positively influence
+others, embracing both their cultural heritage and 21st century competencies.</p>
+<p>In alignment with MOE's Mother Tongue Languages curriculum, we emphasize
+core language skills through a progressive approach, integrating technology
+and 21st century competencies. Our teachers employ differentiated instruction,
+ensuring every child progresses while maintaining their joy of learning.</p>
+<p>We believe in strong parent partnerships, sharing regular updates and
+practical tips for home-based language activities through our engagement
+sessions.</p>
+<p>Together, we nurture passionate Mother Tongue Language learners who appreciate
+their cultural roots and are ready to thrive in an interconnected world.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px;height:300px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/Mother%20Tongue%20Dept/2023/MTL1.png">
 </div>
