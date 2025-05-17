@@ -4,10 +4,6 @@ permalink: /mk-at-meridian/mk-at-meridian-staff/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" src="/images/MK@Meridian/2024/MKE_STAFF_Formal.jpg">
-</div>
-<p>*Photo taken in 2024</p>
 <h4>MK@Meridian Staff</h4>
 <hr>
 <table style="minWidth: 50px">
@@ -162,6 +158,15 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurul_ainn_rostan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurul Ainn Binte Rostan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Language Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nurulsafira_Mohamad_Rafi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nurulsafira Binte Mohamad Rafi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

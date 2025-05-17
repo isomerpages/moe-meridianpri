@@ -514,10 +514,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:gee_hui_yan_janice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Janice Gee Hui Yan (Special Education Needs Officer)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:sharifah_samihah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sharifah Samihah (Special Education Needs Officer)</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>

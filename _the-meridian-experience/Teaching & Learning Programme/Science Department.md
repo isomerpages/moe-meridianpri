@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Teaching & Learning Programme
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" src="/images/Our%20Staff/2024%20Dept%20Photo/SCIENCE_DEPARTMENT_Formal.jpg">
-</div>
-<p>*Photo taken in 2024</p>
 <h4>Vision</h4>
 <p>A Confident and Caring Scientist in every Meridian.</p>
 <h4>Approach</h4>

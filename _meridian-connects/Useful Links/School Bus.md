@@ -37,4 +37,3 @@ icon@Changi, Singapore 419741<br>
 Email: <a href="meridian@shanztransportation.com.sg">meridian@shanztransportation.com.sg</a><br>
 Website: <a href="https://shanztransportation.com.sg">https://shanztransportation.com.sg</a>
 
-Registration for School Bus Service: <br><a href="https://shanztransportation.com.sg/register-bus-for-school">https://shanztransportation.com.sg/register-bus-for-school</a>

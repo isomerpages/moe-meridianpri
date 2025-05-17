@@ -4,11 +4,7 @@ permalink: /our-staff/school-steering-committee/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" src="/images/Our%20Staff/2024%20Dept%20Photo/STEERING_COMMITTEE_Formal.jpg">
-</div>
-<p>*Photo taken in 2024</p>
-<hr>
+<p></p>
 <h4>School Leaders</h4>
 <table style="minWidth: 50px">
 <colgroup>
