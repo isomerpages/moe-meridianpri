@@ -501,30 +501,47 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Allied Educators</h4>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_jinning_janine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Janine Ng Jinning (School Counsellor)</a>
+<p><a href="mailto:ng_jinning_janine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Janine Ng Jinning</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gee_hui_yan_janice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Janice Gee Hui Yan (Special Education Needs Officer)</a>
+<p><a href="mailto:gee_hui_yan_janice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Janice Gee Hui Yan</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Education Needs Officer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharifah_samihah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sharifah Samihah (Special Education Needs Officer)</a>
+<p><a href="mailto:sharifah_samihah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sharifah Samihah</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Education Needs Officer</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
