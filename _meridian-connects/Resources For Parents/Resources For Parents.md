@@ -9,12 +9,14 @@ variant: markdown
 
 <p align="justify">At Meridian, we regularly share resources for parents and guardians with education news, resources and tips.</p>
 
-<p>1. Building Resilience in Children and Supporting Them Through Transitions <a href="https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/children-support/" rel="noopener noreferrer nofollow" target="_blank">Read more</a></p>
+<p>1. The Parenting for Wellness Toolbox for parents is your go-to guide for raising happy, confident and kind children in today’s fast-paced world. It contains bite-sized content with quick and easy strategies that you can use! <a href="https://file.go.gov.sg/pfw-toolbox-for-parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Read more</a></p>
 
-<p>2. Cyber Wellness <a href="https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">Read more</a></p>
+<p>2. Building Resilience in Children and Supporting Them Through Transitions <a href="https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/children-support/" rel="noopener noreferrer nofollow" target="_blank">Read more</a></p>
+
+<p>3. Cyber Wellness <a href="https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">Read more</a></p>
 
 
-<p>3. A Collection of Tips and Resources <a href="https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/a-collection-of-tips-and-resources/" rel="noopener noreferrer nofollow" target="_blank">Read more</a></p>
+<p>4. A Collection of Tips and Resources <a href="https://www.meridianpri.moe.edu.sg/communications/resources-for-parents/a-collection-of-tips-and-resources/" rel="noopener noreferrer nofollow" target="_blank">Read more</a></p>
 
 <h5>Parents may also keen to read the following:</h5>
 
