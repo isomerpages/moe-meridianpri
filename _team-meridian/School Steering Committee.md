@@ -204,7 +204,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Lead Teacher (Mathematics)</p>
 </td>
 </tr>
 <tr>
