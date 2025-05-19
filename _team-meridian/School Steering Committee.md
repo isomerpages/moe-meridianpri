@@ -14,10 +14,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Designation</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -58,10 +60,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Name</strong> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Designation</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -111,10 +115,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Designation</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -261,6 +267,16 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aliza_farhana_mohd_raus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Aliza Farhana Binti Mohd Raus</a>
