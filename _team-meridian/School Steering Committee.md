@@ -102,7 +102,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Head of Department/Subject Head/Level Head</h4>
+<h4>Head of Department/Lead Teacher/Subject Head/Level Head</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -196,6 +196,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Mastura_YAACOB@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mastura Yaacob</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
 </td>
 </tr>
 <tr>
