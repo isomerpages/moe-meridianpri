@@ -141,7 +141,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Maths</p>
+<p>HOD/Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -231,7 +231,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head Maths</p>
+<p>Level Head Mathematics</p>
 </td>
 </tr>
 <tr>
