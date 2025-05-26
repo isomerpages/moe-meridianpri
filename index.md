@@ -14,11 +14,11 @@ sections:
           description: Click here to find out more!
           url: https://www.meridianpri.moe.edu.sg/open-house-2025/
   - infobar:
-      title: The Gift of Values
+      title: The Gift of Community
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/Pqzz6RSJAdc?si=wPT0blAfvr5ujIi9"
-        height="295" width="520"></iframe>
+        src="https://www.youtube.com/embed/uQjlrBVH_Og?si=hw6R3IVNmqPQzUvS"
+        height="295" width="560"></iframe>
 ---
