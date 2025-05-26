@@ -60,7 +60,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong> 
+<p><strong>Name</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -220,6 +220,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/ Character and Citizenship Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:foo_si_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tracy Foo</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Student Well Being (covering)</p>
 </td>
 </tr>
 <tr>
