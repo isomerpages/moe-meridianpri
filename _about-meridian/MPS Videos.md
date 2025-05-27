@@ -4,6 +4,10 @@ permalink: /mps-videos/
 variant: tiptap
 description: ""
 ---
+<h4>The Gift of Community</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uQjlrBVH_Og?si=hw6R3IVNmqPQzUvS"></iframe>
+</div>
 <h4>The Gift of Values</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pqzz6RSJAdc?si=wPT0blAfvr5ujIi9"></iframe>
