@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Home Page Banner/Banner.gif
-      variant: image
+      variant: center
       key_highlights:
         - title: Open House 2025 - Join the meridian adventure!
           description: Click here to find out more!
