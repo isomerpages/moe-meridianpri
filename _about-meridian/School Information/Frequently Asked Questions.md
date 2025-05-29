@@ -15,8 +15,8 @@ variant: markdown
     <td><p>1</p></td>
     <td><p>What is the school hours during term time?</p></td>
     <td><ul>
-			<li style="font-size:15px">Mondays to Fridays:&nbsp; 7.30 a.m. to 1.30 p.m.</li>
-			<li style="font-size:15px">Wednesdays:&nbsp; 7.30 a.m. to 2.30 p.m. for Primary 4 to Primary 6</li>
+			<li style="font-size:15px">Mondays to Fridays:  7.30 a.m. to 1.30 p.m</li>
+			<li style="font-size:15px">Wednesdays:  7.30 a.m. to 2.30 p.m. for Primary 4 to Primary 6</li>
 	</ul></td>
   </tr>
   <tr>
