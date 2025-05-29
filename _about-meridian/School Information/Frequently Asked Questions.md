@@ -52,4 +52,14 @@ variant: markdown
     <td><p>Can parents/guardians meet their child at school during or after curriculum time?</p></td>
     <td><p style="font-size: 15px; text-align:justify;">Parents / guardians are generally not allowed to enter school during or after curriculum time unless they have a scheduled appointment or in case of an emergency.</p></td>
   </tr>
+		<tr>
+    <td><p>7</p></td>
+    <td><p>How should parents/guardians register to enter the school?</p></td>
+    <td><p style="font-size: 15px; text-align:justify;">Parents/guardians must register at the security guard post (at the blue gate) and are required to report to the General Office upon entry.</p></td>
+  </tr>
+		<tr>
+    <td><p>8</p></td>
+    <td><p>If I wish to request an early pick-up for my child, what should I do?</p></td>
+    <td><p style="font-size: 15px; text-align:justify;">Parents are to inform your child’s form teachers ahead (e.g., via email) or call the General Office as early as possible to provide the estimated pick-up time, so that we can ensure your child is at the General Office upon your arrival. As far as possible please refrain from making pick-up arrangements after 1 p.m., as teachers will be busy preparing the students for dismissal and we may not be able to process the request in time.</p></td>
+  </tr>
 </tbody></table>
