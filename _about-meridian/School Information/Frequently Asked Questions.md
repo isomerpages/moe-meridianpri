@@ -49,8 +49,7 @@ variant: markdown
   </tr>
 		<tr>
     <td><p>6</p></td>
-    <td><p>I have feedback and suggestion for the school. Who could&nbsp;I contact?</p></td>
-    <td><p style="font-size: 15px; text-align:justify;">We are committed to providing a&nbsp;quality educational experience that maximises the potential of the every child.&nbsp; We appreciate your feedback and suggestions.&nbsp; You may email them to us via <b>meridian_ps@moe.edu.sg</b>.&nbsp;
-We look forward to hearing from you.</p></td>
+    <td><p>Can parents/guardians meet their child at school during or after curriculum time?</p></td>
+    <td><p style="font-size: 15px; text-align:justify;">Parents / guardians are generally not allowed to enter school during or after curriculum time unless they have a scheduled appointment or in case of an emergency.</p></td>
   </tr>
 </tbody></table>
