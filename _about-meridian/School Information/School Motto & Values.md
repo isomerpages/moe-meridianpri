@@ -16,9 +16,9 @@ variant: markdown
 - To Lead: Empowering students to take ownership, lead themselves and others, and contribute to society
 </p>
 
-<p align="justify">Our motto undergirds what we emphasize as a school. It is our guide in what we do in Meridian: may it be academic learning, character molding or personal leadership.</p>
 
-#### Our Values
+<b>Our motto is supported by 6 core values:</b>
+
 There are altogether 6 School Values namely:
 
 _**· Care · Integrity · Resilience  · Responsibility · Respect ·&nbsp;Teamwork ·**_
