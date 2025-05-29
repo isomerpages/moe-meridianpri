@@ -23,18 +23,18 @@ variant: markdown
     <td><p>2</p></td>
     <td><p>What time is recess for the students in the school?</p></td>
     <td><ul>
-			<li style="font-size:15px">Primary 1 &amp; Primary 4: 9:00 a.m. to 9:30 a.m.</li>
-			<li style="font-size:15px">Primary 2 &amp; Primary 5: 9:30 a.m. to 10:00 a.m.</li>
-			<li style="font-size:15px">Primary 3 &amp; Primary 6: 10:00 a.m. to 10:30 a.m.</li>
+			<li style="font-size:15px">Primary 1 &amp; Primary 2: 9:00 a.m. to 9:30 a.m.</li>
+			<li style="font-size:15px">Primary 5 &amp; Primary 6: 9:30 a.m. to 10:00 a.m.</li>
+			<li style="font-size:15px">Primary 3 &amp; Primary 4: 10:00 a.m. to 10:30 a.m.</li>
 	</ul></td>
   </tr>
 	<tr>
     <td><p>3</p></td>
-    <td><p>What are the drop-off/Pick up timing at the various gates in the school</p></td>
+    <td><p>What are the drop-off/pick up timings at the various gates in the school?</p></td>
     <td><ul>
 			<li style="font-size:15px">Red Gate (Nearest to Blk 768): 6.45 a.m. to 7.30 a.m.</li>
-			<li style="font-size:15px">Orange Gate (Nearest to Blk 763):&nbsp;7.00 a.m. to 7.30 a.m.</li>
-			<li style="font-size:15px">Blue Gate:&nbsp; 7.00 a.m. to 5.00 p.m.</li>
+			<li style="font-size:15px">Orange Gate (Nearest to Blk 763): 6.45 a.m. to 7.30 a.m, 1.30pm to 1.45pm</li>
+			<li style="font-size:15px">Blue Gate:  6.30 a.m. to 6.00 p.m.</li>
 	</ul></td>
   </tr>
 	<tr>
