@@ -28,6 +28,6 @@ In line with MOE's direction, we focus on developing students' character, skills
 - Think critically and achieve excellence<br>
 - Strive and persevere<br>
 - Contribute to family, community, and country<br>
-	
+	<br>
 Our motto and values serve as a guiding framework for academic learning, character development, and personal leadership.
 </p>
