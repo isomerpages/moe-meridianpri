@@ -23,4 +23,11 @@ There are altogether 6 School Values namely:
 
 _**· Care · Integrity · Resilience  · Responsibility · Respect ·&nbsp;Teamwork ·**_
 
-<p align="justify">These school values support the school motto of “To Learn”, “To Love” and “To Lead” as it moves towards its vision of&nbsp; nurturing “Future Learners”, “Future Citizens” as well as “Future Leaders”.</p>
+<p align="justify">These values guide our students to become Future Learners, Future Citizens, and Future Leaders, equipped with a balanced and well-rounded education.
+In line with MOE's direction, we focus on developing students' character, skills, and knowledge, preparing them for a rapidly changing world. By instilling our motto and values, we empower students to:<br>
+- Think critically and achieve excellence<br>
+- Strive and persevere<br>
+- Contribute to family, community, and country<br>
+	
+Our motto and values serve as a guiding framework for academic learning, character development, and personal leadership.
+</p>
