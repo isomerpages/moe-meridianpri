@@ -10,7 +10,11 @@ variant: markdown
 <img src="/images/About%20As/School_Logo.jpg" style="width:350px;height:350px;float:center">
 
 
-<p align="justify">Our motto “To Learn, To Love, To Lead” broadly defines the key domains of what we uphold and emphasize as a school towards our vision of “Future Learners, Future Citizens, Future Leaders”. It aligns well with MOE’s “Head, Heart &amp; Hands” approach as well as the teachers’ vision of “Lead, Care, Inspire”. It is about our thinking (reflections), our feelings (emotions) as well as our actions (deeds). It governs what we do as a school towards our vision.</p>
+<p align="justify">At Meridian, our motto defines our key domains, aligning with MOE's mission to nurture future-ready citizens. It encompasses:<br>
+- To Learn: Developing knowledge, skills, and critical thinking<br>
+- To Love: Cultivating empathy, care, and strong relationships<br>
+- To Lead: Empowering students to take ownership, lead themselves and others, and contribute to society
+</p>
 
 <p align="justify">Our motto undergirds what we emphasize as a school. It is our guide in what we do in Meridian: may it be academic learning, character molding or personal leadership.</p>
 
