@@ -62,4 +62,15 @@ variant: markdown
     <td><p>If I wish to request an early pick-up for my child, what should I do?</p></td>
     <td><p style="font-size: 15px; text-align:justify;">Parents are to inform your child’s form teachers ahead (e.g., via email) or call the General Office as early as possible to provide the estimated pick-up time, so that we can ensure your child is at the General Office upon your arrival. As far as possible please refrain from making pick-up arrangements after 1 p.m., as teachers will be busy preparing the students for dismissal and we may not be able to process the request in time.</p></td>
   </tr>
+		<tr>
+    <td><p>9</p></td>
+    <td><p>Can parents/guardians make an insurance claim for incidents involving students?</p></td>
+    <td><p style="font-size: 15px; text-align:justify;">Parents/guardians can make a claim under the Group Personal Insurance (GPA) for students under the following conditions:<br>
+•	The incident occurs in school.<br>
+•	The student is participating in school activities or any school-related activities, including Home-Based Learning (HBL), Co-curricular Activities (CCA), or sports.<br>
+•	The student is commuting to or from their residence and the school premises, or to/from a location where a school-related activity is conducted.<br>
+•	The incident takes place at a student care centre located within the school.<br>
+•	The student is participating in any activity conducted by the school’s student care centre.
+</p></td>
+  </tr>
 </tbody></table>
