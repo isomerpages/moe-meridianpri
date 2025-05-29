@@ -39,13 +39,13 @@ variant: markdown
   </tr>
 	<tr>
     <td><p>4</p></td>
-    <td><p>Can my child bring mobile phone to school?</p></td>
-    <td><p style="font-size: 15px; text-align:justify;">At Meridian Primary, we believe firmly that students should develop holistically at this age, engaging in healthy online and offline activities.&nbsp; As such, students in Meridian Primary are not to bring their mobile phones to school.&nbsp; The purpose is to encourage them to interact with their friends and classmates&nbsp;face-to-face; to prevent them from being distracted by the devices; and to avoid inappropriate use of technology.</p></td>
+    <td><p>Can my child bring mobile phone or smart watches to school?</p></td>
+    <td><p style="font-size: 15px; text-align:justify;">We believe firmly that students should develop holistically at this age, engaging in healthy online and offline activities.  As such, students are not to bring their mobile phones or smart watches to school.  The purpose is to encourage them to interact with their friends and classmates face-to-face; to prevent them from being distracted by the devices; and to avoid inappropriate use of technology. Parents are required to write in to the school to ask for approval and approval is granted on a case-by-case basis.</p></td>
   </tr>
 	<tr>
     <td><p>5</p></td>
-    <td><p>Will there by make-up if my child is absent from any of the school assessments?</p></td>
-    <td><p style="font-size: 15px; text-align:justify;">There will be no make-up assessments for students who are absent for the Holistic Assessment and Semestral Assessment.&nbsp; Please refer to the school’s policy and practice on assessment matters <a href="https://www.meridianpri.moe.edu.sg/communications/assessment-matters/school-policy-n-practice-on-assessment-matters/">here</a></p></td>
+    <td><p>Will there be any make-up arrangements done if my child is absent from any of the school assessments?</p></td>
+    <td><p style="font-size: 15px; text-align:justify;">Students who are absent during the Weighted Assessment (WA) or End-of-Year Examination (EOY) will not be eligible for make-up assessments. This policy aligns with the school’s commitment to maintaining fairness and integrity in our assessment processes. For detailed information regarding the school assessment policy and guidelines, we kindly encourage you to review the school’s official policy document, available here. <a href="https://www.meridianpri.moe.edu.sg/communications/assessment-matters/school-policy-n-practice-on-assessment-matters/">here</a></p></td>
   </tr>
 		<tr>
     <td><p>6</p></td>
