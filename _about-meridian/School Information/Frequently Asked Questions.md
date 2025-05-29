@@ -87,4 +87,9 @@ For New claim submissions:<br>
 For more details and information, please refer to Income Insurance guideline: <a href="https://www.meridianpri.moe.edu.sg/files/Communications/Resources%20for%20Parents/MOE_Student_Product_Fact_Sheet_Year_2024.pdf/">GPA Insurance for Students</a>
 </p></td>
   </tr>
+		<tr>
+    <td><p>11</p></td>
+    <td><p>I have feedback and suggestion for the school. Who could I contact?</p></td>
+    <td><p style="font-size: 15px; text-align:justify;">We are committed to providing a quality educational experience that maximises the potential of every child.  We appreciate your feedback and suggestions.  You may email them to us via <a href="mailto:meridian_ps@moe.edu.sg">meridian_ps@moe.edu.sg</a>.  We look forward to hearing from you.</p></td>
+  </tr>
 </tbody></table>
