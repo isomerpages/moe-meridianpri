@@ -73,4 +73,18 @@ variant: markdown
 •	The student is participating in any activity conducted by the school’s student care centre.
 </p></td>
   </tr>
+			<tr>
+    <td><p>10</p></td>
+    <td><p>How do parents/guardians submit insurance claims?</p></td>
+    <td><p style="font-size: 15px; text-align:justify;">Parents/guardians will have to pay for medical treatments upfront, before submitting claims to Income Insurance Limited (Income Insurance) for reimbursement. Please note the applicable limits and coverage for medical expenses. 
+For New claim submissions:<br>
+1.	Go to Income Insurance’s GPA portal at https://studentgpa.incomegroupins.com.sg <br>
+2.	Click on “New/Follow up Accident Claim” <br>
+3.	Select “New Claim” Under “Claim Type” <br>
+4.	Complete online claim form <br>
+5.	Upload tax invoice(s), receipts (outpatient/inpatient claims) and any required documents <br>
+6.	A confirmation email will be sent to parents or students, and school administrator
+For more details and information, please refer to Income Insurance guideline: <a href="https://www.meridianpri.moe.edu.sg/files/Communications/Resources%20for%20Parents/MOE_Student_Product_Fact_Sheet_Year_2024.pdf/">GPA Insurance for Students</a>
+</p></td>
+  </tr>
 </tbody></table>
