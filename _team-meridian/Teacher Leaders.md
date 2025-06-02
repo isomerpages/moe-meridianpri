@@ -47,15 +47,6 @@ description: ""
 <p>Senior Teacher (Chinese Language)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:looi_yen_fen_amy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Amy Looi</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (English Language)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
