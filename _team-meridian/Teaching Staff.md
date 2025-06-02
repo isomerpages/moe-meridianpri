@@ -214,8 +214,7 @@ variant: tiptap
 <p>3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Loi_Yen_Fen_Amy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Amy Looi</a>
-<br><a href="mailto:masayu_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Masayu Bte Mohamed</a>
+<p><a href="mailto:masayu_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Masayu Bte Mohamed</a>
 </p>
 </td>
 </tr>
