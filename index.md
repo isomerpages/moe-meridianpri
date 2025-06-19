@@ -11,7 +11,7 @@ sections:
       variant: center
       key_highlights:
         - title: Open House 2025 - Join the meridian adventure!
-          description: Click here to find out more!
+          description: Click to find out more!
           url: https://www.meridianpri.moe.edu.sg/open-house-2025/
   - infobar:
       title: The Gift of Community
@@ -21,6 +21,6 @@ sections:
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/uQjlrBVH_Og?si=hw6R3IVNmqPQzUvS"
         height="295" width="560"></iframe>
-      button: Click to view more videos
+      button: Click to view more MPS videos
       url: https://www.meridianpri.moe.edu.sg/mps-videos/
 ---
