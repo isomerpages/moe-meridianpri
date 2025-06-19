@@ -102,6 +102,50 @@ the East Zone since 2018</p>
 </tr>
 </tbody>
 </table>
+<h4>Highlights</h4>
+<p></p>
+<p><strong><u>2025</u></strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/English Dept/EL2025_3.jpg">
+</div>
+<p></p>
+<p></p>
+<p>Wits and Words Inter-school Debate Championship: Top 3 Schools in the
+Preliminary Round in the East Zone</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><u>2024</u></strong>
+</p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/English Dept/EL2025_4.jpg">
+</div>
+<p></p>
+<p>37th YMCA Plain English Speaking Award: First Runner Up</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>For enquiries on the school’s English Language Department, please email:
 <br><a href="mailto:neo_jia_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charlotte Neo Jia Hwee (Head of Department)</a>
 </p>
