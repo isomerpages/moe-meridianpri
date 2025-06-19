@@ -32,7 +32,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Aminah_Mohamed_Shariff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aminah D/o Mohamed Shariff </a>
+<p><a href="mailto:Aminah_Mohamed_Shariff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aminah D/o Mohamed Shariff</a>
 </p>
 <p><a href="mailto:norsheleen_mohamed_atan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norsheleen Binte Mohd Atan</a>
 </p>
