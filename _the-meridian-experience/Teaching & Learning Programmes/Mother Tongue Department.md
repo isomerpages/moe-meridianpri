@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Teaching & Learning Programmes
 variant: tiptap
 ---
-<p><u>Approach</u>
-</p>
+<h4>Approach</h4>
 <p>At Meridian, our approach to Mother Tongue Language learning is built
 on three key principles that strive to drive student success:</p>
 <p>We See - Every child carries the promise of growth. We recognize their
