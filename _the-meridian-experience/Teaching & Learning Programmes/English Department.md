@@ -42,17 +42,17 @@ to navigate and contribute to our digital world.</p>
 <div class="isomer-image-wrapper">
 <img style="width:280px;height:350px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/English%20Dept/2024_EL1.jpg">
 </div>
-<p>Primary 1: Field-based Learning at the Singapore Zoo</p>
+<p style="text-align:center; font-size:14px;">Primary 1: Field-based Learning at the Singapore Zoo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
+<div class="isomer-image-wrapper"><br><br><br>
 <img style="width:380px;height:250px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/English%20Dept/2024_EL3.jpg">
 </div>
 <p></p>
-<p>Primary 2 STELLAR Lesson at the Singapore Science Centre</p>
+<p style="text-align:center; font-size:14px;">Primary 2 STELLAR Lesson at the Singapore Science Centre</p>
 </td>
 </tr>
 <tr>
