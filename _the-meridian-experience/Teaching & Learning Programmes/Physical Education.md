@@ -2,7 +2,7 @@
 title: Physical Education
 permalink: /the-meridian-experience/co-curriculum/physical-education/
 description: ""
-third_nav_title: Teaching & Learning Programme
+third_nav_title: Teaching & Learning Programmes
 variant: markdown
 ---
 <h4 style="margin-bottom:0; margin-top:1;"> Vision</h4>

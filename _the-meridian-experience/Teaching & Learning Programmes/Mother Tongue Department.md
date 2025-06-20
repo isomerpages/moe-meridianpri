@@ -2,11 +2,10 @@
 title: Mother Tongue Department
 permalink: /the-meridian-experience/academic/mother-tongue-department/
 description: ""
-third_nav_title: Teaching & Learning Programme
+third_nav_title: Teaching & Learning Programmes
 variant: tiptap
 ---
-<p><u>Approach</u>
-</p>
+<h4>Approach</h4>
 <p>At Meridian, our approach to Mother Tongue Language learning is built
 on three key principles that strive to drive student success:</p>
 <p>We See - Every child carries the promise of growth. We recognize their
@@ -26,7 +25,7 @@ sessions.</p>
 <p>Together, we nurture passionate Mother Tongue Language learners who appreciate
 their cultural roots and are ready to thrive in an interconnected world.</p>
 <p></p>
-<h4>Key Department Programmes</h4>
+<h4>Key Departmental Programmes</h4>
 <p>1. Festive Celebrations</p>
 <p>Through immersive celebrations of Chinese New Year, Hari Raya and Deepavali,
 students experience the rich traditions and cultural practices that make
@@ -74,13 +73,9 @@ in their Mother Tongue while deepening their appreciation of the language.
 develop basic conversation skills while gaining meaningful insights into
 another culture, fostering cross-cultural understanding and friendship.</p>
 <p></p>
-<p><strong><u>Highlights</u></strong>
+<h4>Highlights</h4>
+<p><strong><u>2024 (Partnership)</u></strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2024 (Partnership)</p>
-</li>
-</ul>
 <p>In 2024, our Mother Tongue Language learning journey extends beyond classroom
 walls. Through collaboration with different partners in the educational
 landscape, our students experience language learning in authentic settings.
@@ -118,11 +113,8 @@ languages and cultures to life.</p>
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
-<p>2023 (MTL Fortnight)</p>
-</li>
-</ul>
+<p><strong><u>2023 (MTL Fortnight)</u></strong>
+</p>
 <p>In 2023, we launched our Mother Tongue Fortnight programme with an exciting
 series of activities in our Mother Tongue Language Room.</p>
 <p></p>

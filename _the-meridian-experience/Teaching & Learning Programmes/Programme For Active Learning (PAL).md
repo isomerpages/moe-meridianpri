@@ -2,7 +2,7 @@
 title: Programme For Active Learning (PAL)
 permalink: /the-meridian-experience/co-curriculum/programme-for-active-learning-pal/
 description: ""
-third_nav_title: Teaching & Learning Programme
+third_nav_title: Teaching & Learning Programmes
 variant: markdown
 ---
 #### What is PAL?

@@ -2,7 +2,7 @@
 title: Information & Communications Technology
 permalink: /the-meridian-experience/co-curriculum/information-n-communications-technology/
 description: ""
-third_nav_title: Teaching & Learning Programme
+third_nav_title: Teaching & Learning Programmes
 variant: markdown
 ---
 #### Approach
@@ -25,7 +25,7 @@ We ensure the seamless integration of ICT through a well-supported digital infra
 
 
 
-#### Key Programmes
+#### Key Departmental Programmes
 
 <u>Student ICT Capacity Building</u>
 
@@ -45,7 +45,7 @@ We adopt a Just-in-Time learning approach, ensuring students learn digital skill
 
 
 **Partnering Parents for Cyber Wellness**
-<p align="justify">We believe that strong partnerships with parents and guardians reinforce our Cyber Wellness message at home. We encourage families to:
+<p align="justify">We believe that strong partnerships with parents and guardians reinforce our Cyber Wellness message at home. We encourage families to:<br>
 
 •	Model good digital habits<br>
 •	Maintain balance between screen time and offline life<br>
@@ -56,7 +56,7 @@ By working together, we ensure a consistent and coherent approach to Cyber Welln
 
 
 
-#### Programme Highlight
+#### Highlights
 
 <u>2025</u>
 

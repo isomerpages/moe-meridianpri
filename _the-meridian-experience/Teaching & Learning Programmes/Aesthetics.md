@@ -2,7 +2,7 @@
 title: Aesthetics
 permalink: /the-meridian-experience/co-curriculum/aesthetics/
 description: ""
-third_nav_title: Teaching & Learning Programme
+third_nav_title: Teaching & Learning Programmes
 variant: markdown
 ---
 <h4 style="margin-bottom:0; margin-top:1;"> Vision</h4>

@@ -92,7 +92,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head P5 and P6</p>
+<p>Year Head P6</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Covering) P5</p>
+<p>Assistant Year Head P5 and P6</p>
 </td>
 </tr>
 </tbody>
@@ -224,29 +224,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_si_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tracy Foo</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/Student Well Being (Covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:vasanthi_mahalinggam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Vasanthi d/o Mahalinggam</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head/English</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noor Heryanti Abd Karim</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head/Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -260,11 +242,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noor Heryanti Abd Karim</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head/Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:noorhafidzah_shaffi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Ee Lyn</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Science (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:foo_si_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tracy Foo</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Student Well Being (Covering)</p>
 </td>
 </tr>
 </tbody>

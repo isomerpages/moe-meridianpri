@@ -68,7 +68,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Sohana_Abd_halim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sohana Abd Halim</a>
+<p><a href="mailto:nurradiyah_ramdan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurradiyah Binti Ramdan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,7 +77,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurradiyah_ramdan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurradiyah Binti Ramdan</a>
+<p><a href="mailto:Sohana_Abd_halim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sohana Abd Halim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
