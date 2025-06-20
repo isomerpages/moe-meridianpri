@@ -25,7 +25,7 @@ We ensure the seamless integration of ICT through a well-supported digital infra
 
 
 
-#### Key Programmes
+#### Key Departmental Programmes
 
 <u>Student ICT Capacity Building</u>
 
@@ -56,7 +56,7 @@ By working together, we ensure a consistent and coherent approach to Cyber Welln
 
 
 
-#### Programme Highlight
+#### Highlights
 
 <u>2025</u>
 
