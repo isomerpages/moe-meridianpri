@@ -129,7 +129,6 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <a href="mailto:duan_xiaolu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Duan Xiao Lu</a>
 	<br><a href="mailto:nurliyana_omar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurliyana Binte Omar</a> 
-<p></p>
 </td>
 </tr>
 <tr>
@@ -174,10 +173,9 @@ variant: markdown
 <p>2 Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_mau_tan_peony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Peony Wong</a>
-<br><a href="mailto:nurrashidah_norman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurrashidah</a>
+	<a href="mailto:nurrashidah_norman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurrashidah</a>
+<br><a href="mailto:wong_mau_tan_peony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Peony Wong</a>
 <br><a href="mailto:tang_tsin_ray@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tang Tsin Ray</a>
-</p>
 </td>
 </tr>
 </tbody>
@@ -202,8 +200,7 @@ variant: markdown
 <p>3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:masayu_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Masayu Bte Mohamed</a>
-</p>
+<a href="mailto:masayu_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Masayu Bte Mohamed</a>
 </td>
 </tr>
 <tr>
@@ -211,9 +208,8 @@ variant: markdown
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Siti_Nurmunirah_mohd_Arsad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nurmunirah </a>
+<a href="mailto:Siti_Nurmunirah_mohd_Arsad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nurmunirah </a>
 <br><a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Stefane Lee</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -221,9 +217,8 @@ variant: markdown
 <p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xu_wei_gabriel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gabriel Xu</a>
+<a href="mailto:xu_wei_gabriel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gabriel Xu</a>
 <br><a href="mailto:tang_li_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tang Li Hwa</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -231,9 +226,8 @@ variant: markdown
 <p>3 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_chai_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jane Chen</a>
+<a href="mailto:chen_chai_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jane Chen</a>
 <br><a href="mailto:Muhammad_Shakir_Sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Shakir</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -241,9 +235,8 @@ variant: markdown
 <p>3 Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurizan_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurizan Abdul Wahab</a>
+<a href="mailto:nurizan_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurizan Abdul Wahab</a>
 <br><a href="mailto:tee_shou_fei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tee Shou Fei</a>
-</p>
 </td>
 </tr>
 </tbody>
