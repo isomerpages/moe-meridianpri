@@ -395,74 +395,62 @@ variant: markdown
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_soon_choon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Soo Choon Sharon</a>
-</p>
+<a href="mailto:ABDUL_MANAF_B_AHMAD_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Manaf</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ABDUL_MANAF_B_AHMAD_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Manaf</a>
-</p>
+<a href="mailto:fadzlina_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fadzlina Bte Abdullah</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fadzlina_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fadzlina Bte Abdullah</a>
-</p>
+<a href="mailto:long_jee_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Fong Long Jee Lian</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:long_jee_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Fong Long Jee Lian</a>
-</p>
+<a href="mailto:Lim_Sheng_Yong_Joyce_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joyce Lim</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_Sheng_Yong_Joyce_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joyce Lim</a>
-</p>
+<a href="mailto:kamsiah_musleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kamsiah Binte Musleh</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kamsiah_musleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kamsiah Binte Musleh</a>
-</p>
+<a href="mailto:lim_chee_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Chee Ming</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_chee_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Chee Ming</a>
-</p>
+<a href="mailto:maragathavalli_piryasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Maragathavalli Piryasamy</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:maragathavalli_piryasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Maragathavalli Piryasamy</a>
-</p>
+<a href="mailto:nazreen_bulat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazreen Bte Bulat</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nazreen_bulat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazreen Bte Bulat</a>
-</p>
+<a href="mailto:norsiah_idris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norsiah Bte Idris</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norsiah_idris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norsiah Bte Idris</a>
-</p>
+<a href="mailto:tan_soon_choon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Soo Choon Sharon</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tiffany_loh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tiffany Loh</a>
-</p>
+<a href="mailto:tiffany_loh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tiffany Loh</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_hwee_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wong Hwee Kim</a>
-</p>
+	<a href="mailto:wong_hwee_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wong Hwee Kim</a>
 </td>
 </tr>
 </tbody>
@@ -484,8 +472,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_jinning_janine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Janine Ng Jinning</a>
-</p>
+<a href="mailto:ng_jinning_janine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Janine Ng Jinning</a>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
@@ -493,8 +480,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gee_hui_yan_janice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Janice Gee Hui Yan</a>
-</p>
+<a href="mailto:gee_hui_yan_janice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Janice Gee Hui Yan</a>
+
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Education Needs Officer</p>
@@ -502,8 +489,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharifah_samihah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sharifah Samihah</a>
-</p>
+<a href="mailto:sharifah_samihah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sharifah Samihah</a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Education Needs Officer</p>
