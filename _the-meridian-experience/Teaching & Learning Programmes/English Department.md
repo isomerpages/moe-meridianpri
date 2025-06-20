@@ -113,7 +113,7 @@ the East Zone since 2018</p>
 </div>
 <p></p>
 <p></p>
-<p style="text-align:left; font-size:14px;">Wits and Words Inter-school Debate Championship: Top 3 Schools in the
+<p style="text-align:center; font-size:14px;">Wits and Words Inter-school Debate Championship: Top 3 Schools in the
 Preliminary Round in the East Zone</p>
 </td>
 </tr>
