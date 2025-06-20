@@ -261,10 +261,9 @@ variant: markdown
 <p>4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noorhafidzah_shaffi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noorhafidzah Binte Shaffi </a>
-<br><a href="mailto:ng_yin_hung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Yin Hung <br></a>
 <a href="mailto:alwin_tien_der_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alwin Tien</a>
-</p>
+<br><a href="mailto:ng_yin_hung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Yin Hung </a><br>
+	<a href="mailto:noorhafidzah_shaffi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noorhafidzah Binte Shaffi </a>
 </td>
 </tr>
 <tr>
@@ -272,10 +271,8 @@ variant: markdown
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_lee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Debbie Lim</a>
-<br><a href="mailto:Aidil_effendy_md_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Aidil Effendy</a>
-<br>
-</p>
+<a href="mailto:Aidil_effendy_md_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Aidil Effendy</a>
+<br><a href="mailto:lim_lee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Debbie Lim</a>
 </td>
 </tr>
 <tr>
@@ -283,9 +280,8 @@ variant: markdown
 <p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_kim_chiau_benjamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Yeo </a>
+<a href="mailto:yeo_kim_chiau_benjamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Yeo </a>
 <br><a href="mailto:norhaida_kamaludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Norhaida</a>
-</p>
 </td>
 </tr>
 </tbody>
@@ -310,10 +306,8 @@ variant: markdown
 <p>5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hoi_hui_yee_jaime@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Ee Lyn </a>
+<a href="mailto:hoi_hui_yee_jaime@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Ee Lyn </a>
 <br><a href="mailto:jeyamohan_ramasami@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeyamohan</a>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -321,11 +315,9 @@ variant: markdown
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_wan_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Stephanie Tay</a>
+	<a href="mailto:anna_lim_lin_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Anna Lim</a>
 <br><a href="mailto:nur_shahid_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nur Shahid</a>
-<br><a href="mailto:anna_lim_lin_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Anna Lim</a>
-<br>
-</p>
+<br><a href="mailto:tay_wan_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Stephanie Tay</a>
 </td>
 </tr>
 <tr>
@@ -333,10 +325,8 @@ variant: markdown
 <p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_kwai_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeremy Ho</a>
-<br><a href="mailto:lew_nyet_mee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cindy Lew</a>
-<br>
-</p>
+<a href="mailto:lew_nyet_mee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cindy Lew</a><br>
+<a href="mailto:ho_kwai_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeremy Ho</a>
 </td>
 </tr>
 <tr>
@@ -344,10 +334,8 @@ variant: markdown
 <p>5 Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_hwee_miang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Low Hwee Miang</a>
-<br><a href="mailto:lee_huan_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Huan Leng</a>
-<br>
-</p>
+<a href="mailto:lee_huan_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Huan Leng</a><br>
+	<a href="mailto:low_hwee_miang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Low Hwee Miang</a>
 </td>
 </tr>
 </tbody>
@@ -372,9 +360,9 @@ variant: markdown
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:juliana_jalil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Juliana Bte Jalil</a>
-<br><a href="mailto:hoi_hui_yee_jaime@moe.edu.sgg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jaime Hoi</a>
-</p>
+<a href="mailto:hoi_hui_yee_jaime@moe.edu.sgg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jaime Hoi</a>
+	<br>
+<a href="mailto:juliana_jalil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Juliana Bte Jalil</a>
 </td>
 </tr>
 <tr>
@@ -382,9 +370,8 @@ variant: markdown
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_jia_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charlotte Neo</a>
+<a href="mailto:neo_jia_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charlotte Neo</a>
 <br><a href="mailto:wong_hoe_syan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Frankie Wong</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -392,10 +379,10 @@ variant: markdown
 <p>6 Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Fardilah Bte Md Nasir</a> 
+<a href="mailto:chou_shin_chieh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chou Shin Chieh</a>
 <br><a href="mailto:Mastura_YAACOB@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mastura Bte Yacoob</a>
-<br><a href="mailto:chou_shin_chieh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chou Shin Chieh</a>
-</p>
+<br>
+<a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Fardilah Bte Md Nasir</a> 
 </td>
 </tr>
 </tbody>
