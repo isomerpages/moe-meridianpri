@@ -165,6 +165,24 @@ inquiry-based learning to deepen understanding of advanced science concepts.&nbs
 adapted from the Excellence 2000 (E2K) Program from Israel and aims to
 develop students' scientific thinking, reasoning skills, and 21st-century
 competencies like critical thinking and communication.&nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SCIENCE OLYMPIAD</p>
+<p>The Singapore Primary Science Olympiad (SPSO) is an annual national competition
+that challenges and inspires primary school students to apply their scientific
+knowledge and thinking skills. Organised by the NUS High School of Math
+and Science, the SPSO promotes excellence in science through engaging problem-solving
+tasks and aims to nurture young scientific talent across Singapore. To
+further develop the potential of students in Science, selected P5 students
+will join the Science Olympiad Programme.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; YOUNG SCIENTIST BADGE SCHEME</p>
+<p>Young Scientist Badge Scheme (YSBS)&nbsp;is a programme designed by the
+Science Centre to&nbsp;inspire interest in and encourage the exploration
+of Science, Technology, Engineering and Mathematics (STEM) disciplines&nbsp;among&nbsp;Primary
+school students. The scheme complements formal science curriculum in schools
+by providing opportunities for students to engage in&nbsp;STEM learning
+beyond the classroom.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SCIENCE REMEDIAL PROGRAMMES</p>
+<p>To provide support for our students, selected students are invited to
+join in the remedial programmes to help them bridge their learning gaps.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -202,6 +220,7 @@ competencies like critical thinking and communication.&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>
 <br>For enquiries on the school’s Science Department, please email:
 <br><a href="mailto:noorhafidzah_shaffi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noorhafidzah Bte Shaffi (Head of Department)</a>
