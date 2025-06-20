@@ -79,6 +79,26 @@ and formulate solutions for the best outcome collaboratively.</p>
 </tbody>
 </table>
 <p></p>
+<p><strong><u>Excellence 2000 Mathematics</u></strong>
+</p>
+<p>The programme aims to develop students’ mathematical reasoning skills
+and deepens their conceptual understanding through an inquiry approach.
+Students have the opportunities to collaborate with their peers in mathematical
+explorations specially designed for the programme.</p>
+<p></p>
+<p><strong><u>Math Olympiad Enrichment Programme And Competitions</u></strong>
+</p>
+<p></p>
+<p>The programme aims to develop pupils’ interest, creativity, analytical
+thinking skill, spirit of learning through discovery and challenge in Mathematics.
+They will also be given opportunity to compete in external competitions
+as stated below:</p>
+<p>Primary 4 : Mathlympics and Visual Spatial Mathlympics, SST (School of
+Science &amp; Technology) Stem Challenge</p>
+<p>Primary 5: National Mathematical Olympiad Singapore (NUS High School)</p>
+<p>Primary 6: Raffles Math Olympiad (RMO), Asia Pacific Mathematics Olympiad
+Singapore (Hwa Chong Institution)</p>
+<p></p>
 <p>
 <br>For enquiries on the school’s Mathematic Department, please email:
 <br><a href="mailto:wong_hoe_shyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Frankie Wong (Head of Department)</a>
