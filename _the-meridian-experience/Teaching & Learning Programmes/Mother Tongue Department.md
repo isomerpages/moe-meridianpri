@@ -74,11 +74,8 @@ develop basic conversation skills while gaining meaningful insights into
 another culture, fostering cross-cultural understanding and friendship.</p>
 <p></p>
 <h4>Highlights</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>2024 (Partnership)</p>
-</li>
-</ul>
+<p><strong><u>2024 (Partnership)</u></strong>
+</p>
 <p>In 2024, our Mother Tongue Language learning journey extends beyond classroom
 walls. Through collaboration with different partners in the educational
 landscape, our students experience language learning in authentic settings.
@@ -116,11 +113,8 @@ languages and cultures to life.</p>
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
-<p>2023 (MTL Fortnight)</p>
-</li>
-</ul>
+<p><strong><u>2023 (MTL Fortnight)</u></strong>
+</p>
 <p>In 2023, we launched our Mother Tongue Fortnight programme with an exciting
 series of activities in our Mother Tongue Language Room.</p>
 <p></p>
