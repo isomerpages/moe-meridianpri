@@ -6,18 +6,18 @@ third_nav_title: Teaching & Learning Programmes
 variant: markdown
 ---
 <h4>Approach</h4>
-<p>The Science programme in Meridian takes direction from the Singapore’s
+<p align="justify">The Science programme in Meridian takes direction from the Singapore’s
 Primary Science Syllabus. The Science curriculum aims to enthuse and nurture
 all students to be scientifically literate and provide strong science fundamentals
 for them to innovate and pursue STEM for future learning and work.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci1.png">
+<img style="width: 50%;" height="auto" width="100%" src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci1.png">
 </div>
 <h4>Key Departmental Programmes</h4>
 <p></p>
 <p><strong><u>LEVEL-BASED LEARNING JOURNEYS</u></strong>
 </p>
-<p>Students learn best when they can apply their knowledge to real-world
+<p align="justify">Students learn best when they can apply their knowledge to real-world
 contexts. The learning journeys ties in with the Science Syllabus and enable
 them to see the concepts that they learn in class come to life.</p>
 <ul data-tight="true" class="tight">
@@ -75,7 +75,7 @@ them to see the concepts that they learn in class come to life.</p>
 <p></p>
 <p><strong><u>EXPERIMENTAL INVESTIGATION THROUGH LABORATORY LESSONS</u></strong>
 </p>
-<p>Concepts are better learned when students can see it happening for themselves.
+<p align="justify">Concepts are better learned when students can see it happening for themselves.
 This allows them to become young Scientists, discovering the concepts through
 experimentation.</p>
 <table style="minWidth: 50px">
@@ -112,10 +112,9 @@ experimentation.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong><u>SCIENCE TRAILS</u></strong>
 </p>
-<p>Students embark on a journey to explore and appreciate the wonders of
+<p align="justify">Students embark on a journey to explore and appreciate the wonders of
 nature in our school gardens. This trail blends hands-on learning with
 real-world observations, helping students connect science concepts with
 the natural environment around them.
@@ -157,7 +156,7 @@ the natural environment around them.
 <p><strong><u>DIFFERENTIATED SUPPORT FOR EVERY CHILD</u></strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EXCELLENCE 2000 SCIENCE (E2K SCIENCE)</p>
-<p>To further develop the potential of students in Science, selected P4 and
+<p align="justify">To further develop the potential of students in Science, selected P4 and
 P5^ students who demonstrate high interest and ability in Science are selected
 to join in the E2K Science programme. The E2K Science Programme in Singapore
 is&nbsp;an enrichment program, focusing on scientific investigation and
@@ -166,7 +165,7 @@ adapted from the Excellence 2000 (E2K) Program from Israel and aims to
 develop students' scientific thinking, reasoning skills, and 21st-century
 competencies like critical thinking and communication.&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SCIENCE OLYMPIAD</p>
-<p>The Singapore Primary Science Olympiad (SPSO) is an annual national competition
+<p align="justify">The Singapore Primary Science Olympiad (SPSO) is an annual national competition
 that challenges and inspires primary school students to apply their scientific
 knowledge and thinking skills. Organised by the NUS High School of Math
 and Science, the SPSO promotes excellence in science through engaging problem-solving
@@ -174,14 +173,14 @@ tasks and aims to nurture young scientific talent across Singapore. To
 further develop the potential of students in Science, selected P5 students
 will join the Science Olympiad Programme.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; YOUNG SCIENTIST BADGE SCHEME</p>
-<p>Young Scientist Badge Scheme (YSBS)&nbsp;is a programme designed by the
+<p align="justify">Young Scientist Badge Scheme (YSBS)&nbsp;is a programme designed by the
 Science Centre to&nbsp;inspire interest in and encourage the exploration
 of Science, Technology, Engineering and Mathematics (STEM) disciplines&nbsp;among&nbsp;Primary
 school students. The scheme complements formal science curriculum in schools
 by providing opportunities for students to engage in&nbsp;STEM learning
 beyond the classroom.</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SCIENCE REMEDIAL PROGRAMMES</p>
-<p>To provide support for our students, selected students are invited to
+<p align="justify">To provide support for our students, selected students are invited to
 join in the remedial programmes to help them bridge their learning gaps.</p>
 <p></p>
 <table style="minWidth: 50px">
@@ -194,13 +193,13 @@ join in the remedial programmes to help them bridge their learning gaps.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_7.jpg">
+<img style="width:380px;height:300px;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_7.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_8.jpg">
+<img style="width:390px;height:300px;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_8.jpg">
 </div>
 </td>
 </tr>
@@ -208,13 +207,13 @@ join in the remedial programmes to help them bridge their learning gaps.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_9.jpg">
+<img style="width:380px;height:300px;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_9.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_10.jpg">
+<img style="width:380px;height:300px;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_10.jpg">
 </div>
 </td>
 </tr>
