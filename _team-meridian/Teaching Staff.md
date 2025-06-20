@@ -68,9 +68,8 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vasanthi_mahalinggam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Vasanthi d/o Mahalingam </a>
-<br><a href="mailto:li_li_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Li Li</a>
-</p>
+<a href="mailto:li_li_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Li Li</a>
+	<br><a href="mailto:vasanthi_mahalinggam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Vasanthi d/o Mahalingam </a>
 </td>
 </tr>
 <tr>
@@ -78,13 +77,12 @@ variant: markdown
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Angel_Huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Angel Huang</a>
-<br><a href="mailto:roslinah_jem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roslinah Bte Jem</a> 
-<br><a href="mailto:ananthi_chandramohan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ananthi Chandramohan</a>
-</p>
+<a href="mailto:Angel_Huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Angel Huang</a>
+<br><a href="mailto:ananthi_chandramohan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ananthi Chandramohan</a><br>
+	<a href="mailto:roslinah_jem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roslinah Bte Jem</a>
+
 </td>
 </tr>
 <tr>
