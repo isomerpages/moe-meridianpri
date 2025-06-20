@@ -6,26 +6,25 @@ third_nav_title: Teaching & Learning Programmes
 variant: markdown
 ---
 <h4>Approach</h4>
-<p>The school is committed to grow our students as problem solvers by providing
+<p align="justify">The school is committed to grow our students as problem solvers by providing
 opportunities for them to develop their curiosity and interest in Mathematics
 through authentic learning experiences. They are also taught problem solving
 skills using the <strong><u>USSR</u></strong> approach, adapted from Polya’s
 problem solving techniques.</p>
-<p></p>
-<p><strong>U</strong>nderstanding the problem</p>
-<p><strong>S</strong>trategy to guide the solving process</p>
-<p><strong>S</strong>olve the problem</p>
-<p><strong>R</strong>eflect on your answer</p>
-<p></p>
+<strong>U</strong>nderstanding the problem<br>
+<strong>S</strong>trategy to guide the solving process<br>
+<strong>S</strong>olve the problem<br>
+<strong>R</strong>eflect on your answer<br>
+
 <h4>Key Departmental Programme</h4>
 <p><strong><u>Meridian Marvellous Math Trail (3MT)</u></strong>
 </p>
-<p>The Meridian Marvelous Math Trail <strong>(3MT)</strong> aims to provide
+<p align="justify">The Meridian Marvelous Math Trail <strong>(3MT)</strong> aims to provide
 students with an authentic outdoor learning experience.</p>
-<p>Students will have the opportunity to apply mathematical concepts they
+<p align="justify">Students will have the opportunity to apply mathematical concepts they
 have learnt to solve problems, be aware that Mathematics is all around
 them and how it is used in their daily lives.</p>
-<p>Working in teams, students will be able to exercise sound reasoning and
+<p align="justify">Working in teams, students will be able to exercise sound reasoning and
 decision making, manage complexities, explore possibilities to evaluate
 and formulate solutions for the best outcome collaboratively.</p>
 <table style="minWidth: 50px">
@@ -78,18 +77,16 @@ and formulate solutions for the best outcome collaboratively.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong><u>Excellence 2000 Mathematics</u></strong>
 </p>
-<p>The programme aims to develop students’ mathematical reasoning skills
+<p align="justify">The programme aims to develop students’ mathematical reasoning skills
 and deepens their conceptual understanding through an inquiry approach.
 Students have the opportunities to collaborate with their peers in mathematical
 explorations specially designed for the programme.</p>
 <p></p>
 <p><strong><u>Math Olympiad Enrichment Programme And Competitions</u></strong>
 </p>
-<p></p>
-<p>The programme aims to develop pupils’ interest, creativity, analytical
+<p align="justify">The programme aims to develop pupils’ interest, creativity, analytical
 thinking skill, spirit of learning through discovery and challenge in Mathematics.
 They will also be given opportunity to compete in external competitions
 as stated below:</p>
