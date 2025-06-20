@@ -98,7 +98,37 @@ Science &amp; Technology) Stem Challenge</p>
 <p>Primary 5: National Mathematical Olympiad Singapore (NUS High School)</p>
 <p>Primary 6: Raffles Math Olympiad (RMO), Asia Pacific Mathematics Olympiad
 Singapore (Hwa Chong Institution)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025MA_8.jpg">
+</div>
 <p></p>
+<p>Olympiad Awards 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025MA_9.jpg">
+</div>
+<p>Olympiad Awards 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025MA_10.jpg">
+</div>
+<p>SST Challenge 2024 – Champion Team</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>For enquiries on the school’s Mathematic Department, please email:
 <br><a href="mailto:wong_hoe_shyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Frankie Wong (Head of Department)</a>
