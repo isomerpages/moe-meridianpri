@@ -25,7 +25,7 @@ sessions.</p>
 <p>Together, we nurture passionate Mother Tongue Language learners who appreciate
 their cultural roots and are ready to thrive in an interconnected world.</p>
 <p></p>
-<h4>Key Department Programmes</h4>
+<h4>Key Departmental Programmes</h4>
 <p>1. Festive Celebrations</p>
 <p>Through immersive celebrations of Chinese New Year, Hari Raya and Deepavali,
 students experience the rich traditions and cultural practices that make
@@ -73,8 +73,7 @@ in their Mother Tongue while deepening their appreciation of the language.
 develop basic conversation skills while gaining meaningful insights into
 another culture, fostering cross-cultural understanding and friendship.</p>
 <p></p>
-<p><strong><u>Highlights</u></strong>
-</p>
+<h4>Highlights</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>2024 (Partnership)</p>
