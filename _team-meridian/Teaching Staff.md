@@ -44,9 +44,8 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fadhilatun_samsudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fadhilatun Binte Samsudin </a>
+<a href="mailto:fadhilatun_samsudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fadhilatun Binte Samsudin </a>
 <br><a href="mailto:lim_seow_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Seow Wei</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -54,13 +53,11 @@ variant: markdown
 <p>1 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_chia_chia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Chia Chia</a> 
-<br><a href="mailto:abdul_wahid_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Wahid</a> 
+<td rowspan="1" colspan="1"> 
+<a href="mailto:abdul_wahid_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Wahid</a><br>
+	<a href="mailto:lim_chia_chia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Chia Chia</a>
 <br><a href="mailto:nurul_hani_effandi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurul Hani</a>
-</p>
 </td>
 </tr>
 <tr>
