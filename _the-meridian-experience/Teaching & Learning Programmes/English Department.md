@@ -113,7 +113,7 @@ the East Zone since 2018</p>
 </div>
 <p></p>
 <p></p>
-<p>Wits and Words Inter-school Debate Championship: Top 3 Schools in the
+<p style="text-align:left; font-size:14px;">Wits and Words Inter-school Debate Championship: Top 3 Schools in the
 Preliminary Round in the East Zone</p>
 </td>
 </tr>
@@ -132,10 +132,9 @@ Preliminary Round in the East Zone</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/English Dept/EL2025_4.jpg">
+<img style="width:310px;height:390px;float:center" height="auto" width="100%" alt="" src="/images/The Meridian Experience/English Dept/EL2025_4.jpg">
 </div>
-<p></p>
-<p>37th YMCA Plain English Speaking Award: First Runner Up</p>
+<p style="text-align:center; font-size:14px;">37th YMCA Plain English Speaking Award: First Runner Up</p>
 </td>
 </tr>
 </tbody>
