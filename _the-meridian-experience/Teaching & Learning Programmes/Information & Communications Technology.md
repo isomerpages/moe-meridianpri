@@ -45,7 +45,7 @@ We adopt a Just-in-Time learning approach, ensuring students learn digital skill
 
 
 **Partnering Parents for Cyber Wellness**
-<p align="justify">We believe that strong partnerships with parents and guardians reinforce our Cyber Wellness message at home. We encourage families to:
+<p align="justify">We believe that strong partnerships with parents and guardians reinforce our Cyber Wellness message at home. We encourage families to:<br>
 
 •	Model good digital habits<br>
 •	Maintain balance between screen time and offline life<br>
