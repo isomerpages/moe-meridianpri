@@ -5,58 +5,37 @@ description: ""
 third_nav_title: Teaching & Learning Programmes
 variant: tiptap
 ---
-<h4>Vision</h4>
-<p>A Confident and Caring Scientist in every Meridian.</p>
 <h4>Approach</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci1.png">
-</div>
 <p>The Science programme in Meridian takes direction from the Singapore’s
 Primary Science Syllabus. The Science curriculum aims to enthuse and nurture
 all students to be scientifically literate and provide strong science fundamentals
 for them to innovate and pursue STEM for future learning and work.</p>
-<h4>Goals</h4>
-<p>To provide our students with the:</p>
-<ul>
-<li>
-<p>Experiences which build on their interest in and stimulate their curiousity
-about the environment we live in</p>
-</li>
-<li>
-<p>Scientific knowledge and concepts to help them understand the world around
-them</p>
-</li>
-<li>
-<p>Opportunities and platforms to develop skills, habits of mind and attitudes
-for scientific inquiry</p>
-</li>
-<li>
-<p>View of appreciating how science and technology has influenced and affected
-our way of life</p>
-</li>
-</ul>
-<h4>Multi-faceted and Multi-disciplinary Approach</h4>
-<p>Tier 1: For all pupils – Developing Interest, Knowledge, and Skills in
-Science</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci1.png">
+</div>
+<h4>Key Departmental Programmes</h4>
+<p></p>
+<p><strong><u>LEVEL-BASED LEARNING JOURNEYS</u></strong>
+</p>
+<p>Students learn best when they can apply their knowledge to real-world
+contexts. The learning journeys ties in with the Science Syllabus and enable
+them to see the concepts that they learn in class come to life.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Experimental Investigation through Laboratory Lessons and Sparkle Kits</p>
+<p>P3: Kok Fah Technology Farm</p>
 </li>
 <li>
-<p>Appreciating and learning about Nature through Science Trails</p>
+<p>P4: Science Centre (Matter)</p>
 </li>
 <li>
-<p>Linking scientific knowledge to real-world applications through Learning
-Journeys</p>
+<p>P5: Science Centre (Seed Dispersal)</p>
 </li>
 <li>
-<p>Stretching students’ interest in Science through the Young Scientist Badge
-Scheme</p>
-</li>
-</ul>
-<p>
+<p>P6: Sungei Buloh Wetland Reserve
 <br>
 </p>
+</li>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -66,11 +45,45 @@ Scheme</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_2.jpg">
+</div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><u>EXPERIMENTAL INVESTIGATION THROUGH LABORATORY LESSONS</u></strong>
+</p>
+<p>Concepts are better learned when students can see it happening for themselves.
+This allows them to become young Scientists, discovering the concepts through
+experimentation.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -83,10 +96,29 @@ Scheme</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_6.jpg">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
-<p>Experimental Investigation</p>
-<p>
+<p></p>
+<p><strong><u>SCIENCE TRAILS</u></strong>
+</p>
+<p>Students embark on a journey to explore and appreciate the wonders of
+nature in our school gardens. This trail blends hands-on learning with
+real-world observations, helping students connect science concepts with
+the natural environment around them.
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -95,46 +127,6 @@ Scheme</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:350px;height:250px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci4.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:350px;height:250px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci5.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Learning Journey at Science Centre</p>
-<p>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -145,14 +137,6 @@ Scheme</p>
 <div class="isomer-image-wrapper">
 <img style="width:350px;height:250px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci7.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -169,22 +153,19 @@ Scheme</p>
 </tr>
 </tbody>
 </table>
-<p>Science Trails</p>
-<p>Tier 2: For selected students – Stretching students’ knowledge in Science
-and developing talents</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Excellence 2000 (E2K) Science Programme</p>
-</li>
-<li>
-<p>Science Olympiad</p>
-</li>
-<li>
-<p>Competition and Quizzes
-<br>
+<p></p>
+<p><strong><u>DIFFERENTIATED SUPPORT FOR EVERY CHILD</u></strong>
 </p>
-</li>
-</ul>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EXCELLENCE 2000 SCIENCE (E2K SCIENCE)</p>
+<p>To further develop the potential of students in Science, selected P4 and
+P5^ students who demonstrate high interest and ability in Science are selected
+to join in the E2K Science programme. The E2K Science Programme in Singapore
+is&nbsp;an enrichment program, focusing on scientific investigation and
+inquiry-based learning to deepen understanding of advanced science concepts.&nbsp;It's
+adapted from the Excellence 2000 (E2K) Program from Israel and aims to
+develop students' scientific thinking, reasoning skills, and 21st-century
+competencies like critical thinking and communication.&nbsp;</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -194,46 +175,33 @@ and developing talents</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:350px;height:250px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci10.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_7.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:350px;height:250px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci11.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_8.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:350px;height:250px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci12.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_9.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:350px;height:250px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci13.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Meridian Experience/Science Dept/2025SCI_10.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Excellence 200 (E2K) Science Programme</p>
 <p>
 <br>For enquiries on the school’s Science Department, please email:
 <br><a href="mailto:noorhafidzah_shaffi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noorhafidzah Bte Shaffi (Head of Department)</a>
