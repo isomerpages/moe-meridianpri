@@ -18,6 +18,6 @@ third_nav_title: Useful Links
   </tr>
 		 <tr>
     <td>Operating Hours</td>
-    <td>Monday - Thursday: 8.00 a.m - 5.30 p.m <br> Friday: 8.00 a.m - 4.30 p.m<br>Lunch: 1.00 p.m - 2.00 p.m</td>
+    <td>Monday - Thursday: 8.00 a.m. - 5.30 p.m. <br> Friday: 8.00 a.m. - 4.30 p.m.<br>Lunch: 1.00 p.m. - 2.00 p.m.</td>
   </tr>
 </tbody></table>
