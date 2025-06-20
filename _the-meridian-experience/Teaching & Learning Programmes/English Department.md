@@ -6,7 +6,7 @@ third_nav_title: Teaching & Learning Programmes
 variant: markdown
 ---
 <h4>Approach</h4>
-<p>At Meridian Primary, we believe that language is the foundation of learning,
+<p align="justify">At Meridian Primary, we believe that language is the foundation of learning,
 creativity, and connection. Our English curriculum is thoughtfully designed
 to inspire confidence, curiosity, and competence in every student, guided
 by Singapore’s STELLAR (Strategies for English Language Learning and Reading)
@@ -14,7 +14,7 @@ framework. By blending time-tested methodologies with innovative practices,
 we create a vibrant learning environment where students not only master
 the English Language but also discover the joy of using it to explore ideas,
 express themselves, and engage with the world.</p>
-<p>Our approach begins with immersive, story-based lessons that bring language
+<p align="justify">Our approach begins with immersive, story-based lessons that bring language
 to life. Through rich narratives, non-fiction texts, and interactive activities,
 students develop a deep understanding of grammar, vocabulary, and comprehension
 in meaningful contexts. Collaborative learning lies at the heart of this
@@ -22,7 +22,7 @@ process, whether through group discussions, role-playing, or peer feedback,
 students learn to articulate their thoughts, listen actively, and refine
 their ideas alongside classmates. This fosters not only academic growth
 but also empathy and teamwork, essential skills for lifelong success.</p>
-<p>Confidence in communication is cultivated through diverse opportunities
+<p align="justify">Confidence in communication is cultivated through diverse opportunities
 for expression. From lively classroom debates and dramatic performances
 to creative writing projects and digital storytelling, students are encouraged
 to find their voice and share it with clarity and creativity. Technology
