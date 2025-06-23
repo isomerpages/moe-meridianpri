@@ -10,18 +10,18 @@ variant: markdown
 <p align="justify">At Meridian, we are committed to nurturing students who are digitally confident, responsible, and future-ready. In alignment with MOE’s EdTech Masterplan 2030, we adopt a whole-school approach to develop our students into 21st-century learners through a vibrant, ICT-enriched environment.<br>Our ICT programme is anchored in four key strands that support learning and teaching:</p>
 
 
-**Strand 1: ICT Curriculum, Pedagogy &amp; Assessment**<br>
-We deepen the use of ICT in the classroom, designing engaging, student-centred lessons that foster creativity, critical thinking, and collaboration.
+<p align="justify"><b>1. Strand 1: ICT Curriculum, Pedagogy &amp; Assessment</b><br>
+We deepen the use of ICT in the classroom, designing engaging, student-centred lessons that foster creativity, critical thinking, and collaboration.</p>
 
 
-**Strand 2: Student ICT Capacity Building**<br>
-We build our students' digital literacy and technological skills in line with 21st Century Competencies. We also cultivate Cyber Wellness by guiding students to use ICT safely, ethically, and responsibly.
+<p align="justify"><b>2. Strand 2: Student ICT Capacity Building</b><br>
+We build our students' digital literacy and technological skills in line with 21st Century Competencies. We also cultivate Cyber Wellness by guiding students to use ICT safely, ethically, and responsibly.</p>
 
-**Strand 3: Teacher ICT Professional Development**<br>
-Our teachers are supported and encouraged to design tech-enabled learning experiences. We promote a culture of collaboration and professional sharing to enhance teaching with technology.
+<p align="justify"><b>3. Strand 3: Teacher ICT Professional Development</b><br>
+Our teachers are supported and encouraged to design tech-enabled learning experiences. We promote a culture of collaboration and professional sharing to enhance teaching with technology.</p>
 
-**Strand 4: Systems Support**<br>
-We ensure the seamless integration of ICT through a well-supported digital infrastructure that enhances both teaching and learning, as well as administrative efficiency.
+<p align="justify"><b>4.Strand 4: Systems Support</b><br>
+We ensure the seamless integration of ICT through a well-supported digital infrastructure that enhances both teaching and learning, as well as administrative efficiency.</p>
 
 
 
