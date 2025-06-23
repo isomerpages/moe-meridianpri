@@ -85,10 +85,10 @@ Monday: 3:45 p.m. to 5:15 p.m. (for P4 to P6)
 
 For enquiries on the school’s Football CCA, please email:<br>
 • <a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Jeyamohan</a><br>
-• <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
 • <a href="mailto:Muhammad_Shakir_Sulaiman@moe.edu.sg">Mr Muhammad Shakir</a><br>
 • <a href="mailto:nurliyana_omar@moe.edu.sg">Ms Nurliyana Binte Omar</a>
 	<br>
+• <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
 <br>
 </details>
 
