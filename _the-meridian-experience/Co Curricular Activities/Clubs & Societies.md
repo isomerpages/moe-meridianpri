@@ -34,10 +34,8 @@ variant: markdown
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nmR69jel_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
-• <a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
-• <a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a><br>
-• <a href="mailto:low_boon_khim@moe.edu.sg">Mr Clarence Low</a>
-	<br>
+• <a href="mailto:chua_ee_lyn@moe.edu.sg">Mdm Chua Ee Lyn </a><br>
+• <a href="mailto:Siti_Nurmunirah_mohd_Arsad@moe.edu.sg">Mdm Siti Munirah</a><br>
 <br>
 </details>
 
