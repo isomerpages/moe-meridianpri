@@ -44,10 +44,10 @@ variant: markdown
 
 <br>
  For enquiries on the school’s Floorball CCA, please email:<br>
-• <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a><br>
-• <a href="mailto:foo_si_min@moe.edu.sg">Ms Tracy Foo</a><br>
-• <a href="mailto:mark_chen@moe.edu.sg">Mr Mark Chen</a><br>
-• <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a>
+• <a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Jeyamohan</a><br>
+• <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
+• <a href="mailto:Muhammad_Shakir_Sulaiman@moe.edu.s">Mr Muhammad Shakir</a><br>
+• <a href="mailto:nurliyana_omar@moe.edu.sg">Ms Nurliyana Binte Omar</a>
 	<br>
 <br>
 </details>
