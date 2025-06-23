@@ -14,10 +14,8 @@ for them to innovate and pursue STEM for future learning and work.</p>
 <img style="width: 50%;" height="auto" width="100%" src="/images/The%20Meridian%20Experience/Science%20Dept/2024_Sci1.png">
 </div>
 <h4>Key Departmental Programmes</h4>
-<p></p>
-<p><strong><u>LEVEL-BASED LEARNING JOURNEYS</u></strong>
-</p>
-<p align="justify">Students learn best when they can apply their knowledge to real-world
+
+<p align="justify"><b>1. Level-Based Learning Journeys</b><br>Students learn best when they can apply their knowledge to real-world
 contexts. The learning journeys ties in with the Science Syllabus and enable
 them to see the concepts that they learn in class come to life.</p>
 <ul data-tight="true" class="tight">
@@ -72,10 +70,8 @@ them to see the concepts that they learn in class come to life.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong><u>EXPERIMENTAL INVESTIGATION THROUGH LABORATORY LESSONS</u></strong>
-</p>
-<p align="justify">Concepts are better learned when students can see it happening for themselves.
+
+<p align="justify"><b>Experimental Investigation Through Laboratary Lessons</b><br>Concepts are better learned when students can see it happening for themselves.
 This allows them to become young Scientists, discovering the concepts through
 experimentation.</p>
 <table style="minWidth: 50px">
@@ -112,9 +108,8 @@ experimentation.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>SCIENCE TRAILS</u></strong>
-</p>
-<p align="justify">Students embark on a journey to explore and appreciate the wonders of
+
+<p align="justify"><b>Science Trails</b><br>Students embark on a journey to explore and appreciate the wonders of
 nature in our school gardens. This trail blends hands-on learning with
 real-world observations, helping students connect science concepts with
 the natural environment around them.
