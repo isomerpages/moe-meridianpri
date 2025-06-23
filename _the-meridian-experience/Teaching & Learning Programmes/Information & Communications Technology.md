@@ -61,7 +61,7 @@ During the CFF programme, students had a blast exploring:<br>
 •	Computational thinking skills<br>
 •	Hands-on coding and robotics projects<br>
 •	Emerging technologies, including Artificial Intelligence<br>
-
+<br>
 This early exposure not only strengthens their tech foundation but also inspires a passion for innovation and problem-solving.
 
 </p>
