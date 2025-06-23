@@ -215,15 +215,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_wan_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Stephanie Tay Wan Boon</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/Character and Citizenship Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:vasanthi_mahalinggam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Vasanthi d/o Mahalinggam</a>
 </p>
 </td>
@@ -247,6 +238,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head/Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_wan_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Stephanie Tay Wan Boon</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Character and Citizenship Education</p>
 </td>
 </tr>
 <tr>
