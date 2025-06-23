@@ -71,7 +71,7 @@ them to see the concepts that they learn in class come to life.</p>
 </tbody>
 </table>
 
-<p align="justify"><b>Experimental Investigation Through Laboratary Lessons</b><br>Concepts are better learned when students can see it happening for themselves.
+<p align="justify"><b>2. Experimental Investigation Through Laboratary Lessons</b><br>Concepts are better learned when students can see it happening for themselves.
 This allows them to become young Scientists, discovering the concepts through
 experimentation.</p>
 <table style="minWidth: 50px">
@@ -109,7 +109,7 @@ experimentation.</p>
 </tbody>
 </table>
 
-<p align="justify"><b>Science Trails</b><br>Students embark on a journey to explore and appreciate the wonders of
+<p align="justify"><b>3. Science Trails</b><br>Students embark on a journey to explore and appreciate the wonders of
 nature in our school gardens. This trail blends hands-on learning with
 real-world observations, helping students connect science concepts with
 the natural environment around them.
