@@ -45,10 +45,10 @@ to navigate and contribute to our digital world.</p>
 <p style="text-align:center; font-size:14px;">Primary 1: Field-based Learning at the Singapore Zoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper"><br><br>
+<div class="isomer-image-wrapper"><br><br><br><br>
 <img style="width:380px;height:250px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/English%20Dept/2024_EL3.jpg">
 </div>
-	<br><br>
+
 <p style="text-align:center; font-size:14px;">Primary 2 STELLAR Lesson at the Singapore Science Centre</p>
 </td>
 </tr>
@@ -61,10 +61,10 @@ to navigate and contribute to our digital world.</p>
 matured butterfly into nature</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
+<div class="isomer-image-wrapper"><br><br>
 <img style="width:310px;height:350px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/English%20Dept/2024_EL4.jpg">
 </div>
-<p style="text-align:left; font-size:14px;">Primary 3 Literature Appreciation Programme: Storytelling Through Shadow
+<p style="text-align:center; font-size:14px;">Primary 3 Literature Appreciation Programme: Storytelling Through Shadow
 Play</p>
 </td>
 </tr>
@@ -78,21 +78,17 @@ Play</p>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <br>
-<img style="width:310px;height:290px;float:center" height="auto" width="100%" alt="" src="/images/The Meridian Experience/English Dept/2024_EL5.jpg">
+<img style="width:410px;height:290px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/English%20Dept/2024_EL6.jpg">
 </div>
-	<br>
-<p style="text-align:left; font-size:14px;">Amazing Tuesdays: Students demonstrate an awareness of the contemporary
-issues related to Singapore and the world</p>
+<p style="text-align:left; font-size:14px;">Primary 5 Meridian Debaters: Sustained Achievement as Top 4 Schools in
+the East Zone since 2018</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/The%20Meridian%20Experience/English%20Dept/2024_EL6.jpg">
-</div>
-<p style="text-align:left; font-size:14px;">Primary 5 Meridian Debaters: Sustained Achievement as Top 4 Schools in
-the East Zone since 2018</p>
-</td>
+
+</div></td>
 </tr>
 </tbody>
 </table>
