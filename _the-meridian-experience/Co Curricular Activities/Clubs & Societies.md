@@ -122,6 +122,8 @@ For enquiries on the school’s Photography and Videography CCA, please email:<b
 • <a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung</a><br>
 •  <a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho</a>
 	<br>
+•  <a href="mailto:abdul_wahid_abdul_wahab@moe.edu.sg">Mr Abdul Wahid</a>
+	<br>
 	<br>
 </details>
 
