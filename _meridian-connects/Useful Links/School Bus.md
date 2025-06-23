@@ -21,7 +21,7 @@ variant: tiptap
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Contact No.</p>
+<p>Telephone No</p>
 </th>
 </tr>
 <tr>
