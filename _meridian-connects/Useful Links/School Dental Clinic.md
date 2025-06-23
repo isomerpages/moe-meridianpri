@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: Useful Links
 ---
-**Dental Contact Details**
+**Dental Contact**
 <table style="width:100%">
   <tbody>
   <tr>
