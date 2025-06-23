@@ -94,7 +94,7 @@ download 2025 Interest to Enrolment Notice</p>
 <p>Operating Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon to Fri, 7.00 a.m. - 7.00 p.m.</p>
+<p>Mon to Fri, 7.00 a.m. to 7.00 p.m.</p>
 </td>
 </tr>
 <tr>
