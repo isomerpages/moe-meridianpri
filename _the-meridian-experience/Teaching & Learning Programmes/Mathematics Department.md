@@ -11,12 +11,14 @@ opportunities for them to develop their curiosity and interest in Mathematics
 through authentic learning experiences. They are also taught problem solving
 skills using the <strong><u>USSR</u></strong> approach, adapted from Polya’s
 problem solving techniques.</p>
-<strong>U</strong>nderstanding the problem<br>
-<strong>S</strong>trategy to guide the solving process<br>
-<strong>S</strong>olve the problem<br>
-<strong>R</strong>eflect on your answer<br>
 
-<h4>Key Departmental Programme</h4>
+• <strong>U</strong>nderstanding the problem<br>
+• <strong>S</strong>trategy to guide the solving process<br>
+• <strong>S</strong>olve the problem<br>
+• <strong>R</strong>eflect on your answer<br>
+
+
+<h4>Key Departmental Programmes</h4>
 <p><strong><u>Meridian Marvellous Math Trail (3MT)</u></strong>
 </p>
 <p align="justify">The Meridian Marvelous Math Trail <strong>(3MT)</strong> aims to provide
