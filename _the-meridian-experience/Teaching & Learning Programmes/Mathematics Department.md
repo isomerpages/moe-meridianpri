@@ -78,23 +78,19 @@ and formulate solutions for the best outcome collaboratively.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Excellence 2000 Mathematics</u></strong>
-</p>
-<p align="justify">The programme aims to develop students’ mathematical reasoning skills
+<p align="justify"><strong>2. Excellence 2000 Mathematics</strong><br>The programme aims to develop students’ mathematical reasoning skills
 and deepens their conceptual understanding through an inquiry approach.
 Students have the opportunities to collaborate with their peers in mathematical
 explorations specially designed for the programme.</p>
-<p></p>
-<p><strong><u>Math Olympiad Enrichment Programme And Competitions</u></strong>
-</p>
-<p align="justify">The programme aims to develop pupils’ interest, creativity, analytical
+
+<p align="justify"><strong>3. Math Olympiad Enrichment Programme And Competitions</strong><br>The programme aims to develop pupils’ interest, creativity, analytical
 thinking skill, spirit of learning through discovery and challenge in Mathematics.
 They will also be given opportunity to compete in external competitions
 as stated below:</p>
-<p>Primary 4 : Mathlympics and Visual Spatial Mathlympics, SST (School of
+<p>• Primary 4 : Mathlympics and Visual Spatial Mathlympics, SST (School of
 Science &amp; Technology) Stem Challenge</p>
-<p>Primary 5: National Mathematical Olympiad Singapore (NUS High School)</p>
-<p>Primary 6: Raffles Math Olympiad (RMO), Asia Pacific Mathematics Olympiad
+<p>• Primary 5: National Mathematical Olympiad Singapore (NUS High School)</p>
+<p>• Primary 6: Raffles Math Olympiad (RMO), Asia Pacific Mathematics Olympiad
 Singapore (Hwa Chong Institution)</p>
 <table style="minWidth: 50px">
 <colgroup>
