@@ -78,7 +78,7 @@ Play</p>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <br>
-<img style="width:410px;height:290px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/English%20Dept/2024_EL6.jpg">
+<img style="width:310px;height:290px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/English%20Dept/2024_EL6.jpg">
 </div>
 <p style="text-align:left; font-size:14px;">Primary 5 Meridian Debaters: Sustained Achievement as Top 4 Schools in
 the East Zone since 2018</p>
@@ -87,8 +87,12 @@ the East Zone since 2018</p>
 <tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-
-</div></td>
+<img style="width:310px;height:290px;float:center" height="auto" width="100%" alt="" src="/images/The Meridian Experience/English Dept/2024_EL5.jpg">
+</div>
+	<br>
+<p style="text-align:center; font-size:14px;">Amazing Tuesdays: Students demonstrate an awareness of the contemporary
+issues related to Singapore and the world</p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -107,8 +111,6 @@ the East Zone since 2018</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Meridian Experience/English Dept/EL2025_3.jpg">
 </div>
-<p></p>
-<p></p>
 <p style="text-align:center; font-size:14px;">Wits and Words Inter-school Debate Championship: Top 3 Schools in the
 Preliminary Round in the East Zone</p>
 </td>
