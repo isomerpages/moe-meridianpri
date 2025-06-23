@@ -24,7 +24,7 @@ variant: tiptap
 <p>Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Blk 1013 Geylang East Ave 3 #02-154 Singapore 389728</p>
+<p>Blk 1013 Geylang East Ave 3 #02-154, Spore 389728</p>
 </td>
 </tr>
 <tr>
