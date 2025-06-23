@@ -62,16 +62,16 @@ adopt and curate purposeful learning strategies to develop confident and
 competent communicators.&nbsp; Through Inquiry-based learning, collaborative
 projects, enrichment courses and creative activities, students build confidence
 in their Mother Tongue while deepening their appreciation of the language.
-
-</p><p align="justify"><b>5. Conversational Chinese and Malay</b><br>Our 20-hour Conversational Chinese and Malay (CCM) Programme enables Primary
+</p>
+<p align="justify"><b>5. Conversational Chinese and Malay</b><br>Our 20-hour Conversational Chinese and Malay (CCM) Programme enables Primary
 3 students to explore a third language through interactive learning. Students
 develop basic conversation skills while gaining meaningful insights into
 another culture, fostering cross-cultural understanding and friendship.</p>
-<p></p>
+
 <h4>Highlights</h4>
 <p><strong><u>2024 (Partnership)</u></strong>
 </p>
-<p>In 2024, our Mother Tongue Language learning journey extends beyond classroom
+<p align="justify">In 2024, our Mother Tongue Language learning journey extends beyond classroom
 walls. Through collaboration with different partners in the educational
 landscape, our students experience language learning in authentic settings.
 From overseas virtual exchanges with Nanjing ShangYuan Elementary School
@@ -110,16 +110,15 @@ languages and cultures to life.</p>
 </table>
 <p><strong><u>2023 (MTL Fortnight)</u></strong>
 </p>
-<p>In 2023, we launched our Mother Tongue Fortnight programme with an exciting
+<p align="justify">In 2023, we launched our Mother Tongue Fortnight programme with an exciting
 series of activities in our Mother Tongue Language Room.</p>
-<p></p>
-<p>Our Primary 3 students participated in a traditional games competition,
+<p align="justify">Our Primary 3 students participated in a traditional games competition,
 immersing themselves in the cultural heritage of various ethnic groups
 whilst learning the values of teamwork and sportsmanship. Building on this
 experience, our high-ability learners further honed their creativity by
 designing their own traditional games during Higher Mother Tongue lessons.</p>
-<p></p>
-<p>Our Primary 4 students embarked on an exciting inquiry-based learning
+
+<p align="justify">Our Primary 4 students embarked on an exciting inquiry-based learning
 to explore Singapore’s vibrant tourist attractions. Through collaborative
 research and engaging presentations, they had the opportunity to share
 their perspectives and showcase their creativity. This project emphasized
