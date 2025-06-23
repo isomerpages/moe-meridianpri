@@ -31,7 +31,7 @@ third_nav_title: Useful Links
 <p>Telephone No.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong> </strong>8725 7254 (Sonia - Centre Supervisor)</p>
+<p>8725 7254 (Sonia - Centre Supervisor)</p>
 </td>
 </tr>
 <tr>
