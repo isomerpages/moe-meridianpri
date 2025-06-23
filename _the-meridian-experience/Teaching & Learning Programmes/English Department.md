@@ -77,10 +77,10 @@ Play</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<br>
+<br><br><br><br>
 <img style="width:310px;height:290px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/English%20Dept/2024_EL6.jpg">
 </div>
-<p style="text-align:left; font-size:14px;">Primary 5 Meridian Debaters: Sustained Achievement as Top 4 Schools in
+<p style="text-align:center; font-size:14px;">Primary 5 Meridian Debaters: Sustained Achievement as Top 4 Schools in
 the East Zone since 2018</p>
 </td>
 </tr>
