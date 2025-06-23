@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### Approach
 <u>Empowering Future-Ready Digital Learners at Meridian</u>
-<p align="justify">At Meridian, we are committed to nurturing students who are digitally confident, responsible, and future-ready. In alignment with MOE’s EdTech Masterplan 2030, we adopt a whole-school approach to develop our students into 21st-century learners through a vibrant, ICT-enriched environment.<br>Our ICT programme is anchored in four key strands that support learning and teaching:</p>
+<p align="justify">At Meridian, we are committed to nurturing students who are digitally confident, responsible, and future-ready. In alignment with MOE’s EdTech Masterplan 2030, we adopt a whole-school approach to develop our students into 21st-century learners through a vibrant, ICT-enriched environment. Our ICT programme is anchored in four key strands that support learning and teaching:</p>
 
 
 <p align="justify"><b>1. Strand 1: ICT Curriculum, Pedagogy &amp; Assessment</b><br>
