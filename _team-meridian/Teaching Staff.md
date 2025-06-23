@@ -306,7 +306,7 @@ variant: markdown
 <p>5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<a href="mailto:hoi_hui_yee_jaime@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Ee Lyn </a>
+<a href="mailto:chua_ee_lyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Ee Lyn </a>
 <br><a href="mailto:jeyamohan_ramasami@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeyamohan</a>
 </td>
 </tr>
