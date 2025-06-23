@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Telephone</p>
+<p>Telephone no.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6276 6689</p>
