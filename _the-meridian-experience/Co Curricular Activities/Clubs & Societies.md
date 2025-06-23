@@ -34,10 +34,8 @@ variant: markdown
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nmR69jel_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
-• <a href="mailto:tay_koon_guan@moe.edu.sg">Mr Tay Koon Guan</a><br>
-• <a href="mailto:tham_jian_wen_clement@moe.edu.sg">Mr Clement Tham</a><br>
-• <a href="mailto:low_boon_khim@moe.edu.sg">Mr Clarence Low</a>
-	<br>
+• <a href="mailto:chua_ee_lyn@moe.edu.sg">Mdm Chua Ee Lyn </a><br>
+• <a href="mailto:Siti_Nurmunirah_mohd_Arsad@moe.edu.sg">Mdm Siti Munirah</a><br>
 <br>
 </details>
 
@@ -72,7 +70,9 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 <br>
 For enquiries on the school’s Infocomm Technology (Computing), please email:<br>
 • <a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi</a><br>
-• <a href="mailto:jamaliah_jamal@moe.edu.sg">Mdm Jamaliah</a>
+• <a href="mailto:xu_wei_gabriel@moe.edu.sg">Mr Gabriel Xu Wei</a>
+<br>
+• <a href="mailto:Aminah_Mohamed_Shariff@moe.edu.sg">Mdm Aminah D/O Mohamed Shariff </a>
 <br>
 <br>
 </details>
@@ -121,6 +121,8 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 For enquiries on the school’s Photography and Videography CCA, please email:<br>
 • <a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung</a><br>
 •  <a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho</a>
+	<br>
+•  <a href="mailto:abdul_wahid_abdul_wahab@moe.edu.sg">Mr Abdul Wahid</a>
 	<br>
 	<br>
 </details>

@@ -79,8 +79,8 @@ variant: markdown
 <td rowspan="1" colspan="1">
 </td>
 <td rowspan="1" colspan="1">
-<a href="mailto:Angel_Huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Angel Huang</a>
-<br><a href="mailto:ananthi_chandramohan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ananthi Chandramohan</a><br>
+<a href="mailto:ananthi_chandramohan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ananthi Chandramohan</a><br>
+<a href="mailto:Angel_Huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Angel Huang</a><br>
 	<a href="mailto:roslinah_jem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roslinah Bte Jem</a>
 
 </td>
@@ -118,8 +118,8 @@ variant: markdown
 <p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<a href="mailto:tan_pei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Pei Ling</a> 
-<br><a href="mailto:nur_aisyah_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Aisyah Bte Ali</a>
+ <a href="mailto:nur_aisyah_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Aisyah Bte Ali</a><br>
+<a href="mailto:tan_pei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Pei Ling</a>
 </td>
 </tr>
 <tr>
@@ -136,8 +136,8 @@ variant: markdown
 <p>2 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<a href="mailto:peh_kai_jay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Pei Kai Jay</a><br>
-<a href="mailto:nazurah_norizan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nazurah Binte Norizan</a>
+<a href="mailto:nazurah_norizan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nazurah Binte Norizan</a><br>
+<a href="mailto:peh_kai_jay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Pei Kai Jay</a>
 </td>
 </tr>
 <tr>
@@ -306,7 +306,7 @@ variant: markdown
 <p>5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<a href="mailto:hoi_hui_yee_jaime@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Ee Lyn </a>
+<a href="mailto:chua_ee_lyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Ee Lyn </a>
 <br><a href="mailto:jeyamohan_ramasami@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeyamohan</a>
 </td>
 </tr>

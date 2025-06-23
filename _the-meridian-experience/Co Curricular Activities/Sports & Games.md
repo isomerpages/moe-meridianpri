@@ -44,12 +44,12 @@ variant: markdown
 
 <br>
  For enquiries on the school’s Floorball CCA, please email:<br>
+• <a href="mailto:chen_chuangan_mark@moe.edu.sg">Mr Mark Chen</a><br>
 • <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a><br>
-• <a href="mailto:foo_si_min@moe.edu.sg">Ms Tracy Foo</a><br>
-• <a href="mailto:mark_chen@moe.edu.sg">Mr Mark Chen</a><br>
-• <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Bte Jem</a>
-	<br>
-<br>
+• <a href="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Nur Shahid</a><br>
+• <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Jem</a><br>
+• <a href="mailto:foo_si_min@moe.edu.sg">Miss Tracy Foo</a>
+<br><br>
 </details>
 
 <details>
@@ -83,11 +83,11 @@ Monday: 3:45 p.m. to 5:15 p.m. (for P4 to P6)
 <br>
 
 For enquiries on the school’s Football CCA, please email:<br>
-• <a href="mailto:zulkarnai_zulkifli@moe.edu.sg">Mr Zulkarnai Zulkifli</a><br>
-• <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
-• <a href="mailto:chua_ee_lyn@moe.edu.sg">Ms Chua Ee Lyn</a><br>
-• <a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Mohan</a>
+• <a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Jeyamohan</a><br>
+• <a href="mailto:Muhammad_Shakir_Sulaiman@moe.edu.sg">Mr Muhammad Shakir</a><br>
+• <a href="mailto:nurliyana_omar@moe.edu.sg">Ms Nurliyana Binte Omar</a>
 	<br>
+• <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
 <br>
 </details>
 
@@ -150,9 +150,10 @@ Poomsae Category (Junior Division)
 </ul>
 
 For enquiries on the school’s Taekwondo CCA, please email:<br>
-• <a href="mailto:nurrashidah_norman@moe.edu.sg">Ms Shidah</a><br>
-• <a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah</a><br>
 • <a href="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a>
+	<br>
+• <a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah</a><br>
+• <a href="mailto:nurrashidah_norman@moe.edu.sg">Ms Shidah</a><br>
 	<br>
 <br>
 </details>
@@ -195,6 +196,6 @@ Activities for 2024 include the following sports:<br>
 <br>
 
 For enquiries on the school’s Sport Club CCA, please email:<br>
-• <a href="mailto:yeo_han_leng_david@moe.edu.sg">Mr David Yeo</a><br>
+• <a href="mailto:lew_nyet_mee@moe.edu.sg">Mdm Cindy Teo</a><br>
 • <a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Heryanti</a>
 </details>
