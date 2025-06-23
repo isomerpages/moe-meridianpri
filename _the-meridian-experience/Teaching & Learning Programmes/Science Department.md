@@ -147,35 +147,35 @@ the natural environment around them.
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong><u>DIFFERENTIATED SUPPORT FOR EVERY CHILD</u></strong>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EXCELLENCE 2000 SCIENCE (E2K SCIENCE)</p>
-<p align="justify">To further develop the potential of students in Science, selected P4 and
-P5^ students who demonstrate high interest and ability in Science are selected
+
+
+<p align="justify"><b>4. Differentiated Support For Every Child</b><br><br><b>a. Excellence 200 Science (E2K Science)</b><br>To further develop the potential of students in Science, selected P4 and
+P5 students who demonstrate high interest and ability in Science are selected
 to join in the E2K Science programme. The E2K Science Programme in Singapore
 is&nbsp;an enrichment program, focusing on scientific investigation and
 inquiry-based learning to deepen understanding of advanced science concepts.&nbsp;It's
 adapted from the Excellence 2000 (E2K) Program from Israel and aims to
 develop students' scientific thinking, reasoning skills, and 21st-century
 competencies like critical thinking and communication.&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SCIENCE OLYMPIAD</p>
-<p align="justify">The Singapore Primary Science Olympiad (SPSO) is an annual national competition
+
+
+<p align="justify"><b>b. Science Olympiad</b><br>The Singapore Primary Science Olympiad (SPSO) is an annual national competition
 that challenges and inspires primary school students to apply their scientific
 knowledge and thinking skills. Organised by the NUS High School of Math
 and Science, the SPSO promotes excellence in science through engaging problem-solving
 tasks and aims to nurture young scientific talent across Singapore. To
 further develop the potential of students in Science, selected P5 students
 will join the Science Olympiad Programme.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; YOUNG SCIENTIST BADGE SCHEME</p>
-<p align="justify">Young Scientist Badge Scheme (YSBS)&nbsp;is a programme designed by the
+
+<p align="justify"><b>c. Young Scientist Badge Scheme</b><br>Young Scientist Badge Scheme (YSBS)&nbsp;is a programme designed by the
 Science Centre to&nbsp;inspire interest in and encourage the exploration
 of Science, Technology, Engineering and Mathematics (STEM) disciplines&nbsp;among&nbsp;Primary
 school students. The scheme complements formal science curriculum in schools
 by providing opportunities for students to engage in&nbsp;STEM learning
 beyond the classroom.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SCIENCE REMEDIAL PROGRAMMES</p>
-<p align="justify">To provide support for our students, selected students are invited to
+
+
+<p align="justify"><b>d. Science Remedial Programmes</b><br>To provide support for our students, selected students are invited to
 join in the remedial programmes to help them bridge their learning gaps.</p>
 <p></p>
 <table style="minWidth: 50px">
