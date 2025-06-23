@@ -19,14 +19,13 @@ problem solving techniques.</p>
 
 
 <h4>Key Departmental Programmes</h4>
-<p><strong><u>Meridian Marvellous Math Trail (3MT)</u></strong>
-</p>
-<p align="justify">The Meridian Marvelous Math Trail <strong>(3MT)</strong> aims to provide
-students with an authentic outdoor learning experience.</p>
-<p align="justify">Students will have the opportunity to apply mathematical concepts they
+
+<p align="justify"><strong>1. Meridian Marvellous Math Trail (3MT)</strong><br>The Meridian Marvelous Math Trail <strong>(3MT)</strong> aims to provide
+students with an authentic outdoor learning experience.<br><br>
+Students will have the opportunity to apply mathematical concepts they
 have learnt to solve problems, be aware that Mathematics is all around
-them and how it is used in their daily lives.</p>
-<p align="justify">Working in teams, students will be able to exercise sound reasoning and
+them and how it is used in their daily lives.<br><br>
+Working in teams, students will be able to exercise sound reasoning and
 decision making, manage complexities, explore possibilities to evaluate
 and formulate solutions for the best outcome collaboratively.</p>
 <table style="minWidth: 50px">
