@@ -27,25 +27,19 @@ We ensure the seamless integration of ICT through a well-supported digital infra
 
 #### Key Departmental Programmes
 
-<u>Student ICT Capacity Building</u>
-
-<p align="justify">Taking reference from MOE’s Guide to the Development of Digital Literacy and Technological Skills, Meridian designs a holistic programme to develop our students’ digital competencies. This is aligned with the nine Digital Competencies (DCs) that scaffold students’ growth in becoming digitally literate learners.<br><br>
+<p align="justify"><b>1. Student ICT Capacity Building</b><br>Taking reference from MOE’s Guide to the Development of Digital Literacy and Technological Skills, Meridian designs a holistic programme to develop our students’ digital competencies. This is aligned with the nine Digital Competencies (DCs) that scaffold students’ growth in becoming digitally literate learners.<br><br>
 We adopt a Just-in-Time learning approach, ensuring students learn digital skills in authentic contexts using real-world tools and platforms. Across departments, ICT skills are infused into the Total Curriculum, enabling meaningful integration across all subjects.  These include:<br>
 •	Microsoft Office Tools – Word, PowerPoint, Excel<br>
 •	Computational Thinking &amp; Coding – through the Code for Fun programme<br>
 •	Digital Creativity &amp; Art – using tools such as Sketchbook Pro
 </p>
 
-<u>Cyber Wellness: A Balanced and Responsible Digital Life</u><br>
-<p align="justify">Digital fluency goes hand-in-hand with digital citizenship. At Meridian, we embed Cyber Wellness education into our curriculum to help students understand the importance of balance, responsibility, and respect in the digital space.</p>
+<p align="justify"><b>2. Cyber Wellness: A Balanced and Responsible Digital Life</b><br>Digital fluency goes hand-in-hand with digital citizenship. At Meridian, we embed Cyber Wellness education into our curriculum to help students understand the importance of balance, responsibility, and respect in the digital space.</p>
 
 
-**Cyber Wellness Ambassadors**
-<p align="justify">Selected students are empowered to be Cyber Wellness Ambassadors, leading peer advocacy efforts to promote safe and responsible digital behaviour. These student leaders are equipped through structured training and supported by dedicated teachers.</p>
+<p align="justify">Cyber Wellness Ambassadors<br>Selected students are empowered to be Cyber Wellness Ambassadors, leading peer advocacy efforts to promote safe and responsible digital behaviour. These student leaders are equipped through structured training and supported by dedicated teachers.</p>
 
-
-**Partnering Parents for Cyber Wellness**
-<p align="justify">We believe that strong partnerships with parents and guardians reinforce our Cyber Wellness message at home. We encourage families to:<br>
+<p align="justify">Partnering Parents for Cyber Wellness<br>We believe that strong partnerships with parents and guardians reinforce our Cyber Wellness message at home. We encourage families to:<br>
 
 •	Model good digital habits<br>
 •	Maintain balance between screen time and offline life<br>
