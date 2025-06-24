@@ -1,7 +1,7 @@
 ---
 title: 2024 Achievements
 permalink: /2024achievements/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Achievements
 ---
@@ -281,7 +281,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -299,7 +299,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -359,7 +359,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Puli Smaran (5RT)</p>
@@ -371,7 +371,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gao Zifeng (5TW)</p>
@@ -406,7 +406,7 @@ third_nav_title: Achievements
 <td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Raffles Math Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -428,9 +428,6 @@ third_nav_title: Achievements
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Raffles Math Olympiad</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Feng You Cheng (6RS)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -439,16 +436,69 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>P6 Asia-Pacific Math Olympiad (Hwa Chong)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Feng You Cheng (6RS)</p>
+</li>
+<li>
+<p>Liao Qirui (6IN)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Singapore Primary Science Olympiad 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Puli Smaran (5RT)</p>
+</li>
+<li>
+<p>Xiao Kaixin (5RT)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Xiang An Shoan (5RT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SOTA Primary 6 Art Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pham Minh Lam (6IN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 50 Winners</p>
 </td>
 </tr>
 </tbody>
