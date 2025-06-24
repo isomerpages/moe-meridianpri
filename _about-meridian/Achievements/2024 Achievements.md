@@ -1222,4 +1222,19 @@ third_nav_title: Achievements
 </tbody>
 </table>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>test</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>1.1</p>
+<p>2.1</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>test 2</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
