@@ -66,6 +66,21 @@ third_nav_title: Achievements
 <p>Sayembara Bahasa 2024 - Primary 1 - Singing Of Folksongs</p>
 </td>
 <td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Arian Dani Bin Muhamad Alfian (1CA)</p>
+</li>
+<li>
+<p>Adelia Zahra Binte Muhammad Khairul (1CA)</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Arian Dani Bin Muhamad Alfian (1CA)</p>
@@ -1222,19 +1237,4 @@ third_nav_title: Achievements
 </tbody>
 </table>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>test</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>1.1</p>
-<p>2.1</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>test 2</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <p></p>
