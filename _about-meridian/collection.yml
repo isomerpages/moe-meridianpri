@@ -2,6 +2,7 @@ collections:
   about-meridian:
     output: true
     order:
+      - Achievements/.keep
       - Principal's Message.md
       - School Information/.keep
       - School Information/School Vision & Mission.md
