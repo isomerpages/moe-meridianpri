@@ -151,6 +151,60 @@ third_nav_title: Achievements
 <p>Consolation Prize</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sayembara Bahasa 2024 - Primary 3 - Poetry Recitation</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Maya Alesya Binti Mohd Amirul Hakim (3CA)</p>
+</li>
+<li>
+<p>Muhammad Syah Rizqy Bin Muhammad Fadhil (3CA)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sayembara Bahasa 2024 - Primary 4 - Values Based Skit</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Muhammad Aqeel Bin Noor Azahar (4CA)</p>
+</li>
+<li>
+<p>Nafisah Binte Mohamed Mahathir (4CA)</p>
+</li>
+<li>
+<p>Aden Fatris Bin Muhammad Firdaus (4IN)</p>
+</li>
+<li>
+<p>Ilyas Bin Mohamed Fadzli (4IN)</p>
+</li>
+<li>
+<p>Nur Imaan Aliya Binte Mohammed Fahmee (4IN)</p>
+</li>
+<li>
+<p>Ahmad Danish Bin Johannes (4RB)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
