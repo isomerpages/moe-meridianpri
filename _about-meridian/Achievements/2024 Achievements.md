@@ -66,11 +66,23 @@ third_nav_title: Achievements
 <p>Sayembara Bahasa 2024 - Primary 1 - Singing Of Folksongs</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Arian Dani Bin Muhamad Alfian (1CA)</p>
+</li>
+<li>
 <p>Adelia Zahra Binte Muhammad Khairul (1CA)</p>
+</li>
+<li>
 <p>Muhammad Fakhrullah Bin Mohamad Lutfi (1CA)</p>
+</li>
+<li>
 <p>Siti Alyaanah Binte Ahmad Badawi Bagarib (1CA)</p>
+</li>
+<li>
 <p>Zara Miqaila Binte Mohamad Salleh (1CA)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
