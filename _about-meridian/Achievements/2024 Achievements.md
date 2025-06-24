@@ -501,6 +501,66 @@ third_nav_title: Achievements
 <p>Top 50 Winners</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA- National School Games – Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Division Boys Doubles – League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chen Reagan Guan Hui (6IN)</p>
+</li>
+<li>
+<p>Chen Royce Guan Hao (6TW)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>CCA- National School Games - Taekwondo (Poomsae)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Division Boys Green 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ariq Putra Rizqin Bin Yusri (6TW)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7<sup>th</sup> Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior Division Girls Green 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Banaag Praise El Hannora Fulminar (5RT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8<sup>th</sup> Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games - Floorball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Division Boys - League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
