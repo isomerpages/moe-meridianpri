@@ -318,8 +318,10 @@ third_nav_title: Achievements
 <li>
 <p>Alma Lu (4IN)</p>
 </li>
-</ul>
+<li>
 <p>Liang Junzhou Luis (4IN)</p>
+</li>
+</ul>
 <ul data-tight="true" class="tight">
 <li>
 <p>De Guzman Alyanna Louise Labrador (4RB)</p>
