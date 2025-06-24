@@ -265,6 +265,48 @@ third_nav_title: Achievements
 <p>2nd Place</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong Math Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Liao Qi Rui (6IN)</p>
+</li>
+<li>
+<p>Feng You Cheng (6RS)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Medal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Math Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Bawar Aron Seth Celeridad (6IN)</p>
+</li>
+<li>
+<p>Liu Bowen (6RS)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction Award</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
