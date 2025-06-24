@@ -85,7 +85,7 @@ third_nav_title: Achievements
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Consolation Prize</p>
 </td>
 </tr>
 </tbody>
