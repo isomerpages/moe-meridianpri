@@ -269,6 +269,122 @@ third_nav_title: Achievements
 <td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
+<td rowspan="3" colspan="1">
+<p>P4 Mathlympics 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wai Lik Yeung (4IN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Henrik Hanrui Frederik (4IN)</p>
+</li>
+<li>
+<p>Ahmad Danish Bin Johannes (4IN)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Anya Lu (4CA)</p>
+</li>
+<li>
+<p>Laig Yohan Gabrielle Delos Reyes (4CA)</p>
+</li>
+<li>
+<p>Ng Tin Yui (4CA)</p>
+</li>
+<li>
+<p>Vihaan Thapar (4CA)</p>
+</li>
+<li>
+<p>Alma Lu (4IN)</p>
+</li>
+</ul>
+<p>Liang Junzhou Luis (4IN)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>De Guzman Alyanna Louise Labrador (4RB)</p>
+</li>
+<li>
+<p>Du Enrui (4RB)</p>
+</li>
+<li>
+<p>Kanishk Kumbalaparambil Prajod (4RB)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>P5 National Math Olympiad Singapore 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Ciin Yah Sing Gualnam (5RT)</p>
+</li>
+<li>
+<p>Li Xiyue (5TW)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puli Smaran (5RT)</p>
+<p>Xiao Kaixin (5RT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gao Zifeng (5TW)</p>
+<p>Li Yifan (5TW)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Hwa Chong Math Olympiad</p>
 </td>
@@ -305,6 +421,34 @@ third_nav_title: Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Math Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Feng You Cheng (6RS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
