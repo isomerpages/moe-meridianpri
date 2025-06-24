@@ -202,7 +202,67 @@ third_nav_title: Achievements
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Consolation Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sayembara Bahasa 2024 - Primary 5 - Language Rap</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Nur Falysha Binte Muhammad Fadzli (5IN)</p>
+</li>
+<li>
+<p>Nurin Izzaty Binte Nor Izwan (5IN)</p>
+</li>
+<li>
+<p>Aariz Qayyum Bin Muhamad Shahrul (5RT)</p>
+</li>
+<li>
+<p>Emaan Zahra Binte Mohammed Farhan (5RT)</p>
+</li>
+<li>
+<p>'Affanul Haqqi Bin Mohamad Faizal (5TW)</p>
+</li>
+<li>
+<p>Muhammad Adam Hakim Bin Lokman Hakim (5TW)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sayembara Bahasa 2024 - Primary 6 - Language Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Muhammad Hannan Mohamad Hafiz (6IN)</p>
+</li>
+<li>
+<p>Hamzah Ikhtiari Bin Hafidz Uyuni (6TW)</p>
+</li>
+<li>
+<p>Lutfil Hadi Bin Muhammad Khairul Amir (6TW)</p>
+</li>
+<li>
+<p>Muhammad Daniyal Aryan Bin Hazlan (6IN)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Place</p>
 </td>
 </tr>
 </tbody>
