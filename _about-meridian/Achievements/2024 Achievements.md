@@ -1044,16 +1044,179 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA - Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation (SYF AP 2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Nafisah Binte Mohamed Mahathir (4CA)</p>
+</li>
+<li>
+<p>Marsya Insyirah Binte Muhammad Zulfaqar Zulkarnain (4RB)</p>
+</li>
+<li>
+<p>Marsya Aqilah Binte Muhammad Khaidzir (4RS)</p>
+</li>
+<li>
+<p>Nur Irdina Ardisha Binte Jono Pardi (4RS)</p>
+</li>
+<li>
+<p>Zara Amelya Binte Sharizan (4RS)</p>
+</li>
+<li>
+<p>Zaara Amanda Binte Mohamad Azhar (4TW)</p>
+</li>
+<li>
+<p>Farah Arissa Binte Mohammad Khairolnizam (5IN)</p>
+</li>
+<li>
+<p>Khadijah Binte Azami (5IN)</p>
+</li>
+<li>
+<p>Nur Arissa Qamarus Salikin (5IN)</p>
+</li>
+<li>
+<p>Nurlaila Al Zahra Binte Hisham (5RT)</p>
+</li>
+<li>
+<p>Merah Naimah Binte Muhammad Hakim (6CA)</p>
+</li>
+<li>
+<p>Nadia Almeera Binte Mohd Farid (6CA)</p>
+</li>
+<li>
+<p>Nur Shazfa Asfiya Binte Mohamad Shahrom (6IN)</p>
+</li>
+<li>
+<p>Mishel Binte Mushamha (6RB)</p>
+</li>
+<li>
+<p>Tengku Izzah Batrisyia Binte Tengku Osman (6RB)</p>
+</li>
+<li>
+<p>Hani Railisya Binti Muhammad Hasiff (6TW)</p>
+</li>
+<li>
+<p>Nur Yurishqa Ilmillya Binte S Ralli (6TW)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA - Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Bayona Aedrielle Loren Balod (6TW)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner’s Well-Done Badge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA - Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liu Bowen (6RS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner's Well-Done Badge Q1 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA - Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Bayona Aedrielle Loren Balod (6TW)</p>
+</li>
+<li>
+<p>Loo Yi Cheng (6CA)</p>
+</li>
+<li>
+<p>Arissa Wee Yu Xuan (6IN)</p>
+</li>
+<li>
+<p>Shyanne Anjali Jeevanandham (6IN)</p>
+</li>
+<li>
+<p>Baroga Lexie Mae Benito (6RS)</p>
+</li>
+<li>
+<p>Lee Dong Zhe (6RS)</p>
+</li>
+<li>
+<p>Liu Bowen (6RS)</p>
+</li>
+<li>
+<p>Sandi Phoo Ngon (6RS)</p>
+</li>
+<li>
+<p>Wu Chenling (6TW)</p>
+</li>
+<li>
+<p>Muhamad Rizq Khalifah Bin Muhamad Fazly (6TW)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Akela Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA - Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Meridian Cub Scout Group (Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FRANK COOPER SANDS AWARD YA2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA - Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cub Scout Design Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Adam Shafi Bin Muhammad Hanafi (3IN)</p>
+</li>
+<li>
+<p>Sabrina Binte Munir Shah (3IN)</p>
+</li>
+<li>
+<p>Nurul Keisha Binte Muhammad Sanusi (3RS)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semi-Finalists</p>
 </td>
 </tr>
 </tbody>
