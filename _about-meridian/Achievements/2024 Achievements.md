@@ -88,6 +88,30 @@ third_nav_title: Achievements
 <li>
 <p>Farah Amirah Binte Muhamad Firdaus (1PA)</p>
 </li>
+<li>
+<p>Aaryan Ilhan Bin Muhammad Aiman (1RS)</p>
+</li>
+<li>
+<p>Abdul Rahman Bin Zaid (1RS)</p>
+</li>
+<li>
+<p>Mohamed Zil Yaseen Bin Mohamed Faizil (1RS)</p>
+</li>
+<li>
+<p>Qaiser Haqq Bin Abdul Qayyum (1RS)</p>
+</li>
+<li>
+<p>Kaila Laudya Azkadina Firdaus (1RT)</p>
+</li>
+<li>
+<p>Nur Hazirah Dania Binte Mohamed Haiqel (1RT)</p>
+</li>
+<li>
+<p>Inaara Binte Ismail (1TW)</p>
+</li>
+<li>
+<p>Nur Afrah Binte Al-Izan (1TW)</p>
+</li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,18 +120,38 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sayembara Bahasa 2024 - Primary 2 - Skit based on Folk Tale</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Falisya Binti Muhammad Fadhli (2CA)</p>
+</li>
+<li>
+<p>Ardan Fitras Bin Muhammad Firdaus (2IN)</p>
+</li>
+<li>
+<p>Soleh Bin Abdullah (2IN)</p>
+</li>
+<li>
+<p>Muaz Adha Bin Musa (2RS)</p>
+</li>
+<li>
+<p>Ildani Ardisha Bin Jono Pardi (2RT)</p>
+</li>
+<li>
+<p>Adam Zidan Bin Mohd Amirul Hakim (2RB)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Consolation Prize</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
