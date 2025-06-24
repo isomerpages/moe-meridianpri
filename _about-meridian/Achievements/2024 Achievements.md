@@ -362,8 +362,14 @@ third_nav_title: Achievements
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Puli Smaran (5RT)</p>
+</li>
+<li>
 <p>Xiao Kaixin (5RT)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Silver Award</p>
@@ -374,8 +380,14 @@ third_nav_title: Achievements
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Gao Zifeng (5TW)</p>
+</li>
+<li>
 <p>Li Yifan (5TW)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bronze Award</p>
