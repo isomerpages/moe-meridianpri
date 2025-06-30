@@ -453,14 +453,14 @@ variant: markdown
 <a href="mailto:tiffany_loh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tiffany Loh</a>
 </td>
 </tr>
-<tr>
+	<tr>
 <td rowspan="1" colspan="1">
-	<a href="mailto:wong_hwee_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wong Hwee Kim</a>
+	<a href="mailto:Vera_Liew_Mee_Lee_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Vera Liew Mee Lee</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-	<a href="mailto:Vera_Liew_Mee_Lee_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Vera Liew Mee Lee</a>
+	<a href="mailto:wong_hwee_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wong Hwee Kim</a>
 </td>
 </tr>
 </tbody>
