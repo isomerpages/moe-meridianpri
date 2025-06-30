@@ -210,7 +210,6 @@ variant: markdown
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-	<a href="mailto:maragathavalli_piryasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Maragathavalli Piryasamy</a><br>
 <a href="mailto:Siti_Nurmunirah_mohd_Arsad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nurmunirah </a>
 <br><a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Stefane Lee</a>
 </td>
@@ -427,6 +426,11 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <a href="mailto:lim_chee_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Chee Ming</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+	<a href="mailto:maragathavalli_piryasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Maragathavalli Piryasamy</a>
 </td>
 </tr>
 <tr>
