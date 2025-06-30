@@ -5,38 +5,44 @@ description: ""
 third_nav_title: Teaching & Learning Programmes
 variant: markdown
 ---
-<h4 style="margin-bottom:0; margin-top:1;"> Vision</h4>
-
-<p>Every Meridian leads an active and healthy Meridian</p>
-
-#### Mission
-<p align="justify">Develop independent learners with the knowledge, skills and attitude to meet complex challenges of our regional and global communities with confidence through lifelong learning and healthy living.</p>
 
 #### Approach
 
-<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-Approach-720x616.jpg" style="width:490px;height:420px;float:center">
+<p align="justify">At Meridian Primary School, Physical Education (P.E.) is more than just movement — it's about growing together, learning from one another, and building a <b>Culture of Collaboration</b> through sport and movement activities. We believe that physical activity is essential not only for health and well-being but also for nurturing relationships, teamwork and character. Through our P.E. programme, we are committed to <b>equipping, enriching, and empowering every student to lead an active and healthy lifestyle</b>, both in school and beyond.<br><br>
+Our school embraces a <b>comprehensive school Physical Education programme</b> designed to equip every child with the <b>skills, knowledge, and attitudes</b> they need to lead an active and fulfilling life. Through shared experiences and purposeful play, students learn the school values of <b>respect, integrity and teamwork</b>.
+<br><br>
+From <b>Fundamental Movement Skills, Educational Gymnastics and dance</b> in the lower primary years, to <b>modified games and outdoor education</b> in the upper levels, our curriculum supports progressive motor skills development and social-emotional learning. Students go beyond skill acquisition — they explore how sports can shape culture, foster friendships, and build community.
+	
+<br><br>
+	Aligned with our school-wide commitment to a <b>Growth Mindset</b>, the P.E. curriculum also integrates other school values such as <b>resilience, care and responsibility</b>. These values are lived out on the field and in the hall, where every student is encouraged to challenge themselves while lifting others.
+Together, we move with purpose. Together, we grow stronger.
 
-#### Student Outcomes
-*   Goal 1: Acquire a range of&nbsp;<b>movement skills</b>&nbsp;to participate in a variety of physical activities.  
-    
-*   Goal 2: Demonstrate&nbsp;<b>safe practices</b>&nbsp;during physical and daily activities with respect to themselves, others and the environment.  
-    
-*   Goal 3: Make informed and responsible decisions with regard to personal behaviour and social interactions based on sound values-based judgement.  
-    
-*   Goal 4: Acquire and maintain healthy lifestyle practices in physical activity, nutrition, sleep, outdoor time and hygiene.  
+</p><br>
 
-*   Goal 5: Enjoy and value physical activities and healthy living in a sustainable way. 
+<img src="/images/The%20Meridian%20Experience/PE%20Dept/PE-Approach-720x616.jpg" style="width:450px;height:400px;float:center">
+
+
     
+#### Key Departmental Programmes
 
-#### Key Programmes
-*   P5 Camp  
-*   Meridian Games  Day
-*   NAPFA Test  
-*   Health Week  
-*   Inter-class Games  
-*   SwimSafer Programme
-*   Sports Leaders Development
+<p align="justify"><b>1. &nbsp; P5 Camp</b><br>
+Our Primary 5 Outdoor Adventure Camp is a milestone experience that promotes resilience, independence, and teamwork. Set in a natural environment, students participate in activities such as high elements, team challenges, and outdoor cooking. The camp strengthens peer relationships and builds confidence through shared experiences that foster a strong sense of camaraderie and self-discovery.
+</p>  
+<p align="justify"><b>2. &nbsp; Meridian Games  Day</b><br>
+Meridian Games Day is a celebration of healthy living, school spirit, and inclusive participation. Every student is given the opportunity to shine through a variety of age-appropriate activities that focus on fun, effort, and teamwork. It’s not just about winning — it’s about encouraging a positive attitude and supporting one another as a united school community.
+</p> 
 
+<p align="justify"><b>3. &nbsp; NAPFA Test </b><br>
+The NAPFA Test at Primary 4 and Primary 6 students helps us monitor and support the physical development of our students. Through structured assessments, students gain awareness of their own fitness levels while setting personal goals for improvement. Emphasizing self-improvement and a growth mindset, the test encourages students to take ownership of their physical well-being.
+</p>
+
+<p align="justify"><b>4. &nbsp; P6 Inter-class Games </b><br>
+The P6 Inter-Class Games bring healthy competition and collaboration to the forefront. Students work together to apply the skills they’ve learned in P.E. in real game situations. Beyond strategy and performance, the games emphasise sportsmanship, team unity, and class pride — creating lasting memories as students wrap up their final year at Meridian.
+</p>
+
+<p align="justify"><b>5. &nbsp; SwimSafer Programme </b><br>
+Our targeted SwimSafer programme for Primary 4 non-swimmers ensures that every child has the opportunity to learn this essential life skill. Conducted in a safe and supportive environment, the classes focus on building water confidence and basic swimming proficiency, empowering students with the skills to enjoy and stay safe in aquatic environments.
+</p>
 
 <table style="width:100%">
   <tbody>
