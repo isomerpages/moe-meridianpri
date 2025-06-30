@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Teaching & Learning Programmes
 variant: markdown
 ---
-
 #### Approach
 
 <p align="justify">At Meridian Primary School, Physical Education (P.E.) is more than just movement — it's about growing together, learning from one another, and building a <b>Culture of Collaboration</b> through sport and movement activities. We believe that physical activity is essential not only for health and well-being but also for nurturing relationships, teamwork and character. Through our P.E. programme, we are committed to <b>equipping, enriching, and empowering every student to lead an active and healthy lifestyle</b>, both in school and beyond.<br><br>
@@ -44,20 +43,26 @@ The P6 Inter-Class Games bring healthy competition and collaboration to the fore
 Our targeted SwimSafer programme for Primary 4 non-swimmers ensures that every child has the opportunity to learn this essential life skill. Conducted in a safe and supportive environment, the classes focus on building water confidence and basic swimming proficiency, empowering students with the skills to enjoy and stay safe in aquatic environments.
 </p>
 
+<p align="justify"><b>6. &nbsp; Sports Leaders Development </b><br>
+The Sports Leader Programme nurtures leadership and responsibility among selected upper primary students. These student leaders take on roles such as organising games, assisting in school sports events, and promoting active play during recess. Through guidance and mentorship, they develop confidence, communication skills, and a deeper appreciation for teamwork and service.
+</p>
+
+
+
+<h4>Highlights</h4>
+<b>Meridian Games Day 2025</b>
+
 <table style="width:100%">
   <tbody>
-		<tr><td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE1.png" style="width:350px;height:350px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE2.png" style="width:350px;height:350px;float:center"></td>
+		<tr><td><img src="/images/The%20Meridian%20Experience/PE%20Dept/PE2025_1.jpg" style="width:450px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/PE2025_2.jpg" style="width:450px;height:250px;float:center"></td>
 	</tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20Play%203.jpg" style="width:250px;height:350px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/PE2025_3.jpg" style="width:450px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/PE2025_4.jpg" style="width:450px;height:250px;float:center"></td>
 	</tr>
 	<tr>
-    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2023/Recess%20play%201.jpg" style="width:450px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE5.png" style="width:450px;height:250px;float:center"></td>
-	</tr>
-	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/2024_PE6.png" style="width:390px;height:250px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/PE%20Dept/PE2025_5.jpg" style="width:390px;height:250px;float:center"></td>
 	</tr>
 </tbody></table>
 
