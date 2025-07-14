@@ -197,15 +197,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_kim_chiau_benjamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Yeo Kin Chiau</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:Mastura_YAACOB@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mastura Yaacob</a>
 </p>
 </td>
