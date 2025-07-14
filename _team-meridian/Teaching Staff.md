@@ -284,7 +284,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 	<a href="mailto:Alyah_Amani_Norazman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Alyah Amani </a><br>
-<a href="mailto:yeo_kim_chiau_benjamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Yeo </a><br>
 <a href="mailto:Tan_Sok_Keow_Irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Irene Tan </a>
 <br><a href="mailto:norhaida_kamaludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Norhaida</a>
 </td>
