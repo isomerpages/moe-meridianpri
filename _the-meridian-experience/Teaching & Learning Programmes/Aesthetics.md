@@ -66,27 +66,27 @@ In <b>Music</b>, we believe every child has innate musical potential. Our curric
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:310px;height:390px;float:center" height="auto" width="100%" alt="" src="/images/The Meridian Experience/English Dept/EL2025_2.jpg">
+<img style="width:300px;height:250px;float:center" height="auto" width="100%" alt="" src="/images/The%20Meridian%20Experience/Aesthetics/2025A_5.jpg">
 </div>
-<p style="text-align:center; font-size:14px;">Primary 4 STELLAR Lesson: Ice Cream Making</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<br><br><br><br>
-<img style="width:310px;height:290px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/English%20Dept/2024_EL6.jpg">
+<img style="width:300px;height:250px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/Aesthetics/2025A_6.jpg">
 </div>
-<p style="text-align:center; font-size:14px;">Primary 5 Meridian Debaters: Sustained Achievement as Top 4 Schools in
-the East Zone since 2018</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p style="text-align:center; font-size:14px;">Every Meridian student can play classroom instruments like xylophones, metallophones, resonator bells, and percussion.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width:310px;height:290px;float:center" height="auto" width="100%" alt="" src="/images/The Meridian Experience/English Dept/2024_EL5.jpg">
+<img style="width:310px;height:290px;float:center" height="auto" width="100%" alt="" src="/images/The%20Meridian%20Experience/Aesthetics/2025A_7.jpg">
 </div>
 	<br>
-<p style="text-align:center; font-size:14px;">Amazing Tuesdays: Students demonstrate an awareness of the contemporary
-issues related to Singapore and the world</p>
+<p style="text-align:center; font-size:14px;">Our Meridians explore becoming a DJ by mixing beats and sound effects, blending two songs together and exploring other audio effects on the iPads</p>
 </td>
 </tr>
 </tbody>
