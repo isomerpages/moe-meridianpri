@@ -76,7 +76,7 @@ In <b>Music</b>, we believe every child has innate musical potential. Our curric
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td colspan="2">
 <p style="text-align:center; font-size:14px;">Every Meridian student can play classroom instruments like xylophones, metallophones, resonator bells, and percussion.</p>
 </td>
 </tr>
