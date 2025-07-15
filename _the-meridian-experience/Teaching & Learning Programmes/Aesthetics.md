@@ -5,13 +5,7 @@ description: ""
 third_nav_title: Teaching & Learning Programmes
 variant: markdown
 ---
-<h4 style="margin-bottom:0; margin-top:1;"> Vision</h4>
-<p>Every child an engaged learner of the Arts</p>
-
-#### Mission
-<p>To develop Meridians to become passionate and appreciative of the Arts.</p>
-
-#### Approach and Framework
+#### Approach 
 
 <img src="/images/The%20Meridian%20Experience/Aesthetics/MPS-Aesthetics-Department-Framework.jpg" style="width:550px;height:320px;float:center"><br>
 
