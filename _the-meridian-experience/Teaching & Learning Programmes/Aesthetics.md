@@ -16,14 +16,16 @@ Our <b>Art</b> program fosters innovation and imagination by offering varied opp
 In <b>Music</b>, we believe every child has innate musical potential. Our curriculum provides meaningful, enjoyable experiences that empower students to listen, sing, play instruments, and create music across different genres, connecting them with their cultural roots and the wider world.
 </p>
 
-#### Key Programmes
+<h4>Key Departmental Programmes</h4>
 
 <ul>
 	<li>Modular Music Programmes (Keyboard, Ukulele, Guitar)</li>
+	<li>Modular Art Programme (Chinese Painting and Batik Painting)</li>
 	<li>iPad projects (Using iPad applications to learn and create Music)</li>
-	<li>PAM Express (Platform for students with music talents to perform on stage)</li>
+	<li>Museum-Based Learning</li>
 	<li>Meridian’s Got Talent</li>
-	<li>P1-P4 Music Days</li>
+	<li>Aesthetics Week</li>
+	<li>P.A.M. Express</li>
 </ul>
 
 #### Highlights
