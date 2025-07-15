@@ -52,17 +52,15 @@ In <b>Music</b>, we believe every child has innate musical potential. Our curric
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:310px;height:390px;float:center" height="auto" width="100%" alt="" src="/images/The Meridian Experience/English Dept/EL2025_1.jpg">
+<img style="width:350px;height:280px;float:center" height="auto" width="100%" alt="" src="/images/The%20Meridian%20Experience/Aesthetics/2025A_3.jpg">
 </div>
-<p style="text-align:center; font-size:14px;">Primary 2 STELLA Lesson: A Butterfly is Born Meridians releasing their
-matured butterfly into nature</p>
+<p style="text-align:center; font-size:14px;">Creating a pinch pot during our ceramics lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper"><br><br>
-<img style="width:310px;height:350px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/English%20Dept/2024_EL4.jpg">
+<div class="isomer-image-wrapper">
+<img style="width:350px;height:280px;float:center" height="auto" width="100%" src="/images/The%20Meridian%20Experience/Aesthetics/2025A_4.jpg">
 </div>
-<p style="text-align:center; font-size:14px;">Primary 3 Literature Appreciation Programme: Storytelling Through Shadow
-Play</p>
+<p style="text-align:center; font-size:14px;">Seeing a sculpture we have learnt about in class, up close at the </p>
 </td>
 </tr>
 <tr>
