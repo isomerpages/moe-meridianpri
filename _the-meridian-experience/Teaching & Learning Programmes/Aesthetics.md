@@ -5,19 +5,16 @@ description: ""
 third_nav_title: Teaching & Learning Programmes
 variant: markdown
 ---
-#### Approach 
+<h4>Approach</h4>
 
-<img src="/images/The%20Meridian%20Experience/Aesthetics/MPS-Aesthetics-Department-Framework.jpg" style="width:550px;height:320px;float:center"><br>
-
-<hr>
-
-#### Music
-<p>Every child an active learner of Music</p>
-
-#### Goals
-*   To provide opportunities for students to create music and learn different music skills.  
-    
-*   To develop pupils’ awareness and appreciation of music
+<p align="justify">At Meridian Primary, the Aesthetic Department nurtures creativity and self-expression through both Art and Music, guided by our four key approaches: <b>Express</b>, <b>Exposure</b>, <b>Experience</b>, and <b>Appreciation</b>.<br><br>
+•	<b>Express</b>: We encourage every student to confidently express their unique ideas and emotions through diverse artistic and musical forms.<br>
+•<b> Exposure</b>: Students are introduced to a wide range of techniques, styles, and cultural influences that broaden their creative horizons.<br>
+•	<b>Experience</b>: Hands-on activities, including performing, creating, and participating in competitions, allow students to engage actively and develop their skills.<br>
+•	<b>Appreciation</b>: Through exploring art and music from local and global cultures, students cultivate respect and deeper understanding of cultural diversity and heritage.<br><br>
+Our <b>Art</b> program fosters innovation and imagination by offering varied opportunities for self-expression and showcasing talent, both inside and outside the school community.<br><br>
+In <b>Music</b>, we believe every child has innate musical potential. Our curriculum provides meaningful, enjoyable experiences that empower students to listen, sing, play instruments, and create music across different genres, connecting them with their cultural roots and the wider world.
+</p>
 
 #### Key Programmes
 
