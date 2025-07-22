@@ -103,4 +103,4 @@ Family members are also encouraged to participate with their children as a famil
 </p>
 
  For enquiries on the school’s Aesthetics, please email:<br>
-<a href="mailto:aidil_effendy@moe.edu.sg">MrMr Aidil Effendy (Head of Department)</a>
+<a href="mailto:aidil_effendy@moe.edu.sg">Mr Aidil Effendy (Head of Department)</a>

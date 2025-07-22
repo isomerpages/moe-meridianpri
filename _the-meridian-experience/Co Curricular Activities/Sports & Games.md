@@ -8,7 +8,13 @@ variant: markdown
 <details>
   <summary><b>Floorball</b> <i>(For Boys and Girls)</i></summary>
 
-<p align="justify">Team Meridian Floorball aims to develop not only the players’ skills and playing strategies, but also their character.&nbsp;Through the training programme, we hope to grow every member to become a confident, adaptable and resilient individual.&nbsp;At the same time, understanding the importance of care, respect and teamwork. This is done through the close guidance of the coaches and teachers.</p>
+<p align="justify">Team Meridian Floorball is dedicated to nurturing not just talented athletes, but also individuals of strong character. Our CCA provides a vibrant and supportive environment where students can grow through sport — developing valuable life skills both on and off the court.</p>
+	
+<p align="justify">Floorball offers an excellent platform to build foundational physical and cognitive skills. These include hand-eye coordination, agility, spatial awareness, and quick decision-making. Through fun and engaging drills, students also develop sport-specific techniques such as dribbling, passing, shooting, and basic defensive positioning.</p>
+	
+<p align="justify">Just as important as the physical skills are the values we instill. Team Meridian Floorball emphasises respect, care, and teamwork — helping our members understand the importance of working together and supporting one another. As they train and compete, students also build confidence, resilience, and adaptability.</p>
+	
+<p align="justify">Guided closely by our passionate teachers and coaches, every player is encouraged to grow at their own pace, gaining not only skills in Floorball but also lessons that will serve them well beyond the game.</p>
 
 <table style="width:100%">
   <tbody>
@@ -23,7 +29,12 @@ variant: markdown
 
 
 <p><b>Highlights</b></p>
-<p align="justify">Team Meridian Floorball takes part in the National School Games every year to allow the players to have adequate exposure and competition experience.</p>
+<u>2024</u>
+<p></p><ul>
+	<li>National School Games Floorball 2024</li>
+	<li>Senior Division Boys - League 2 (3rd)</li>
+	<li>Senior Division Girls - League 3 (3rd)</li>
+</ul>
 
 <table style="width:100%">
   <tbody>
@@ -33,20 +44,11 @@ variant: markdown
   </tr>
 </tbody></table>
 
-<p><b>Achievements</b></p>
-<u>2024</u>
-<p></p><ul>
-	<li>National School Games Floorball 2024</li>
-	<li>Senior Division Boys - League 2 (3rd)</li>
-	<li>Senior Division Girls - League 3 (3rd)</li>
-</ul>
-
 
 <br>
  For enquiries on the school’s Floorball CCA, please email:<br>
 • <a href="mailto:chen_chuangan_mark@moe.edu.sg">Mr Mark Chen</a><br>
 • <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Peh Kai Jay</a><br>
-• <a href="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Nur Shahid</a><br>
 • <a href="mailto:roslinah_jem@moe.edu.sg">Mdm Roslinah Jem</a><br>
 • <a href="mailto:foo_si_min@moe.edu.sg">Miss Tracy Foo</a>
 <br><br>
