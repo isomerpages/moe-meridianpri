@@ -39,15 +39,13 @@ Anchored on Kouzes and Posner’s Five Practices of Exemplary Leadership, we off
 • Lead initiatives within class, school, and the wider community<br>
 </p>
 
-<h4>The Leadership Training Domains</h4>
-
 <img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL2.png" style="width:750px;height:355px;float:center">
 
-<h4>The Specialised Student Leader Groups</h4>
+<h4>Nurturing Passionate Student Leaders</h4>
 
 <p align="justify">For students who display greater leadership potential, they serve in specialised student leader groups, such as the Student Council, CCA Leaders and Class Leadership Committee (CLC).</p>
 
-<h5>Roles of Student Councillors:</h5>
+<b>Student Councillors:</b>
 <ul>
 	<li>Representing the wider student body</li>
 	<li>Modeling the way in their actions and words</li>
@@ -56,16 +54,16 @@ Anchored on Kouzes and Posner’s Five Practices of Exemplary Leadership, we off
 	<li>Performing daily morning assembly duties</li>
 	</ul>
 	
-<h5>Roles of CCA Leaders</h5>
+<b>CCA Leaders</b>
 <ul>
 	<li>Building a positive culture of learning in the CCA</li>
 	<li>Caring for and connecting with CCA members</li>
 	<li>Assisting CCA teachers in carrying out CCA activities and duties</li>
 	</ul>
 	
-<h5>Roles within the Class Leadership Committee</h5>
+<b>Class Leadership Committee (CLC)</b>
 <ul>
-	<li>Class Monitor</li>
+	<li><b>Class Monitor</b> – Maintains class order and supports peers</li>
 	<li>ICT Leader</li>
 	<li>Cleanliness Captain</li>
 	<li>Sports Leader</li>
