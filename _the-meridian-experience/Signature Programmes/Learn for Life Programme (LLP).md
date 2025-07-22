@@ -65,11 +65,10 @@ Anchored on Kouzes and Posner’s Five Practices of Exemplary Leadership, we off
 <br>Every class has a team of student leaders, including:<br>
 <ul>
 	<li><b>Class Monitor</b> – Maintains class order and supports peers</li>
-	<li>ICT Leader</li>
-	<li>Cleanliness Captain</li>
-	<li>Sports Leader</li>
-	<li>Eco-Environment Ambassador</li>
-	<li>Peer Support Leader</li>
+	<li><b>ICT Leader</b> – Assists with tech and digital tools</li>
+	<li><b>Sports Leader</b> - Encourages active participation and fair play</li>
+	<li><b>Eco-Environment Ambassador</b> - Champions green habits</li>
+	<li><b>Peer Support Leader</b> - Looks out for classmates’ well-being</li>
 	</ul>
 
 <h4>Photo Gallery of Students Leadership</h4>
