@@ -5,13 +5,15 @@ description: ""
 third_nav_title: Signature Programmes
 variant: markdown
 ---
-
 <b>“Every Meridian is a Leader”</b>
 
 <p align="justify">At Meridian Primary School, we believe in unlocking the leader in every child. Leadership is not limited to a title—it is about making a difference, inspiring others, and growing together.
 <br>
 <br>
 Anchored on Kouzes and Posner’s Five Practices of Exemplary Leadership, we offer real-life opportunities for students to practise and apply their leadership skills across levels.
+<br>
+	<br>
+	<b>Lead with Purpose: Our Five Leadership Practices</b>
 </p>
 
 <img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL1.png" style="width:650px;height:155px;float:center">
