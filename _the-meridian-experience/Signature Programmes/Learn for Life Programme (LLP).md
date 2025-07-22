@@ -18,7 +18,13 @@ Anchored on Kouzes and Posner’s Five Practices of Exemplary Leadership, we off
 
 <img src="/images/The%20Meridian%20Experience/2025LLP1.png" style="width:650px;height:155px;float:center">
 
-<p>We strongly encourage our students to put these 5 practices frequently into actions to grow as a leader.</p>
+<p align="justify">We guide our students to lead through action using these five core practices:<br><br>
+•	Model the Way – Be a role model through actions and words<br>
+•	Inspire a Shared Vision – Dream big and rally others towards a common goal<br>
+•	Challenge the Process – Think creatively and seek improvements<br>
+•	Enable Others to Act – Build trust and work as a team<br>
+•	Encourage the Heart – Celebrate efforts and recognise contributions<br>
+</p>
 
 <h4>The Student Leadership Development Framework</h4>
 
