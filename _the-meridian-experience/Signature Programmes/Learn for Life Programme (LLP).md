@@ -88,18 +88,18 @@ Anchored on Kouzes and Posner’s Five Practices of Exemplary Leadership, we off
   </td></tr>
 </tbody></table>
 	<p>Student Councillors building teamwork through problem-solving and collaboration</p>
-	
+
 <table style="width:100%">
   <tbody>
 		<tr>
-    <td colspan="2"><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL6.jpg" style="width:520px;height:310px;float:center"><p style="margin-bottom:0; margin-top:0; text-align:center;">Student Council Investiture</p></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/LLP/2025LLP4.png" style="width:520px;height:310px;float:center"></td>
   </tr>
 		</tbody></table>
 
 <table style="width:100%">
   <tbody>
 			<tr>
-    <td colspan="2"><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL7.jpg" style="width:420px;height:310px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/LLP/2025LLP5.png" style="width:420px;height:310px;float:center"></td>
   </tr>
 		<tr>
     <td><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL8.jpg" style="width:590px;height:290px;float:center"></td>
