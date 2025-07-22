@@ -5,14 +5,14 @@ description: ""
 third_nav_title: Signature Programmes
 variant: markdown
 ---
-<img src="/images/Our%20Staff/2024%20Dept%20Photo/STUDENT_MANAGEMENT_TEAM_Formal.jpg" style="width:650px;height:455px;float:center">
-<p style="margin-bottom:0; margin-top:0; font-size: 12px; text-align:center;">*Photo taken in 2024</p>
 
+<b>“Every Meridian is a Leader”</b>
+
+<p align="justify">At Meridian Primary School, we believe in unlocking the leader in every child. Leadership is not limited to a title—it is about making a difference, inspiring others, and growing together.
 <br>
 <br>
-<b>At Meridian Primary School, we truly believe that Every Child, A Leader.</b>
-
-<p align="justify">Inspired by Kouzes and Posner’s The Five Practices of Exemplary Leadership, the school provides a range of class-based, level-wide, CCA-based and school-wide leadership trainings and opportunities for our students to hone their leadership skills based on the following five practices:</p>
+Anchored on Kouzes and Posner’s Five Practices of Exemplary Leadership, we offer real-life opportunities for students to practise and apply their leadership skills across levels.
+</p>
 
 <img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL1.png" style="width:650px;height:155px;float:center">
 
