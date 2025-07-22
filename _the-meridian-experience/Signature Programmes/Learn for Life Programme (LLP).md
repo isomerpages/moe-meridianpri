@@ -16,7 +16,7 @@ Anchored on Kouzes and Posner’s Five Practices of Exemplary Leadership, we off
 	<b>Lead with Purpose: Our Five Leadership Practices</b>
 </p>
 
-<img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL1.png" style="width:650px;height:155px;float:center">
+<img src="/images/The%20Meridian%20Experience/2025LLP1.png" style="width:650px;height:155px;float:center">
 
 <p>We strongly encourage our students to put these 5 practices frequently into actions to grow as a leader.</p>
 
