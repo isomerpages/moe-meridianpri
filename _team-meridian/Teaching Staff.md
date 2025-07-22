@@ -414,6 +414,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<a href="mailto:gerard_yeo_qi_wei@moe.edu.sg@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gerard Yeo Qi Wei</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <a href="mailto:Lim_Sheng_Yong_Joyce_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joyce Lim</a>
 </td>
 </tr>
@@ -435,6 +440,11 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <a href="mailto:nazreen_bulat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazreen Bte Bulat</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<a href="mailto:neufeld_john_hong_ren@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Neufeld John Hong Ren</a>
 </td>
 </tr>
 <tr>
