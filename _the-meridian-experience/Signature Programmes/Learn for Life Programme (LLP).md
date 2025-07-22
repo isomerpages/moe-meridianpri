@@ -102,12 +102,8 @@ Student Councillors building teamwork through problem-solving and collaboration
 			<tr>
     <td colspan="2"><img src="/images/The%20Meridian%20Experience/LLP/2025LLP5.png" style="width:420px;height:310px;float:center"></td>
   </tr>
-		<tr>
-    <td><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL8.jpg" style="width:590px;height:290px;float:center"></td>
-    <td><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL9.jpg" style="width:590px;height:290px;float:center"></td>
-  </tr>
 	</tbody></table>
-<p style="margin-bottom:0; margin-top:0; text-align:center;">CCA Leaders</p>
+<p style="margin-bottom:0; margin-top:0; text-align:center;">Students engaged in Peer Support Leaders Training, learning how to care for and support their peers.</p>
 
 <table style="width:100%">
   <tbody>
