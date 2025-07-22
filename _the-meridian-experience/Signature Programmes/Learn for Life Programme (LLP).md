@@ -108,38 +108,14 @@ Student Councillors building teamwork through problem-solving and collaboration
 <table style="width:100%">
   <tbody>
 			<tr>
-    <td colspan="2"><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL10.jpg" style="width:420px;height:310px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/LLP/2025LLP6.png" style="width:420px;height:310px;float:center"></td>
   </tr>
 		<tr>
-    <td><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL11.jpg" style="width:390px;height:290px;float:center"></td>
-    <td><img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL12.jpg" style="width:590px;height:290px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/LLP/2025LLP7.png" style="width:420px;height:310px;float:center"></td>
   </tr>
 	</tbody></table>
-<p style="margin-bottom:0; margin-top:0; text-align:center;">P3 Cohort Leadership - Appreciating Our Mangroves</p>
+<p style="margin-bottom:0; margin-top:0; text-align:left;">CCA leaders fostering teamwork and sportsmanship during training</p>
 
-<table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL9.png" style="width:390px;height:290px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL10.png" style="width:390px;height:290px;float:center"></td>
-  </tr>
-</tbody></table>
-<p style="margin-bottom:0; margin-top:0; text-align:center;">P4 Cohort Leadership - Promoting a Bully-free Environment</p>
-
-<table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL11.png" style="width:370px;height:290px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL12.png" style="width:370px;height:290px;float:center"></td>
-  </tr>
-</tbody></table>
-<p style="margin-bottom:0; margin-top:0; text-align:center;">P5 Cohort Leadership - Caring for our Environment : Beach Clean-up</p>
-
-<table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL13.png" style="width:370px;height:290px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/2024%20Student%20Management/2024_SL14.png" style="width:370px;height:290px;float:center"></td>
-  </tr>
-</tbody></table>
-<p style="margin-bottom:1; margin-top:0; text-align:center;">P6 Cohort Leadership - Embracing One Community, One People: Visit to Enabling Village</p>
-
+<br>
 <p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s Student Leadership Programme, please email:</p>
 <a href="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg">Miss Kirenjit Kaur d/o Sulinder Singh (HOD/Student Management)</a>
