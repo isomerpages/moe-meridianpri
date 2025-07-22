@@ -103,7 +103,7 @@ Student Councillors building teamwork through problem-solving and collaboration
     <td colspan="2"><img src="/images/The%20Meridian%20Experience/LLP/2025LLP5.png" style="width:420px;height:310px;float:center"></td>
   </tr>
 	</tbody></table>
-<p style="margin-bottom:0; margin-top:0; text-align:center;">Students engaged in Peer Support Leaders Training, learning how to care for and support their peers.</p>
+<p style="margin-bottom:0; margin-top:0; text-align:left;">Students engaged in Peer Support Leaders Training, learning how to care for and support their peers.</p>
 
 <table style="width:100%">
   <tbody>
