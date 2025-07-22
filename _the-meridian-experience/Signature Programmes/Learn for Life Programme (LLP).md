@@ -87,7 +87,8 @@ Anchored on Kouzes and Posner’s Five Practices of Exemplary Leadership, we off
     <td><img src="/images/The%20Meridian%20Experience/LLP/2025LLP3.png" style="width:590px;height:290px;float:center">
   </td></tr>
 </tbody></table>
-	<p>Student Councillors building teamwork through problem-solving and collaboration</p>
+
+Student Councillors building teamwork through problem-solving and collaboration
 
 <table style="width:100%">
   <tbody>
