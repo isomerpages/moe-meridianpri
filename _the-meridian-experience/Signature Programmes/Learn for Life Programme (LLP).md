@@ -62,6 +62,7 @@ Anchored on Kouzes and Posner’s Five Practices of Exemplary Leadership, we off
 	</ul>
 	
 <b>Class Leadership Committee (CLC)</b>
+<br>Every class has a team of student leaders, including:<br>
 <ul>
 	<li><b>Class Monitor</b> – Maintains class order and supports peers</li>
 	<li>ICT Leader</li>
