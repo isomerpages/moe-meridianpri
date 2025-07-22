@@ -83,7 +83,7 @@ Anchored on Kouzes and Posner’s Five Practices of Exemplary Leadership, we off
 <table style="width:100%">
   <tbody>
 		<tr>
-    <td><img src="/images/The%20Meridian%20Experience/LLP/2025LLP2.png" style="width:590px;height:290px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/LLP/2025LLP2.png" style="width:290px;height:290px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/LLP/2025LLP3.png" style="width:590px;height:290px;float:center">
   </td></tr>
 </tbody></table>
