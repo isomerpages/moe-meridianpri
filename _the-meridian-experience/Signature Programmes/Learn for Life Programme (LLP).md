@@ -30,7 +30,14 @@ Anchored on Kouzes and Posner’s Five Practices of Exemplary Leadership, we off
 
 <img src="/images/Signature%20Programme/2024%20Student%20Leadership/SL1.png" style="width:350px;height:400px;float:center">
 
-<p align="justify">At Meridian Primary School, every child is given the opportunity to learn leadership practices, hone leadership skills and serve the school and community. Leadership programmes are designed for the different tiers of students, catering to every child’s readiness levels. At lower primary, cohort leadership trainings are conducted for students to first learn the skills. At upper primary, cohort-based programmes are designed for students to apply their skills in the various projects and activities.</p>
+<p align="justify">We design our programmes to support students at every stage of their leadership growth:<br><br>
+•<b>	Lower Primary</b><br>
+• Learn basic leadership skills through class and level activities<br>
+• Build confidence in expressing opinions and making decisions<br><br>
+•	<b>Upper Primary</b><br>
+• Apply leadership in real-life projects and team activities<br>
+• Lead initiatives within class, school, and the wider community<br>
+</p>
 
 <h4>The Leadership Training Domains</h4>
 
