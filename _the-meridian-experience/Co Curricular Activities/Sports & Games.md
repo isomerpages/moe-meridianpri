@@ -8,7 +8,13 @@ variant: markdown
 <details>
   <summary><b>Floorball</b> <i>(For Boys and Girls)</i></summary>
 
-<p align="justify">Team Meridian Floorball aims to develop not only the players’ skills and playing strategies, but also their character.&nbsp;Through the training programme, we hope to grow every member to become a confident, adaptable and resilient individual.&nbsp;At the same time, understanding the importance of care, respect and teamwork. This is done through the close guidance of the coaches and teachers.</p>
+<p align="justify">Team Meridian Floorball is dedicated to nurturing not just talented athletes, but also individuals of strong character. Our CCA provides a vibrant and supportive environment where students can grow through sport — developing valuable life skills both on and off the court.</p>
+	
+<p align="justify">Floorball offers an excellent platform to build foundational physical and cognitive skills. These include hand-eye coordination, agility, spatial awareness, and quick decision-making. Through fun and engaging drills, students also develop sport-specific techniques such as dribbling, passing, shooting, and basic defensive positioning.</p>
+	
+<p align="justify">Just as important as the physical skills are the values we instill. Team Meridian Floorball emphasises respect, care, and teamwork — helping our members understand the importance of working together and supporting one another. As they train and compete, students also build confidence, resilience, and adaptability.</p>
+	
+<p align="justify">Guided closely by our passionate teachers and coaches, every player is encouraged to grow at their own pace, gaining not only skills in Floorball but also lessons that will serve them well beyond the game.</p>
 
 <table style="width:100%">
   <tbody>
