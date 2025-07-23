@@ -83,6 +83,16 @@ variant: markdown
 
 <br>
 
+<table style="width:100%">
+  <tbody>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Football/2025_Soccer_1.jpg" style="width:width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Football/2025_Soccer_2.jpg" style="width:width:350px;height:250px;float:center"></td>
+  </tr>
+</tbody></table>
+	
+<br>
+
 For enquiries on the school’s Football CCA, please email:<br>
 • <a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Jeyamohan</a><br>
 • <a href="mailto:Muhammad_Shakir_Sulaiman@moe.edu.sg">Mr Muhammad Shakir</a><br>
