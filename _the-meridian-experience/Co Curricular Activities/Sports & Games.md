@@ -67,21 +67,20 @@ variant: markdown
 
 <p><b>Highlights</b></p>
 
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Football/2023_Football1.png" style="width:450px;height:350px;float:center">
-
-
 <u>2023</u>
 <ul>
 	<li>U12 Senior NSG Football Tournament - Participation</li>
 	<li>U11 Junior NSG Football Tournament – 1st Classification Round</li>
 	<li>U11 Junior NSG Football Tournament – 3rd Tiered Round</li>
 </ul>
+	
+<u>2024</u>
+<ul>
+	<li>U12 Senior NSG Football Tournament - Participation</li>
+	<li>U11 Junior NSG Football Tournament – 1st Classification Round</li>
+	<li>U11 Junior NSG Football Tournament – 3rd Tiered Round</li>
+</ul>
 
-<u>Training Sessions:</u><br>
-Monday: 3:45 p.m. to 5:15 p.m. (for P4 to P6)
-
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jeisTTDw68E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 
 For enquiries on the school’s Football CCA, please email:<br>
