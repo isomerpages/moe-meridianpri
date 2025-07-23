@@ -8,14 +8,14 @@ variant: markdown
 <details>
   <summary><b>Chinese Dance</b> <i>(For Boys and Girls)</i></summary>
 	
-<p align="justify">The Chinese Dance CCA aims to teach students basic dance movements and techniques. It instills appreciation of dance, music and the beauty of Chinese cultural.&nbsp; The CCA is an excellent platform for the students to develop their motor skills through dance movement.&nbsp; It also builds the students’ self-confidence and inculcates values such as teamwork, cooperation and discipline in them. We welcome students who have interest in dance, music and the Chinese culture to join our dance group! </p>
+<p align="justify">The Chinese Dance CCA aims to teach students basic dance movements and techniques while fostering an appreciation for dance, music, and the beauty of Chinese culture. It serves as an excellent platform for students to develop motor skills through dance and movement.</p>
+
+<p align="justify">Beyond physical development, the CCA builds students’ self-confidence and nurtures important values such as teamwork, cooperation, and discipline. We warmly welcome students who are passionate about dance, music, and Chinese culture to join our vibrant dance group!</p>
 <br>
 
 <p><b>Highlights</b></p>
 
 <p>Students are given the opportunities to take part in the SYF Arts Presentation as well as in various community performances.</p>
-
-<p><b>Achievements</b></p>
 
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 
@@ -25,7 +25,7 @@ variant: markdown
 	<li>Prize Giving Day Performance</li>
 </ul>  
 
-<p>School Performances in 2024</p>
+<p>School Performances in 2024 and 2025</p>
 <ul>
   <li>Pasir Ris West Chinese New Year Dinner</li>
 </ul>  
@@ -33,35 +33,14 @@ variant: markdown
 <table style="width:100%">
   <tbody><tr>
 		</tr></tbody>
-    <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_1.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_2.jpg" style="width:350px;height:250px;float:center"></td>
+    <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese_Dance_1.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese_Dance_2.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
-			<tr><td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_CD1.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_CD2.jpg" style="width:350px;height:250px;float:center"></td>
-	</tr>
-</tbody></table>
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_CD3.jpg" style="width:350px;height:250px;">
-<p style="margin-bottom:0; margin-top:0; text-align:center;">SYF 2024</p>
-
-<br>
-
-<table style="width:100%">
-  <tbody><tr>
-		</tr></tbody>
-    <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-4.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_2.JPG" style="width:350px;height:250px;float:center"></td>
+			<tr><td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese_Dance_3.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese_Dance_4.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
 </tbody></table>
-<p style="margin-bottom:0; margin-top:0; text-align:center;">SYF 2022</p>
 
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_3_min.jpg" style="width:350px;height:250px;">
-<p style="margin-bottom:0; margin-top:0; text-align:center;">Prize Giving Day Performance</p>
-
-<br>
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_4.jpg" style="width:350px;height:420px;">
-<p style="margin-bottom:0; margin-top:0; text-align:center;">National  Day Celebration</p>
 
 For enquiries on the school’s Chinese Dance CCA, please email:<br>
 • <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a><br>
@@ -74,9 +53,12 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 <details>
   <summary><b>Guzheng</b> <i>(For Boys and Girls)</i></summary>
 
-<p align="justify">Guzheng (古筝), is a Chinese musical instrument that has a history dating back to 500 B.C. GU (古) in Chinese means, Old, long history. It is a&nbsp; popular instrument all over the world because of the elegant&nbsp; design. Learning Guzheng can help to develop the connection between left and right brain, because playing the Guzheng requires coordination of both the left hand and right hand. You can memorize better and be more attentive.</p>
+<p align="justify">Guzheng (古筝), is a Chinese musical instrument that has a history dating back to 500 B.C. GU (古) in Chinese means, old, long history. It is a popular instrument all over the world because of the elegant design.</p>
 
-<p align="justify">As our Guzheng is played in an ensemble , we value teamwork, unity, discipline and commitment, encouraging every member to work together, forge friendships and gain skills that will last a lifetime.</p>
+<p align="justify">In this CCA, students will learn foundational Guzheng techniques, including proper hand positioning, finger-plucking methods, and rhythm control. As they progress, they will also explore more complex pieces, enhance their musical expression, and develop ensemble playing skills. Through regular practice, students will strengthen their coordination, as playing the Guzheng requires both hands to work in harmony—helping to stimulate both sides of the brain, improve memory, and enhance concentration.</p>
+	
+<p align="justify">Our Guzheng ensemble emphasises teamwork, unity, discipline, and commitment. Students work together to achieve harmony in both music and friendship, gaining valuable life skills and forming bonds that extend beyond the CCA.</p>
+	
 <br>
 <p><b>Highlights</b></p>
 
@@ -87,22 +69,12 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 <table style="width:100%">
 
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-1.jpg" style="width:350px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-2.jpg" style="width:350px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng_1.jpg" style="width:350px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng_2.jpg" style="width:350px;height:220px;float:center"></td>
   </tr>
   <tr>
-		 <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-3.jpg" style="width:350px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-4.jpg" style="width:350px;height:220px;float:center"></td>
+		 <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng_3.jpg" style="width:350px;height:220px;float:center"></td>
   </tr>
-</tbody></table>
-
-<table style="width:100%">
-
-  <tbody><tr>
-    <td><iframe width="380" height="230" src="https://www.youtube.com/embed/9hWPPa1niQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
-    <td><iframe width="380" height="230" src="https://www.youtube.com/embed/SMTG7xx_Nsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
-	</tr>
-	
 </tbody></table>
 
 For enquiries on the school’s Guzheng CCA, please email:<br>
@@ -118,15 +90,17 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 
 <p align="justify"> Dancing is a unique form of exercise because it provides the heart-healthy benefits of an aerobic exercise while also allowing one to have fun. Dancing also helps to reduce stress, increase energy, improve strength and increase muscle tone and coordination.</p>
 
-<p align="justify">The Malay Dance CCA plays an important role in imparting the rich cultural Malay heritage, and developing grace, rhythm and discipline in our dancers through the performing arts. Through our CCA, members are nurtured to become confident and resilient individuals, who are also active team players and caring citizens. Members learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
+<p align="justify">The Malay Dance CCA plays an important role in preserving and sharing the rich Malay cultural heritage. Through graceful movements and rhythmic expressions, students develop not only dance techniques but also discipline, poise, and a deeper appreciation for the performing arts.</p>
+	
+<p align="justify">In this CCA, students are nurtured to become confident and resilient individuals, active team players, and caring members of the community. They learn to respect others, take responsibility for their learning, and cultivate a growth mindset—constantly striving to refine their skills and reach their fullest potential.</p>
 <br>
 <p><b>Highlights</b></p>
-
-<p><b>Achievements</b></p>
 	
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 <p>School-based Performance</p>
+<ul>
 <li>Prize-giving ceremonies</li>
+</ul>
 
 
 <p>Public performances</p>
@@ -139,16 +113,18 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 <table style="width:100%">
 
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%201.png" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%202.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/Malay_Dance_CCA__1_.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/Malay_Dance_CCA__2_.jpg" style="width:350px;height:250px;float:center"></td>
   </tr>
   <tr>
-		 <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%207.jpg" style="width:350px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD8.jpg" style="width:350px;height:220px;float:center"></td>
+		 <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/Malay_Dance_CCA__3_.jpg" style="width:350px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/Malay_Dance_CCA__4_.jpg" style="width:350px;height:220px;float:center"></td>
+  </tr>
+	<tr>
+		 <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%207.jpg" style="width:350px;height:220px;float:center"></td>
   </tr>
 </tbody></table>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3A6y1L_YQoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <br>
 For enquiries on the school’s Malay Dance CCA, please email:<br>
 • <a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a><br>
@@ -162,46 +138,32 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
   <summary><b>Show Choir</b> <i>(For Boys and Girls)</i></summary>
 
 
-<p align="justify">The Choir CCA is about integrating coordinated modern dance choreography with strong vocal singing skills. Regardless of musical background, we welcome all students who are interested in the CCA, and we provide a platform for them to discover and display their talents in Music, song, dance and leadership. We strive to nurture the passion and confidence for performing in our students by providing them with multiple opportunities both in and out of school.</p>
+<p align="justify">The Show Choir CCA combines vibrant modern dance choreography with strong vocal performance, creating a dynamic platform for students to express themselves through both music and movement.</p>
+
+<p align="justify">Whether students have prior musical experience or are just beginning their journey, all are welcome to join. We provide a supportive environment where they can explore and develop their talents in singing, dancing, and even leadership.</p>
+
+<p align="justify">Through regular training and performance opportunities—both within and beyond the school—students build confidence, teamwork, and stage presence. The Show Choir CCA aims to nurture a passion for the performing arts, helping students grow as expressive, enthusiastic, and empowered performers.</p>
 
 <p><b>Highlights</b></p>
 
-<p>School Performances in 2023</p>
+<p>Public Performances in 2024 and 2025</p>
 <ul>
-<li>National Day Celebrations</li>
-<li>Meridian Primary School Open House</li>
-<li>Children's Day and P3-P6 Prize-giving Day</li>
-</ul>
-
-<p>Public Performances in 2023</p>
-<ul>
-<li>Cerebral Palsy Alliance Singapore as part of Values-In-Action</li>
-<li>Green Oval Park Residents' Network Hari Raya Event</li>
 <li>Pasir Ris West Chinese New Year Dinner</li>
 </ul>
 
 <table style="width:100%">
 
-  <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%209.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%208.jpg" style="width:350px;height:250px;float:center"></td>
-  </tr>
-  <tr>
-		 <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%202.jpg" style="width:350px;height:250px;float:center"><center>Students work hard during their dance practice.</center></td>
-  </tr>
+  <tbody>
 	<tr>
-		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/2023_SC1.jpg" style="width:350px;height:250px;float:center"><center>Chinese New Year Performance @ Pasir Ris Elias CC.</center></td>
-		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/2023_SC2.jpg" style="width:350px;height:250px;float:center"><center>Green Oval Park Residents' Network Hari Raya Event</center></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/Show_Choir_1.jpg" style="width:350px;height:250px;float:center"></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/Show_Choir_2.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
 	<tr>
-		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/2023_SC3.png" style="width:350px;height:220px;float:center"><center>Performance during MPS Open House.</center></td>
-		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2010.jpg" style="width:350px;height:220px;float:center"><center>National Day Performance</center></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/show_choir_3.jpg" style="width:350px;height:220px;float:center"></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/Show_Choir_4.jpg" style="width:350px;height:220px;float:center"></td>
 	</tr>
 </tbody></table>
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YQdiFHXM7Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 For enquiries on the school’s Show Choir CCA, please email:<br>
 • <a href="mailto:alwin_tien_der-we@moe.edu.sg">Mr Alwin Tien</a><br>
