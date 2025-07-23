@@ -57,11 +57,11 @@ variant: markdown
 <details>
   <summary><b>Football</b> <i>(For Boys Only)</i></summary>
 
-<p align="justify">At the heart of our football team is a strong sense of teamwork. We believe that individual talent can only take us so far, but when combined with the collective effort of each player, we can achieve greatness. On the field, we move as one unit, supporting and encouraging each other to reach our common goals. Our victories are a testament to the power of teamwork, demonstrating that together, we are stronger.</p>
+<p align="justify">At Team Meridian, we believe that greatness is achieved not by individual brilliance alone, but through the collective strength of a united team. On the field, we move as one—each player supporting, encouraging, and elevating the others. Our victories are a testament to the power of collaboration and shared purpose.</p>
 
-<p align="justify"> In the face of challenges and setbacks, our team exemplifies resilience. The boys understand that the path to success is not always smooth, but it's the ability to bounce back and persevere that defines us. Whether trailing in a game or facing tough opponents, our players will show unwavering determination, never giving up until the final whistle. Resilience is a mindset that we cultivate within every member of our football family.</p>
+<p align="justify"> Success is not just about winning; it is about how we respond to setbacks. Our players embody resilience, bouncing back stronger after every challenge. Whether trailing in a match or facing tough opponents, we remain determined, never giving up until the final whistle. Resilience is a mindset we cultivate within every member of our football family.</p>
 
-<p align="justify">Those boys in football CCA are not just athletes; they are ambassadors of sportsmanship, integrity and fair play. Our players understand the importance of representing our school with pride and honor.</p>
+<p align="justify">Our players are more than athletes; they are ambassadors of sportsmanship, integrity, and fair play. Representing our school with pride and honor, they understand the importance of playing with respect for the game and each other.</p>
 
 <p align="justify">Join us in celebrating the values that define our football team – a brotherhood built on teamwork, resilience, and responsibility. Together, we strive for excellence and aim to leave a lasting legacy that extends far beyond the football field. Go Team Meridian!</p>
 
