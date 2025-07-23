@@ -33,11 +33,11 @@ variant: markdown
 <table style="width:100%">
   <tbody><tr>
 		</tr></tbody>
-    <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_1.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_2.jpg" style="width:350px;height:250px;float:center"></td>
+    <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese_Dance_1.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese_Dance_2.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
-			<tr><td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_CD1.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_CD2.jpg" style="width:350px;height:250px;float:center"></td>
+			<tr><td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese_Dance_3.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese_Dance_4.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
 </tbody></table>
 
