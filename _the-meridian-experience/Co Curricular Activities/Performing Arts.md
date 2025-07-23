@@ -90,15 +90,17 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 
 <p align="justify"> Dancing is a unique form of exercise because it provides the heart-healthy benefits of an aerobic exercise while also allowing one to have fun. Dancing also helps to reduce stress, increase energy, improve strength and increase muscle tone and coordination.</p>
 
-<p align="justify">The Malay Dance CCA plays an important role in imparting the rich cultural Malay heritage, and developing grace, rhythm and discipline in our dancers through the performing arts. Through our CCA, members are nurtured to become confident and resilient individuals, who are also active team players and caring citizens. Members learn to respect others and be responsible for their own learning. The growth mindset to constantly improve on one’s skills is built in the CCA.</p>
+<p align="justify">The Malay Dance CCA plays an important role in preserving and sharing the rich Malay cultural heritage. Through graceful movements and rhythmic expressions, students develop not only dance techniques but also discipline, poise, and a deeper appreciation for the performing arts.</p>
+	
+<p align="justify">In this CCA, students are nurtured to become confident and resilient individuals, active team players, and caring members of the community. They learn to respect others, take responsibility for their learning, and cultivate a growth mindset—constantly striving to refine their skills and reach their fullest potential.</p>
 <br>
 <p><b>Highlights</b></p>
-
-<p><b>Achievements</b></p>
 	
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 <p>School-based Performance</p>
+<ul>
 <li>Prize-giving ceremonies</li>
+</ul>
 
 
 <p>Public performances</p>
