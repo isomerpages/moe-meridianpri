@@ -113,16 +113,18 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 <table style="width:100%">
 
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%201.png" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%202.png" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/Malay_Dance_CCA__1_.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/Malay_Dance_CCA__2_.jpg" style="width:350px;height:250px;float:center"></td>
   </tr>
   <tr>
-		 <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%207.jpg" style="width:350px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD8.jpg" style="width:350px;height:220px;float:center"></td>
+		 <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/Malay_Dance_CCA__3_.jpg" style="width:350px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/Malay_Dance_CCA__4_.jpg" style="width:350px;height:220px;float:center"></td>
+  </tr>
+	<tr>
+		 <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Malay%20Dance/MD%207.jpg" style="width:350px;height:220px;float:center"></td>
   </tr>
 </tbody></table>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3A6y1L_YQoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <br>
 For enquiries on the school’s Malay Dance CCA, please email:<br>
 • <a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a><br>
