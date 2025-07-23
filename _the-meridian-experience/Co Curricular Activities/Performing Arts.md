@@ -17,8 +17,6 @@ variant: markdown
 
 <p>Students are given the opportunities to take part in the SYF Arts Presentation as well as in various community performances.</p>
 
-<p><b>Achievements</b></p>
-
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 
 <p>School Performances in 2023</p>
@@ -27,7 +25,7 @@ variant: markdown
 	<li>Prize Giving Day Performance</li>
 </ul>  
 
-<p>School Performances in 2024</p>
+<p>School Performances in 2024 and 2025</p>
 <ul>
   <li>Pasir Ris West Chinese New Year Dinner</li>
 </ul>  
@@ -42,28 +40,7 @@ variant: markdown
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_CD2.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
 </tbody></table>
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_CD3.jpg" style="width:350px;height:250px;">
-<p style="margin-bottom:0; margin-top:0; text-align:center;">SYF 2024</p>
 
-<br>
-
-<table style="width:100%">
-  <tbody><tr>
-		</tr></tbody>
-    <tbody><tr><td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/Chinese-Dance-4.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_2.JPG" style="width:350px;height:250px;float:center"></td>
-	</tr>
-</tbody></table>
-<p style="margin-bottom:0; margin-top:0; text-align:center;">SYF 2022</p>
-
-<br>
-
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_3_min.jpg" style="width:350px;height:250px;">
-<p style="margin-bottom:0; margin-top:0; text-align:center;">Prize Giving Day Performance</p>
-
-<br>
-<img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Chinese%20Dance/2024_Chinese_Dance_4.jpg" style="width:350px;height:420px;">
-<p style="margin-bottom:0; margin-top:0; text-align:center;">National  Day Celebration</p>
 
 For enquiries on the school’s Chinese Dance CCA, please email:<br>
 • <a href="mailto:li_cheng@moe.edu.sg">Mdm Li Cheng</a><br>
