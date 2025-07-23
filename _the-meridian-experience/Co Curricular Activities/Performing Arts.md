@@ -159,7 +159,7 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/Show_Choir_2.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
 	<tr>
-		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/Show_Choir_3.jpg" style="width:350px;height:220px;float:center"><center>Performance during MPS Open House.</center></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/show_choir_3.jpg" style="width:350px;height:220px;float:center"><center>Performance during MPS Open House.</center></td>
 		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/Show_Choir_4.jpg" style="width:350px;height:220px;float:center"><center>National Day Performance</center></td>
 	</tr>
 </tbody></table>
