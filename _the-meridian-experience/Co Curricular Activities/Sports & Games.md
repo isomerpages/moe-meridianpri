@@ -105,50 +105,11 @@ For enquiries on the school’s Football CCA, please email:<br>
 <details>
   <summary><b>Taekwondo</b> <i>(For Boys and Girls)</i></summary>
 
-<p align="justify">The Taekwondo CCA at Meridian Primary School aims to build students’ physical fitness and students’ foundation in Taekwondo Pattern (Poomsae). Taekwondo members will get a chance to participate in the annual competition such as the National School Games Taekwondo Competition or perform during the Year End Prize Presentation ceremony to gain experience and confidence. </p>
+<p align="justify">The Taekwondo Co-Curricular Activity (CCA) at Meridian Primary School focuses on enhancing students' physical fitness and establishing a solid foundation in Taekwondo Pattern (Poomsae). Members of the Taekwondo CCA have opportunities to participate in annual competitions, such as the National School Games Taekwondo Competition, or to showcase their skills during the Year-End Prize Presentation ceremony, helping them gain valuable experience and confidence.</p>
 
-<p align="justify">Other than learning the technical skill of Taekwondo’s self-defense, students will more importantly learn life values such as respect and discipline through our training. Our training focuses on developing the character of a student in a fun and encouraging way as we strongly believe that good attitude and character will aid a child in his/her learning.</p>
-
-
-<table style="width:100%">
-  <tbody>
-  <tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/2024_TKD_1.png" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/2024_TKD_2.png" style="width:350px;height:250px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/2024_TKD_3.png" style="width:450px;height:280px;float:center"><br></td>
-  </tr>
-</tbody></table>
+<p align="justify">Beyond acquiring technical self-defense skills, students also learn important life values like respect and discipline through their training. The program emphasizes character development in an enjoyable and supportive environment, as we firmly believe that a positive attitude and strong character contribute significantly to a child's learning journey.</p>
 
 <p><b>Highlights</b></p>
-
-<p><b>(National Schools Games Taekwondo Competition)</b></p>
-<u>2022</u>
-<br>Poomsae Category (Senior Division)
-<ul>
-	<li>Y8 individual girl: 3rd position (Naila Khalisya)</li>
-	<li>Y8 team girl: 3rd position (Naila Khalisya, Sakpal Tanishka &amp; Jeevana Nandakumar)</li>
-	<li>Y7 individual boy: 7th position (Rehan Iqbal Khan)</li>
-</ul>
-
-Poomsae Category (Junior Division)
-<ul>
-	<li>Y7 individual boy: 5th position (Drake Ryder Lee)</li>
-	<li>W9 individual girl: 6th position (Keira Lim)</li>
-	<li>W9 individual boy: 8th position (Thaddeus Tay)</li>
-</ul>
-
-<u>2023</u>
-<br>Poomsae Category (Senior Division)
-<ul><li>W9 individual girl: 2nd position (Aryshakie)</li>
-<li>W9 individual boy: 7th position (Hamizan)</li>
-</ul>
-
-Poomsae Category (Junior Division)
-<ul>
-	<li>Achievement Pin: Ariq Putra, Das Nirvana, Justin Toh, Tiago</li>
-</ul>
 
 <u>2024</u>
 <br>Poomsae Category (Senior Division)
@@ -159,6 +120,17 @@ Poomsae Category (Junior Division)
 <ul>	
 	<li>Junior Division Girls Green 5 (8th place) (Banaag Praise)</li>
 </ul>
+
+<table style="width:100%">
+  <tbody>
+  <tr>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/TKD_1.jpg" style="width:width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/TKD_2.jpg" style="width:width:350px;height:250px;float:center"></td>
+  </tr>
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Taekwondo/TKD_3.jpg" style="width:350px;height:250px;float:center"></td>
+  </tr>
+</tbody></table><br>
 
 For enquiries on the school’s Taekwondo CCA, please email:<br>
 • <a href="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a>
