@@ -138,46 +138,32 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
   <summary><b>Show Choir</b> <i>(For Boys and Girls)</i></summary>
 
 
-<p align="justify">The Choir CCA is about integrating coordinated modern dance choreography with strong vocal singing skills. Regardless of musical background, we welcome all students who are interested in the CCA, and we provide a platform for them to discover and display their talents in Music, song, dance and leadership. We strive to nurture the passion and confidence for performing in our students by providing them with multiple opportunities both in and out of school.</p>
+<p align="justify">The Show Choir CCA combines vibrant modern dance choreography with strong vocal performance, creating a dynamic platform for students to express themselves through both music and movement.</p>
+
+<p align="justify">Whether students have prior musical experience or are just beginning their journey, all are welcome to join. We provide a supportive environment where they can explore and develop their talents in singing, dancing, and even leadership.</p>
+
+<p align="justify">Through regular training and performance opportunities—both within and beyond the school—students build confidence, teamwork, and stage presence. The Show Choir CCA aims to nurture a passion for the performing arts, helping students grow as expressive, enthusiastic, and empowered performers.</p>
 
 <p><b>Highlights</b></p>
 
-<p>School Performances in 2023</p>
+<p>Public Performances in 2024 and 2025</p>
 <ul>
-<li>National Day Celebrations</li>
-<li>Meridian Primary School Open House</li>
-<li>Children's Day and P3-P6 Prize-giving Day</li>
-</ul>
-
-<p>Public Performances in 2023</p>
-<ul>
-<li>Cerebral Palsy Alliance Singapore as part of Values-In-Action</li>
-<li>Green Oval Park Residents' Network Hari Raya Event</li>
 <li>Pasir Ris West Chinese New Year Dinner</li>
 </ul>
 
 <table style="width:100%">
 
-  <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%209.jpg" style="width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%208.jpg" style="width:350px;height:250px;float:center"></td>
-  </tr>
-  <tr>
-		 <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%202.jpg" style="width:350px;height:250px;float:center"><center>Students work hard during their dance practice.</center></td>
-  </tr>
+  <tbody>
 	<tr>
-		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/2023_SC1.jpg" style="width:350px;height:250px;float:center"><center>Chinese New Year Performance @ Pasir Ris Elias CC.</center></td>
-		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/2023_SC2.jpg" style="width:350px;height:250px;float:center"><center>Green Oval Park Residents' Network Hari Raya Event</center></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/Show_Choir_1.jpg" style="width:350px;height:250px;float:center"></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/Show_Choir_2.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
 	<tr>
-		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/2023_SC3.png" style="width:350px;height:220px;float:center"><center>Performance during MPS Open House.</center></td>
-		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/SC%2010.jpg" style="width:350px;height:220px;float:center"><center>National Day Performance</center></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/Show_Choir_3.jpg" style="width:350px;height:220px;float:center"><center>Performance during MPS Open House.</center></td>
+		<td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Show%20Choir/Show_Choir_4.jpg" style="width:350px;height:220px;float:center"><center>National Day Performance</center></td>
 	</tr>
 </tbody></table>
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YQdiFHXM7Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 For enquiries on the school’s Show Choir CCA, please email:<br>
 • <a href="mailto:alwin_tien_der-we@moe.edu.sg">Mr Alwin Tien</a><br>
