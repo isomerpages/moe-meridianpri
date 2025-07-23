@@ -53,9 +53,12 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
 <details>
   <summary><b>Guzheng</b> <i>(For Boys and Girls)</i></summary>
 
-<p align="justify">Guzheng (古筝), is a Chinese musical instrument that has a history dating back to 500 B.C. GU (古) in Chinese means, Old, long history. It is a&nbsp; popular instrument all over the world because of the elegant&nbsp; design. Learning Guzheng can help to develop the connection between left and right brain, because playing the Guzheng requires coordination of both the left hand and right hand. You can memorize better and be more attentive.</p>
+<p align="justify">Guzheng (古筝), is a Chinese musical instrument that has a history dating back to 500 B.C. GU (古) in Chinese means, old, long history. It is a popular instrument all over the world because of the elegant design.</p>
 
-<p align="justify">As our Guzheng is played in an ensemble , we value teamwork, unity, discipline and commitment, encouraging every member to work together, forge friendships and gain skills that will last a lifetime.</p>
+<p align="justify">In this CCA, students will learn foundational Guzheng techniques, including proper hand positioning, finger-plucking methods, and rhythm control. As they progress, they will also explore more complex pieces, enhance their musical expression, and develop ensemble playing skills. Through regular practice, students will strengthen their coordination, as playing the Guzheng requires both hands to work in harmony—helping to stimulate both sides of the brain, improve memory, and enhance concentration.</p>
+	
+<p align="justify">Our Guzheng ensemble emphasises teamwork, unity, discipline, and commitment. Students work together to achieve harmony in both music and friendship, gaining valuable life skills and forming bonds that extend beyond the CCA.</p>
+	
 <br>
 <p><b>Highlights</b></p>
 
@@ -70,18 +73,8 @@ For enquiries on the school’s Chinese Dance CCA, please email:<br>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-2.jpg" style="width:350px;height:220px;float:center"></td>
   </tr>
   <tr>
-		 <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-3.jpg" style="width:350px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-4.jpg" style="width:350px;height:220px;float:center"></td>
+		 <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Performing%20Arts/Guzheng/Guzheng-3.jpg" style="width:350px;height:220px;float:center"></td>
   </tr>
-</tbody></table>
-
-<table style="width:100%">
-
-  <tbody><tr>
-    <td><iframe width="380" height="230" src="https://www.youtube.com/embed/9hWPPa1niQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
-    <td><iframe width="380" height="230" src="https://www.youtube.com/embed/SMTG7xx_Nsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
-	</tr>
-	
 </tbody></table>
 
 For enquiries on the school’s Guzheng CCA, please email:<br>
