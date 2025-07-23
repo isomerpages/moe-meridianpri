@@ -87,7 +87,7 @@ variant: markdown
   <tbody>
   <tr>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Football/2025_Soccer_1.jpg" style="width:width:350px;height:250px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Football/2025_Soccer_2.jpg" style="width:width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/Football/2025_Soccer_2.jpg" style="width:width:300px;height:250px;float:center"></td>
   </tr>
 </tbody></table>
 	
