@@ -45,9 +45,11 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 <details>
   <summary><b>Infocomm Technology (Computing)</b> <i>(For Boys and Girls)</i></summary>
 
-<p align="justify">Infocomm Technology (Computing) aims to excite students about technology in an engaging and meaningful way by helping them to learn coding skills and to cultivate leadership and entrepreneurship capabilities at an early age.</p>
+<p align="justify">The Infocomm Technology (Computing) CCA aims to spark students’ interest in technology through engaging, hands-on learning experiences. Students are introduced to coding and digital skills in a fun and meaningful way, while also developing leadership and entrepreneurial mindsets from an early age.</p>
 
-<p align="justify">Technology is a huge part of children’s life today. It is essential for students to learn how to design, develop and communicate with digital technology. Learning to code allow learners to learn computational thinking which enables them to develop cognitive skills and to learn logical and sequential thought processes.</p>
+<p align="justify">In today’s digital world, technology plays a significant role in students’ everyday lives. This CCA equips them with essential skills to design, develop, and communicate effectively using digital tools. By learning to code, students gain valuable computational thinking skills—such as logical reasoning, problem-solving, and the ability to break down complex tasks into manageable steps.</p>
+	
+<p align="justify">Through various projects and challenges, students learn to think critically and creatively, preparing them to thrive in a tech-driven future.</p>
 
 <p><b>Highlights</b></p>
 <ul>
@@ -59,17 +61,15 @@ For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/RC%203.jpg" style="width:370px;height:220px;float:center"><p style="line-height:1.2em; font-size: 16px; text-align:center;">Student testing the code to see if it can sense the intensity of light accurately.</p></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/2024_RC1.jpg" style="width:370px;height:220px;float:center"><p style="line-height:1em; font-size: 16px; text-align: center;">Students were taught to code “scissors, paper, stone” game in mblock.</p></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/RC%203.jpg" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/2024_RC1.jpg" style="width:370px;height:220px;float:center"></td>
   </tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/2024_RC2.jpg" style="width:370px;height:420px;float:center"><p style="line-height:1.2em; font-size: 16px; text-align:center;">Students learnt to code the robots to ensure they can avoid collision using sensors; robots are able to sense the colours on the ground to move accordingly.</p></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Technology%20(Computing)/2024_RC2.jpg" style="width:370px;height:420px;float:center"></td>
   </tr>
 </tbody></table>
 
 
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AIP-mk5-sF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 For enquiries on the school’s Infocomm Technology (Computing), please email:<br>
 • <a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi</a><br>
