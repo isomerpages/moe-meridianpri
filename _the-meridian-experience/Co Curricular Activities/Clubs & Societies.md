@@ -27,13 +27,14 @@ variant: markdown
 <table style="width:100%">
 
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Eco%20Enviro%20Science%20Club/Eco%203.jpg" style="width:350px;height:250px;float:center"><center>Pupils in action doing outdoor field-based research</center></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Eco%20Enviro%20Science%20Club/Eco%204.jpg" style="width:350px;height:250px;float:center"><center>Pupils in action doing Science experiments</center></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Eco%20Enviro%20Science%20Club/Science_Club_1.jpg" style="width:350px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Eco%20Enviro%20Science%20Club/Science_Club_2.jpg" style="width:350px;height:250px;float:center"></td>
 	</tr>
-	
+	<tr>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Eco%20Enviro%20Science%20Club/Science_Club_3.jpg" style="width:350px;height:250px;float:center"></td>
+   	</tr>
 </tbody></table>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2nmR69jel_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 • <a href="mailto:chua_ee_lyn@moe.edu.sg">Mdm Chua Ee Lyn </a><br>
