@@ -83,10 +83,12 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 <details>
   <summary><b>Infocomm Technology (Media Production)</b> 	<i>(For Boys and Girls)</i></summary>
 	
-<p align="justify">To provide a platform for our students to take good photos and product the good videos through our CCA, Media Production. At the Media Production CCA, students get to learn photography, videography and editing skills. They can take part in some competitions every year, for example, SDMA (MOE), National Primary Schools Photography Competition and National Photography Festival (Primary Schools).</p>
+<p align="justify">In the Media Production CCA, students take photos around the school to capture beautiful moments, which helps them develop their photography skills. They also learn photo editing and the basics of video production. This hands-on experience goes beyond technical skills—it encourages students to appreciate the artistic value of photos and videos, helping them truly understand the essence of art through photography.</p>
 
-<p><b>Award</b></p>
+<p align="justify">Additionally, the activity places a strong emphasis on teamwork. Students collaborate, respect one another, and build stronger relationships through communication and cooperation. With guidance from their teachers, they learn to respect their mentors and pass on their knowledge to younger students. These experiences embody the school’s core values, supporting students’ growth in both artistic creativity and personal character.</p>
 
+<p><b>Highlights</b></p>
+	
 <table style="width:100%">
   <tbody><tr>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/2024_IT1.jpg" style="width:470px;height:290px;float:center"></td>
