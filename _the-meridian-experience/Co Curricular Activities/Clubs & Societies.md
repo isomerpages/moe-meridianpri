@@ -89,39 +89,25 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 
 <p><b>Highlights</b></p>
 	
+<p>1. Photos for Our Schools Our Stories (OSOS) contest used for MOE’s publicity<br>
+ 2. Champion Award (National Photo Competition 2023)<br>
+ 3. Runner-Up Award (National Photo Competition 2023<br>
+4. 2 Merit Award (National Photo Competition 2023)<br></p>
+	
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/2024_IT1.jpg" style="width:470px;height:290px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/2024_IT2.jpg" style="width:470px;height:290px;float:center">
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/Media_Production_1.jpg" style="width:470px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/Media_Production_2.jpg" style="width:470px;height:350px;float:center">
 </td>
   </tr>
 		<tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/2024_IT3.jpg" style="width:470px;height:290px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/2024_IT4.jpg" style="width:470px;height:290px;float:center">
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/Media_Production_3.jpg" style="width:470px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/Media_Production_4.jpg" style="width:470px;height:250px;float:center">
 </td>
-  </tr>
-		<tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/2024_IT5.jpg" style="width:470px;height:290px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/2024_IT6.jpg" style="width:470px;height:290px;float:center">
-</td>
-  </tr>
-	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Info%20Tech%20(Media%20Production)/2024_IT7.jpg" style="width:470px;height:300px;float:center"></td>
   </tr>
 </tbody></table>
 
 <br>
-
-<table style="width:100%">
-
-  <tbody><tr>
-    <td><iframe width="350" height="250" src="https://www.youtube.com/embed/QkFtyFj37kQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
-    <td><iframe width="350" height="250" src="https://www.youtube.com/embed/moC09M9LGgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></td>
-	</tr>
-	
-</tbody></table><br>
-
-
 For enquiries on the school’s Photography and Videography CCA, please email:<br>
 • <a href="mailto:ng_yin_hung@moe.edu.sg">Mr Ng Yin Hung</a><br>
 •  <a href="mailto:ho_kwai_ming@moe.edu.sg">Mr Jeremy Ho</a>
