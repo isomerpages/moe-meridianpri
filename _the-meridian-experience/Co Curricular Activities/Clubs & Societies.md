@@ -8,11 +8,13 @@ variant: markdown
 <details>
   <summary><strong>Eco-Enviro Science Club</strong> <i>(For Boys and Girls)</i></summary>
 
-<p align="justify"> The Eco-Enviro Science Club provides students with the opportunity to learn Science through hands-on interaction. Students are exposed to topics such as environmental conservation, habitat reforestation and global warning. Students also get to learn extension to topics beyond the usual curriculum such as how volcanoes erupt and sublimation.</p>
+<p align="justify"> The Eco-Enviro Science Club offers students a hands-on approach to learning Science, encouraging curiosity and exploration beyond the classroom. Through engaging activities and real-world applications, students gain deeper insights into environmental conservation, habitat reforestation, and the impact of global warming.</p>
 
-<p align="justify">Students also conduct field research by monitoring the population of various bird species in the school compound. Through observation, investigation and research, students get to learn more about protecting our environment&nbsp;and the different ways to enhance our natural biodiversity.</p>
+<p align="justify">Students also explore fascinating topics that extend beyond the standard curriculum, such as volcanic eruptions, sublimation, and other natural phenomena. One of the highlights of the programme includes field research, where students monitor bird populations within the school grounds. These observations allow them to investigate biodiversity and understand the importance of protecting our ecosystems.</p>
 
-<p align="justify">By exposing students to a wide range of Science topics, we believe that students will grow up to be one who enjoys learning Science and cares for the environment.</p>
+<p align="justify">Through research, investigation, and active learning, students are empowered to become environmental stewards—developing a strong appreciation for nature and a commitment to sustainability.</p>
+	
+<p align="justify">By exposing students to a wide range of Science topics in an engaging and meaningful way, we aim to nurture a lifelong love for Science and a deep sense of responsibility for the environment.</p>
 
 <p><b>Highlights</b></p>
 
