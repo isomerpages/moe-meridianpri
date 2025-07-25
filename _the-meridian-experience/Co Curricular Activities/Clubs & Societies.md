@@ -141,6 +141,10 @@ Our Art Club members have enjoyed activities such as tie and dye, fashion design
   </tr>
 </tbody></table>
 
+<b>SYF Results</b><br>
+2021 – Certificate of Recognition<br>
+2023 - Certificate of Recognition
+
 
 <br>
 For enquiries on the school’s &nbsp;Art Club CCA, please email:<br>
