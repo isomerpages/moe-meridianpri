@@ -26,11 +26,11 @@ variant: markdown
 <table style="width:100%">
 
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts_1.jpg" style="width:450px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts_2.jpg" style="width:450px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts_1.jpg" style="width:450px;height:250px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts_2.jpg" style="width:450px;height:250px;float:center"></td>
 	</tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts_3.jpg" style="width:250px;height:210px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts_3.jpg" style="width:250px;height:250px;float:center"></td>
 	</tr>
 </tbody></table>
 
