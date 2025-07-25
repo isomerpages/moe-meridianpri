@@ -133,7 +133,7 @@ Our Art Club members have enjoyed activities such as tie and dye, fashion design
 	
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/Art_Club_1.jpg" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/Art_Club_1.jpg" style="width:370px;height:250px;float:center"></td>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/Art_Club_2.jpg" style="width:370px;height:220px;float:center"></td>
   </tr>
 	<tr>
