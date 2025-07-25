@@ -130,16 +130,11 @@ Our Art Club members have enjoyed activities such as tie and dye, fashion design
 
 <p align="justify">The Art Club collaborates with Pasir Ris NLB in a yearly event, hoping to reach out to the public to share simple Art-making activities while promoting the Art books available for loan at the library. Apart from that, Art Club members also have the opportunity to take part in the bi-annual Singapore Youth Festival (SYF) Art Competition.</p>
 
-
-	
-<b>Our SYF Team 2022</b><br>
-	2021 – Certificate of Recognition<br>
-	
 	
 <table style="width:100%">
   <tbody><tr>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC1.jpg" style="width:370px;height:220px;float:center"></td>
-    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC2.jpg" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/Art_Club_1.jpg" style="width:370px;height:220px;float:center"></td>
+    <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/Art_Club_2.jpg" style="width:370px;height:220px;float:center"></td>
   </tr>
 	<tr>
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2023/AC3.jpg" style="width:370px;height:220px;float:center"></td>
