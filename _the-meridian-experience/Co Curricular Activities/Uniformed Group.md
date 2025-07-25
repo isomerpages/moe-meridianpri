@@ -30,7 +30,7 @@ variant: markdown
     <td><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts_2.jpg" style="width:450px;height:220px;float:center"></td>
 	</tr>
 	<tr>
-    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts_3.jpg" style="width:250px;height:320px;float:center"></td>
+    <td colspan="2"><img src="/images/The%20Meridian%20Experience/Co%20Curricular%20Activities/Uniformed%20Group/Scouts/Scouts_3.jpg" style="width:250px;height:210px;float:center"></td>
 	</tr>
 </tbody></table>
 
