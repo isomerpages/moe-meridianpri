@@ -205,9 +205,23 @@ Students also write their level’s <b>Growth Mindset statement</b> in their <b>
 </div>
 </td>
 </tr>
-
 </tbody>
 </table>
+<p align="justify">Through these school-based initiatives, values are not only taught but lived. The infusion of school values into daily practices ensures <b>greater impact, relevance, and continuity</b>.</p>
+
+<p align="justify"><b>CCE Curriculum Content</b><br>Our curriculum content is based on the three big ideas of Identity, Relationships, and Choices, and comprise the teaching and learning of core values, and social-emotional competencies with a focus on developing a sense of purpose in our students. These fundamentals are taught and applied in the following contemporary contexts 
+</p>
+
+<p align="justify"><b>National Education (NE)</b><br>NE is a vital part of CCE, aimed at helping students explore their national identity, understand Singapore’s unique challenges, and foster a sense of hope and belonging. Through various school efforts, NE encourages students to develop a strong connection to Singapore and motivates them to become active citizens who contribute to their families, school, and communities.
+NE in CCE empowers students by inspiring critical thinking and social awareness, helping them become informed and engaged citizens who understand local, regional, and global issues.<br><br>
+By working closely with parents and community stakeholders, we create a supportive network to build a strong character foundation in every student. At Meridian Primary, we truly believe that “it takes a whole village to raise a child.”<br>
+Through this collective effort, every student becomes:<br>
+<b>A Meridian of Promise</b> — full of potential and integrity<br>
+<b>A Meridian Navigator</b> — guided by values and purpose<br>
+<b>A Meridian Leader</b> — ready to inspire and make a positive impact
+
+
+</p>
 
 <p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s CCE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
