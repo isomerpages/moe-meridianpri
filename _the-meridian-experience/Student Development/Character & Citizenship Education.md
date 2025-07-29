@@ -5,17 +5,13 @@ description: ""
 third_nav_title: Student Development
 variant: markdown
 ---
-<h4 style="margin-bottom:0; margin-top:1;"> Vision</h4>
-
-<p align="justify">Students to have the knowledge, skills, values and attitudes to develop strong character (social well-being), strong mind (mental well-being) and strong bodies (physical well-being).</p>
-
-#### Approach
-<p align="justify">In line with the school’s motto, To Learn, To Love and To Lead, the Character &amp; Citizenship Education focuses on a school-wide approach to help students
+<h4>Our Approach</h4>
+<p align="justify">In line with the school’s motto, To Learn, To Love and To Lead, Character &amp; Citizenship Education (CCE) at Meridian Primary School adopts a whole-school approach to nurture students with the knowledge, skills, values and attitudes to develop into confident, compassionate, and responsible individuals. Our CCE programme is designed to help students:
 </p><ul>
-	<li>build a strong character to know right from wrong, self-regulate, work as a team, fair, forgiving and honest</li>
-	<li> have a sense of gratitude and appreciation to make contribution to the community</li>
-	<li>have a resilient mindset to cope with life's ups and downs and be confident</li>
-	<li>take responsibility for oneself and for others as appropriate</li>
+	<li><b>Build strong character</b> by knowing right from wrong, regulating their behaviour, collaborating with others, and demonstrating fairness, honesty, and forgiveness</li>
+	<li> <b>Develop a sense of gratitude and appreciation</b>, empowering them to make meaningful contributions to the community</li>
+	<li><b>Cultivate a resilient mindset</b> to navigate life’s challenges with confidence</li>
+	<li><b>Take responsibility</b> for themselves and others in appropriate and thoughtful ways</li>
 </ul>
 <p></p>
   
