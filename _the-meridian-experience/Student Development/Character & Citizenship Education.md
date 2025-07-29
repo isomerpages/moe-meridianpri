@@ -121,9 +121,39 @@ variant: markdown
 	<li> How to approach challenges with confidence and optimism</li>
 	<li>Practical <b>strategies</b> for self-management, goal setting, and seeking help when needed</li>
 </ul><p></p>
-<p align="justify">Each level adopts a Growth Mindset statement for the year. This statement is displayed in all classrooms and serves as a consistent reference point for teachers and students. 
-Students also write their level’s Growth Mindset statement in their Student Handbook under Goals for Growth to reflect on their personal development. This reinforces a shared message across the school and encourages habits of success.
+<p align="justify">Each level adopts a <b>Growth Mindset statement</b> for the year. This statement is displayed in all classrooms and serves as a consistent reference point for teachers and students. 
+Students also write their level’s <b>Growth Mindset statement</b> in their <b>Student Handbook</b> under Goals for Growth to reflect on their personal development. This reinforces a shared message across the school and encourages habits of success.
 </p>
+
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_7.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_8.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_9.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+
 
 <p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s CCE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
