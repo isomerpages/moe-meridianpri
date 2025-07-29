@@ -45,9 +45,9 @@ variant: markdown
 	<li>Promoting <b>pro-social behaviour</b> such as empathy, cooperation, and respect</li>
 	<li> Addressing and correcting <b>inappropriate behaviour</b> through guided reflection and positive reinforcement</li>
 	<li>Replacing negative behaviours with positive actions to foster a supportive classroom culture</li>
-</ul>
+</ul><p></p>
 
-<p>To support this, specially curated <b>lesson packages</b> are delivered during <b>CCE FTGP periods</b>, ensuring age-appropriate and structured learning experiences. Additionally, <b>Social Skills cards and posters</b> are prominently displayed in classrooms and around the school to reinforce learning, serve as visual reminders, and encourage consistent application of these skills in daily interactions.</p>
+<p align="justify">To support this, specially curated <b>lesson packages</b> are delivered during <b>CCE FTGP periods</b>, ensuring age-appropriate and structured learning experiences. Additionally, <b>Social Skills cards and posters</b> are prominently displayed in classrooms and around the school to reinforce learning, serve as visual reminders, and encourage consistent application of these skills in daily interactions.</p>
 
 <table style="minWidth: 50px">
 <colgroup>
@@ -111,11 +111,19 @@ variant: markdown
 </div>
 <p>On-the Job Training with OSOs</p>
 </td>
-
 </tr>
 </tbody>
 </table>
 
+<p align="justify"><b>Growth Mindset Culture</b><br>Students are taught that everyone is capable of growth — that our brains are like muscles which grow stronger through challenge and effort. We encourage a <b>resilient attitude</b> towards learning, where students are taught:
+</p><ul>
+	<li>The value of <b>discipline</b> and perseverance</li>
+	<li> How to approach challenges with confidence and optimism</li>
+	<li>Practical <b>strategies</b> for self-management, goal setting, and seeking help when needed</li>
+</ul><p></p>
+<p align="justify">Each level adopts a Growth Mindset statement for the year. This statement is displayed in all classrooms and serves as a consistent reference point for teachers and students. 
+Students also write their level’s Growth Mindset statement in their Student Handbook under Goals for Growth to reflect on their personal development. This reinforces a shared message across the school and encourages habits of success.
+</p>
 
 <p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s CCE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
