@@ -74,6 +74,48 @@ variant: markdown
 </tbody>
 </table>
 
+<p align="justify"><b>Education Career Guidance</b><br>As part of Education Career Guidance, we have the Mystery Lesson, where we invite a speaker to share their professional journey with students. The speaker discusses their job, what fuels their passion, the values required for success in their field, and the challenges they encounter. This session offers students valuable insights into various careers, helping them understand what it takes to pursue their own aspirations.</p>
+
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_3.png">
+</div>
+<p></p>
+<p>Passion in Playing the Guitar</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_4.png">
+</div>
+<p>Physiotherapist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_5.png">
+</div>
+<p></p>
+<p>NParks</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_6.png">
+</div>
+<p>On-the Job Training with OSOs</p>
+</td>
+
+</tr>
+</tbody>
+</table>
+
 
 <p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s CCE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
