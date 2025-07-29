@@ -154,6 +154,60 @@ Students also write their level’s <b>Growth Mindset statement</b> in their <b>
 </tbody>
 </table>
 
+<p align="justify"><b>Grateful Monday</b><br>To kickstart the week on a positive note, <b>Grateful Monday</b> is introduced as a school-wide practice. Every first Monday of the month, the School Leaders and respective Key Personnel come together to share a message of gratitude with the students. This initiative encourages students to: 
+</p><ul>
+	<li>Begin with a <b>grateful heart</b> and a <b>positive mindset</b></li>
+	<li> Appreciate the <b>simple joys</b> and beauty in everyday life — often things we might otherwise take for granted</li>
+	<li>Reflect on and apply the school values meaningfully in their daily lives</li>
+</ul><p>This reinforces gratitude and mindfulness while nurturing emotional wellness and optimism across the school community.</p>
+
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_10.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_11.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_12.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_13.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_14.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_15.png">
+</div>
+</td>
+</tr>
+
+</tbody>
+</table>
 
 <p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s CCE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
