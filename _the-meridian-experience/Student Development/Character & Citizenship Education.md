@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Student Development
 variant: markdown
 ---
-<h4>Our Approach</h4>
+<h4>Approach</h4>
 <p align="justify">In line with the school’s motto, To Learn, To Love and To Lead, Character &amp; Citizenship Education (CCE) at Meridian Primary School adopts a whole-school approach to nurture students with the knowledge, skills, values and attitudes to develop into confident, compassionate, and responsible individuals. Our CCE programme is designed to help students:
 </p><ul>
 	<li><b>Build strong character</b> by knowing right from wrong, regulating their behaviour, collaborating with others, and demonstrating fairness, honesty, and forgiveness</li>
@@ -25,117 +25,55 @@ variant: markdown
 </ul>
 <p></p>
 
-<h4>Key Programmes</h4>
+<h4>Key Departmental Programmes</h4>
 
-CCE MTL  <br>
-CCE FTGP  <br>
-Education Career Guidance <br>
-Cyber Wellness Education <br>
-Sexuality Education  <br>
-Peer Support &amp; Relationships <br>
-Assembly Period <br>
-Social Skills <br>
-School Values Programme <br>
-Growth Mindset <br>
-My Meridian Experience <br>
+<b>Enactment of CCE</b>
 
-#### Photos for Education Career Guidance
+<p align="justify">This holistic development is achieved through both <b>Instructional</b> and <b>Co-Instructional Programmes</b>, using platforms such as:
+</p><ul>
+	<li>CCE FTGP (Form Teacher Guidance Period) Lessons</li>
+	<li> Key Student Development Experiences (SDEs)</li>
+	<li>School-based initiatives</li>
+	<li>Opportunities for personal application of values in real-life contexts</li>
+</ul>
+<p></p>
 
-<table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE1.png" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE2.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-	<tr>
-    <td><br><br><img src="/images/CCE/2024%20CCE/2024_CCE3.png" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE4.png" style="width:280px;height:330px;float:center"></td>
-  </tr>
-</tbody></table>
-<p style="margin-bottom:0; margin-top:0; text-align:center;">P1 ECG Programme</p>
+<b>School-based Initiatives</b>
 
-<br>
-<table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE5.png" style="width:390px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE6.png" style="width:390px;height:230px;float:center"></td>
-  </tr>
-	<tr>
-    <td><br><br><img src="/images/CCE/2024%20CCE/2024_CCE8.png" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE7.png" style="width:280px;height:330px;float:center"></td>
-  </tr>
-</tbody></table>
-<p style="margin-bottom:0; margin-top:0; text-align:center;">P2 ECG Programme</p>
+<p align="justify"><b>Social Skills</b><br>We focus on helping students develop <b>social effectiveness</b> by:
+</p><ul>
+	<li>Promoting <b>pro-social behaviour</b> such as empathy, cooperation, and respect</li>
+	<li> Addressing and correcting <b>inappropriate behaviour</b> through guided reflection and positive reinforcement</li>
+	<li>Replacing negative behaviours with positive actions to foster a supportive classroom culture</li>
+</ul>
 
-<br>
-<table style="width:100%">
-  <tbody><tr>
-		</tr><tr>
-    <td colspan="2"><p align="justify">Students "encourage the heart" by affirming our OSOs&nbsp;through the presentation of the class' gratitude board.
-After a week of on the job training with the OSOs during recess, the students reflect on how they can "model the way" by helping their teachers/peers in school or their family members at home.</p></td>
-	</tr>
-    <tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE9.png" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE10.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-	<tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE11.png" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE12.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-</tbody></table>
-<p style="margin-bottom:0; margin-top:0; text-align:center;">P3 ECG Programme</p>
+<p>To support this, specially curated <b>lesson packages</b> are delivered during <b>CCE FTGP periods</b>, ensuring age-appropriate and structured learning experiences. Additionally, <b>Social Skills cards and posters</b> are prominently displayed in classrooms and around the school to reinforce learning, serve as visual reminders, and encourage consistent application of these skills in daily interactions.</p>
 
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_1.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_2.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 
-#### Photos for Peer Support &amp; Relationships
-
-
-<b>Peer Support and Relationships Termly Training Sessions</b><br>
-During the termly Peer Support Leaders (PSLs) sessions, students have a better understanding of their roles &amp; responsibilities as a Peer Support Leader (PSL). Teachers also engage the Peer Support Leaders (PSLs) in discussions of case scenarios &amp; ways to support their peers.
-<br>
-<table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE13.png" style="width:380px;height:230px;float:center"></td>
-   <td><img src="/images/CCE/2024%20CCE/2024_CCE14.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-</tbody></table>
-
-
- During the Cybersecurity Workshop by CSA, Peer Support Leaders (PSLs) learnt practical tips to protect themselves and devise ways to raise awareness of good cyber hygiene habits among their peers.
-<br>
-<table style="width:100%">
-  <tbody><tr>
-    <td><br><br><img src="/images/CCE/2024%20CCE/2024_CCE15.png" style="width:380px;height:230px;float:center"></td>
-   <td><img src="/images/CCE/2024%20CCE/2024_CCE16.png" style="width:280px;height:330px;float:center"></td>
-  </tr>
-		<tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE17.png" style="width:380px;height:230px;float:center"></td>
-   <td><img src="/images/CCE/2024%20CCE/2024_CCE18.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-</tbody></table>
-
-
-A Learning Journey to DBS Asia Hub where Peer Support Leaders (PSLs) learnt how cybersecurity is practised in real-life through station-booths &amp; hands-on activities.
-<br>
-<table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE19.png" style="width:380px;height:230px;float:center"></td>
-   <td><img src="/images/CCE/2024%20CCE/2024_CCE20.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-		<tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE21.png" style="width:380px;height:230px;float:center"></td>
-   <td><img src="/images/CCE/2024%20CCE/2024_CCE22.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-</tbody></table>
-<br>
-<table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE23.png" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE24.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><img src="/images/CCE/2024%20CCE/2024_CCE25.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-</tbody></table>
-<p style="margin-bottom:1; margin-top:0; text-align:center;">P5 - Cheering P6s on for PSLE <br> Designing of Motivational Posters</p>
 
 <p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s CCE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
