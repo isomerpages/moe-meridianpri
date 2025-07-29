@@ -15,13 +15,17 @@ variant: markdown
 </ul>
 <p></p>
   
-<p align="justify">MPS strongly believes in developing students socially and morally in a Caring &amp; Enabling School &nbsp;environment that is rich in the culture of care. Guided by the school’s Mission, Vision, Values, Motto and Philosophy and Strategic Thrust 2, the school-based curriculum is customised to create positive student experiences and student engagement.</p>
+<p align="justify">We are deeply committed to the social and moral development of our students within a <b>Caring and Enabling School Environment</b> — one that is rooted in a strong <b>culture of care</b>. Guided by our school’s <b>Mission, Vision, Values, Motto, Philosophy, and Strategic Thrust 2</b>, our school-based curriculum is thoughtfully customised to provide positive and meaningful student experiences.</p>
 
-<p align="justify">This is done through both the Instructional Programmes as well as the Co-Instructional Programmes for the holistic development of the child through learning platforms such as CCE Lessons, Key SDEs, school-based initiatives, and opportunities for personal application.. The school uses the Head, Heart and Hands approach to imparting values, where the students are engaged in knowledge (head), values (heart) and skills (hands).</p>
+<p align="justify">We embrace the <b>Head, Heart and Hands</b> approach to imparting values:
+</p><ul>
+	<li><b>Head</b> – developing knowledge and understanding</li>
+	<li> <b>Heart</b> – nurturing values and empathy</li>
+	<li><b>Hands</b> – equipping students with practical skills</li>
+</ul>
+<p></p>
 
-<p align="justify">The school also leverages on our partnership with parents and other stakeholders towards building a strong character foundation in our students. In Meridian primary, we believe in students, staff, parents and community partners coming together to benefit the child, just like how the saying goes:&nbsp;“It takes a whole village to raise a child”.</p>
-
-#### Key Programmes
+<h4>Key Programmes</h4>
 
 CCE MTL  <br>
 CCE FTGP  <br>
