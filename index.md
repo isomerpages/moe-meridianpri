@@ -9,10 +9,6 @@ sections:
   - hero:
       background: /images/Home Page Banner/Banner.gif
       variant: center
-      key_highlights:
-        - title: Open House 2025 - Join the meridian adventure!
-          description: Click to find out more!
-          url: https://www.meridianpri.moe.edu.sg/open-house-2025/
   - infobar:
       title: The Gift of Friendship
       id: infobar
