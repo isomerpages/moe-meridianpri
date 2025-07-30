@@ -5,137 +5,223 @@ description: ""
 third_nav_title: Student Development
 variant: markdown
 ---
-<h4 style="margin-bottom:0; margin-top:1;"> Vision</h4>
-
-<p align="justify">Students to have the knowledge, skills, values and attitudes to develop strong character (social well-being), strong mind (mental well-being) and strong bodies (physical well-being).</p>
-
-#### Approach
-<p align="justify">In line with the school’s motto, To Learn, To Love and To Lead, the Character &amp; Citizenship Education focuses on a school-wide approach to help students
+<h4>Approach</h4>
+<p align="justify">In line with the school’s motto, To Learn, To Love and To Lead, Character &amp; Citizenship Education (CCE) at Meridian Primary School adopts a whole-school approach to nurture students with the knowledge, skills, values and attitudes to develop into confident, compassionate, and responsible individuals. Our CCE programme is designed to help students:
 </p><ul>
-	<li>build a strong character to know right from wrong, self-regulate, work as a team, fair, forgiving and honest</li>
-	<li> have a sense of gratitude and appreciation to make contribution to the community</li>
-	<li>have a resilient mindset to cope with life's ups and downs and be confident</li>
-	<li>take responsibility for oneself and for others as appropriate</li>
+	<li><b>Build strong character</b> by knowing right from wrong, regulating their behaviour, collaborating with others, and demonstrating fairness, honesty, and forgiveness</li>
+	<li> <b>Develop a sense of gratitude and appreciation</b>, empowering them to make meaningful contributions to the community</li>
+	<li><b>Cultivate a resilient mindset</b> to navigate life’s challenges with confidence</li>
+	<li><b>Take responsibility</b> for themselves and others in appropriate and thoughtful ways</li>
 </ul>
 <p></p>
   
-<p align="justify">MPS strongly believes in developing students socially and morally in a Caring &amp; Enabling School &nbsp;environment that is rich in the culture of care. Guided by the school’s Mission, Vision, Values, Motto and Philosophy and Strategic Thrust 2, the school-based curriculum is customised to create positive student experiences and student engagement.</p>
+<p align="justify">We are deeply committed to the social and moral development of our students within a <b>Caring and Enabling School Environment</b> — one that is rooted in a strong <b>culture of care</b>. Guided by our school’s <b>Mission, Vision, Values, Motto, Philosophy, and Strategic Thrust 2</b>, our school-based curriculum is thoughtfully customised to provide positive and meaningful student experiences.</p>
 
-<p align="justify">This is done through both the Instructional Programmes as well as the Co-Instructional Programmes for the holistic development of the child through learning platforms such as CCE Lessons, Key SDEs, school-based initiatives, and opportunities for personal application.. The school uses the Head, Heart and Hands approach to imparting values, where the students are engaged in knowledge (head), values (heart) and skills (hands).</p>
+<p align="justify">We embrace the <b>Head, Heart and Hands</b> approach to imparting values:
+</p><ul>
+	<li><b>Head</b> – developing knowledge and understanding</li>
+	<li> <b>Heart</b> – nurturing values and empathy</li>
+	<li><b>Hands</b> – equipping students with practical skills</li>
+</ul>
+<p></p>
 
-<p align="justify">The school also leverages on our partnership with parents and other stakeholders towards building a strong character foundation in our students. In Meridian primary, we believe in students, staff, parents and community partners coming together to benefit the child, just like how the saying goes:&nbsp;“It takes a whole village to raise a child”.</p>
+<h4>Key Departmental Programmes</h4>
 
-#### Key Programmes
+<b>Enactment of CCE</b>
 
-CCE MTL  <br>
-CCE FTGP  <br>
-Education Career Guidance <br>
-Cyber Wellness Education <br>
-Sexuality Education  <br>
-Peer Support &amp; Relationships <br>
-Assembly Period <br>
-Social Skills <br>
-School Values Programme <br>
-Growth Mindset <br>
-My Meridian Experience <br>
+<p align="justify">This holistic development is achieved through both <b>Instructional</b> and <b>Co-Instructional Programmes</b>, using platforms such as:
+</p><ul>
+	<li>CCE FTGP (Form Teacher Guidance Period) Lessons</li>
+	<li> Key Student Development Experiences (SDEs)</li>
+	<li>School-based initiatives</li>
+	<li>Opportunities for personal application of values in real-life contexts</li>
+</ul>
+<p></p>
 
-#### Photos for Education Career Guidance
+<b>School-based Initiatives</b>
 
-<table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE1.png" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE2.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-	<tr>
-    <td><br><br><img src="/images/CCE/2024%20CCE/2024_CCE3.png" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE4.png" style="width:280px;height:330px;float:center"></td>
-  </tr>
-</tbody></table>
-<p style="margin-bottom:0; margin-top:0; text-align:center;">P1 ECG Programme</p>
+<p align="justify"><b>Social Skills</b><br>We focus on helping students develop <b>social effectiveness</b> by:
+</p><ul>
+	<li>Promoting <b>pro-social behaviour</b> such as empathy, cooperation, and respect</li>
+	<li> Addressing and correcting <b>inappropriate behaviour</b> through guided reflection and positive reinforcement</li>
+	<li>Replacing negative behaviours with positive actions to foster a supportive classroom culture</li>
+</ul><p></p>
 
-<br>
-<table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE5.png" style="width:390px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE6.png" style="width:390px;height:230px;float:center"></td>
-  </tr>
-	<tr>
-    <td><br><br><img src="/images/CCE/2024%20CCE/2024_CCE8.png" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE7.png" style="width:280px;height:330px;float:center"></td>
-  </tr>
-</tbody></table>
-<p style="margin-bottom:0; margin-top:0; text-align:center;">P2 ECG Programme</p>
+<p align="justify">To support this, specially curated <b>lesson packages</b> are delivered during <b>CCE FTGP periods</b>, ensuring age-appropriate and structured learning experiences. Additionally, <b>Social Skills cards and posters</b> are prominently displayed in classrooms and around the school to reinforce learning, serve as visual reminders, and encourage consistent application of these skills in daily interactions.</p>
 
-<br>
-<table style="width:100%">
-  <tbody><tr>
-		</tr><tr>
-    <td colspan="2"><p align="justify">Students "encourage the heart" by affirming our OSOs&nbsp;through the presentation of the class' gratitude board.
-After a week of on the job training with the OSOs during recess, the students reflect on how they can "model the way" by helping their teachers/peers in school or their family members at home.</p></td>
-	</tr>
-    <tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE9.png" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE10.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-	<tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE11.png" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE12.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-</tbody></table>
-<p style="margin-bottom:0; margin-top:0; text-align:center;">P3 ECG Programme</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_1.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_2.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p align="justify"><b>Education Career Guidance</b><br>As part of Education Career Guidance, we have the Mystery Lesson, where we invite a speaker to share their professional journey with students. The speaker discusses their job, what fuels their passion, the values required for success in their field, and the challenges they encounter. This session offers students valuable insights into various careers, helping them understand what it takes to pursue their own aspirations.</p>
+
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_3.png">
+</div>
+<p></p>
+<p>Passion in Playing the Guitar</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_4.png">
+</div>
+<p>Physiotherapist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_5.png">
+</div>
+<p></p>
+<p>NParks</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_6.png">
+</div>
+<p>On-the Job Training with OSOs</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p align="justify"><b>Growth Mindset Culture</b><br>Students are taught that everyone is capable of growth — that our brains are like muscles which grow stronger through challenge and effort. We encourage a <b>resilient attitude</b> towards learning, where students are taught:
+</p><ul>
+	<li>The value of <b>discipline</b> and perseverance</li>
+	<li> How to approach challenges with confidence and optimism</li>
+	<li>Practical <b>strategies</b> for self-management, goal setting, and seeking help when needed</li>
+</ul><p></p>
+<p align="justify">Each level adopts a <b>Growth Mindset statement</b> for the year. This statement is displayed in all classrooms and serves as a consistent reference point for teachers and students. 
+Students also write their level’s <b>Growth Mindset statement</b> in their <b>Student Handbook</b> under Goals for Growth to reflect on their personal development. This reinforces a shared message across the school and encourages habits of success.
+</p>
+
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_7.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_8.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_9.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p align="justify"><b>Grateful Monday</b><br>To kickstart the week on a positive note, <b>Grateful Monday</b> is introduced as a school-wide practice. Every first Monday of the month, the School Leaders and respective Key Personnel come together to share a message of gratitude with the students. This initiative encourages students to: 
+</p><ul>
+	<li>Begin with a <b>grateful heart</b> and a <b>positive mindset</b></li>
+	<li> Appreciate the <b>simple joys</b> and beauty in everyday life — often things we might otherwise take for granted</li>
+	<li>Reflect on and apply the school values meaningfully in their daily lives</li>
+</ul><p>This reinforces gratitude and mindfulness while nurturing emotional wellness and optimism across the school community.</p>
+
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_10.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_11.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_12.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_13.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_14.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%" height="auto" width="100%" alt="" src="/images/CCE/2025_CCE_15.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="justify">Through these school-based initiatives, values are not only taught but lived. The infusion of school values into daily practices ensures <b>greater impact, relevance, and continuity</b>.</p>
+
+<p align="justify"><b>CCE Curriculum Content</b><br>Our curriculum content is based on the three big ideas of Identity, Relationships, and Choices, and comprise the teaching and learning of core values, and social-emotional competencies with a focus on developing a sense of purpose in our students. These fundamentals are taught and applied in the following contemporary contexts 
+</p>
+
+<p align="justify"><b>National Education (NE)</b><br>NE is a vital part of CCE, aimed at helping students explore their national identity, understand Singapore’s unique challenges, and foster a sense of hope and belonging. Through various school efforts, NE encourages students to develop a strong connection to Singapore and motivates them to become active citizens who contribute to their families, school, and communities.
+NE in CCE empowers students by inspiring critical thinking and social awareness, helping them become informed and engaged citizens who understand local, regional, and global issues.<br><br>
+By working closely with parents and community stakeholders, we create a supportive network to build a strong character foundation in every student. At Meridian Primary, we truly believe that “it takes a whole village to raise a child.”<br>
+Through this collective effort, every student becomes:<br>
+<b>A Meridian of Promise</b> — full of potential and integrity<br>
+<b>A Meridian Navigator</b> — guided by values and purpose<br>
+<b>A Meridian Leader</b> — ready to inspire and make a positive impact
 
 
-#### Photos for Peer Support &amp; Relationships
-
-
-<b>Peer Support and Relationships Termly Training Sessions</b><br>
-During the termly Peer Support Leaders (PSLs) sessions, students have a better understanding of their roles &amp; responsibilities as a Peer Support Leader (PSL). Teachers also engage the Peer Support Leaders (PSLs) in discussions of case scenarios &amp; ways to support their peers.
-<br>
-<table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE13.png" style="width:380px;height:230px;float:center"></td>
-   <td><img src="/images/CCE/2024%20CCE/2024_CCE14.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-</tbody></table>
-
-
- During the Cybersecurity Workshop by CSA, Peer Support Leaders (PSLs) learnt practical tips to protect themselves and devise ways to raise awareness of good cyber hygiene habits among their peers.
-<br>
-<table style="width:100%">
-  <tbody><tr>
-    <td><br><br><img src="/images/CCE/2024%20CCE/2024_CCE15.png" style="width:380px;height:230px;float:center"></td>
-   <td><img src="/images/CCE/2024%20CCE/2024_CCE16.png" style="width:280px;height:330px;float:center"></td>
-  </tr>
-		<tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE17.png" style="width:380px;height:230px;float:center"></td>
-   <td><img src="/images/CCE/2024%20CCE/2024_CCE18.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-</tbody></table>
-
-
-A Learning Journey to DBS Asia Hub where Peer Support Leaders (PSLs) learnt how cybersecurity is practised in real-life through station-booths &amp; hands-on activities.
-<br>
-<table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE19.png" style="width:380px;height:230px;float:center"></td>
-   <td><img src="/images/CCE/2024%20CCE/2024_CCE20.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-		<tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE21.png" style="width:380px;height:230px;float:center"></td>
-   <td><img src="/images/CCE/2024%20CCE/2024_CCE22.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-</tbody></table>
-<br>
-<table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE23.png" style="width:380px;height:230px;float:center"></td>
-    <td><img src="/images/CCE/2024%20CCE/2024_CCE24.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-	<tr>
-    <td colspan="2"><img src="/images/CCE/2024%20CCE/2024_CCE25.png" style="width:380px;height:230px;float:center"></td>
-  </tr>
-</tbody></table>
-<p style="margin-bottom:1; margin-top:0; text-align:center;">P5 - Cheering P6s on for PSLE <br> Designing of Motivational Posters</p>
+</p>
 
 <p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s CCE Programme, please email:</p>
 <a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>

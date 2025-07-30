@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Student Development
 variant: markdown
 ---
-#### MOE Sexuality Education (SEd) in Schools
+<h4>MOE Sexuality Education (SEd) in Schools</h4>
 
 <ol align="justify">
   <li>Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</li>
@@ -30,8 +30,8 @@ variant: markdown
 <li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li>
 
 <li>&nbsp;The subjects that incorporate topics on sexuality include:</li>
-	<dd>1.  Science</dd>
-	<dd>2. Character and Citizenship Education (CCE)</dd>
+	<dd>•	 Science</dd>
+	<dd>•	 Character and Citizenship Education (CCE)</dd>
 	
 <p><u><b>Sexuality Education Lesson:</b></u>&nbsp;</p>
 	
@@ -54,7 +54,7 @@ variant: markdown
 
 <img style="width: 150px; height: 150px; border: 5px solid white;" alt="" src="/images/The%20Meridian%20Experience/Sexuality%20Education/SEd_2025_QR_Code.png">
 
-<li>Parents can contact the school at Tel: 6583 2125 or email&nbsp;<a href="mailto: tay_wan_boon@moe.edu.sg">Mdm Tay Wan Boon Stephanie</a> or&nbsp;<a href="mailto: yeo_kim_chiau_benjamin@moe.edu.sg">Mr Benjamin Yeo</a> for discussion or to seek clarification about the school’s sexuality&nbsp;education programme.</li>
+<li>Parents can contact the school at Tel: 6583 2125 or email&nbsp;<a href="mailto: tay_wan_boon@moe.edu.sg">Mdm Tay Wan Boon Stephanie</a> for discussion or to seek clarification about the school’s sexuality&nbsp;education programme.</li>
 
 
 </ol>
