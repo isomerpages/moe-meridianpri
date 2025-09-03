@@ -4,6 +4,10 @@ permalink: /mps-videos/
 variant: tiptap
 description: ""
 ---
+<h4>The Gift of Leadership</h4>
+<div class="iframe-wrapper">
+<iframe height="295" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q8HJwE0Zpfs?si=x8-EPAgTZMwWGAaO"></iframe>
+</div>
 <h4>The Gift of Friendship</h4>
 <div class="iframe-wrapper">
 <iframe height="295" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8GDw6brr3zA?si=wKou8c9mKhWpjMee"></iframe>
