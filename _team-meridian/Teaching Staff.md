@@ -457,11 +457,6 @@ variant: markdown
 <a href="mailto:tan_soon_choon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Soo Choon Sharon</a>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<a href="mailto:tiffany_loh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tiffany Loh</a>
-</td>
-</tr>
 	<tr>
 <td rowspan="1" colspan="1">
 	<a href="mailto:Vera_Liew_Mee_Lee_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Vera Liew Mee Lee</a>
