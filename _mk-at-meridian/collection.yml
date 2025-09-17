@@ -2,9 +2,6 @@ collections:
   mk-at-meridian:
     output: true
     order:
-      - Curriculum & Learning Spaces/Learning Spaces.md
-      - Curriculum & Learning Spaces/Our Curriculum.md
-      - Curriculum & Learning Spaces/.keep
       - MK@Meridian/.keep
       - MK@Meridian/Our Vision, Mission, and Beliefs.md
       - MK@Meridian/Other Information.md
@@ -15,3 +12,6 @@ collections:
       - Photo Gallery.md
       - MK Uniform Information.md
       - 2025 Calendar of Events.md
+      - Curriculum & Learning Spaces/.keep
+      - Curriculum & Learning Spaces/Learning Spaces.md
+      - Curriculum & Learning Spaces/Our Curriculum.md
