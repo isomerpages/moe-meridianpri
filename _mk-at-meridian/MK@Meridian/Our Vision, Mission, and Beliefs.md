@@ -10,3 +10,9 @@ A Strong Start for Every Child
 
 <h4>Our Mission</h4>
 To provide quality pre-school education that is affordable to Singaporeans and catalyse quality improvements in the sector
+
+<h4>Our Beliefs</h4> 
+Children are curious learners <br>
+Children are active learners  <br>
+Children are competent learners  <br>
+Children are joyful learners <br>
