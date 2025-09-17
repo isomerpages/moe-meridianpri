@@ -2,6 +2,7 @@ collections:
   mk-at-meridian:
     output: true
     order:
+      - MK@Meridian/Our Vision, Mission, and Beliefs.md
       - MK@Meridian/.keep
       - About Us.md
       - MK@Meridian Staff.md
