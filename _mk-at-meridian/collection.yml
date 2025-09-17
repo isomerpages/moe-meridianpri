@@ -2,6 +2,7 @@ collections:
   mk-at-meridian:
     output: true
     order:
+      - Curriculum & Learning Spaces/Learning Spaces.md
       - Curriculum & Learning Spaces/Our Curriculum.md
       - Curriculum & Learning Spaces/.keep
       - MK@Meridian/.keep
