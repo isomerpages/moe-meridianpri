@@ -2,7 +2,6 @@ collections:
   mk-at-meridian:
     output: true
     order:
-      - Register with MK@Meridian.md
       - MK@Meridian/.keep
       - MK@Meridian/Our Vision, Mission, and Beliefs.md
       - MK@Meridian/Other Information.md
@@ -22,3 +21,4 @@ collections:
       - Our Partners and Vendors/.keep
       - Our Partners and Vendors/Our Partners.md
       - Our Partners and Vendors/Our Vendors.md
+      - Register with MK@Meridian.md
