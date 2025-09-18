@@ -2,6 +2,7 @@ collections:
   mk-at-meridian:
     output: true
     order:
+      - Our Learning Experiences/Our Vendors.md
       - Our Learning Experiences/Our Partners.md
       - Our Learning Experiences/.keep
       - MK@Meridian/.keep
