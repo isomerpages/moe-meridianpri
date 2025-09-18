@@ -2,9 +2,6 @@ collections:
   mk-at-meridian:
     output: true
     order:
-      - Our Partners and Vendors/.keep
-      - Our Partners and Vendors/Our Partners.md
-      - Our Partners and Vendors/Our Vendors.md
       - MK@Meridian/.keep
       - MK@Meridian/Our Vision, Mission, and Beliefs.md
       - MK@Meridian/Other Information.md
@@ -21,3 +18,6 @@ collections:
       - Our Learning Experiences/.keep
       - Our Learning Experiences/2025.md
       - Our Learning Experiences/2024.md
+      - Our Partners and Vendors/.keep
+      - Our Partners and Vendors/Our Partners.md
+      - Our Partners and Vendors/Our Vendors.md
