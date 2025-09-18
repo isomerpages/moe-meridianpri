@@ -2,6 +2,7 @@ collections:
   mk-at-meridian:
     output: true
     order:
+      - Resources for Parents/Family Handbook.md
       - Resources for Parents/.keep
       - MK@Meridian/.keep
       - MK@Meridian/Our Vision, Mission, and Beliefs.md
