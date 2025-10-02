@@ -1,7 +1,7 @@
 ---
 title: Our Vendors
 permalink: /our-vendors/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Our Partners and Vendors
 ---
