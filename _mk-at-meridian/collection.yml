@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About Us.md
-      - MK@Meridian Staff.md
+      - Team MK@Meridian.md
       - Announcements.md
       - Waitlist.md
       - Photo Gallery.md

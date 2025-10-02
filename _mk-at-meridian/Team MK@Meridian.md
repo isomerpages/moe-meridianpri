@@ -1,5 +1,5 @@
 ---
-title: MK@Meridian Staff
+title: Team MK@Meridian
 permalink: /mk-at-meridian/mk-at-meridian-staff/
 description: ""
 variant: tiptap
@@ -52,7 +52,7 @@ variant: tiptap
 <p><a href="mailto:bong_swee_tiang_angeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Angeline Bong Swee Tiang</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="7" colspan="1">
 <p>English Language Teacher</p>
 </td>
 </tr>
@@ -61,17 +61,11 @@ variant: tiptap
 <p><a href="mailto:erny_mohd_yazid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Erny Bte Mohd Yazid</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>English Language Teacher</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liyana_hisham@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Liyana Binte Hisham</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language Teacher</p>
 </td>
 </tr>
 <tr>
@@ -79,17 +73,11 @@ variant: tiptap
 <p><a href="mailto:khairun_atika_kamsan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Khairun Atika Bte Kamsan</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>English Language Teacher</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_afini_khairudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Afini Bte Khairudin</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language Teacher</p>
 </td>
 </tr>
 <tr>
@@ -97,17 +85,11 @@ variant: tiptap
 <p><a href="mailto:nur_irfanah_norisham@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Irfanah Bte Norisham</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>English Language Teacher</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurdiyanah_shafiee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurdiyanah Bte Shafiee</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language Teacher</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +97,7 @@ variant: tiptap
 <p><a href="mailto:chen_li_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chen Li Hua</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Chinese Language Teacher</p>
 </td>
 </tr>
@@ -124,17 +106,11 @@ variant: tiptap
 <p><a href="mailto:ling_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ling Min</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language Teacher</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ye_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ye Hong</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language Teacher</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +118,7 @@ variant: tiptap
 <p><a href="mailto:nurfarhana_sabtu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurfarhana Binte Sabtu</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Malay Language Teacher</p>
 </td>
 </tr>
@@ -151,26 +127,17 @@ variant: tiptap
 <p><a href="mailto:mohamad_firdaus_moliadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohd Firdaus Bin Moliadi</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Malay Language Teacher</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurul_ainn_rostan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurul Ainn Binte Rostan</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Malay Language Teacher</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Nurulsafira_Mohamad_Rafi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nurulsafira Binte Mohamad Rafi</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Malay Language Teacher</p>
 </td>
 </tr>
 <tr>
