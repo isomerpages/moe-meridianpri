@@ -4,6 +4,10 @@ permalink: /mps-videos/
 variant: tiptap
 description: ""
 ---
+<h4>The Gift of Growth</h4>
+<div class="iframe-wrapper">
+<iframe height="295" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s8x2s9c83gk?si=kdAdyD13lqEOCheg"></iframe>
+</div>
 <h4>The Gift of Exploration</h4>
 <div class="iframe-wrapper">
 <iframe height="295" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EkhPqtID_sQ?si=2lhFBB1Wz1xigP05"></iframe>
