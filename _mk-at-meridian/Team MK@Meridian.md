@@ -52,7 +52,7 @@ variant: tiptap
 <p><a href="mailto:bong_swee_tiang_angeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Angeline Bong Swee Tiang</a>
 </p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="8" colspan="1">
 <p>English Language Teacher</p>
 </td>
 </tr>
@@ -76,7 +76,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_afini_khairudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Afini Bte Khairudin</a>
+<p><a href="mailto:Maple_Chia_Yi_Ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Maple Chia Yi Ying</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_afini_khairudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Afini Bte Khairudin </a>
 </p>
 </td>
 </tr>
