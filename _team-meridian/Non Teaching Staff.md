@@ -59,7 +59,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mandy_tiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mandy Tiah</a>
+<p><a href="mailto:Chong_Soo_Mee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chong Soo Mee Veny</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
