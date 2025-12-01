@@ -11,7 +11,6 @@ description: ""
 <p></p>
 <p>Welcome to Meridian Primary School! We are excited to have you, and your
 child join the Meridian Community!</p>
-<p></p>
 <p>Here’s some information for you to read and view!</p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -23,7 +22,8 @@ child join the Meridian Community!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Communication/2026_P1_ori_brief.png">
 </div>
-<p align="center">P1 Orientation slides</p>
+<p><a href="/files/Meridian Connects/P1_Orientation_Handbook_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation slides</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,8 @@ child join the Meridian Community!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Communication/2026_Handbook.png">
 </div>
-<p align="center">P1 Orientation Handbook</p>
+<p><a href="https://go.gov.sg/2025p1oribrief" rel="noopener nofollow" target="_blank">P1 Orientation Handbook</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +42,7 @@ child join the Meridian Community!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Communication/Video_P1.png">
 </div>
-<p align="center">Video for the route to the school gates</p>
+<p>Video for the route to the school gates</p>
 </td>
 </tr>
 </tbody>
