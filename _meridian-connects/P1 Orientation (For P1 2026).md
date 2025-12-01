@@ -31,7 +31,7 @@ child join the Meridian Community!</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Communication/2026_Handbook.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Communication/2026_Handbook.png">
 </div>
 <p></p>
 </td>
@@ -40,7 +40,7 @@ child join the Meridian Community!</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Communication/Video_P1.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Communication/Video_P1.png">
 </div>
 </td>
 </tr>
