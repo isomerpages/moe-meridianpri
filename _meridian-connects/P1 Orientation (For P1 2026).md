@@ -23,7 +23,7 @@ child join the Meridian Community!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Communication/2026_P1_ori_brief.png">
 </div>
-<p>P1 Orientation slides</p>
+<p align="center">P1 Orientation slides</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ child join the Meridian Community!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Communication/2026_Handbook.png">
 </div>
-<p>P1 Orientation Handbook</p>
+<p align="center">P1 Orientation Handbook</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ child join the Meridian Community!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Communication/Video_P1.png">
 </div>
-<p>Video for the route to the school gates</p>
+<p align="center">Video for the route to the school gates</p>
 </td>
 </tr>
 </tbody>
