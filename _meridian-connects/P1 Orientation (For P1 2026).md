@@ -39,10 +39,11 @@ child join the Meridian Community!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Communication/Video_P1.png">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vEJGTpjnB78?si=X3rMEhSyWeR3fIXV"></iframe>
 </div>
-<p>Video for the route to the school gates</p>
+<p><a href="https://youtu.be/vEJGTpjnB78?si=PtQdeP6RgnBdR0CV" rel="noopener nofollow" target="_blank">Video for the route to the school gates</a>
+</p>
 </td>
 </tr>
 </tbody>
