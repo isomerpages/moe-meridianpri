@@ -19,14 +19,14 @@ child join the Meridian Community!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/2025p1oribrief"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Communication/2026_P1_ori_brief.png"></a>
-<p align="center"><a href="/files/Meridian Connects/P1_Orientation_Handbook_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation slides</a>
+<p align="center"><a href="https://go.gov.sg/2025p1oribrief" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation slides</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/2026p1handbook"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Communication/2026_Handbook.png"></a>
-<p align="center"><a href="https://go.gov.sg/2025p1oribrief" rel="noopener nofollow" target="_blank">P1 Orientation Handbook</a>
+<p align="center"><a href="/files/Meridian Connects/P1_Orientation_Handbook_2025.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Handbook</a>
 </p>
 </td>
 </tr>
