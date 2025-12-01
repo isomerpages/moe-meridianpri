@@ -28,7 +28,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Contact Person</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,10 +48,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jasleena (Operation Admin)</p>
+<p>Wani (Operation Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>87964807</p>
+<p>81919553</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hazirah (Operation Coodinator)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>93446716</p>
 </td>
 </tr>
 <tr>
