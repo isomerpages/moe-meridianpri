@@ -19,13 +19,12 @@ child join the Meridian Community!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Communication/2026_P1_ori_brief.png">
 </div>
-<p></p>
-</th>
+<p>P1 Orientation slides</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -33,7 +32,7 @@ child join the Meridian Community!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Communication/2026_Handbook.png">
 </div>
-<p></p>
+<p>P1 Orientation Handbook</p>
 </td>
 </tr>
 <tr>
@@ -42,6 +41,7 @@ child join the Meridian Community!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Communication/Video_P1.png">
 </div>
+<p>Video for the route to the school gates</p>
 </td>
 </tr>
 </tbody>
