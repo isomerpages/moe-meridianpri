@@ -12,66 +12,66 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About As/P_Message_311224.png">
 </div>
-<p>Having steered and empowered Meridians to navigate the journey of learning
-and growth for more than two decades, we are excited to commemorate our
-Silver Jubilee (25<sup>th</sup> anniversary) this year. This is made even
-more meaningful with the celebration of our MOE Kindergarten@Meridian’s
-(MK@Meridian) 5<sup>th</sup> year of offering quality preschool education
-and Singapore’s Diamond Jubilee (SG 60). Threefold bliss indeed!</p>
+<p>2025 was a special year for our Meridian community. We commemorated three
+significant milestones: our primary school's 25<sup>th</sup> anniversary,
+our MOE Kindergarten@Meridian's 5<sup>th</sup>year of offering quality
+preschool education, and Singapore’s Diamond Jubilee (SG60). Just as we
+owe our country’s transformation over six decades to our pioneers’ and
+seniors’ selfless contributions and stoic resilience, our school could
+not have come this far in the last quarter of a century with so much more
+to offer without our Team Meridian leaders and staff. Guided by our shared
+beliefs that each child matters and is&nbsp;different, and each one can
+be enabled and empowered to learn, succeed in learning and make a difference,
+we seek to live out our<strong> Meridian Promise</strong>.&nbsp;&nbsp;</p>
 <p></p>
-<p>Crossing these momentous milestones, there is a lot for us to reflect
-on and be exceptionally grateful for. As a nation, we owe our country’s
-transformation over six decades to our pioneers’ and seniors’ selfless
-contributions and stoic resilience, while Meridian Primary School could
-not have come this far in the last quarter of a century with so much promise
-to go further without its people – the Team Meridian co-captains who nimbly
-co-steered our Meridian vessel with a common heart, soul and mind. They
-are our mission-driven team of teachers and administrative support staff,
-both past and present, who served with the able school leadership teams.
-Our latest schooling section, MK@Meridian, built and established in midst
-of the COVID pandemic, is a story of our MK Educators’ strength and unity.
-Through the years, our school and MK have also grown from strength to strength
-with the unyielding support provided by our school and community partners.</p>
-<p>Having the honour to serve with Team Meridian leaders, staff and MK Educators
-in the past year since I joined in December 2023, I am humbled by the devotion
-to learning and teaching that they bring to the classrooms, and the love
-they have for each Meridian who passes through their hands. This can only
-be the result of how they are guided each day by their internal compass
-and map – one that points to the potential of each child <strong>to learn</strong>, <strong>to love</strong> and <strong>to lead</strong>.
-They <strong>see</strong> Meridians for who they are; they make time to know
-and appreciate so that the <strong>promise</strong> in each Meridian may
-be <strong>uncovered</strong> and nurtured, regardless of his or her starting
-point. They make use of different opportunities and approaches to enable
-and <strong>steer</strong> Meridians with the <strong>right values</strong> and
-dispositions so that our young ones can navigate confidently their own <strong>course of learning and growth</strong>.
-While this journey of learning and growth can sometimes be challenging,
-they <strong>shape</strong> Meridians with care so that each one possesses
-the internal resources to successfully <strong>lead oneself</strong> with
-a growth mindset, resilience and adaptability, and in turn, <strong>lead others</strong> in
-making positive differences. The fond schooling memories and successes
-relived by many Meridian alumni, and their attributions of the origins
-of their strengths-exploration, self-discovery, confidence-building journey
-to our school are testaments of the Meridian education.</p>
-<p>As we do all these, Team Meridian keeps our focus on delivering an academically
-robust curriculum that considers our children’s strengths, gifts and learning
-readiness. Across the years, we have seen significant improvements in Meridians’
-academic performance in English, Mathematics, Science and Mother Tongue
-Languages. We are immensely proud of our 2024 Primary 6 cohort that demonstrated
-grit and did their best for PSLE. We are most delighted to share that,
-like their seniors, 100% of the Class of 2024 is eligible for secondary
-school and are furthering their education in various schools.</p>
-<p>Together, Team Meridian uncovers, steers and shapes our young charges
-so they may, as our school song aptly depicts, <strong>scale the heights of learning</strong> successfully
-and <strong>move with the times yet remain rooted in timeless values</strong>.
-This is the Meridian pride and heartbeat.</p>
-<p>As we look forward to commemorating our triple joys in 2025 and expressing
-heartfelt gratitude to all who contributed to our journey thus far, we
-would also like to invite parents, students and partners to co-write the
-next chapters of our amazing Meridian Story with us.</p>
-<p>On behalf of Team Meridian, I wish you and your loved ones a fulfilled
-2025, complete with good health, joy and success!</p>
-<p><strong><em>Today, I am a proud Meridian. Tomorrow, Meridian is proud of me and my journey.</em></strong>
-</p>
+<p>This Meridian Promise can be realised at different levels. First and foremost,
+it speaks of our faith in each <strong>Merdian of Promise</strong> – the
+potential residing within all students, regardless of their starting points.
+Next, it reflects the commitment by Team Meridian to grow and care for
+each Meridian in the best way we know how. This devotion, we know, is the
+most powerful when done with the trust and close partnership of parents.
+Finally, the promise in Meridians is best brought out when they, themselves,
+make their personal dedications to own and take charge of their journeys
+of learning and growth.</p>
+<p></p>
+<p>We are most encouraged by many inspiring stories of Meridians of Promise.
+Meridians, past and present, reflected and shared how they have been guided
+to learn, to love and to lead by teachers who believed in them, encouraged
+them to embrace different learning opportunities, and adopted various approaches
+to help them succeed. <strong>To learn</strong> means so much more than acquiring
+academic knowledge and skills; it also involves developing curiosity in
+learning and growing well in holistic areas. Above all, through this journey,
+Meridians are <strong><em>seen</em></strong> for who they are and enabled
+to uncover more about themselves – strengths, interests, gifts as well
+as the value they possess and bring to others. <strong>To love</strong> is
+to <strong><em>steer</em></strong> Meridians with the right values and dispositions
+so that our young ones can chart and navigate confidently their own developmental
+course. It is also about deepening their empathy, and enabling them to
+form and maintain strong friendships and ties with others. While this journey
+of learning and growth can sometimes be challenging, Meridians are <strong><em>shaped</em></strong> with
+care so that each one possesses the internal resources <strong>to</strong>  <strong>lead</strong> oneself
+with a growth mindset, resilience and adaptability, and in turn, lead others
+in making positive differences.&nbsp;&nbsp;</p>
+<p></p>
+<p>As we guide Meridians to learn, to love and to lead, Team Meridian keeps
+our focus on delivering an academically robust curriculum that considers
+our children’s strengths, learning readiness and potential. Across the
+years, we have seen significant improvements in Meridians’ academic performance
+in English, Mathematics, Science and Mother Tongue Languages. We are immensely
+proud of our 2025 Primary 6 cohort that demonstrated grit and did their
+best for PSLE. We are most delighted to share that, like their seniors,
+100% of the Class of 2025 is eligible for secondary school and furthering
+their education in various schools.</p>
+<p></p>
+<p>Together, Team Meridian sees, steers and shapes our young charges so they
+may, as our school song aptly depicts, <strong><em>scale the heights of learning</em> </strong>successfully
+and <strong><em>move with the times yet remain rooted in timeless values</em></strong>.
+We look forward to nurturing our Meridians of Promise for many more years
+ahead in the company of our students, parents, alumni and partners.&nbsp;&nbsp;</p>
+<p></p>
+<p>On behalf of Team Meridian, I wish you and your loved ones a joyous 2026,
+filled with promise, possibilities and successes!</p>
+<p></p>
 <p>Your partner in education,
 <br>Lim-Chew Siang Jiun (Mrs)
 <br>Principal</p>
