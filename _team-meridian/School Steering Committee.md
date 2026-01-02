@@ -79,11 +79,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Hugue Hwan Stefane</a>
+<p><a href="mailto:tan_pei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Pei Ling</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head P3 and P4</p>
+<p>Assistant Year Head (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -92,16 +92,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head P6</p>
+<p>Year Head P3 and P4</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_hwee_miang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Low Hwee Miang</a>
+<p><a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Hugue Hwan Stefane</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head P5 and P6</p>
+<p>Year Head P5 and P6</p>
 </td>
 </tr>
 </tbody>
@@ -125,7 +125,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_jia_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charlotte Neo Jia Hwee</a>
+<p><a href="mailto:Annur_Shanaz_Abdul_Haque@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Annur Shanaz D/O Abdul Haque</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,11 +134,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:anna_lim_lin_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Anna Lim Lin Lin</a>
+<p><a href="mailto:low_hwee_miang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Low Hwee Miang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Mother Tongue Languages</p>
+<p>HOD/Mother Tongue Languages (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -175,15 +175,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Student Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tang_tsin_ray@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tang Tsin Ray</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/Student Management (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -246,7 +237,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Science (Covering)</p>
+<p>Subject Head/Science</p>
 </td>
 </tr>
 <tr>
