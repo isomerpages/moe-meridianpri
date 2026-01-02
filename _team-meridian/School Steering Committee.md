@@ -125,7 +125,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Annur_Shanaz_Abdul_Haque@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Annur Shanaz D/O Abdul Haque</a>
+<p><a href="mailto:Annur_Shanaz_Abdul_Haque@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Annur Shanaz d/o Abdul Haque</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,6 +175,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Wong_Mei_Wen_Fortuna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fortuna Wong</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/School Staff Developer</p>
 </td>
 </tr>
 <tr>
