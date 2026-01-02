@@ -413,8 +413,8 @@ variant: markdown
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lew_nyet_mee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cindy Lew</a>
-<br><a href="mailto:ho_kwai_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeremy Ho</a>
+<p><a href="mailto:mastura_yaacob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mastura bte Yaacob</a>
+<br><a href="mailto:li_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Li Cheng</a>
 </p>
 </td>
 </tr>
