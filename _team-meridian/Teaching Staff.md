@@ -323,7 +323,41 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>4 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Alyah_Amani_Norazman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Alyah Amani </a>
+<br><a href="mailto:Tan_Sok_Keow_Irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Irene Tan </a>
+<br><a href="mailto:norhaida_kamaludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Norhaida</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Alyah_Amani_Norazman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Alyah Amani </a>
+<br><a href="mailto:Tan_Sok_Keow_Irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Irene Tan </a>
+<br><a href="mailto:norhaida_kamaludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Norhaida</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
