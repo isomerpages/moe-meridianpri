@@ -32,8 +32,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Aminah_Mohamed_Shariff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aminah D/o Mohamed Shariff</a>
-<br><a href="mailto:norsheleen_mohamed_atan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norsheleen Binte Mohd Atan</a>
+<p><a href="mailto:tan_pei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Pei Ling</a>
+<br><a href="mailto:norhaida_kamaludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norhaida Kamaludin</a>
 </p>
 </td>
 </tr>
@@ -45,8 +45,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fadhilatun_samsudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fadhilatun Binte Samsudin </a>
-<br><a href="mailto:lim_seow_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Seow Wei</a>
+<p><a href="mailto:Soh_Li_Ling_Cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cindy Soh</a>
+<br><a href="mailto:alyah_amani_norazman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alyah Amani</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Passion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noor Heryanti</a>
+<br><a href="mailto:alwin_tien_der-wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alwin Tien</a>
 </p>
 </td>
 </tr>
@@ -58,9 +71,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:abdul_wahid_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Wahid</a>
-<br><a href="mailto:lim_chia_chia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Chia Chia</a>
-<br><a href="mailto:nurul_hani_effandi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurul Hani</a>
+<p><a href="mailto:yam_may_san_priscilla@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Priscilla Yam</a>
+<br><a href="mailto:siti_saleha_salleh_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Saleha</a>
+<br><a href="mailto:kamsiah_musleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kamsiah Musleh</a>
 </p>
 </td>
 </tr>
@@ -72,8 +85,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_li_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Li Li</a> 
-<br><a href="mailto:vasanthi_mahalinggam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Vasanthi d/o Mahalingam</a>
+<p><a href="mailto:wong_mau_tan_peony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Peony Wong</a>
+<br><a href="mailto:haslindah_ab_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Haslindah Bte Ab Rahman</a>
+</p>
+<p><a href="mailto:maragathavalli_piryasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Maragathavalli Piryasamy</a>
 </p>
 </td>
 </tr>
@@ -126,8 +141,7 @@ variant: tiptap
 <p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_aisyah_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Aisyah Bte Ali</a>
-<br><a href="mailto:tan_pei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Pei Ling</a>
+<p><a href="mailto:Aminah_Mohamed_Shariff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aminah D/o Mohamed Shariff</a>
 </p>
 </td>
 </tr>
