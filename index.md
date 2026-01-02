@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home Page Banner/Banner.gif
+      background: /images/Home Page Banner/Banner_2_Jan_26.gif
       variant: center
   - infobar:
       title: The Gift of Legacy
