@@ -63,7 +63,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer (CSO)</p>
+<p>Administrative Executive</p>
 </td>
 </tr>
 <tr>
@@ -96,15 +96,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm Jamilah Bte Sa'ad</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer (OSO)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Tai Meng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
