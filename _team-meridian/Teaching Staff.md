@@ -140,7 +140,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norsheleen_mohamed_atan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norsheleen Binte Mohamed Atan</a>
-	<br><a href="mailto:fadhilatun_samsudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fadhilatun Binte Samsudin</a>
+	<br><a href="mailto:Aminah_Mohamed_Shariff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aminah D/o Mohamed Shariff</a>
 </p>
 </td>
 </tr>
@@ -149,8 +149,8 @@ variant: markdown
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:duan_xiaolu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Duan Xiao Lu</a> 
-<br><a href="mailto:nurliyana_omar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurliyana Binte Omar</a>
+<p><a href="mailto:Fadhilatun_samsudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fadhilatun Binte Samsudin</a> 
+<br><a href="mailto:Tan_Yew_Wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yew Wee</a>
 </p>
 </td>
 </tr>
