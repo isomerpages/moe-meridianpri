@@ -400,18 +400,17 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Resilience</p>
+<p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:anna_lim_lin_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Anna Lim</a>
+<p><a href="mailto:Kirenjit_Kaur_Sulinder_Singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kirenjit Kaur</a>
 <br><a href="mailto:nur_shahid_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nur Shahid</a>
-<br><a href="mailto:tay_wan_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Stephanie Tay</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Respect</p>
+<p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lew_nyet_mee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cindy Lew</a>
@@ -421,7 +420,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Teamwork</p>
+<p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_huan_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Huan Leng</a>
