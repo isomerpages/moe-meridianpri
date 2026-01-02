@@ -316,8 +316,8 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Aidil_effendy_md_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Aidil Effendy</a>
-<br><a href="mailto:lim_lee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Debbie Lim</a>
+<p><a href="mailto:Wong_Mei_Wen_Fortuna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fortuna Wong</a>
+<br><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Fardilah</a>
 </p>
 </td>
 </tr>
