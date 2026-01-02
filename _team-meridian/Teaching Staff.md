@@ -182,7 +182,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:angel_huang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Angel Huang</a>
 <br><a href="mailto:roslinah_jem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roslinah Binte Jem</a>
-<br><a href="mailto:Ananthi_Chandramohan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ananthi Chandramohan</a>
+<br><a href="mailto:Ananthi_Chandramohan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ananthi d/o Chandramohan</a>
 </p>
 </td>
 </tr>
@@ -191,7 +191,7 @@ variant: markdown
 <p>2 Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurrashidah_norman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurrashidah</a>
+<p><a href="mailto:siti_nurmunirah_mohd_arsad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nurmunirah Binte Mohd Arsad</a>
 <br><a href="mailto:wong_mau_tan_peony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Peony Wong</a>
 <br><a href="mailto:tang_tsin_ray@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tang Tsin Ray</a>
 </p>
