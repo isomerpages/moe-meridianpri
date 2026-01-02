@@ -100,9 +100,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ananthi_chandramohan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ananthi Chandramohan</a>
-<br><a href="mailto:Angel_Huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Angel Huang</a>
-<br><a href="mailto:roslinah_jem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roslinah Bte Jem</a>
+<p><a href="mailto:qiu_jie_zhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessi Qui</a>
+<br><a href="mailto:nur_aisyah_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Aisyah bte Ali</a>
 </p>
 </td>
 </tr>
@@ -114,8 +113,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:maslinda_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Maslinda Bte Ahmad</a>
-<br><a href="mailto:foo_si_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tracy Foo</a>
+<p><a href="mailto:nazurah_norizan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nazurah Binte Norizan</a>
+<br><a href="mailto:peh_kai_jay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Pei Kai Jay</a>
 </p>
 </td>
 </tr>
