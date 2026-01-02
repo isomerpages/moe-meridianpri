@@ -485,7 +485,20 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_kwai_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeremy Ho</a>
-<br><a href="mailto:Mastura_YAACOB@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mastura Bte Yacoob</a>
+<br><a href="mailto:lew_nyet_mee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cindy Lew</a>
+<br><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Fardilah Bte Md Nasir</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Teamwork</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_huan_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Huan Leng</a>
 <br><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Fardilah Bte Md Nasir</a>
 </p>
 </td>
