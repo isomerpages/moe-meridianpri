@@ -332,9 +332,8 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Alyah_Amani_Norazman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Alyah Amani </a>
-<br><a href="mailto:Tan_Sok_Keow_Irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Irene Tan </a>
-<br><a href="mailto:norhaida_kamaludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Norhaida</a>
+<p><a href="mailto:chen_chai_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jane Chen</a>
+<br><a href="mailto:abdul_wahid_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Wahid bin Abdul Wahab</a>
 </p>
 </td>
 </tr>
