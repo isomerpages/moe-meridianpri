@@ -169,7 +169,7 @@ variant: markdown
 <p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Li Cheng</a>
+<p><a href="mailto:li_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Hidhir Bin Mohd Yazid</a>
 <br><a href="mailto:zahirah_lyana_mohd_khir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zahirah Lyana</a>
 </p>
 </td>
