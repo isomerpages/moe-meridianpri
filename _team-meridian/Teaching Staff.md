@@ -260,8 +260,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_shakir_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Shakir bin Sulaiman</a>
-<br><a href="mailto:nurizan_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurizan Abdul Wahab</a>
-<br><a href="mailto:tee_shou_fei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tee Shou Fei</a>
+<br><a href="mailto:tang_tsin_ray@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tang Tsin Ray</a>
 </p>
 </td>
 </tr>
