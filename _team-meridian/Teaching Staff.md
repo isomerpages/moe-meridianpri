@@ -228,8 +228,8 @@ variant: markdown
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Siti_Nurmunirah_mohd_Arsad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nurmunirah </a>
-<br><a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Stefane Lee</a>
+<p><a href="mailto:vasanthi_mahalinggam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Vasanthi d/o Mahalingam </a>
+<br><a href="mailto:ng_yin_hung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Yin Hung</a>
 </p>
 </td>
 </tr>
@@ -238,8 +238,8 @@ variant: markdown
 <p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xu_wei_gabriel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gabriel Xu</a>
-<br><a href="mailto:tang_li_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tang Li Hwa</a>
+<p><a href="mailto:nurizan_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurizan Bte Abdul Wahab</a>
+<br><a href="mailto:duan_xiaolu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Duan Xiaolu</a>
 </p>
 </td>
 </tr>
@@ -248,8 +248,9 @@ variant: markdown
 <p>3 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_chai_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jane Chen</a>
-<br><a href="mailto:Muhammad_Shakir_Sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Shakir</a>
+<p><a href="mailto:wong_hoe_shyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Frankie Wong</a>
+<br><a href="mailto:nurliyana_omar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurliyana Binte Omar</a>
+<br><a href="mailto:shayussri_sharif_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shayussri Binte Sharif</a>
 </p>
 </td>
 </tr>
