@@ -404,7 +404,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Kirenjit_Kaur_Sulinder_Singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kirenjit Kaur</a>
-<br><a href="mailto:nur_shahid_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nur Shahid</a>
+<br><a href="mailto:nurrashidah_norman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurrashidah binte Norman</a>
 </p>
 </td>
 </tr>
