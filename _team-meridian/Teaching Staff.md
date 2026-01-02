@@ -349,7 +349,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chou_shin_chieh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chou Shin Chieh </a>
-<br><a href="mailto:Tan_Sok_Keow_Irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Irene Tan </a>
+<br><a href="mailto:tang_li_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tang Li Hwa </a>
 </p>
 </td>
 </tr>
