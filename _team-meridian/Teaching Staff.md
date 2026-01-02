@@ -156,21 +156,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Passion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nazurah_norizan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nazurah Binte Norizan</a>
-<br><a href="mailto:peh_kai_jay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Pei Kai Jay</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:qiu_jie_zhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessi Qui</a>
-<br><a href="mailto:chen_chuangan_mark@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Chen</a>
+<p><a href="mailto:Nurul_Hani_Effandi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurul Hani Binte Effandi</a>
+<br><a href="mailto:lim_chia_chia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Chia Chia</a>
 </p>
 </td>
 </tr>
