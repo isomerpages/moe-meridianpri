@@ -392,8 +392,9 @@ variant: markdown
 <p>5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_ee_lyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Ee Lyn </a>
-<br><a href="mailto:jeyamohan_ramasami@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeyamohan</a>
+<p><a href="mailto:xu_wei_gabriel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gabriel Xu </a>
+<br><a href="mailto:noorhafidzah_shaffi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noorhafidzah binte Shaffi</a>
+<br><a href="mailto:lim_chee_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Chee Ming</a>
 </p>
 </td>
 </tr>
