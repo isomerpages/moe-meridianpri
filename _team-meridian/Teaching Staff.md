@@ -525,19 +525,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:long_jee_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Fong Long Jee Lian</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:gerard_yeo_qi_wei@moe.edu.sg@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gerard Yeo Qi Wei</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_Sheng_Yong_Joyce_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joyce Lim</a>
 </p>
 </td>
 </tr>
@@ -567,12 +555,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neufeld_john_hong_ren@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Neufeld John Hong Ren</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:norsiah_idris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norsiah Bte Idris</a>
 </p>
 </td>
@@ -586,12 +568,6 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Vera_Liew_Mee_Lee_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Vera Liew Mee Lee</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_hwee_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wong Hwee Kim</a>
 </p>
 </td>
 </tr>
