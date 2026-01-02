@@ -140,7 +140,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norsheleen_mohamed_atan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norsheleen Binte Mohamed Atan</a>
-	<br><a href="mailto:Aminah_Mohamed_Shariff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aminah D/o Mohamed Shariff</a>
+	<br><a href="mailto:fadhilatun_samsudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fadhilatun Binte Samsudin</a>
 </p>
 </td>
 </tr>
