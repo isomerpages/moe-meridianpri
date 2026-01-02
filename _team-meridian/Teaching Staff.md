@@ -171,6 +171,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_hidhir_mohd_yazid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Hidhir Bin Mohd Yazid</a>
 <br><a href="mailto:li_li_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Li Li</a>
+<br><a href="mailto:fadzlina_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fadzlina Binte Abdullah</a>
 </p>
 </td>
 </tr>
@@ -179,7 +180,7 @@ variant: markdown
 <p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noor Heryanti</a>
+<p><a href="mailto:angel_huang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Angel Huang</a>
 <br><a href="mailto:siti_saleha_salleh_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Saleha Binte Salleh</a>
 </p>
 </td>
