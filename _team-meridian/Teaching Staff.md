@@ -451,14 +451,14 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Integrity</p>
+<p>6 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hoi_hui_yee_jaime@moe.edu.sgg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jaime Hoi</a> 
-<br><a href="mailto:juliana_jalil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Juliana Bte Jalil</a>
+<p><a href="mailto:chua_ee_lyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Ee Lyn</a> 
+<br><a href="mailto:jeyamohan_ramasami@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeyamohan Ramasami</a>
 </p>
 </td>
 </tr>
