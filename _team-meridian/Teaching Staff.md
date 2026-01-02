@@ -423,8 +423,8 @@ variant: markdown
 <p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_huan_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Huan Leng</a>
-<br><a href="mailto:low_hwee_miang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Low Hwee Miang</a>
+<p><a href="mailto:hoi_hui_yee_jaime@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jaime Hoi</a>
+<br><a href="mailto:aidil_effendy_md_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Aidil Effendy bin Md Said</a>
 </p>
 </td>
 </tr>
