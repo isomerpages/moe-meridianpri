@@ -464,26 +464,27 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>6 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_wan_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Stephanie Tay</a>
+<br><a href="mailto:nur_shahid_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nur Shahid bin Ahmad</a>
+<br><a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stefane Tan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_jia_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charlotte Neo</a>
-<br><a href="mailto:wong_hoe_syan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Frankie Wong</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Teamwork</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chou_shin_chieh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chou Shin Chieh</a>
+<p><a href="mailto:ho_kwai_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeremy Ho</a>
 <br><a href="mailto:Mastura_YAACOB@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mastura Bte Yacoob</a>
 <br><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Fardilah Bte Md Nasir</a>
 </p>
