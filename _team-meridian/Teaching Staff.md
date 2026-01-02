@@ -192,8 +192,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_nurmunirah_mohd_arsad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nurmunirah Binte Mohd Arsad</a>
-<br><a href="mailto:wong_mau_tan_peony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Peony Wong</a>
-<br><a href="mailto:tang_tsin_ray@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tang Tsin Ray</a>
+<br><a href="mailto:Foo_Si_Min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tracy Foo</a>
 </p>
 </td>
 </tr>
