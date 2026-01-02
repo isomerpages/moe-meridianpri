@@ -87,8 +87,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_mau_tan_peony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Peony Wong</a>
 <br><a href="mailto:haslindah_ab_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Haslindah Bte Ab Rahman</a>
-</p>
-<p><a href="mailto:maragathavalli_piryasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Maragathavalli Piryasamy</a>
+<br><a href="mailto:maragathavalli_piryasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Maragathavalli Piryasamy</a>
 </p>
 </td>
 </tr>
