@@ -300,9 +300,8 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Alvin_Poh_Chye_Khoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alvin Poh</a>
-<br><a href="mailto:ng_yin_hung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Yin Hung </a>
-<br><a href="mailto:noorhafidzah_shaffi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noorhafidzah Binte Shaffi</a>
+<p><a href="mailto:maslinda_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Maslinda bte Ahmad</a>
+<br><a href="mailto:masayu_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Masayu bte Mohamed </a>
 </p>
 </td>
 </tr>
