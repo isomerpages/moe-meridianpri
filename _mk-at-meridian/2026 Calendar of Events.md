@@ -1,6 +1,6 @@
 ---
-title: 2025 Calendar of Events
-permalink: /mk-at-meridian/2024-calendar-of-events/
+title: 2026 Calendar of Events
+permalink: /mk-at-meridian/2026-calendar-of-events/
 description: ""
 variant: markdown
 ---
