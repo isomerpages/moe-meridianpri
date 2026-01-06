@@ -31,15 +31,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:surya_tewi_zulkipli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Surya Tewi Binte Zulkipli</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MK Deputy Centre Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:siti_syazwani_mohd_kasbi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Nur Syazwani Bte Mohd Kasbi</a>
 </p>
 </td>
@@ -52,7 +43,7 @@ variant: tiptap
 <p><a href="mailto:bong_swee_tiang_angeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Angeline Bong Swee Tiang</a>
 </p>
 </td>
-<td rowspan="8" colspan="1">
+<td rowspan="9" colspan="1">
 <p>English Language Teacher</p>
 </td>
 </tr>
@@ -70,6 +61,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_kay_khee@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yeo Kay Khee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:khairun_atika_kamsan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Khairun Atika Bte Kamsan</a>
 </p>
 </td>
@@ -82,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_afini_khairudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Afini Bte Khairudin </a>
+<p><a href="mailto:nur_afini_khairudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Afini Bte Khairudin</a>
 </p>
 </td>
 </tr>
