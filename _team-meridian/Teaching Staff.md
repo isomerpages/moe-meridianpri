@@ -45,7 +45,7 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Soh_Li_Ling_Cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cindy Soh</a>
+<p><a href="mailto:cindy_soh_li_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cindy Soh</a>
 <br><a href="mailto:alyah_amani_norazman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alyah Amani</a>
 </p>
 </td>
