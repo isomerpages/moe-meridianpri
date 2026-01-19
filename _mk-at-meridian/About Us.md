@@ -76,7 +76,7 @@ will be located at&nbsp;20 Pasir Ris Street 71, Singapore 518798 in December
 </tr>
 </tbody>
 </table>
-<h5>2024 Family Handbook</h5>
-<p>Please click <a href="/files/MK/2023/mk%20family%20handbook%202023%20final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> or
-the image to view 2024 Family Handbook</p>
+<h5>2025 Family Handbook</h5>
+<p>Please click <a href="https://go.gov.sg/2026mkfamhb" rel="noopener nofollow" target="_blank">here</a> or
+the image to view 2025 Family Handbook</p>
 <p></p>
