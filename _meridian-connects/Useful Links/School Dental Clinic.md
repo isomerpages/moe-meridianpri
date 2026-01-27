@@ -10,11 +10,11 @@ third_nav_title: Useful Links
   <tbody>
   <tr>
    <td>Dental Therapist</td>
-    <td>Ms Sim Seok Lee</td>
+    <td>Ms Cindy Sim Seok Lee</td>
   </tr>
   <tr>
     <td>Telephone</td>
-    <td>9821 1985</td>
+    <td>9788 6872</td>
   </tr>
 		 <tr>
     <td>Operating Hours</td>
