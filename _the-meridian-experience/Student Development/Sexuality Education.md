@@ -52,7 +52,7 @@ variant: markdown
 	
 <li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available  <a href="https://go.gov.sg/2026meridian">here</a>. The completed opt-out form is to be submitted by 06/02/2026</li>
 
-<img style="width: 150px; height: 150px; border: 5px solid white;" alt="" src="/images/The%20Meridian%20Experience/Sexuality%20Education/SEd_2025_QR_Code.png">
+<img style="width: 150px; height: 150px; border: 5px solid white;" alt="" src="/images/CCE/2026/https___go_gov_sg_2026meridian.png">
 
 <li>Parents can contact the school at Tel: 6583 2125 or email&nbsp;<a href="mailto: tay_wan_boon@moe.edu.sg">Mdm Tay Wan Boon Stephanie</a> for discussion or to seek clarification about the school’s sexuality&nbsp;education programme.</li>
 
