@@ -40,11 +40,11 @@ variant: markdown
 <li>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.</li>
 
 **At Meridian, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2026</u>:**
-	
-<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/SEd_P5_2025_1.png">
-<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/SEd_P5_2025_2.png">
+
+<img src="/images/CCE/2026/CCE_1.png">
+<img src="/images/CCE/2026/CCE_2.png">
 	<br>
-<img src="/images/The%20Meridian%20Experience/Sexuality%20Education/SEd_P6_2025.png">
+<img src="/images/CCE/2026/CCE_3.png">
 <br>	
 <b>Important Information for Parents</b>
 	
