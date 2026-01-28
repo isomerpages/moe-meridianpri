@@ -57,7 +57,7 @@ variant: markdown
 </details>
 
 <details>
-  <summary><b>Football</b> <i>(For Boys Only)</i></summary>
+  <summary><b>Soccer</b> <i>(For Boys Only)</i></summary>
 
 <p align="justify">At Team Meridian, we believe that greatness is achieved not by individual brilliance alone, but through the collective strength of a united team. On the field, we move as one—each player supporting, encouraging, and elevating the others. Our victories are a testament to the power of collaboration and shared purpose.</p>
 
@@ -95,7 +95,7 @@ variant: markdown
 	
 <br>
 
-For enquiries on the school’s Football CCA, please email:<br>
+For enquiries on the school’s Soccer CCA, please email:<br>
 • <a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Jeyamohan</a><br>
 • <a href="mailto:Muhammad_Shakir_Sulaiman@moe.edu.sg">Mr Muhammad Shakir</a><br>
 • <a href="mailto:Hazwan_Ibrahim@moe.edu.sg">Mr Hazwan</a>
@@ -145,7 +145,7 @@ For enquiries on the school’s Taekwondo CCA, please email:<br>
 </details>
 
 <details>
-  <summary><b>Sport Club</b> <i>(Boys and Girls Only)</i></summary>
+  <summary><b>Modular Sports Club</b> <i>(Boys and Girls Only)</i></summary>
 
 <p align="justify">Sports Club is a modular CCA designed to introduce students to a wide variety of sports and physical activities in a fun and engaging way. Through an exciting mix of games such as modified netball, modified basketball, modified hockey, and other recreational sports, students get the opportunity to explore new interests while staying active and healthy.</p>
 	
@@ -171,7 +171,7 @@ For enquiries on the school’s Taekwondo CCA, please email:<br>
 
 <br>
 
-For enquiries on the school’s Sport Club CCA, please email:<br>
+For enquiries on the school’s Modular Sports Club CCA, please email:<br>
 • <a href="mailto:lew_nyet_mee@moe.edu.sg">Mdm Cindy Teo</a><br>
-• <a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Heryanti</a>
+• <a href="mailto:maslinda_ahmad@moe.edu.sg">Mdm Maslinda</a>
 </details>
