@@ -127,7 +127,7 @@ For enquiries on the school’s Guzheng CCA, please email:<br>
 
 <br>
 For enquiries on the school’s Malay Dance CCA, please email:<br>
-• <a href="mailto:juliana_Jalil@moe.edu.sg">Mdm Juliana Binte Jallil</a><br>
+• <a href="mailto:nurliyana_omar@moe.edu.sg">Miss Nurliyana Omar</a><br>
 • <a href="mailto:masayu_mohamed@moe.edu.sg">Mdm Masayu Bte Mohamed</a>
 <br>
 <br>
