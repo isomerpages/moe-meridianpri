@@ -98,9 +98,10 @@ variant: markdown
 For enquiries on the school’s Football CCA, please email:<br>
 • <a href="mailto:jeyamohan_ramasami@moe.edu.sg">Mr Jeyamohan</a><br>
 • <a href="mailto:Muhammad_Shakir_Sulaiman@moe.edu.sg">Mr Muhammad Shakir</a><br>
-• <a href="mailto:nurliyana_omar@moe.edu.sg">Ms Nurliyana Binte Omar</a>
+• <a href="mailto:Hazwan_Ibrahim@moe.edu.sg">Mr Hazwan</a>
 	<br>
 • <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
+• <a href="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Shahid </a>
 <br>
 </details>
 
