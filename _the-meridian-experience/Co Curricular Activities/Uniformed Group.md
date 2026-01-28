@@ -37,5 +37,6 @@ variant: markdown
 
 For enquiries on the school’s Scouts CCA, please email:<br>
 • <a href="mailto:lim_chia_chia@moe.edu.sg">Mdm Lim Chia Chia</a><br>
-• <a href="mailto:low_hwee_miang_a@moe.edu.sg">Mdm Low Hwee Miang</a><br>
-• <a href="mailto:nazurah_norizan@moe.edu.sg">Miss Nazurah Binte Norizan</a>
+• <a href="mailto:ABDUL_MANAF_B_AHMAD_A@moe.edu.sg">Mr Abdul Manaf</a><br>
+• <a href="mailto:nazurah_norizan@moe.edu.sg">Miss Nazurah Binte Norizan</a><br>
+• <a href="mailto:li_li_b@moe.edu.sg">Ms Li Li</a><br>

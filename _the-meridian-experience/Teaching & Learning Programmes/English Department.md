@@ -138,6 +138,6 @@ Preliminary Round in the East Zone</p>
 </tbody>
 </table>
 <p>For enquiries on the school’s English Language Department, please email:
-<br><a href="mailto:neo_jia_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charlotte Neo Jia Hwee (Head of Department)</a>
+<br><a href="mailto:annur_shanaz_abdul_haque@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Annur Shanaz d/o Abdul Haque (Head of Department)</a>
 </p>
 <p></p>

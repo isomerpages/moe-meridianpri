@@ -39,6 +39,7 @@ variant: markdown
 For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 • <a href="mailto:chua_ee_lyn@moe.edu.sg">Mdm Chua Ee Lyn </a><br>
 • <a href="mailto:Siti_Nurmunirah_mohd_Arsad@moe.edu.sg">Mdm Siti Munirah</a><br>
+• <a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Noor Heryanti</a><br>
 <br>
 </details>
 
@@ -74,7 +75,7 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 • <a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi</a><br>
 • <a href="mailto:xu_wei_gabriel@moe.edu.sg">Mr Gabriel Xu Wei</a>
 <br>
-• <a href="mailto:Aminah_Mohamed_Shariff@moe.edu.sg">Mdm Aminah D/O Mohamed Shariff </a>
+• <a href="mailto:Quraishia_Juwanda@moe.edu.sg">Miss Quraishia</a>
 <br>
 <br>
 </details>
@@ -150,5 +151,5 @@ Our Art Club members have enjoyed activities such as tie and dye, fashion design
 For enquiries on the school’s &nbsp;Art Club CCA, please email:<br>
 • <a href="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah</a><br>
 • <a href="mailto:norhaida_kamaludin@moe.edu.sg">Ms Norhaida</a><br>
-•  <a href="mailto:muhammad_raziz_abdul_razak@moe.edu.sg">Mr Muhammad Raziz</a>
+•  <a href="mailto:nazreen_bulat@schools.gov.sg">Mdm Nazreen</a>
 </details>
