@@ -151,5 +151,5 @@ Our Art Club members have enjoyed activities such as tie and dye, fashion design
 For enquiries on the school’s &nbsp;Art Club CCA, please email:<br>
 • <a href="mailto:nur_aisyah_ali@moe.edu.sg">Mdm Nur Aisyah</a><br>
 • <a href="mailto:norhaida_kamaludin@moe.edu.sg">Ms Norhaida</a><br>
-•  <a href="mailto:muhammad_raziz_abdul_razak@moe.edu.sg">Mr Muhammad Raziz</a>
+•  <a href="mailto:nazreen_bulat@schools.gov.sg">Mdm Nazreen</a>
 </details>
