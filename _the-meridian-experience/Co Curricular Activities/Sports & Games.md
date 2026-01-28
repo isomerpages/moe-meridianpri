@@ -136,7 +136,7 @@ Poomsae Category (Junior Division)
 </tbody></table><br>
 
 For enquiries on the school’s Taekwondo CCA, please email:<br>
-• <a href="mailto:li_li_b@moe.edu.sg">Mdm Li Li</a>
+• <a href="mailto:peh_kai_jay@moe.edu.sg">Mr Kai Jay</a>
 	<br>
 • <a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg">Mdm Nor Fardilah</a><br>
 • <a href="mailto:nurrashidah_norman@moe.edu.sg">Ms Shidah</a><br>
