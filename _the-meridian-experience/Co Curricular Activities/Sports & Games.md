@@ -102,7 +102,7 @@ For enquiries on the school’s Football CCA, please email:<br>
 	<br>
 • <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
 • <a href="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Shahid </a>
-<br>
+<br><br>
 </details>
 
 <details>
