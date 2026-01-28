@@ -39,6 +39,7 @@ variant: markdown
 For enquiries on the school’s Eco-Enviro Science Club, please email:<br>
 • <a href="mailto:chua_ee_lyn@moe.edu.sg">Mdm Chua Ee Lyn </a><br>
 • <a href="mailto:Siti_Nurmunirah_mohd_Arsad@moe.edu.sg">Mdm Siti Munirah</a><br>
+• <a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg">Mdm Noor Heryanti</a><br>
 <br>
 </details>
 
