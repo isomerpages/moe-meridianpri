@@ -158,7 +158,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operations Support Officer (OSO)</p>
 </td>
 </tr>
 </tbody>
