@@ -75,7 +75,7 @@ For enquiries on the school’s Infocomm Technology (Computing), please email:<b
 • <a href="mailto:hoi_hui_yee_jaime@moe.edu.sg">Mdm Jaime Hoi</a><br>
 • <a href="mailto:xu_wei_gabriel@moe.edu.sg">Mr Gabriel Xu Wei</a>
 <br>
-• <a href="mailto:Aminah_Mohamed_Shariff@moe.edu.sg">Mdm Aminah D/O Mohamed Shariff </a>
+• <a href="mailto:Quraishia_Juwanda@moe.edu.sg">Miss Quraishia</a>
 <br>
 <br>
 </details>
