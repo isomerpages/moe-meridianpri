@@ -162,5 +162,5 @@ comfort zones and build confidence in public speaking.</p>
 </tbody>
 </table>
 <p>For enquiries on the school’s Mother Tongue Department, please email:
-<br><a href="mailto:anna_lim_lin_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Anna Lim (Head of Department)</a>
+<br><a href="mailto:low_hwee_miang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Low Hwee Miang (Covering Head of Department)</a>
 </p>
