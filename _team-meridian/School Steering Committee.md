@@ -179,7 +179,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Kirenjit Kaur d/o Sulinder Singh</a>
+<p><a href="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kirenjit Kaur d/o Sulinder Singh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
