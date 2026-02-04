@@ -97,10 +97,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tang_tsin_ray@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tang Tsin Ray</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Assistant Year Head P3 and P4</p>
 </td>
 </tr>
 <tr>
@@ -245,7 +246,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Character and Citizenship Education</p>
+<p>HOD/Character and Citizenship Education</p>
 </td>
 </tr>
 <tr>
