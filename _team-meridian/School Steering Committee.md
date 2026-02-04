@@ -97,6 +97,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Hugue Hwan Stefane</a>
 </p>
 </td>
