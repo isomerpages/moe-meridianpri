@@ -86,7 +86,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_mau_tan_peony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Peony Wong</a>
-<br><a href="mailto:haslindah_ab_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Haslindah Bte Ab Rahman</a>
+<br><a href="mailto:haslindah_ab_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Haslindah Bte Ab Rahman</a>
 <br><a href="mailto:maragathavalli_piryasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Maragathavalli Piryasamy</a>
 </p>
 </td>
@@ -99,7 +99,7 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:qiu_jie_zhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessi Qui</a>
+<p><a href="mailto:qiu_jie_zhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessi Qiu</a>
 <br><a href="mailto:nur_aisyah_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Aisyah bte Ali</a>
 </p>
 </td>
@@ -472,7 +472,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_wan_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Stephanie Tay</a>
 <br><a href="mailto:nur_shahid_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nur Shahid bin Ahmad</a>
-<br><a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stefane Tan</a>
+<br><a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Hugue Hwan Stefane</a>
 </p>
 </td>
 </tr>
@@ -538,12 +538,6 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_chee_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Chee Ming</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:maragathavalli_piryasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Maragathavalli Piryasamy</a>
 </p>
 </td>
 </tr>

@@ -97,6 +97,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:tang_tsin_ray@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tang Tsin Ray</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head P3 and P4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:tan_hugue_hwan_stefane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Hugue Hwan Stefane</a>
 </p>
 </td>
@@ -170,7 +179,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Kirenjit Kaur d/o Sulinder Singh</a>
+<p><a href="mailto:kirenjit_kaur_sulinder_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kirenjit Kaur d/o Sulinder Singh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -237,7 +246,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Character and Citizenship Education</p>
+<p>HOD/Character and Citizenship Education</p>
 </td>
 </tr>
 <tr>
@@ -279,7 +288,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aliza_farhana_mohd_raus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Aliza Farhana Binti Mohd Raus</a>
+<p><a href="mailto:aliza_farhana_mohd_raus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aliza Farhana Binti Mohd Raus</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
