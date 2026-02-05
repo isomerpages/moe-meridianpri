@@ -99,7 +99,7 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:qiu_jie_zhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessi Qui</a>
+<p><a href="mailto:qiu_jie_zhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessi Qiu</a>
 <br><a href="mailto:nur_aisyah_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Aisyah bte Ali</a>
 </p>
 </td>
