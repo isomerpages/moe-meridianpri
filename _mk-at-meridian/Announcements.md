@@ -11,8 +11,8 @@ variant: markdown
 <p>MK@Meridian inivites parents and children to our 2026 MOE Kindergarten Open House.<br><br>
 
 <b>Details<br></b>
-Date: Saturday, 28 March 2026 <br><br>
-Time: 8.30am-12.30pm<br><br>
+Date: Saturday, 28 March 2026 <br>
+Time: 8.30am-12.30pm<br>
 Venue: MK@MR, Meridian Primary School  (Enter via the Red Gate)<br><br>
 
 During the open house, parents. guardians, and children will have the opportunity to explore our facilities and gain deeper insights into the MK curriculum through interactive discussions with our teachers.</p>
