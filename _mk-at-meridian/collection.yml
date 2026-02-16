@@ -2,9 +2,9 @@ collections:
   mk-at-meridian:
     output: true
     order:
+      - Announcements.md
       - About Us.md
       - Team MK@Meridian.md
-      - Announcements.md
       - Waitlist.md
       - Photo Gallery.md
       - MK Uniform Information.md
