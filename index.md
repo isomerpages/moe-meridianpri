@@ -10,6 +10,12 @@ sections:
       background: /images/Home Page Banner/Banner_2_Jan_26.gif
       variant: center
   - infobar:
+      title: MK Open House 2026
+      id: infobar
+      description: Come join us for MK@Meridian’s Open House on 28 March!
+      button: Click here
+      url: https://www.meridianpri.moe.edu.sg/mk-at-meridian/announcements/
+  - infobar:
       title: The Gift of Legacy
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
@@ -19,8 +25,4 @@ sections:
         height="295" width="560"></iframe>
       button: Click to view more MPS videos
       url: https://www.meridianpri.moe.edu.sg/mps-videos/
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
 ---
