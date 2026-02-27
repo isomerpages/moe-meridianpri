@@ -10,11 +10,11 @@ sections:
       background: /images/Home Page Banner/Banner_2_Jan_26.gif
       variant: center
   - infobar:
-      title: MK Open House 2026
       id: infobar
       description: Come join us for MK@Meridian’s Open House on 28 March!
       button: Click here
       url: https://www.meridianpri.moe.edu.sg/mk-at-meridian/announcements/
+      subtitle: 2026 MK Open House
   - infobar:
       title: The Gift of Legacy
       id: infobar
