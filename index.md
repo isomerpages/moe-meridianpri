@@ -19,4 +19,8 @@ sections:
         height="295" width="560"></iframe>
       button: Click to view more MPS videos
       url: https://www.meridianpri.moe.edu.sg/mps-videos/
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
