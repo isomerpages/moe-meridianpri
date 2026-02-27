@@ -9,12 +9,10 @@ sections:
   - hero:
       background: /images/Home Page Banner/Banner_2_Jan_26.gif
       variant: center
-  - infobar:
-      id: infobar
-      description: Come join us for MK@Meridian’s Open House on 28 March!
-      button: Click here
-      url: https://www.meridianpri.moe.edu.sg/mk-at-meridian/announcements/
-      subtitle: 2026 MK Open House
+      key_highlights:
+        - title: Come join us for MK@Meridian’s Open House on 28 March!
+          description: Click here for more details
+          url: https://www.meridianpri.moe.edu.sg/mk-at-meridian/announcements/
   - infobar:
       title: The Gift of Legacy
       id: infobar
