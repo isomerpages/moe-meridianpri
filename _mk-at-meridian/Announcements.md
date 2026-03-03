@@ -25,3 +25,4 @@ During the open house, parents. guardians, and children will have the opportunit
 <h4>A Day at MK@Meridian</h4>
 <p>See why our little learners love coming to school every day!
 </p>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/02l25wf5ZuY?si=bZqtyQko_JGkXhtF" height="315" width="560"></iframe>
