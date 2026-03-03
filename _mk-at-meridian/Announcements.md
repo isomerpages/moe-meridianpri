@@ -20,3 +20,8 @@ During the open house, parents. guardians, and children will have the opportunit
 <p>Please scan the qr code to sign up for our Open House 2026</p>
 
 <img src="/images/MK@Meridian/2026/MK_OH_QR_Code.jpg" style="width:350px;height:400px;float:center">
+
+
+<p>A Day at MK@Meridian<br><br>
+See why our little learners love coming to school every day!
+</p>
