@@ -28,7 +28,7 @@ During the open house, parents. guardians, and children will have the opportunit
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/02l25wf5ZuY?si=bZqtyQko_JGkXhtF" height="315" width="560"></iframe>
 
 <h4>A Gift of Community</h4>
-<p>From MK to Primary - One Seamless Journey<br><br>
+<p>From MK to Primary - One Seamless Journey<br>
 Hear how our families experience the warmth and continuity of the Meridian community as their children grow with us.</p>
 
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/uQjlrBVH_Og?si=w81yYxLZVvNihuv4" height="315" width="560"></iframe>
