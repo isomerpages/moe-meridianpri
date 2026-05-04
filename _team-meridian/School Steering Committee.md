@@ -42,6 +42,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:meridian_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Amisarni Bte Mohd Amin</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:meridian_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr David Wang</a>
 </p>
 </td>
