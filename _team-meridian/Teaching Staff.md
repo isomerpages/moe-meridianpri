@@ -535,6 +535,12 @@ variant: markdown
 </p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Irwan_Shah_Shahruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Irwan Shah Shahruddin</a>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_chee_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Chee Ming</a>
@@ -584,11 +590,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_jinning_janine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Janine Ng Jinning</a>
+<p><a href="mailto:gayathrie_ja_raman_mrs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Gayathrie Ja Raman </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Special Education Needs Officer</p>
 </td>
 </tr>
 <tr>

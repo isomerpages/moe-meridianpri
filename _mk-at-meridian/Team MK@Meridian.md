@@ -100,13 +100,19 @@ variant: tiptap
 <p><a href="mailto:chen_li_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chen Li Hua</a>
 </p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Chinese Language Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ling_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ling Min</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_wei_ling_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Wei Ling</a>
 </p>
 </td>
 </tr>
