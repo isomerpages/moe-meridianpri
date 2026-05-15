@@ -535,6 +535,12 @@ variant: markdown
 </p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Irwan_Shah_Shahruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Irwan Shah Shahruddin</a>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_chee_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Chee Ming</a>
