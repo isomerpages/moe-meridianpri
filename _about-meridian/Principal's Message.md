@@ -25,7 +25,7 @@ be enabled and empowered to learn, succeed in learning and make a difference,
 we seek to live out our<strong> Meridian Promise</strong>.&nbsp;&nbsp;</p>
 <p></p>
 <p>This Meridian Promise can be realised at different levels. First and foremost,
-it speaks of our faith in each <strong>Merdian of Promise</strong> – the
+it speaks of our faith in each <strong>Meridian of Promise</strong> – the
 potential residing within all students, regardless of their starting points.
 Next, it reflects the commitment by Team Meridian to grow and care for
 each Meridian in the best way we know how. This devotion, we know, is the
