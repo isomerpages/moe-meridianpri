@@ -9,10 +9,6 @@ sections:
   - hero:
       background: /images/Home Page Banner/Banner_2_Jan_26.gif
       variant: center
-      key_highlights:
-        - title: Come join us for Meridian’s Open House on 16 May!
-          description: Click here for more details
-          url: https://www.meridianpri.moe.edu.sg/open-house-2026/
   - infobar:
       title: The Gift of Legacy
       id: infobar
