@@ -122,6 +122,15 @@ variant: tiptap
 <p>Year Head P5 and P6</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="lim_chia_chia@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lim Chia Chia</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head P5 and P6 (Covering)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Head of Department/Lead Teacher/Subject Head/Level Head</h4>
@@ -215,6 +224,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:tee_shou_fei@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tee Shou Fei</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Information &amp; Communications Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:Mastura_YAACOB@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mastura Yaacob</a>
 </p>
 </td>
@@ -229,15 +247,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head/English</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Fardilah Bte Md Nasir</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/Malay</p>
 </td>
 </tr>
 <tr>
@@ -302,15 +311,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:khairilanuar_junid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairilanuar Bin Junid</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
 </td>
 </tr>
 </tbody>
