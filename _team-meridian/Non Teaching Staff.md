@@ -32,15 +32,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khairilanuar_junid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairilanuar Bin Junid</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:azzilawaty_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Azzilawaty Binte Abdullah</a>
 </p>
 </td>
