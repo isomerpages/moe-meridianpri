@@ -231,6 +231,8 @@ variant: tiptap
 <br><a href="mailto:nurliyana_omar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurliyana Binte Omar</a>
 <br><a href="mailto:shayussri_sharif_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shayussri Binte Sharif</a>
 </p>
+<p><a href="mailto: chua_sheng_he_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Sheng He</a>
+</p>
 </td>
 </tr>
 <tr>
