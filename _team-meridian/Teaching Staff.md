@@ -2,13 +2,12 @@
 title: Teaching Staff
 permalink: /our-staff/teaching-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h2><strong>Teaching Staff</strong></h2>
 <h4>Primary 1</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -18,18 +17,12 @@ variant: markdown
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
 <p>Form Teacher</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1 Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_pei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Pei Ling</a>
@@ -42,9 +35,6 @@ variant: markdown
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:cindy_soh_li_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cindy Soh</a>
 <br><a href="mailto:alyah_amani_norazman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alyah Amani</a>
 </p>
@@ -55,9 +45,6 @@ variant: markdown
 <p>1 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:noor_heryanti_abdul_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noor Heryanti</a>
 <br><a href="mailto:alwin_tien_der-wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alwin Tien</a>
 </p>
@@ -66,9 +53,6 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>1 Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yam_may_san_priscilla@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Priscilla Yam</a>
@@ -82,9 +66,6 @@ variant: markdown
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:wong_mau_tan_peony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Peony Wong</a>
 <br><a href="mailto:haslindah_ab_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Haslindah Bte Ab Rahman</a>
 <br><a href="mailto:maragathavalli_piryasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Maragathavalli Piryasamy</a>
@@ -96,9 +77,6 @@ variant: markdown
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:qiu_jie_zhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessi Qiu</a>
 <br><a href="mailto:nur_aisyah_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Aisyah bte Ali</a>
 </p>
@@ -107,9 +85,6 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>1 Teamwork</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nazurah_norizan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nazurah Binte Norizan</a>
@@ -139,8 +114,10 @@ variant: markdown
 <p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norsheleen_mohamed_atan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norsheleen Binte Mohamed Atan</a>
-	<br><a href="mailto:Aminah_Mohamed_Shariff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aminah D/o Mohamed Shariff</a>
+<p><a href="mailto:norsheleen_mohamed_atan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norsheleen Binte Mohamed Atan</a> 
+<br><a href="mailto:Aminah_Mohamed_Shariff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aminah D/o Mohamed Shariff</a>
+</p>
+<p><a href="mailto:marianthony_raj_miniga@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Marianthony Raj Miniga</a>
 </p>
 </td>
 </tr>
@@ -184,6 +161,8 @@ variant: markdown
 <br><a href="mailto:roslinah_jem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roslinah Binte Jem</a>
 <br><a href="mailto:Ananthi_Chandramohan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ananthi d/o Chandramohan</a>
 </p>
+<p><a href="mailto:shen_boyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shen Boyuan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -219,7 +198,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_seow_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Seow Wei</a>
-<br><a href="mailto:lim_lee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Debbie Lim</a> 
+<br><a href="mailto:lim_lee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Debbie Lim</a>
 </p>
 </td>
 </tr>
@@ -252,6 +231,8 @@ variant: markdown
 <br><a href="mailto:nurliyana_omar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurliyana Binte Omar</a>
 <br><a href="mailto:shayussri_sharif_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shayussri Binte Sharif</a>
 </p>
+<p><a href="mailto: chua_sheng_he_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Sheng He</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -267,10 +248,8 @@ variant: markdown
 </tbody>
 </table>
 <h4>Primary 4</h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
@@ -278,12 +257,6 @@ variant: markdown
 <tr>
 <th rowspan="1" colspan="1">
 <p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -294,14 +267,8 @@ variant: markdown
 <p>4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:maslinda_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Maslinda bte Ahmad</a>
-<br><a href="mailto:masayu_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Masayu bte Mohamed </a>
+<br><a href="mailto:masayu_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Masayu bte Mohamed</a>
 </p>
 </td>
 </tr>
@@ -310,26 +277,16 @@ variant: markdown
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:Wong_Mei_Wen_Fortuna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fortuna Wong</a>
 <br><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Fardilah</a>
+</p>
+<p><a href="mailto:nuramira_fazali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nuramira Binte Fazali</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>4 Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_chai_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jane Chen</a>
@@ -342,26 +299,14 @@ variant: markdown
 <p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:chou_shin_chieh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chou Shin Chieh </a>
-<br><a href="mailto:tang_li_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tang Li Hwa </a>
+<br><a href="mailto:tang_li_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tang Li Hwa</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>4 Teamwork</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:annur_shanaz_abdul_haque@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Annur Shanaz d/o Abdul Haque </a>
@@ -431,9 +376,8 @@ variant: markdown
 </tbody>
 </table>
 <h4>Primary 6</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -441,9 +385,6 @@ variant: markdown
 <tr>
 <th rowspan="1" colspan="1">
 <p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -454,9 +395,6 @@ variant: markdown
 <p>6 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:chua_ee_lyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Ee Lyn</a> 
 <br><a href="mailto:jeyamohan_ramasami@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeyamohan Ramasami</a>
 </p>
@@ -465,9 +403,6 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>6 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_wan_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Stephanie Tay</a>
@@ -481,9 +416,6 @@ variant: markdown
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:ho_kwai_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeremy Ho</a>
 <br><a href="mailto:lew_nyet_mee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cindy Lew</a>
 <br><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Fardilah Bte Md Nasir</a>
@@ -493,9 +425,6 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>6 Teamwork</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_huan_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Huan Leng</a>
@@ -511,12 +440,6 @@ variant: markdown
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ABDUL_MANAF_B_AHMAD_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Manaf</a>
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fadzlina_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fadzlina Bte Abdullah</a>
@@ -535,7 +458,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-	<tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Irwan_Shah_Shahruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Irwan Shah Shahruddin</a>
 </p>
@@ -590,7 +513,16 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gayathrie_ja_raman_mrs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Gayathrie Ja Raman </a>
+<p><a href="mailto:oei_shu_fen_amelia@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Amelia Oei</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gayathrie_ja_raman_mrs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Gayathrie Ja Raman</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -617,4 +549,5 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
