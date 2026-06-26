@@ -127,7 +127,7 @@ variant: tiptap
 <p><a href="mailto:nurfarhana_sabtu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurfarhana Binte Sabtu</a>
 </p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Malay Language Teacher</p>
 </td>
 </tr>
@@ -140,12 +140,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurul_ainn_rostan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurul Ainn Binte Rostan</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Nurulsafira_Mohamad_Rafi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nurulsafira Binte Mohamad Rafi</a>
 </p>
 </td>
 </tr>
