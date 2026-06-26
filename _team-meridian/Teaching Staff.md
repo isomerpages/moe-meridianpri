@@ -513,6 +513,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:oei_shu_fen_amelia@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Amelia Oei</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:gayathrie_ja_raman_mrs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Gayathrie Ja Raman</a>
 </p>
 </td>
