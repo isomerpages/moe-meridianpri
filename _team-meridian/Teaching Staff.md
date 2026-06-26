@@ -280,6 +280,8 @@ variant: tiptap
 <p><a href="mailto:Wong_Mei_Wen_Fortuna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fortuna Wong</a>
 <br><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Fardilah</a>
 </p>
+<p><a href="mailto:nuramira_fazali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nuramira Binte Fazali</a>
+</p>
 </td>
 </tr>
 <tr>
