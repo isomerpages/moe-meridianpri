@@ -127,6 +127,8 @@ variant: tiptap
 <p><a href="mailto:Fadhilatun_samsudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fadhilatun Binte Samsudin</a> 
 <br><a href="mailto:Tan_Yew_Wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yew Wee</a>
 </p>
+<p><a href="mailto:marianthony_raj_miniga@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Marianthony Raj Miniga</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -158,6 +160,8 @@ variant: tiptap
 <p><a href="mailto:angel_huang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Angel Huang</a>
 <br><a href="mailto:roslinah_jem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roslinah Binte Jem</a>
 <br><a href="mailto:Ananthi_Chandramohan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ananthi d/o Chandramohan</a>
+</p>
+<p><a href="mailto:shen_boyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shen Boyuan</a>
 </p>
 </td>
 </tr>
@@ -532,4 +536,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
