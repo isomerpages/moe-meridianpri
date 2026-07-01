@@ -237,6 +237,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_shakir_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Shakir bin Sulaiman</a>
 <br><a href="mailto:tang_tsin_ray@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tang Tsin Ray</a>
+<br><a href="mailto:yu_yaxuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Yu Yaxuan</a>
 </p>
 </td>
 </tr>
