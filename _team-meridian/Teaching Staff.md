@@ -116,10 +116,8 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norsheleen_mohamed_atan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norsheleen Binte Mohamed Atan</a> 
 <br><a href="mailto:Aminah_Mohamed_Shariff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aminah D/o Mohamed Shariff</a>
-</p>
-<p><a href="mailto:marianthony_raj_miniga@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Marianthony Raj Miniga</a>
-</p>
-</td>
+<br><a href="mailto:marianthony_raj_miniga@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Marianthony Raj Miniga</a>
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -160,10 +158,8 @@ variant: markdown
 <p><a href="mailto:angel_huang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Angel Huang</a>
 <br><a href="mailto:roslinah_jem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Roslinah Binte Jem</a>
 <br><a href="mailto:Ananthi_Chandramohan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ananthi d/o Chandramohan</a>
-</p>
-<p><a href="mailto:shen_boyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shen Boyuan</a>
-</p>
-</td>
+<br><a href="mailto:shen_boyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shen Boyuan</a>
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -230,8 +226,7 @@ variant: markdown
 <p><a href="mailto:wong_hoe_shyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Frankie Wong</a>
 <br><a href="mailto:nurliyana_omar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nurliyana Binte Omar</a>
 <br><a href="mailto:shayussri_sharif_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shayussri Binte Sharif</a>
-</p>
-<p><a href="mailto: chua_sheng_he_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Sheng He</a>
+<br><a href="mailto: chua_sheng_he_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Sheng He</a>
 </p>
 </td>
 </tr>
@@ -279,8 +274,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Wong_Mei_Wen_Fortuna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fortuna Wong</a>
 <br><a href="mailto:nor_fardilah_mohamed_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Fardilah</a>
-</p>
-<p><a href="mailto:nuramira_fazali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nuramira Binte Fazali</a>
+<br><a href="mailto:nuramira_fazali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nuramira Binte Fazali</a>
 </p>
 </td>
 </tr>
