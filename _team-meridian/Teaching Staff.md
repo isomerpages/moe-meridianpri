@@ -441,6 +441,12 @@ variant: markdown
 </p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Cheng_Lee_Shuang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheng Lee Shuang</a>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fadzlina_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fadzlina Bte Abdullah</a>
