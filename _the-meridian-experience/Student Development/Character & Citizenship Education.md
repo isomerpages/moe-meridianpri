@@ -224,4 +224,4 @@ Through this collective effort, every student becomes:<br>
 </p>
 
 <p style="margin-bottom:0; margin-top:0;">For enquiries on the school’s CCE Programme, please email:</p>
-<a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Subject Head)</a>
+<a href="mailto:Wan_Boon_Tay@moe.edu.sg">Mrs Stephanie Lim (Head of Department)</a>
