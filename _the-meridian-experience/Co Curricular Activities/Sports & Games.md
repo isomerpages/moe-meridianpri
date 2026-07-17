@@ -102,7 +102,8 @@ For enquiries on the school’s Soccer CCA, please email:<br>
 • <a href="mailto:Hazwan_Ibrahim@moe.edu.sg">Mr Hazwan</a>
 	<br>
 • <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
-• <a href="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Nur Shahid </a>
+• <a href="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Nur Shahid </a><br>
+	• <a href="mailto:marianthony_raj_miniga@moe.edu.sg">Ms Marianthony Raj Miniga </a>
 <br><br>
 </details>
 
