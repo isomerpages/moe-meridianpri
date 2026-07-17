@@ -167,6 +167,7 @@ For enquiries on the school’s Malay Dance CCA, please email:<br>
 <br>
 For enquiries on the school’s Show Choir CCA, please email:<br>
 • <a href="mailto:alwin_tien_der-we@moe.edu.sg">Mr Alwin Tien</a><br>
-• <a href="mailto:nurizan_abdul_wahab@moe.edu.sg">Mdm Nurizan Bte Abdul Wahab</a>
+• <a href="mailto:shen_boyuan@moe.edu.sg">Mr Shen Boyuan</a><br>
+• <a href="mailto:Cheng_Lee_Shuang@moe.edu.sg">Ms Cheng Lee Shuang</a>
 
 </details>

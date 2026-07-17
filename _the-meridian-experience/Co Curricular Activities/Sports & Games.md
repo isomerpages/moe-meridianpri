@@ -53,7 +53,8 @@ variant: markdown
 • <a href="mailto:Penny_Ashley_Chong_Gin@moe.edu.sg">Ms Ashley</a><br>
 • <a href="mailto:haslindah_ab_rahman@moe.edu.sg">Mdm Haslindah</a><br>
 	• <a href="mailto:norhaida_kamaludin@moe.edu.sg">Ms Norhaida</a>
-<br><br>
+<br>
+• <a href="mailto:nuramira_fazali@moe.edu.sg">Ms Nuramira Binte Fazali</a><br><br>
 </details>
 
 <details>
@@ -101,7 +102,8 @@ For enquiries on the school’s Soccer CCA, please email:<br>
 • <a href="mailto:Hazwan_Ibrahim@moe.edu.sg">Mr Hazwan</a>
 	<br>
 • <a href="mailto:tee_shou_fei@moe.edu.sg">Mr Tee Shou Fei</a><br>
-• <a href="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Nur Shahid </a>
+• <a href="mailto:nur_shahid_ahmad@moe.edu.sg">Mr Nur Shahid </a><br>
+	• <a href="mailto:marianthony_raj_miniga@moe.edu.sg">Ms Marianthony Raj Miniga </a>
 <br><br>
 </details>
 
