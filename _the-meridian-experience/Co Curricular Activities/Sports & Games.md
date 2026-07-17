@@ -53,7 +53,8 @@ variant: markdown
 • <a href="mailto:Penny_Ashley_Chong_Gin@moe.edu.sg">Ms Ashley</a><br>
 • <a href="mailto:haslindah_ab_rahman@moe.edu.sg">Mdm Haslindah</a><br>
 	• <a href="mailto:norhaida_kamaludin@moe.edu.sg">Ms Norhaida</a>
-<br><br>
+<br>
+• <a href="mailto:nuramira_fazali@moe.edu.sg">Ms Nuramira Binte Fazali</a><br><br>
 </details>
 
 <details>
