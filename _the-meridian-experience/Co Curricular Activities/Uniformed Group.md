@@ -40,3 +40,4 @@ For enquiries on the school’s Scouts CCA, please email:<br>
 • <a href="mailto:nazurah_norizan@moe.edu.sg">Miss Nazurah Binte Norizan</a><br>
 • <a href="mailto:li_li_b@moe.edu.sg">Ms Li Li</a><br>
 • <a href="mailto:Yu_Yaxuan@moe.edu.sg">Ms Yu Yaxuan</a><br>
+• <a href="mailto:Ummi_Rahima_Mahmood@moe.edu.sg">Ms Ummi Rahima Binti Mahmood</a><br>
