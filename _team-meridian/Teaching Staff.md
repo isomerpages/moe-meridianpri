@@ -477,6 +477,12 @@ variant: markdown
 </p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamad_noor_abdul_manaf_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Noor Bin Abdul Manaf</a>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nazreen_bulat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazreen Bte Bulat</a>
